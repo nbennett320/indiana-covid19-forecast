@@ -2,8 +2,10 @@ import numpy as np
 import pandas as pd
 data_time_series_cases = pd.read_csv('./data/time_series_covid19_confirmed_US_indiana.csv')
 data_time_series_deaths = pd.read_csv('./data/time_series_covid19_deaths_US_indiana.csv')
+county_level_data = pd.read_csv('./data/indiana_county_level_data.csv')
 data_time_series_cases = pd.DataFrame(data_time_series_cases)
 data_time_series_deaths = pd.DataFrame(data_time_series_deaths)
+county_level_data_df = pd.DataFrame(county_level_data)
 counties_df = data_time_series_cases['Admin2']
 state_df = data_time_series_cases['Province_State']
 country_df = data_time_series_cases['Country_Region']
@@ -55,10 +57,10 @@ def get_indiana_confirmed():
         'fips': fips_df[j], 
         'cases': cases_df[i][j], 
         'deaths': deaths_df[i][j],
-        'avg_cases_last_week': calc_n_week_average(a, 1, cases_df[i]),
-        'avg_deaths_last_week': calc_n_week_average(a, 1, deaths_df[i]),
-        'avg_cases_last_2_weeks': calc_n_week_average(a, 2, cases_df[i]),
-        'avg_deaths_last_2_weeks': calc_n_week_average(a, 2, deaths_df[i]),
+        'avg_cases_last_week': calc_n_week_average(j, k, 1, cases_df[i]),
+        'avg_deaths_last_week': calc_n_week_average(j, k, 1, deaths_df[i]),
+        'avg_cases_last_2_weeks': calc_n_week_average(j, k, 2, cases_df[i]),
+        'avg_deaths_last_2_weeks': calc_n_week_average(j, k, 2, deaths_df[i]),
         'std_cases_last_week': calc_n_week_std(a, 1, cases_df[i]),
         'std_deaths_last_week': calc_n_week_std(a, 1, deaths_df[i]),
         'std_cases_last_2_weeks': calc_n_week_std(a, 2, cases_df[i]),
@@ -72,14 +74,13 @@ def get_indiana_confirmed():
   print(result_df)
   result_df.to_csv(r'./data/indiana_county_level_time_series_data.csv')
 
-def calc_n_week_average(index, weeks, df):
-  if(index - 1 < 7 * weeks):
-    return 0
-  else:
-    n_sum = 0
-    for i in range(index - 7 * weeks, index):
-      n_sum += df[i]
-    return float(n_sum / 7 * weeks)
+def calc_n_week_average(index, row, weeks, df):
+  n_sum = 0
+  selection_df = df[index - 7 * weeks:index]
+  for i in selection_df:
+    n_sum += i
+  print(f'avg: {float(n_sum / 7 * weeks)}')
+  return float(n_sum / 7 * weeks)
 
 def calc_n_week_std(index, weeks, df):
   if(index - 1 < 7 * weeks):
