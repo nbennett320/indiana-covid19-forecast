@@ -14,6 +14,8 @@ fips_df = data_time_series_cases['FIPS']
 lats_df = data_time_series_cases['Lat']
 longs_df = data_time_series_cases['Long_']
 
+print(county_level_data_df['median_gross_rent'])
+
 # get cases and deaths in indiana, export to csv
 def get_indiana_confirmed():
   cases_df = data_time_series_cases.iloc[:,11:]
@@ -36,7 +38,20 @@ def get_indiana_confirmed():
     'std_cases_last_week',
     'std_deaths_last_week',
     'std_cases_last_2_weeks',
-    'std_deaths_last_2_weeks'
+    'std_deaths_last_2_weeks',
+    'median_gross_rent',
+    'average_household_size',
+    'building_permits_number',
+    'percent_households_with_computer',
+    'percent_households_with_broadband_internet',
+    'dollars_per_capita_income_in_past_12_months_2018',
+    'population_per_square_mile',
+    'median_household_income',
+    '2019_population_estimate',
+    '2010_population',
+    'percent_housing_units_in_multi_unit_structures',
+    'percent_under_65_without_health_insurance',
+    'percent_under_65_with_disability'
   ])
 
   # populate data frame rows
@@ -64,7 +79,20 @@ def get_indiana_confirmed():
         'std_cases_last_week': calc_n_week_std(a, 1, cases_df[i]),
         'std_deaths_last_week': calc_n_week_std(a, 1, deaths_df[i]),
         'std_cases_last_2_weeks': calc_n_week_std(a, 2, cases_df[i]),
-        'std_deaths_last_2_weeks': calc_n_week_std(a, 2, deaths_df[i])
+        'std_deaths_last_2_weeks': calc_n_week_std(a, 2, deaths_df[i]),
+        'median_gross_rent': county_level_data_df['median_gross_rent'][j],
+        'average_household_size': county_level_data_df['average_household_size'][j],
+        'building_permits_number': county_level_data_df['building_permits_number'][j],
+        'percent_households_with_computer': county_level_data_df['percent_households_with_computer'][j],
+        'percent_households_with_broadband_internet': county_level_data_df['percent_households_with_broadband_internet'][j],
+        'dollars_per_capita_income_in_past_12_months_2018': county_level_data_df['dollars_per_capita_income_in_past_12_months_2018'][j],
+        'population_per_square_mile': county_level_data_df['population_per_square_mile'][j],
+        'median_household_income': county_level_data_df['median_household_income'][j],
+        '2019_population_estimate': county_level_data_df['2019_population_estimate'][j],
+        '2010_population': county_level_data_df['2010_population'][j],
+        'percent_housing_units_in_multi_unit_structures': county_level_data_df['percent_housing_units_in_multi_unit_structures'][j],
+        'percent_under_65_without_health_insurance': county_level_data_df['percent_under_65_without_health_insurance'][j],
+        'percent_under_65_with_disability': county_level_data_df['percent_under_65_with_disability'][j]
       }
       result_df.loc[k] = new_row
       k += 1
