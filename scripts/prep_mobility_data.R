@@ -29,9 +29,6 @@ main <- function() {
 
   print(mobility_df4)
   write.csv(mobility_df4, "./data/mobility_adjusted_df3.csv")
-
-  # transpose dataset
-  # t(mobility_df)
 }
 
 main()
