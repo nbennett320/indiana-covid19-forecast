@@ -1,5 +1,6 @@
 import React from 'react'
-import { Router, Route, Switch } from "react-router"
+import { BrowserRouter as Router } from 'react-router-dom'
+import { Route, Switch } from 'react-router'
 import { Header } from './components/'
 import { Map } from './views'
 import './assets/css/App.css'
@@ -11,7 +12,7 @@ const App = () => {
       <Router>
         <Switch>
           <Route path='/'>
-            
+            <Map />
           </Route>
           <Route path='/map'>
             <Map />
