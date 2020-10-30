@@ -4,7 +4,7 @@
 [Mobility trends from Apple](https://covid19.apple.com/mobility) <br />
 [Mobility trends from Google](https://www.google.com/covid19/mobility/) <br />
 [Time series data from Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) <br />
-[2019 population & housing unit estimates from the US Census Bureau](https://www.census.gov/programs-surveys/popest.html)
+[2019 population & housing unit estimates from the US Census Bureau](https://www.census.gov/programs-surveys/popest.html) <br />
 [2014—2018 American Community Surveys, 5-Year Data Profiles from the US Census Bureau](https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2018/) <br />
 [Building permits from the US Census Bureau](https://www.census.gov/construction/bps/) <br />
 [Household size by county from the US Census Bureau](https://www.census.gov/topics/families.html) <br />
