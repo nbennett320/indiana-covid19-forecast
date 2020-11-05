@@ -40,47 +40,6 @@ def main():
       key = "mobility_by_" + v_type
       county_df.loc[county_df['date'] == date, key] = j[date]
       print('fin', county_mask.loc[county_mask['date'] == date, :])
-
-
-    # for x, y in county_mask.iterrows():
-    #   date = y['date']
-    #   print('date', date)
-    
-
-    #     print(new_val)
-    #     # county_df.at[i, key] = new_val
-    #     # print('added_key:', new_val)
-
-  # for i, j in county_df.iterrows():
-  #   matches = 
-
-  #   county = j['county']
-  #   print('county', county)
-  #   vehicle_county_mask = vehicle_df.loc[:,i]
-  #   print('vehicle by county', vehicle_county_mask)
-  #   county_at = county_df.at[i,]
-    
-  #   for v_type in vehicle_types:
-  #     key = "mobility_by_" + v_type
-
-      # county_df.at[i, key] = 
-    
-  #   date_range_location_mask = j['sub_region_2']
-  #   match = True if date_range_county_mask in str(date_range_location_mask) else False
-  #   for k, x in j.items():
-  #     if k == 'sub_region_2':
-  #       continue
-      
-  #     county_df.at[i, k] = j[k]
-  #     # print('k', k)
-  #     # print('x', x)
-  #     # print('loc', date_range_county_mask)
-  #     # print('j subregion', date_range_location_mask)
-  #     # print('matches', match)
-  #     # print('i', i)
-  #     # print('j', j)
-  #     # print('updated val:',county_df.at[i, k])
-  #   print(i)
   # print(county_df)
   # county_df.to_csv(r'./data/indiana_county_level_mobility_time_series_data_formatted_4.csv')
 
