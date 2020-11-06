@@ -42,10 +42,6 @@ def main():
       # print('sel', county_df.loc[(county_df.index == x) & (county_df.county == match), key])
       mask = county_df.loc[(county_df.index == x) & (county_df.county == match)]
       print('mask', mask)
-
-      # for z, w in mask.iterrows():
-      #   print('z', z)
-      #   print('w', w)
   print(county_df)
   county_df.to_csv(r'./data/indiana_county_level_mobility_time_series_data_formatted_5.csv')
 

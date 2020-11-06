@@ -16,43 +16,45 @@ longs_df = data_time_series_cases['Long_']
 
 print(county_level_data_df['median_gross_rent'])
 
+cols = [
+  'date', 
+  'county', 
+  'state', 
+  'country', 
+  'combined_key', 
+  'lat', 
+  'long', 
+  'fips', 
+  'cases', 
+  'deaths',
+  'avg_cases_last_week',
+  'avg_deaths_last_week',
+  'avg_cases_last_2_weeks',
+  'avg_deaths_last_2_week',
+  'std_cases_last_week',
+  'std_deaths_last_week',
+  'std_cases_last_2_weeks',
+  'std_deaths_last_2_weeks',
+  'median_gross_rent',
+  'average_household_size',
+  'building_permits_number',
+  'percent_households_with_computer',
+  'percent_households_with_broadband_internet',
+  'dollars_per_capita_income_in_past_12_months_2018',
+  'population_per_square_mile',
+  'median_household_income',
+  '2019_population_estimate',
+  '2010_population',
+  'percent_housing_units_in_multi_unit_structures',
+  'percent_under_65_without_health_insurance',
+  'percent_under_65_with_disability'
+]
+
 # get cases and deaths in indiana, export to csv
 def get_indiana_confirmed():
   cases_df = data_time_series_cases.iloc[:,11:]
   deaths_df = data_time_series_deaths.iloc[:,12:]
-  result_df = pd.DataFrame(columns=[
-    'date', 
-    'county', 
-    'state', 
-    'country', 
-    'combined_key', 
-    'lat', 
-    'long', 
-    'fips', 
-    'cases', 
-    'deaths',
-    'avg_cases_last_week',
-    'avg_deaths_last_week',
-    'avg_cases_last_2_weeks',
-    'avg_deaths_last_2_week',
-    'std_cases_last_week',
-    'std_deaths_last_week',
-    'std_cases_last_2_weeks',
-    'std_deaths_last_2_weeks',
-    'median_gross_rent',
-    'average_household_size',
-    'building_permits_number',
-    'percent_households_with_computer',
-    'percent_households_with_broadband_internet',
-    'dollars_per_capita_income_in_past_12_months_2018',
-    'population_per_square_mile',
-    'median_household_income',
-    '2019_population_estimate',
-    '2010_population',
-    'percent_housing_units_in_multi_unit_structures',
-    'percent_under_65_without_health_insurance',
-    'percent_under_65_with_disability'
-  ])
+  result_df = pd.DataFrame(columns=cols)
 
   # populate data frame rows
   k = 0

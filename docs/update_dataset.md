@@ -1,6 +1,4 @@
-### indiana census data tables
-https://www.indexmundi.com/facts/united-states/quick-facts/indiana/population-percentage-without-health-insurance-under-65#table
-
+## how to update data set
 ### df format method
   1. fetch john hobkins time series data from https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv
   2. format jh time series data
