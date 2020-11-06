@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import re, numbers, decimal, math
 county_level_data = pd.read_csv('./data/indiana_county_level_mobility_time_series_data_formatted_6.csv', index_col=0)
 bed_vent_data = pd.read_csv('./data/covid_report_bedvent_date.csv', index_col=0)
 c_df = pd.DataFrame(county_level_data)
