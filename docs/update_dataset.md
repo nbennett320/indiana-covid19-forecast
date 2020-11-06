@@ -1,6 +1,6 @@
 ## how to update data set
 ### df format method
-  1. fetch john hobkins time series data from https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv
+  1. fetch john hobkins time series data (cases, deaths) from https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv and https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
   2. format jh time series data
     - format time series dates to yyyy-mm-dd
       - `scripts/format_time_series_dates.py`
