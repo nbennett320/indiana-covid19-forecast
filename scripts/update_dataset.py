@@ -1,8 +1,10 @@
+from urllib.parse import quote
 import pandas as pd
 import numpy as np
 import requests
-import os, sys, re
+import os, sys, io, re, csv
 from bs4 import BeautifulSoup
+from contextlib import closing
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -18,15 +20,17 @@ urls = {
 }
 
 # initialize data
-df_jh_cases = None
-df_jh_deaths = None
-df_google_regional_mobility_report = None
-df_apple_covid_dashboard = None
-df_apple_vehicle_mobility_report = None
-df_indiana_hospital_vent_data = None
+dfs = {
+  'jh_cases': None,
+  'jh_deaths': None,
+  'google_regional_mobility_report': None,
+  'apple_covid_dashboard': None,
+  'apple_vehicle_mobility_report': None,
+  'indiana_hospital_vent_data': None
+}
 
 # temp directory name (for csv datas)
-temp_dir = './._temp_'
+temp_dir = './._temp_/'
 
 def fetch_apple_mobility_report_url(i=0):
   if i == 4:
@@ -62,10 +66,16 @@ def fetch_datasets():
     print("temp directory already created")
   finally:
     for k in urls:
-      file = requests.get(urls[k])
-      data_buffer = file.content.decode('utf-8')
-      data = pd.read_csv(data_buffer)
-      print('data', data)
+      if k == "apple_covid_dashboard":
+        continue
+      req = requests.get(urls[k])
+      if req.ok:
+        p = re.compile(r'.*(\.[a-z]+)$')
+        m = p.match(urls[k])
+        file_ext = m.group(1)
+        filename = temp_dir + 'data_' + k + file_ext
+        with open(filename, 'wb') as f:
+          f.write(req.content)
 
 def main():
   fetch_apple_mobility_report_url()
@@ -75,6 +85,7 @@ def test():
   fetch_apple_mobility_report_url()
   print(urls['apple_vehicle_mobility_report'])
   fetch_datasets()
+  # print(dfs['jh_cases'])
 
 # main()
 test()
