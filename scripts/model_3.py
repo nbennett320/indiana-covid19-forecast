@@ -69,21 +69,20 @@ def model_cases():
     dates_normalizer,
     layers.Dense(units=1)
   ])
+  
 
   dates_model.summary()
   pred = dates_model.predict(dates[:10])
   print(pred)
 
   optimizer = tf.optimizers.Adam(
-    learning_rate=0.1
+    learning_rate=0.0001
   )
   train_feats.sort_values(by='date')
 
-  print(train_feats['date'].values[0] / 1000)
-  print(train_feats['date'].tail(1).item() / 1000)
   dates_model.compile(
     optimizer=optimizer,
-    loss='mean_absolute_error'
+    loss='mean_absolute_error',
   )
   history = dates_model.fit(
     train_feats['date'],
@@ -95,17 +94,25 @@ def model_cases():
   hist['epoch'] = history.epoch
   tail = hist.tail()
   print(tail)
+  # plot_loss(history)
+
+  test_results = {}
+  test_results['dates_model'] = dates_model.evaluate(
+    test_feats['date'],
+    test_label
+  )
   
+  df_selection = df.loc[df['county_factorize_encode'] == 63]
+
+  # df_selection.loc[:,'date'] = df_selection.loc[:,'date'] / df_selection.loc[:,'date'].abs().max()
+  print(f'selection: {df_selection}')
   x = tf.linspace(
-    0.0, 
-    7000, 
-    7001
+    df_selection['date'].values[0], 
+    df_selection['date'].values[-1], 
+    df_selection['date'].values[-1] + 1
   )
   y = dates_model.predict(x)
-
-  df_selection = df.loc[df['county_factorize_encode'] == 0]
-
-  plot_cases(x, y, df_selection, df_selection)
+  plot_cases(x, y, train_feats, train_label)
 
 #######################################################
 def plot_cases(x, y, train_feats, train_label):
@@ -114,11 +121,21 @@ def plot_cases(x, y, train_feats, train_label):
   print(f'train feats: {train_feats}')
   print(f'type: {type(train_feats)}')
   print(f'train label: {train_label}')
-  plt.scatter(train_feats['date'], train_label['cases'], label='cases')
+  plt.scatter(train_feats['date'], train_label, label='cases')
   plt.plot(x, y, color='k', label='predictions')
   plt.xlabel('timestamp')
   plt.ylabel('cases')
   plt.legend()
+  plt.show()
+
+def plot_loss(history):
+  plt.plot(history.history['loss'], label='loss')
+  plt.plot(history.history['val_loss'], label='val_loss')
+  plt.ylim([0, 10])
+  plt.xlabel('epoch')
+  plt.ylabel('error [cases]')
+  plt.legend()
+  plt.grid(True)
   plt.show()
 
 #######################################################
