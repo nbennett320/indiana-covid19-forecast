@@ -1,19 +1,23 @@
-import os, logging
+import sys, os, logging
 import pandas as pd
 import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
 import tensorflow as tf
+from argparse import ArgumentParser
 from tensorflow import keras
 from tensorflow._api.v2 import data
 from tensorflow.keras import layers
 from tensorflow.keras.layers.experimental import preprocessing
 from tensorflow.python.keras.layers.preprocessing.normalization import Normalization
+from tensorflow.python.ops.gen_array_ops import size
 from util import print_separator
 print(f'tf version: {tf.__version__}')
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 logging.getLogger('tensorflow').setLevel(logging.FATAL)
 
+global model_epochs
+model_epochs = 100
 model_dir = "./train"
 raw_dataset = pd.read_csv('./data/indiana_county_level_mobility_time_series_data_formatted_7.csv', parse_dates=['date'])
 # df['county'] = pd.Categorical(df['county'])
@@ -34,12 +38,13 @@ def factorize_categorical_vars(df_target, cols):
   return df_target
 
 def prep_frames(df_target):
-  df_target = factorize_categorical_vars(df_target, ['county', 'state', 'country', 'combined_key'])
+  df_target = factorize_categorical_vars(df_target, ['date', 'county', 'state', 'country', 'combined_key'])
+  df_target.drop('date', axis=1, inplace=True)
   df_target.drop('county', axis=1, inplace=True)
   df_target.drop('state', axis=1, inplace=True)
   df_target.drop('country', axis=1, inplace=True)
   df_target.drop('combined_key', axis=1, inplace=True)
-  df_target['date'] = df_target['date'].values.astype(np.int64)
+  # df_target['date'] = df_target['date'].values.astype(np.int64)
   return df_target
 
 def model_cases():
@@ -62,7 +67,7 @@ def model_cases():
 
   train_set.describe().transpose()[['mean', 'std']]
 
-  dates = np.array(train_feats['date'])
+  dates = np.array(train_feats['date_factorize_encode'])
   dates_normalizer = preprocessing.Normalization(input_shape=[1,])
   dates_normalizer.adapt(dates)
   dates_model = keras.Sequential([
@@ -76,18 +81,18 @@ def model_cases():
   print(pred)
 
   optimizer = tf.optimizers.Adam(
-    learning_rate=0.0001
+    learning_rate=0.01
   )
-  train_feats.sort_values(by='date')
+  train_feats.sort_values(by='date_factorize_encode')
 
   dates_model.compile(
     optimizer=optimizer,
     loss='mean_absolute_error',
   )
   history = dates_model.fit(
-    train_feats['date'],
+    train_feats['date_factorize_encode'],
     train_label,
-    epochs=10,
+    epochs=model_epochs,
     validation_split=0.2
   )
   hist = pd.DataFrame(history.history)
@@ -98,20 +103,21 @@ def model_cases():
 
   test_results = {}
   test_results['dates_model'] = dates_model.evaluate(
-    test_feats['date'],
+    test_feats['date_factorize_encode'],
     test_label
   )
   
-  df_selection = df.loc[df['county_factorize_encode'] == 63]
-
+  # df_selection = train_feats.loc[df['county_factorize_encode'] == 63]
+  # train_feats = df_selection
   # df_selection.loc[:,'date'] = df_selection.loc[:,'date'] / df_selection.loc[:,'date'].abs().max()
   print(f'selection: {df_selection}')
   x = tf.linspace(
-    df_selection['date'].values[0], 
-    df_selection['date'].values[-1], 
-    df_selection['date'].values[-1] + 1
+    train_feats['date_factorize_encode'].values[0], 
+    train_feats['date_factorize_encode'].values[-1], 
+    train_feats['date_factorize_encode'].values[-1] + 1
   )
-  y = dates_model.predict(x)
+  y = dates_model.predict(dates[:256])
+  # pred = dates_model.predict(dates[:10])
   plot_cases(x, y, train_feats, train_label)
 
 #######################################################
@@ -121,8 +127,8 @@ def plot_cases(x, y, train_feats, train_label):
   print(f'train feats: {train_feats}')
   print(f'type: {type(train_feats)}')
   print(f'train label: {train_label}')
-  plt.scatter(train_feats['date'], train_label, label='cases')
-  plt.plot(x, y, color='k', label='predictions')
+  plt.scatter(train_feats['date_factorize_encode'], train_label, label='cases')
+  plt.plot(x, y, color='red', label='predictions')
   plt.xlabel('timestamp')
   plt.ylabel('cases')
   plt.legend()
@@ -213,9 +219,22 @@ def define_categorical_vars():
   y = covid_preprocessing_model.predict(x)
   plot_cases(x, y, covid_features_dict, covid_labels)
 
+def get_flags():
+  arg_parser = ArgumentParser()
+  arg_parser.add_argument(
+    '-e', 
+    '--epochs', 
+    type=int,
+    dest='epochs',
+    help="number of epochs"
+  )
+  args = arg_parser.parse_args()
+  global model_epochs
+  model_epochs = args.epochs if args.epochs else 100
 
-def main():
+def main(argv):
+  get_flags()
   model_cases()
   # define_categorical_vars()
 
-main()
+main(sys.argv[1:])
