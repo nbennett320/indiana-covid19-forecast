@@ -1,3 +1,4 @@
+from __future__ import print_function
 import sys, os, logging
 import pandas as pd
 import numpy as np
@@ -9,12 +10,15 @@ from tensorflow import keras
 from tensorflow._api.v2 import data
 from tensorflow.keras import layers
 from tensorflow.keras.layers.experimental import preprocessing
+from tensorflow.python.framework.tensor_conversion_registry import get
 from tensorflow.python.keras.layers.preprocessing.normalization import Normalization
 from tensorflow.python.ops.gen_array_ops import size
+import tensorflow_probability as tfp
 from util import print_separator
 print(f'tf version: {tf.__version__}')
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 logging.getLogger('tensorflow').setLevel(logging.FATAL)
+tfd = tfp.distributions
 
 global model_epochs
 model_epochs = 100
@@ -44,16 +48,38 @@ def prep_frames(df_target):
   df_target.drop('state', axis=1, inplace=True)
   df_target.drop('country', axis=1, inplace=True)
   df_target.drop('combined_key', axis=1, inplace=True)
-  # df_target['date'] = df_target['date'].values.astype(np.int64)
+  # df_target['date'] = df_target['date'].values.astype(np.int32)
   return df_target
 
-def model_cases():
+def make_dataset(n, d, link, scale=1., dtype=np.float32):
+  model_coefficients = tfd.Uniform(
+      low=np.array(-1, dtype),
+      high=np.array(1, dtype)).sample(d, seed=42)
+  radius = np.sqrt(2.)
+  model_coefficients *= radius / tf.linalg.norm(model_coefficients)
+  model_matrix = tfd.Normal(
+      loc=np.array(0, dtype),
+      scale=np.array(1, dtype)).sample([n, d], seed=43)
+  scale = tf.convert_to_tensor(scale, dtype)
+  linear_response = tf.tensordot(
+      model_matrix, model_coefficients, axes=[[1], [0]])
+  if link == 'linear':
+    response = tfd.Normal(loc=linear_response, scale=scale).sample(seed=44)
+  elif link == 'probit':
+    response = tf.cast(
+        tfd.Normal(loc=linear_response, scale=scale).sample(seed=44) > 0,
+        dtype)
+  elif link == 'logit':
+    response = tfd.Bernoulli(logits=linear_response).sample(seed=44)
+  else:
+    raise ValueError('unrecognized true link: {}'.format(link))
+  return model_matrix, response, model_coefficients
+
+def model():
   df = pd.DataFrame(raw_dataset)
   df = prep_frames(df)
   print(df)
   print(df.describe().transpose())
-
-  df = df.loc[df['county_factorize_encode'] == 63]
   train_set = df.sample(frac=0.8, random_state=0)
   test_set = df.drop(train_set.index)
   train_set.describe().transpose()
@@ -76,7 +102,6 @@ def model_cases():
     layers.Dense(units=1)
   ])
   
-
   dates_model.summary()
   pred = dates_model.predict(dates[:10])
   print(pred)
@@ -109,21 +134,35 @@ def model_cases():
     test_feats['date_factorize_encode'],
     test_label
   )
-  
-  # df_selection = train_feats.loc[df['county_factorize_encode'] == 63]
-  # train_feats = df_selection
-  # df_selection.loc[:,'date'] = df_selection.loc[:,'date'] / df_selection.loc[:,'date'].abs().max()
-  # print(f'selection: {df_selection}')
-  x = tf.linspace(
+  X = tf.linspace(
     0, 
     train_feats['date_factorize_encode'].values[-1], 
     train_feats['date_factorize_encode'].values[-1] - 4
   )
-  y = dates_model.predict(dates[:270])
+  print(type(X))
+  X = tf.compat.v1.to_double(X)
+  
+  Y = dates_model.predict(dates[:140])
+  Y = tf.compat.v1.to_double(Y)
   # pred = dates_model.predict(dates[:10])
-  plot_cases(x, y, train_feats, train_label)
+  # X, Y, w_true = make_dataset(n=int(1e6), d=100, link='probit')
+  # plot_cases(X, Y, train_feats, train_label)
 
-#######################################################
+  w, linear_response, is_converged, num_iter = tfp.glm.fit(
+      model_matrix=X,
+      response=X,
+      model=tfp.glm.BernoulliNormalCDF())
+  log_likelihood = tfp.glm.BernoulliNormalCDF().log_prob(Y, linear_response)
+
+  print('is_converged: ', is_converged.numpy())
+  print('    num_iter: ', num_iter.numpy())
+  print('    accuracy: ', np.mean((linear_response > 0.) == tf.cast(Y, bool)))
+  print('    deviance: ', 2. * np.mean(log_likelihood))
+  print('||w0-w1||_2 / (1+||w0||_2): ', (np.linalg.norm(w_true - w, ord=2) /
+                                        (1. + np.linalg.norm(w_true, ord=2))))
+  print(w)
+
+
 def plot_cases(x, y, train_feats, train_label):
   print(f'x: {x}')
   print(f'y: {y}')
@@ -138,91 +177,6 @@ def plot_cases(x, y, train_feats, train_label):
   plt.legend()
   plt.show()
 
-def plot_loss(history):
-  plt.plot(history.history['loss'], label='loss')
-  plt.plot(history.history['val_loss'], label='val_loss')
-  plt.ylim([0, 10])
-  plt.xlabel('epoch')
-  plt.ylabel('error [cases]')
-  plt.legend()
-  plt.grid(True)
-  plt.show()
-
-#######################################################
-def define_categorical_vars():
-  # create vocabulary
-  covid_features = df.copy()
-  covid_labels = covid_features.pop('cases')
-  inputs = {}
-  for name, column in covid_features.items():
-    dtype = column.dtype
-    if dtype == object:
-      dtype = tf.string
-    else:
-      dtype = tf.float64
-    inputs[name] = tf.keras.Input(shape=(1,), name=name, dtype=dtype)
-  print_separator()
-  print(f'inputs: {inputs}')
-
-  # get numeric inputs and normalize
-  numeric_inputs = {
-    name:input for name, input in inputs.items()
-      if input.dtype == tf.float64
-  }
-  print_separator()
-  print(f'numeric_inputs: {numeric_inputs}')
-  x = layers.Concatenate()(list(numeric_inputs.values()))
-  norm = preprocessing.Normalization()
-  norm.adapt(np.array(df[numeric_inputs.keys()]))
-  all_numeric_inputs = norm(x)
-  preprocessed_inputs = [all_numeric_inputs]
-  
-  # append non-numeric inputs
-  for name, col in covid_features.items():
-    dtype = col.dtype
-    if dtype == object:
-      lookup = preprocessing.StringLookup(vocabulary=np.unique(covid_features[name]))
-      one_hot = preprocessing.CategoryEncoding(max_tokens=lookup.vocab_size())
-      print(f'lookup {lookup.get_vocabulary()}')
-      x = lookup(col)
-      x = one_hot(x)
-      preprocessed_inputs.append(x)
-    else:
-      continue
-  print_separator()
-  print(f'preprocessed inputs: {preprocessed_inputs}')
-
-  # 
-  preprocessed_inputs_cat = layers.Concatenate(axis=1)(preprocessed_inputs)
-  covid_preprocessing_model = tf.keras.Model(inputs, preprocessed_inputs_cat)
-
-  covid_features_dict = {
-    name: np.array(value) for name, value in covid_features.items()
-  }
-  features_dict = {
-    name: values[:1] for name, values in covid_features_dict.items()
-  }
-
-  print_separator()
-  print(f'features dict: {features_dict}')
-  optimizer = keras.optimizers.Adam(
-    learning_rate=0.001,
-    beta_1=0.9,
-    beta_2=0.999
-  )
-  covid_preprocessing_model.compile(
-    optimizer=optimizer, 
-    loss='mean_absolute_error',
-    loss_weights=None
-  )
-  # pred = covid_preprocessing_model.predict(
-  #   x=features_dict,
-  #   batch_size=32,
-  # )
-  x = tf.linspace(0.0, 7000, 7001)
-  y = covid_preprocessing_model.predict(x)
-  plot_cases(x, y, covid_features_dict, covid_labels)
-
 def get_flags():
   arg_parser = ArgumentParser()
   arg_parser.add_argument(
@@ -236,9 +190,8 @@ def get_flags():
   global model_epochs
   model_epochs = args.epochs if args.epochs else 100
 
-def main(argv):
+def main():
   get_flags()
-  model_cases()
-  # define_categorical_vars()
+  model()
 
-main(sys.argv[1:])
+main()
