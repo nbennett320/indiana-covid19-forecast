@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import requests
 import os, sys, re
+from argparse import ArgumentParser
 from zipfile import ZipFile
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -19,7 +20,12 @@ urls = {
   'google_regional_mobility_report': "https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip",
   'apple_covid_dashboard': "https://covid19.apple.com/mobility",
   'apple_vehicle_mobility_report': "",
-  'indiana_hospital_vent_data': "https://hub.mph.in.gov/dataset/4d31808a-85da-4a48-9a76-a273e0beadb3/resource/0c00f7b6-05b0-4ebe-8722-ccf33e1a314f/download/covid_report_bedvent_date.xlsx"
+  'indiana_hospital_vent_data': "https://hub.mph.in.gov/dataset/4d31808a-85da-4a48-9a76-a273e0beadb3/resource/0c00f7b6-05b0-4ebe-8722-ccf33e1a314f/download/covid_report_bedvent_date.xlsx",
+  'indiana_county_wide_test_case_death_trends': "https://hub.mph.in.gov/dataset/bd08cdd3-9ab1-4d70-b933-41f9ef7b809d/resource/afaa225d-ac4e-4e80-9190-f6800c366b58/download/covid_report_county_date.xlsx",
+  'indiana_covid_demographics_by_county_and_district': "https://hub.mph.in.gov/dataset/07e12c46-eb38-43cf-b9e1-46a9c305beaa/resource/9ae4b185-b81d-40d5-aee2-f0e30405c162/download/covid_report_demographics_county_district.xlsx",
+  'indiana_covid_deaths_by_date_by_age_group': "https://hub.mph.in.gov/dataset/6bcfb11c-6b9e-44b2-be7f-a2910d28949a/resource/7661f008-81b5-4ff2-8e46-f59ad5aad456/download/covid_report_death_date_agegrp.xlsx",
+  'indiana_covid_cases_by_school': "https://hub.mph.in.gov/dataset/61c058c1-abfc-48fb-9bd7-bbf052fe61d6/resource/39239f34-11ff-4dfc-9b9a-a408b0399458/download/covid_report_cases_by_school.xlsx",
+
 }
 
 # initialize data
@@ -68,6 +74,7 @@ indiana_confirmed_totals_cols = [
   ]
 
 # temp directory name (for csv datas)
+global temp_dir
 temp_dir = './._temp_/'
 
 def fetch_apple_mobility_report_url(i=0):
@@ -220,11 +227,25 @@ def calc_n_week_std(index, weeks, df):
   else:
     return np.std(df[index - 7 * weeks:index])
 
+def get_flags():
+  arg_parser = ArgumentParser()
+  arg_parser.add_argument(
+    '-D', 
+    '--dir', 
+    type=str,
+    dest='temp_dir',
+    help="directory for model files"
+  )
+  args = arg_parser.parse_args()
+  global temp_dir
+  temp_dir = args.temp_dir if args.temp_dir else './train'
+
 def main():
   fetch_apple_mobility_report_url()
   fetch_datasets()
 
 def test():
+  get_flags()
   fetch_apple_mobility_report_url()
   print(urls['apple_vehicle_mobility_report'])
   fetch_datasets()
