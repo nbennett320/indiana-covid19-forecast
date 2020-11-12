@@ -25,7 +25,6 @@ urls = {
   'indiana_covid_demographics_by_county_and_district': "https://hub.mph.in.gov/dataset/07e12c46-eb38-43cf-b9e1-46a9c305beaa/resource/9ae4b185-b81d-40d5-aee2-f0e30405c162/download/covid_report_demographics_county_district.xlsx",
   'indiana_covid_deaths_by_date_by_age_group': "https://hub.mph.in.gov/dataset/6bcfb11c-6b9e-44b2-be7f-a2910d28949a/resource/7661f008-81b5-4ff2-8e46-f59ad5aad456/download/covid_report_death_date_agegrp.xlsx",
   'indiana_covid_cases_by_school': "https://hub.mph.in.gov/dataset/61c058c1-abfc-48fb-9bd7-bbf052fe61d6/resource/39239f34-11ff-4dfc-9b9a-a408b0399458/download/covid_report_cases_by_school.xlsx",
-
 }
 
 # initialize data
@@ -35,7 +34,11 @@ dfs = {
   'google_regional_mobility_report': None,
   'apple_covid_dashboard': None,
   'apple_vehicle_mobility_report': None,
-  'indiana_hospital_vent_data': None
+  'indiana_hospital_vent_data': None,
+  'indiana_county_wide_test_case_death_trends': None,
+  'indiana_covid_demographics_by_county_and_district': None,
+  'indiana_covid_deaths_by_date_by_age_group': None,
+  'indiana_covid_cases_by_school': None
 }
 
 # indiana confirmed totals dataset column names
@@ -128,14 +131,14 @@ def prep_datasets():
   deaths_path = temp_dir + 'data_' + 'jh_deaths.csv'
   cases_df = pd.read_csv(cases_path)
   deaths_df = pd.read_csv(deaths_path)
-  get_indiana_confirmed_totals(cases_df, deaths_df)
+  # get_indiana_confirmed_totals(cases_df, deaths_df)
 
   ###############################
   # handle selecting google dataset (from zip)
-  # path_zip = temp_dir + 'data_' + 'google_regional_mobility_report.zip'
-  # path_out = temp_dir + 'google_regional_mobility_report'
-  # with ZipFile(path_zip, 'r') as zip_buffer:
-  #   zip_buffer.extractall(path_out) 
+  path_zip = temp_dir + 'data_' + 'google_regional_mobility_report.zip'
+  path_out = temp_dir + 'google_regional_mobility_report'
+  with ZipFile(path_zip, 'r') as zip_buffer:
+    zip_buffer.extractall(path_out)
 
 #####################################
 

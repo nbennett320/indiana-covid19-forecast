@@ -22,6 +22,9 @@ https://hub.mph.in.gov/organization/b72f3c69-1b03-474d-ab36-1ac2da7d91bb?sort=sc
 ### indiana prevention measures & reopening stages
 https://www.backontrack.in.gov/2348.htm
 
+### indiana bed vents by date
+https://hub.mph.in.gov/dataset/covid-19-bed-and-vent-usage-by-day/resource/0c00f7b6-05b0-4ebe-8722-ccf33e1a314f
+
 ### df format method
   1. fetch john hobkins time series data (cases, deaths) from https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv and https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
   2. format jh time series data

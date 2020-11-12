@@ -37,18 +37,61 @@ model_dir = "./train"
 global model_epochs
 model_epochs = 100
 
-# raw data filenames
-global county_level_filename
-county_level_filename = './data/indiana_county_level_mobility_time_series_data_formatted_7.csv'
+# data filenames
+indiana_counties_list_filename = './data/indiana_counties.csv'
+county_level_combined_filename = './data/indiana_county_level_mobility_time_series_data_formatted_7.csv'
+county_populations_by_age_filename = './data/indiana_population_by_age_by_county.csv'
 prevention_measures_filename = './data/indiana_reopening_stages_prevention_measures.csv'
+indiana_county_level_data_filename = './data/indiana_county_level_data.csv'
+apple_vehicle_mobility_report_filename = './data/updated/data_apple_vehicle_mobility_report.csv'
+google_mobility_trends_filename = './data/updated/data_google_regional_mobility_report/2020_US_Region_Mobility_Report.csv'
+indiana_county_level_test_case_death_trends_filename = './data/updated/data_indiana_county_wide_test_case_death_trends.xlsx'
+indiana_covid_demographics_by_county_filename = './data/updated/data_indiana_covid_demographics_by_county_and_district.xlsx'
+indiana_hospital_vent_data_filename = './data/updated/data_indiana_hospital_vent_data.xlsx'
+indiana_covid_cases_by_school_filename = './data/updated/data_indiana_covid_cases_by_school.xlsx'
+jh_cases_filename = './data/updated/data_jh_cases.csv'
+jh_deaths_filename = './data/updated/data_jh_deaths.csv'
 
-# read raw data
-indiana_counties_raw = pd.read_csv('./data/indiana_counties.csv')
-county_level_raw = pd.read_csv(county_level_filename, index_col=0)
+# read static data
+indiana_counties_raw = pd.read_csv(indiana_counties_list_filename)
+indiana_county_level_data_raw = pd.read_csv(indiana_county_level_data_filename, index_col=0)
+county_populations_by_age_raw = pd.read_csv(county_populations_by_age_filename, index_col=0)
 prevention_measures_raw = pd.read_csv(prevention_measures_filename, index_col=0)
+county_level_combined_raw = pd.read_csv(county_level_combined_filename, index_col=0)
+
+# read fetched data
+apple_vehicle_mobility_report_raw = pd.read_csv(apple_vehicle_mobility_report_filename, index_col=4)
+google_mobility_trends_raw = pd.read_csv(google_mobility_trends_filename).set_index('sub_region_1')
+indiana_county_level_test_case_death_trends_raw = pd.read_excel(indiana_county_level_test_case_death_trends_filename).set_index('COUNTY_NAME')
+indiana_covid_demographics_by_county_raw = pd.read_excel(indiana_covid_demographics_by_county_filename).set_index('county_name')
+indiana_hospital_vent_data_raw = pd.read_excel(indiana_hospital_vent_data_filename, index_col=1)
+indiana_covid_cases_by_school_raw = pd.read_excel(indiana_covid_cases_by_school_filename).set_index('school_county')
+
+def format_apple_mobility_data():
+  df = pd.DataFrame(apple_vehicle_mobility_report_raw)
+  cdf = pd.DataFrame(indiana_counties_raw)
+  df = df.loc['Indiana', :]
+  print(df.columns)
+  df = df[df.geo_type != 'city']
+  del df['geo_type']
+  del df['alternative_name']
+  del df['country']
+  df.reset_index(drop=True, inplace=True)
+  df['region'] = df['region'].apply(lambda x: x.replace('County', '').strip(' '))
+  df.index = df['region']
+  del df['region']
+  df = cdf.set_index('county_name').join(df)
+  print(df)
+  return df
+
+def format_google_mobility_data():
+  df = pd.DataFrame(google_mobility_trends_raw)
+  df = df.loc['Indiana', :]
+  return df
 
 def preprocess_data():
-  pass
+  apple_mobility_df = format_apple_mobility_data()
+  google_mobility_df = format_google_mobility_data()
 
 def predict_infections(
   intervention_indicators,
@@ -340,6 +383,7 @@ def get_flags():
 
 def main():
   get_flags()
-  predict_infections()
+  preprocess_data()
+  # predict_infections()
 
 main()
