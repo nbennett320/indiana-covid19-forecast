@@ -10,8 +10,7 @@ import tensorflow as tf
 import tensorflow_probability as tfp
 from tensorflow_probability.python.internal import prefer_static as ps
 from tensorflow_probability.python.mcmc.internal import util as mcmc_util
-from util import print_separator
-from update_dataset import main as update_dataset
+from util import print_separator, update_dataset
 tf = tf.compat.v2
 tf.enable_v2_behavior()
 tfb = tfp.bijectors
@@ -32,7 +31,11 @@ DTYPE = np.float32
 
 # model train dir
 global model_dir
-model_dir = "./train"
+model_dir = "./train/"
+
+# dataset dir
+global dataset_dir
+dataset_dir = './data/updated/'
 
 # num of epochs
 global model_epochs
@@ -75,7 +78,7 @@ indiana_covid_cases_by_school_raw = pd.read_excel(indiana_covid_cases_by_school_
 def format_apple_mobility_data():
   df = pd.DataFrame(apple_vehicle_mobility_report_raw).copy()
   cdf = pd.DataFrame(indiana_counties_raw).copy()
-  df = df.loc['Indiana', :]
+  df = df.loc['Indiana',:]
   df = df[df.geo_type != 'city']
   del df['geo_type']
   del df['alternative_name']
@@ -86,8 +89,18 @@ def format_apple_mobility_data():
   del df['region']
   del cdf['location_id']
   df = cdf.set_index('county_name').join(df)
-  df = df.fillna(0)
-  return df.T
+  df = df.fillna(100)
+  df = df.T
+  df.loc['transportation_type',:] = df.loc['transportation_type',:].apply(lambda x: 'driving' if x == 100 else x)
+  placeholder_df = pd.DataFrame(columns=['county_name', 'driving', 'walking', 'transit'])
+  for col in df.columns:
+    temp_df = pd.DataFrame(df.loc[:,col])
+    temp_df.columns = temp_df.loc['transportation_type', :]
+    temp_df.drop('transportation_type', inplace=True)
+    temp_df.insert(0, 'county_name', col)
+    placeholder_df = placeholder_df.append(temp_df)
+  df = placeholder_df.fillna(100)
+  return df
 
 def format_google_mobility_data():
   df = pd.DataFrame(google_mobility_trends_raw).copy()
@@ -148,10 +161,11 @@ def format_covid_cases_by_school_data():
   df['school_name'] = df['school_name'].apply(lambda x: x.lower())
   df['school_county'] = df['school_county'].apply(lambda x: x.capitalize())
   df['school_city'] = df['school_city'].apply(lambda x: x.lower() if x == x else -1)
-  dummies = pd.get_dummies(df['submission_status'])
-  for col in dummies.columns:
-    label = col.lower().replace(' ', '_').strip(' ')
-    df[label] = dummies[col]
+  df['school_type_encoded'] = df['school_name'].apply(lambda x: assign_school_type(x))
+  df.loc[:,'school_city_encoded'] = pd.factorize(df['school_city'])[0].reshape(-1,1)
+  df.loc[:,'submission_status_encoded'] = pd.factorize(df['submission_status'])[0].reshape(-1,1)
+  # del df['school_name']
+  del df['school_city']
   del df['submission_status']
   del df['county_fips']
   del df['school_id']
@@ -166,6 +180,21 @@ def format_covid_cases_by_school_data():
   df = df.rename(columns={ 'longitude': 'school_longitude', 'latitude': 'school_latitude' })
   del df['county_name']
   return df
+
+def assign_school_type(string):
+  school = string.lower()
+  if 'elementary' in school:
+    return 1
+  elif 'intermediate' in school:
+    return 2
+  elif 'middle' in school:
+    return 3
+  elif 'high school' in school:
+    return 4
+  elif 'college' or 'academy' or 'university' or 'institute' in school:
+    return 5
+  else:
+    return 0
 
 def preprocess_data():
   apple_mobility_df = format_apple_mobility_data()
@@ -482,7 +511,7 @@ def main():
   get_flags()
   if should_fetch_datasets:
     print("updating datasets...")
-    update_dataset()
+    update_dataset(dir=dataset_dir)
     print("done.")
     print_separator()
   preprocess_data()
