@@ -152,3 +152,18 @@ def calc_n_week_std(index, weeks, df):
     return 0
   else:
     return np.std(df[index - 7 * weeks:index])
+
+def assign_school_type(string):
+  school = string.lower()
+  if 'elementary' in school:
+    return 1
+  elif 'intermediate' in school:
+    return 2
+  elif 'middle' in school:
+    return 3
+  elif 'high school' in school:
+    return 4
+  elif 'college' or 'academy' or 'university' or 'institute' in school:
+    return 5
+  else:
+    return 0

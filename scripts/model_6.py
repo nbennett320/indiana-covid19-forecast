@@ -10,7 +10,7 @@ import tensorflow as tf
 import tensorflow_probability as tfp
 from tensorflow_probability.python.internal import prefer_static as ps
 from tensorflow_probability.python.mcmc.internal import util as mcmc_util
-from util import print_separator, update_dataset
+from util import print_separator, update_dataset, assign_school_type
 tf = tf.compat.v2
 tf.enable_v2_behavior()
 tfb = tfp.bijectors
@@ -100,6 +100,7 @@ def format_apple_mobility_data():
     temp_df.insert(0, 'county_name', col)
     placeholder_df = placeholder_df.append(temp_df)
   df = placeholder_df.fillna(100)
+  df.index = pd.to_datetime(df.index)
   return df
 
 def format_google_mobility_data():
@@ -119,7 +120,9 @@ def format_google_mobility_data():
   del df['date']
   for col in df.columns[1:]:
     df[col] = df[col].apply(lambda x: 100 if math.isnan(DTYPE(x)) else DTYPE(x) + 100)
+  df = df.rename(columns={ 'sub_region_2': 'county_name' })
   df = df.fillna(0)
+  df.index = pd.to_datetime(df.index)
   return df
 
 def format_county_level_test_case_death_trends():
@@ -132,6 +135,7 @@ def format_county_level_test_case_death_trends():
   top = df.pop('county_name')
   df.insert(0, top.name, top)
   df = df.fillna(0)
+  df.index = pd.to_datetime(df.index)
   return df
 
 def format_covid_demographics_by_county():
@@ -153,6 +157,7 @@ def format_hospital_vent_data():
     del df[col]
   df = df.set_index('date')
   df = df.fillna(0)
+  df.index = pd.to_datetime(df.index)
   return df
 
 def format_covid_cases_by_school_data():
@@ -181,21 +186,6 @@ def format_covid_cases_by_school_data():
   del df['county_name']
   return df
 
-def assign_school_type(string):
-  school = string.lower()
-  if 'elementary' in school:
-    return 1
-  elif 'intermediate' in school:
-    return 2
-  elif 'middle' in school:
-    return 3
-  elif 'high school' in school:
-    return 4
-  elif 'college' or 'academy' or 'university' or 'institute' in school:
-    return 5
-  else:
-    return 0
-
 def preprocess_data():
   apple_mobility_df = format_apple_mobility_data()
   print("apple mobility:\n", apple_mobility_df)
@@ -209,6 +199,43 @@ def preprocess_data():
   print("hospital_vent_df:\n", hospital_vent_df)
   covid_cases_by_school_df = format_covid_cases_by_school_data()
   print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
+  # print(county_level_test_case_death_trends_df.loc[county_level_test_case_death_trends_df['county_name'] == 'Porter', 'covid_count'])
+  plot_by_county(
+    county_level_test_case_death_trends_df, 
+    county='Porter', 
+    y=['covid_count', 'covid_deaths']
+  )
+
+def plot_by_county(df, county='Marion', y=['covid_count', 'covid_deaths']):
+  for n in range(0, len(y)):
+    plot_line(
+      df.loc[df['county_name'] == county, y[n]].index,
+      df.loc[df['county_name'] == county, y[n]],
+      legend_key=y[n].replace('_',' ')
+    )
+  title = "covid-19 in " + county.lower() + " county"
+  format_plot(
+    xlab="date",
+    title=title,
+    show_legend=True
+  )
+  plt.show()
+
+def plot_line(time, series, format="-", start=0, end=None, legend_key=None):
+  print(legend_key)
+  plt.plot(
+    time[start:end], 
+    series[start:end], 
+    format,
+    label=legend_key
+  )
+
+def format_plot(xlab=None, ylab=None, title=None, show_legend=True):
+  plt.xlabel(xlab)
+  plt.ylabel(ylab)
+  if show_legend:
+    plt.legend(loc='best')
+  plt.title(title)
 
 def predict_infections(
   intervention_indicators,
