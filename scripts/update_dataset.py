@@ -244,8 +244,13 @@ def get_flags():
   temp_dir = args.temp_dir if args.temp_dir else './train'
 
 def main():
+  get_flags()
   fetch_apple_mobility_report_url()
   fetch_datasets()
+  path_zip = temp_dir + 'data_' + 'google_regional_mobility_report.zip'
+  path_out = temp_dir + 'google_regional_mobility_report'
+  with ZipFile(path_zip, 'r') as zip_buffer:
+    zip_buffer.extractall(path_out)
 
 def test():
   get_flags()

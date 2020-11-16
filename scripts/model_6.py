@@ -11,6 +11,7 @@ import tensorflow_probability as tfp
 from tensorflow_probability.python.internal import prefer_static as ps
 from tensorflow_probability.python.mcmc.internal import util as mcmc_util
 from util import print_separator
+from update_dataset import main as update_dataset
 tf = tf.compat.v2
 tf.enable_v2_behavior()
 tfb = tfp.bijectors
@@ -36,6 +37,10 @@ model_dir = "./train"
 # num of epochs
 global model_epochs
 model_epochs = 100
+
+# update dataset
+global should_fetch_datasets
+should_fetch_datasets = False
 
 # data filenames
 indiana_counties_list_filename = './data/indiana_counties.csv'
@@ -458,14 +463,28 @@ def get_flags():
     dest='model_dir',
     help="directory for model files"
   )
+  arg_parser.add_argument(
+    '-u', 
+    '--update-datasets',
+    action='store_true',
+    dest='should_fetch_datasets',
+    help="if passed, update datasets"
+  )
   args = arg_parser.parse_args()
   global model_epochs
   model_epochs = args.epochs if args.epochs else 100
   global model_dir
   model_dir = args.model_dir if args.model_dir else './train'
+  global should_fetch_datasets
+  should_fetch_datasets = args.should_fetch_datasets
 
 def main():
   get_flags()
+  if should_fetch_datasets:
+    print("updating datasets...")
+    update_dataset()
+    print("done.")
+    print_separator()
   preprocess_data()
   # predict_infections()
 
