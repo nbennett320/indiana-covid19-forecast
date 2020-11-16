@@ -267,6 +267,8 @@ IL,Israel,,,,,,2020-11-05,-42,-1,-21,-34,-29,14
 IL,Israel,,,,,,2020-11-06,-41,-3,17,-33,-29,6
 IL,Israel,,,,,,2020-11-07,-53,-17,45,-25,-10,3
 IL,Israel,,,,,,2020-11-08,-33,-1,4,-30,-27,12
+IL,Israel,,,,,,2020-11-09,-35,0,2,-30,-27,13
+IL,Israel,,,,,,2020-11-10,-34,3,4,-28,-27,12
 IL,Israel,Center District,,,IL-M,,2020-02-15,9,10,75,10,1,-3
 IL,Israel,Center District,,,IL-M,,2020-02-16,2,1,7,0,1,0
 IL,Israel,Center District,,,IL-M,,2020-02-17,3,2,8,1,1,0
@@ -535,6 +537,8 @@ IL,Israel,Center District,,,IL-M,,2020-11-05,-41,4,-16,-38,-30,16
 IL,Israel,Center District,,,IL-M,,2020-11-06,-40,-2,20,-40,-35,7
 IL,Israel,Center District,,,IL-M,,2020-11-07,-57,-20,45,-34,-6,3
 IL,Israel,Center District,,,IL-M,,2020-11-08,-31,3,7,-35,-28,13
+IL,Israel,Center District,,,IL-M,,2020-11-09,-33,6,13,-35,-28,14
+IL,Israel,Center District,,,IL-M,,2020-11-10,-32,8,16,-32,-28,13
 IL,Israel,Center District,HaSharon,,,,2020-02-15,14,7,63,11,4,-2
 IL,Israel,Center District,HaSharon,,,,2020-02-16,3,-1,-1,0,2,0
 IL,Israel,Center District,HaSharon,,,,2020-02-17,2,-2,12,1,1,0
@@ -803,6 +807,8 @@ IL,Israel,Center District,HaSharon,,,,2020-11-05,-40,2,9,-36,-32,15
 IL,Israel,Center District,HaSharon,,,,2020-11-06,-39,-4,38,-37,-29,7
 IL,Israel,Center District,HaSharon,,,,2020-11-07,-48,-14,59,-32,-9,2
 IL,Israel,Center District,HaSharon,,,,2020-11-08,-31,1,17,-34,-30,12
+IL,Israel,Center District,HaSharon,,,,2020-11-09,-31,1,30,-34,-29,13
+IL,Israel,Center District,HaSharon,,,,2020-11-10,-29,6,32,-28,-30,12
 IL,Israel,Center District,Petach Tikva,,,,2020-02-15,1,5,65,11,1,-3
 IL,Israel,Center District,Petach Tikva,,,,2020-02-16,4,0,8,2,2,0
 IL,Israel,Center District,Petach Tikva,,,,2020-02-17,3,0,5,1,1,0
@@ -1071,6 +1077,8 @@ IL,Israel,Center District,Petach Tikva,,,,2020-11-05,-39,7,-13,-36,-31,17
 IL,Israel,Center District,Petach Tikva,,,,2020-11-06,-40,0,2,-35,-35,8
 IL,Israel,Center District,Petach Tikva,,,,2020-11-07,-61,-12,45,-29,3,2
 IL,Israel,Center District,Petach Tikva,,,,2020-11-08,-32,7,9,-33,-30,14
+IL,Israel,Center District,Petach Tikva,,,,2020-11-09,-34,8,13,-33,-30,15
+IL,Israel,Center District,Petach Tikva,,,,2020-11-10,-33,11,17,-29,-28,14
 IL,Israel,Center District,Ramla,,,,2020-02-15,12,8,81,7,1,-3
 IL,Israel,Center District,Ramla,,,,2020-02-16,3,6,2,-1,2,0
 IL,Israel,Center District,Ramla,,,,2020-02-17,5,4,9,1,1,0
@@ -1339,6 +1347,8 @@ IL,Israel,Center District,Ramla,,,,2020-11-05,-38,1,-35,-49,-29,17
 IL,Israel,Center District,Ramla,,,,2020-11-06,-28,-3,15,-56,-35,7
 IL,Israel,Center District,Ramla,,,,2020-11-07,-47,-19,42,-49,2,3
 IL,Israel,Center District,Ramla,,,,2020-11-08,-26,2,-12,-49,-26,14
+IL,Israel,Center District,Ramla,,,,2020-11-09,-27,3,-9,-46,-25,15
+IL,Israel,Center District,Ramla,,,,2020-11-10,-29,8,-8,-45,-24,14
 IL,Israel,Center District,Rehovot,,,,2020-02-15,5,-2,89,12,1,-3
 IL,Israel,Center District,Rehovot,,,,2020-02-16,0,0,3,-1,2,0
 IL,Israel,Center District,Rehovot,,,,2020-02-17,2,1,8,2,1,0
@@ -1607,6 +1617,8 @@ IL,Israel,Center District,Rehovot,,,,2020-11-05,-44,3,-26,-32,-27,16
 IL,Israel,Center District,Rehovot,,,,2020-11-06,-45,-4,5,-32,-38,8
 IL,Israel,Center District,Rehovot,,,,2020-11-07,-65,-33,22,-24,-5,3
 IL,Israel,Center District,Rehovot,,,,2020-11-08,-30,3,7,-24,-26,13
+IL,Israel,Center District,Rehovot,,,,2020-11-09,-34,3,13,-24,-25,14
+IL,Israel,Center District,Rehovot,,,,2020-11-10,-35,5,19,-22,-25,13
 IL,Israel,Haifa District,,,IL-HA,,2020-02-15,9,5,28,8,0,-1
 IL,Israel,Haifa District,,,IL-HA,,2020-02-16,3,2,17,2,1,0
 IL,Israel,Haifa District,,,IL-HA,,2020-02-17,5,0,5,1,0,0
@@ -1875,6 +1887,8 @@ IL,Israel,Haifa District,,,IL-HA,,2020-11-05,-37,4,-12,-29,-28,13
 IL,Israel,Haifa District,,,IL-HA,,2020-11-06,-40,2,48,-29,-29,6
 IL,Israel,Haifa District,,,IL-HA,,2020-11-07,-53,-8,74,-22,-10,3
 IL,Israel,Haifa District,,,IL-HA,,2020-11-08,-30,1,16,-26,-27,11
+IL,Israel,Haifa District,,,IL-HA,,2020-11-09,-31,2,8,-27,-27,12
+IL,Israel,Haifa District,,,IL-HA,,2020-11-10,-30,4,14,-28,-26,11
 IL,Israel,Haifa District,Hadera,,,,2020-02-15,9,3,49,11,2,-2
 IL,Israel,Haifa District,Hadera,,,,2020-02-16,4,-1,23,5,2,0
 IL,Israel,Haifa District,Hadera,,,,2020-02-17,5,-1,16,2,1,0
@@ -2143,6 +2157,8 @@ IL,Israel,Haifa District,Hadera,,,,2020-11-05,-28,4,-19,-24,-29,13
 IL,Israel,Haifa District,Hadera,,,,2020-11-06,-31,-2,46,-22,-25,5
 IL,Israel,Haifa District,Hadera,,,,2020-11-07,-34,-6,92,-12,-9,2
 IL,Israel,Haifa District,Hadera,,,,2020-11-08,-22,5,12,-18,-26,11
+IL,Israel,Haifa District,Hadera,,,,2020-11-09,-22,7,7,-20,-27,12
+IL,Israel,Haifa District,Hadera,,,,2020-11-10,-19,7,8,-21,-27,11
 IL,Israel,Haifa District,Haifa,,,,2020-02-15,7,5,7,3,0,-1
 IL,Israel,Haifa District,Haifa,,,,2020-02-16,2,2,13,0,1,0
 IL,Israel,Haifa District,Haifa,,,,2020-02-17,4,0,4,0,0,0
@@ -2411,6 +2427,8 @@ IL,Israel,Haifa District,Haifa,,,,2020-11-05,-42,4,-3,-33,-28,14
 IL,Israel,Haifa District,Haifa,,,,2020-11-06,-44,2,44,-33,-32,7
 IL,Israel,Haifa District,Haifa,,,,2020-11-07,-62,-9,47,-26,-7,3
 IL,Israel,Haifa District,Haifa,,,,2020-11-08,-35,-2,15,-29,-27,12
+IL,Israel,Haifa District,Haifa,,,,2020-11-09,-34,0,12,-30,-27,12
+IL,Israel,Haifa District,Haifa,,,,2020-11-10,-35,5,21,-30,-26,12
 IL,Israel,Jerusalem District,,,IL-JM,,2020-02-15,12,2,67,20,1,-3
 IL,Israel,Jerusalem District,,,IL-JM,,2020-02-16,-2,-7,3,1,1,1
 IL,Israel,Jerusalem District,,,IL-JM,,2020-02-17,14,-3,11,4,0,0
@@ -2679,6 +2697,8 @@ IL,Israel,Jerusalem District,,,IL-JM,,2020-11-05,-52,-19,-54,-41,-30,17
 IL,Israel,Jerusalem District,,,IL-JM,,2020-11-06,-43,-10,-29,-32,-27,5
 IL,Israel,Jerusalem District,,,IL-JM,,2020-11-07,-51,-26,19,-29,-6,2
 IL,Israel,Jerusalem District,,,IL-JM,,2020-11-08,-38,-13,-20,-30,-29,14
+IL,Israel,Jerusalem District,,,IL-JM,,2020-11-09,-39,-10,-22,-31,-29,14
+IL,Israel,Jerusalem District,,,IL-JM,,2020-11-10,-38,-8,-20,-26,-31,13
 IL,Israel,North District,,,IL-Z,,2020-02-15,20,10,51,8,1,-2
 IL,Israel,North District,,,IL-Z,,2020-02-16,5,5,28,4,1,-1
 IL,Israel,North District,,,IL-Z,,2020-02-17,4,2,36,3,1,0
@@ -2947,6 +2967,8 @@ IL,Israel,North District,,,IL-Z,,2020-11-05,-32,6,-22,-21,-26,11
 IL,Israel,North District,,,IL-Z,,2020-11-06,-32,1,11,-20,-20,5
 IL,Israel,North District,,,IL-Z,,2020-11-07,-39,-15,23,-20,-12,3
 IL,Israel,North District,,,IL-Z,,2020-11-08,-26,5,-9,-20,-24,8
+IL,Israel,North District,,,IL-Z,,2020-11-09,-25,3,-1,-20,-23,10
+IL,Israel,North District,,,IL-Z,,2020-11-10,-25,5,-13,-18,-23,9
 IL,Israel,North District,Akko,,,,2020-02-15,11,9,39,4,1,-1
 IL,Israel,North District,Akko,,,,2020-02-16,7,5,23,5,0,-1
 IL,Israel,North District,Akko,,,,2020-02-17,3,3,17,2,1,0
@@ -3215,6 +3237,8 @@ IL,Israel,North District,Akko,,,,2020-11-05,-31,3,1,-21,-27,11
 IL,Israel,North District,Akko,,,,2020-11-06,-34,-5,38,-21,-20,5
 IL,Israel,North District,Akko,,,,2020-11-07,-40,-17,62,-20,-16,3
 IL,Israel,North District,Akko,,,,2020-11-08,-25,2,24,-18,-24,8
+IL,Israel,North District,Akko,,,,2020-11-09,-24,-2,30,-18,-25,9
+IL,Israel,North District,Akko,,,,2020-11-10,-24,3,24,-17,-23,9
 IL,Israel,North District,Golan,,,,2020-02-15,10,,46,17,3,
 IL,Israel,North District,Golan,,,,2020-02-16,20,,27,17,7,-4
 IL,Israel,North District,Golan,,,,2020-02-17,2,,96,4,1,-1
@@ -3480,6 +3504,8 @@ IL,Israel,North District,Golan,,,,2020-11-05,-36,,-65,-24,-25,12
 IL,Israel,North District,Golan,,,,2020-11-06,-48,,-43,-33,-10,5
 IL,Israel,North District,Golan,,,,2020-11-07,-56,,-40,-41,0,
 IL,Israel,North District,Golan,,,,2020-11-08,-21,,-50,-14,-22,7
+IL,Israel,North District,Golan,,,,2020-11-09,-35,,-48,-25,-24,11
+IL,Israel,North District,Golan,,,,2020-11-10,-30,-16,-58,-23,-22,9
 IL,Israel,North District,Kinneret,,,,2020-02-15,44,21,64,19,4,-2
 IL,Israel,North District,Kinneret,,,,2020-02-16,12,5,49,8,2,-1
 IL,Israel,North District,Kinneret,,,,2020-02-17,11,3,53,8,0,-1
@@ -3748,6 +3774,8 @@ IL,Israel,North District,Kinneret,,,,2020-11-05,-43,5,-57,-20,-23,13
 IL,Israel,North District,Kinneret,,,,2020-11-06,-38,8,-29,-19,-17,5
 IL,Israel,North District,Kinneret,,,,2020-11-07,-44,0,-21,-18,-10,2
 IL,Israel,North District,Kinneret,,,,2020-11-08,-34,10,-43,-18,-21,9
+IL,Israel,North District,Kinneret,,,,2020-11-09,-33,13,-35,-16,-21,11
+IL,Israel,North District,Kinneret,,,,2020-11-10,-32,8,-40,-18,-21,10
 IL,Israel,North District,Tzfat,,,,2020-02-15,23,18,55,23,1,-2
 IL,Israel,North District,Tzfat,,,,2020-02-16,0,6,29,2,0,-1
 IL,Israel,North District,Tzfat,,,,2020-02-17,9,4,35,5,-1,0
@@ -4016,6 +4044,8 @@ IL,Israel,North District,Tzfat,,,,2020-11-05,-37,13,-10,-20,-19,12
 IL,Israel,North District,Tzfat,,,,2020-11-06,-32,13,25,-19,-17,4
 IL,Israel,North District,Tzfat,,,,2020-11-07,-37,23,32,-22,7,1
 IL,Israel,North District,Tzfat,,,,2020-11-08,-30,16,17,-17,-20,10
+IL,Israel,North District,Tzfat,,,,2020-11-09,-28,14,16,-15,-20,11
+IL,Israel,North District,Tzfat,,,,2020-11-10,-30,14,8,-15,-19,11
 IL,Israel,North District,Yizrael,,,,2020-02-15,21,1,58,13,0,-2
 IL,Israel,North District,Yizrael,,,,2020-02-16,5,5,23,4,1,-1
 IL,Israel,North District,Yizrael,,,,2020-02-17,3,2,17,4,1,0
@@ -4284,6 +4314,8 @@ IL,Israel,North District,Yizrael,,,,2020-11-05,-30,5,-13,-20,-27,12
 IL,Israel,North District,Yizrael,,,,2020-11-06,-29,1,10,-17,-23,5
 IL,Israel,North District,Yizrael,,,,2020-11-07,-39,-12,38,-16,-15,3
 IL,Israel,North District,Yizrael,,,,2020-11-08,-23,2,7,-19,-24,8
+IL,Israel,North District,Yizrael,,,,2020-11-09,-26,4,0,-18,-24,10
+IL,Israel,North District,Yizrael,,,,2020-11-10,-21,6,-2,-16,-23,9
 IL,Israel,South District,,,IL-D,,2020-02-15,18,12,68,28,2,-3
 IL,Israel,South District,,,IL-D,,2020-02-16,0,0,7,0,1,1
 IL,Israel,South District,,,IL-D,,2020-02-17,4,2,11,3,1,0
@@ -4552,6 +4584,8 @@ IL,Israel,South District,,,IL-D,,2020-11-05,-44,-7,-28,-32,-24,13
 IL,Israel,South District,,,IL-D,,2020-11-06,-42,-8,5,-30,-32,6
 IL,Israel,South District,,,IL-D,,2020-11-07,-58,-17,22,-27,-11,3
 IL,Israel,South District,,,IL-D,,2020-11-08,-33,-6,-5,-29,-22,11
+IL,Israel,South District,,,IL-D,,2020-11-09,-36,-5,-9,-25,-22,11
+IL,Israel,South District,,,IL-D,,2020-11-10,-36,-1,-9,-26,-22,10
 IL,Israel,South District,Ashkelon,,,,2020-02-15,23,16,90,33,3,-3
 IL,Israel,South District,Ashkelon,,,,2020-02-16,0,3,2,-1,1,1
 IL,Israel,South District,Ashkelon,,,,2020-02-17,3,1,7,0,1,0
@@ -4820,6 +4854,8 @@ IL,Israel,South District,Ashkelon,,,,2020-11-05,-42,-1,-24,-29,-23,13
 IL,Israel,South District,Ashkelon,,,,2020-11-06,-40,0,6,-28,-30,6
 IL,Israel,South District,Ashkelon,,,,2020-11-07,-57,-7,40,-18,-3,2
 IL,Israel,South District,Ashkelon,,,,2020-11-08,-32,3,3,-27,-21,11
+IL,Israel,South District,Ashkelon,,,,2020-11-09,-34,2,15,-24,-21,11
+IL,Israel,South District,Ashkelon,,,,2020-11-10,-34,7,7,-24,-21,10
 IL,Israel,South District,Be'er Sheva,,,,2020-02-15,16,5,75,21,2,-3
 IL,Israel,South District,Be'er Sheva,,,,2020-02-16,0,1,9,1,1,0
 IL,Israel,South District,Be'er Sheva,,,,2020-02-17,4,7,13,4,1,0
@@ -5088,6 +5124,8 @@ IL,Israel,South District,Be'er Sheva,,,,2020-11-05,-45,-11,-27,-33,-26,14
 IL,Israel,South District,Be'er Sheva,,,,2020-11-06,-43,-13,-1,-32,-33,7
 IL,Israel,South District,Be'er Sheva,,,,2020-11-07,-56,-25,34,-32,-11,3
 IL,Israel,South District,Be'er Sheva,,,,2020-11-08,-35,-11,-14,-30,-24,12
+IL,Israel,South District,Be'er Sheva,,,,2020-11-09,-38,-9,-25,-28,-23,12
+IL,Israel,South District,Be'er Sheva,,,,2020-11-10,-36,-3,-20,-27,-24,11
 IL,Israel,Tel Aviv District,,,IL-TA,,2020-02-15,10,12,69,13,-1,-3
 IL,Israel,Tel Aviv District,,,IL-TA,,2020-02-16,6,2,17,1,1,0
 IL,Israel,Tel Aviv District,,,IL-TA,,2020-02-17,0,0,8,-1,1,0
@@ -5356,3 +5394,5 @@ IL,Israel,Tel Aviv District,,,IL-TA,,2020-11-05,-51,-1,-5,-44,-36,17
 IL,Israel,Tel Aviv District,,,IL-TA,,2020-11-06,-49,-4,35,-45,-30,8
 IL,Israel,Tel Aviv District,,,IL-TA,,2020-11-07,-57,-6,68,-38,-14,3
 IL,Israel,Tel Aviv District,,,IL-TA,,2020-11-08,-38,3,29,-39,-34,14
+IL,Israel,Tel Aviv District,,,IL-TA,,2020-11-09,-43,0,32,-41,-33,15
+IL,Israel,Tel Aviv District,,,IL-TA,,2020-11-10,-40,2,32,-40,-33,14

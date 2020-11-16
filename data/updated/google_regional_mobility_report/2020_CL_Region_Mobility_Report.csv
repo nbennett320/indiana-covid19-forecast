@@ -267,6 +267,8 @@ CL,Chile,,,,,,2020-11-05,-37,-14,-42,-30,-24,16
 CL,Chile,,,,,,2020-11-06,-35,-11,-39,-30,-23,16
 CL,Chile,,,,,,2020-11-07,-42,-19,-49,-28,-14,14
 CL,Chile,,,,,,2020-11-08,-46,-27,-47,-31,-13,13
+CL,Chile,,,,,,2020-11-09,-37,-17,-43,-33,-24,15
+CL,Chile,,,,,,2020-11-10,-36,-16,-42,-31,-24,15
 CL,Chile,Antofagasta,,,CL-AN,,2020-02-15,2,-1,2,-2,-1,0
 CL,Chile,Antofagasta,,,CL-AN,,2020-02-16,2,-1,-3,3,0,0
 CL,Chile,Antofagasta,,,CL-AN,,2020-02-17,-1,0,-4,4,-4,1
@@ -535,6 +537,8 @@ CL,Chile,Antofagasta,,,CL-AN,,2020-11-05,-38,-15,-41,-25,-19,13
 CL,Chile,Antofagasta,,,CL-AN,,2020-11-06,-36,-11,-39,-24,-19,12
 CL,Chile,Antofagasta,,,CL-AN,,2020-11-07,-50,-25,-63,-39,-19,14
 CL,Chile,Antofagasta,,,CL-AN,,2020-11-08,-50,-30,-63,-37,-18,13
+CL,Chile,Antofagasta,,,CL-AN,,2020-11-09,-33,-12,-38,-24,-20,12
+CL,Chile,Antofagasta,,,CL-AN,,2020-11-10,-34,-12,-41,-22,-20,12
 CL,Chile,Antofagasta,Antofagasta Province,,,,2020-02-15,5,1,4,1,-2,0
 CL,Chile,Antofagasta,Antofagasta Province,,,,2020-02-16,5,1,-2,4,0,0
 CL,Chile,Antofagasta,Antofagasta Province,,,,2020-02-17,1,1,-4,6,-4,1
@@ -803,6 +807,8 @@ CL,Chile,Antofagasta,Antofagasta Province,,,,2020-11-05,-39,-20,-37,-18,-23,13
 CL,Chile,Antofagasta,Antofagasta Province,,,,2020-11-06,-35,-14,-34,-16,-21,13
 CL,Chile,Antofagasta,Antofagasta Province,,,,2020-11-07,-57,-37,-67,-33,-23,17
 CL,Chile,Antofagasta,Antofagasta Province,,,,2020-11-08,-57,-41,-65,-34,-21,15
+CL,Chile,Antofagasta,Antofagasta Province,,,,2020-11-09,-32,-16,-31,-16,-22,12
+CL,Chile,Antofagasta,Antofagasta Province,,,,2020-11-10,-33,-17,-37,-15,-24,12
 CL,Chile,Antofagasta,El Loa,,,,2020-02-15,-5,-7,-1,-7,0,0
 CL,Chile,Antofagasta,El Loa,,,,2020-02-16,-6,-5,-5,4,0,0
 CL,Chile,Antofagasta,El Loa,,,,2020-02-17,-4,-1,-15,1,-1,0
@@ -1071,6 +1077,8 @@ CL,Chile,Antofagasta,El Loa,,,,2020-11-05,-33,-6,-57,-42,-16,12
 CL,Chile,Antofagasta,El Loa,,,,2020-11-06,-30,-2,-58,-40,-15,11
 CL,Chile,Antofagasta,El Loa,,,,2020-11-07,-32,-8,-57,-54,-10,9
 CL,Chile,Antofagasta,El Loa,,,,2020-11-08,-30,-6,-64,-40,-14,10
+CL,Chile,Antofagasta,El Loa,,,,2020-11-09,-31,-4,-60,-40,-15,12
+CL,Chile,Antofagasta,El Loa,,,,2020-11-10,-29,-4,-55,-39,-17,12
 CL,Chile,Antofagasta,Tocopilla Province,,,,2020-02-15,8,,-6,,1,
 CL,Chile,Antofagasta,Tocopilla Province,,,,2020-02-16,,,6,,,
 CL,Chile,Antofagasta,Tocopilla Province,,,,2020-02-17,10,,5,25,1,
@@ -1314,6 +1322,8 @@ CL,Chile,Antofagasta,Tocopilla Province,,,,2020-11-05,,,-45,-41,-7,
 CL,Chile,Antofagasta,Tocopilla Province,,,,2020-11-06,,,-41,-44,-4,
 CL,Chile,Antofagasta,Tocopilla Province,,,,2020-11-07,,,-31,-46,-9,
 CL,Chile,Antofagasta,Tocopilla Province,,,,2020-11-08,,,-26,-43,-14,
+CL,Chile,Antofagasta,Tocopilla Province,,,,2020-11-09,,,-42,-50,-6,
+CL,Chile,Antofagasta,Tocopilla Province,,,,2020-11-10,,,-43,-52,-5,8
 CL,Chile,Araucania,,,CL-AR,,2020-02-15,15,12,31,15,-3,-1
 CL,Chile,Araucania,,,CL-AR,,2020-02-16,19,16,23,16,-1,1
 CL,Chile,Araucania,,,CL-AR,,2020-02-17,15,19,28,20,-8,2
@@ -1582,6 +1592,8 @@ CL,Chile,Araucania,,,CL-AR,,2020-11-05,-61,-36,-57,-51,-30,23
 CL,Chile,Araucania,,,CL-AR,,2020-11-06,-59,-31,-51,-48,-28,24
 CL,Chile,Araucania,,,CL-AR,,2020-11-07,-75,-53,-72,-68,-37,29
 CL,Chile,Araucania,,,CL-AR,,2020-11-08,-78,-61,-74,-70,-33,29
+CL,Chile,Araucania,,,CL-AR,,2020-11-09,-60,-37,-55,-50,-27,23
+CL,Chile,Araucania,,,CL-AR,,2020-11-10,-60,-40,-54,-46,-29,21
 CL,Chile,Araucania,Cautín Province,,,,2020-02-15,15,13,33,13,-3,-1
 CL,Chile,Araucania,Cautín Province,,,,2020-02-16,20,17,22,14,-1,1
 CL,Chile,Araucania,Cautín Province,,,,2020-02-17,14,18,33,18,-8,2
@@ -1850,6 +1862,8 @@ CL,Chile,Araucania,Cautín Province,,,,2020-11-05,-64,-40,-64,-53,-34,25
 CL,Chile,Araucania,Cautín Province,,,,2020-11-06,-63,-36,-59,-50,-32,26
 CL,Chile,Araucania,Cautín Province,,,,2020-11-07,-75,-53,-72,-66,-38,29
 CL,Chile,Araucania,Cautín Province,,,,2020-11-08,-79,-62,-75,-70,-35,29
+CL,Chile,Araucania,Cautín Province,,,,2020-11-09,-64,-42,-61,-52,-32,24
+CL,Chile,Araucania,Cautín Province,,,,2020-11-10,-64,-45,-62,-47,-33,22
 CL,Chile,Araucania,Malleco Province,,,,2020-02-15,25,16,40,37,-3,-1
 CL,Chile,Araucania,Malleco Province,,,,2020-02-16,22,15,36,30,-1,0
 CL,Chile,Araucania,Malleco Province,,,,2020-02-17,16,18,14,22,-8,2
@@ -2118,6 +2132,8 @@ CL,Chile,Araucania,Malleco Province,,,,2020-11-05,-27,-4,-28,-27,-7,15
 CL,Chile,Araucania,Malleco Province,,,,2020-11-06,-27,5,-28,-13,-6,15
 CL,Chile,Araucania,Malleco Province,,,,2020-11-07,-68,-47,-67,-70,-30,28
 CL,Chile,Araucania,Malleco Province,,,,2020-11-08,-69,-53,-67,-68,-25,27
+CL,Chile,Araucania,Malleco Province,,,,2020-11-09,-29,-7,-27,-19,-7,15
+CL,Chile,Araucania,Malleco Province,,,,2020-11-10,-29,-9,-25,-19,-8,16
 CL,Chile,Arica y Parinacota,,,CL-AP,,2020-02-15,-1,-3,3,7,-5,0
 CL,Chile,Arica y Parinacota,,,CL-AP,,2020-02-16,-3,2,-1,10,-2,0
 CL,Chile,Arica y Parinacota,,,CL-AP,,2020-02-17,-2,-3,-3,5,-6,2
@@ -2386,6 +2402,8 @@ CL,Chile,Arica y Parinacota,,,CL-AP,,2020-11-05,-56,-22,-62,-49,-27,17
 CL,Chile,Arica y Parinacota,,,CL-AP,,2020-11-06,-55,-19,-58,-48,-26,18
 CL,Chile,Arica y Parinacota,,,CL-AP,,2020-11-07,-56,-19,-65,-51,-18,15
 CL,Chile,Arica y Parinacota,,,CL-AP,,2020-11-08,-58,-30,-62,-51,-16,13
+CL,Chile,Arica y Parinacota,,,CL-AP,,2020-11-09,-42,-10,-41,-46,-24,12
+CL,Chile,Arica y Parinacota,,,CL-AP,,2020-11-10,-40,-6,-43,-43,-25,12
 CL,Chile,Arica y Parinacota,Arica Province,,,,2020-02-15,0,-1,3,5,-3,0
 CL,Chile,Arica y Parinacota,Arica Province,,,,2020-02-16,-3,3,-1,9,-2,1
 CL,Chile,Arica y Parinacota,Arica Province,,,,2020-02-17,-2,-1,-3,4,-6,2
@@ -2654,6 +2672,8 @@ CL,Chile,Arica y Parinacota,Arica Province,,,,2020-11-05,-57,-26,-62,-40,-25,17
 CL,Chile,Arica y Parinacota,Arica Province,,,,2020-11-06,-56,-24,-58,-39,-25,18
 CL,Chile,Arica y Parinacota,Arica Province,,,,2020-11-07,-54,-25,-65,-46,-13,16
 CL,Chile,Arica y Parinacota,Arica Province,,,,2020-11-08,-57,-35,-62,-45,-11,14
+CL,Chile,Arica y Parinacota,Arica Province,,,,2020-11-09,-41,-16,-40,-37,-21,13
+CL,Chile,Arica y Parinacota,Arica Province,,,,2020-11-10,-41,-12,-43,-34,-22,13
 CL,Chile,Atacama,,,CL-AT,,2020-02-15,3,4,12,13,-2,0
 CL,Chile,Atacama,,,CL-AT,,2020-02-16,3,2,8,8,-2,0
 CL,Chile,Atacama,,,CL-AT,,2020-02-17,0,5,14,12,-4,0
@@ -2922,6 +2942,8 @@ CL,Chile,Atacama,,,CL-AT,,2020-11-05,-33,-8,-42,-45,-14,14
 CL,Chile,Atacama,,,CL-AT,,2020-11-06,-31,-6,-40,-41,-14,14
 CL,Chile,Atacama,,,CL-AT,,2020-11-07,-35,-7,-44,-42,-6,13
 CL,Chile,Atacama,,,CL-AT,,2020-11-08,-39,-17,-41,-35,-10,14
+CL,Chile,Atacama,,,CL-AT,,2020-11-09,-32,-10,-46,-42,-14,14
+CL,Chile,Atacama,,,CL-AT,,2020-11-10,-31,-9,-46,-40,-15,14
 CL,Chile,Atacama,Chañaral Province,,,,2020-02-15,2,,11,14,,
 CL,Chile,Atacama,Chañaral Province,,,,2020-02-16,,,18,34,,
 CL,Chile,Atacama,Chañaral Province,,,,2020-02-17,5,,5,15,-3,
@@ -3165,6 +3187,8 @@ CL,Chile,Atacama,Chañaral Province,,,,2020-11-05,-39,,-41,-44,-13,
 CL,Chile,Atacama,Chañaral Province,,,,2020-11-06,-33,,-38,-37,-7,
 CL,Chile,Atacama,Chañaral Province,,,,2020-11-07,-18,,-38,-44,0,
 CL,Chile,Atacama,Chañaral Province,,,,2020-11-08,-35,,-27,-52,-10,
+CL,Chile,Atacama,Chañaral Province,,,,2020-11-09,-42,,-41,-42,-12,
+CL,Chile,Atacama,Chañaral Province,,,,2020-11-10,-37,,-43,-39,-9,
 CL,Chile,Atacama,Copiapó Province,,,,2020-02-15,4,4,12,11,-1,0
 CL,Chile,Atacama,Copiapó Province,,,,2020-02-16,2,-1,9,5,-2,0
 CL,Chile,Atacama,Copiapó Province,,,,2020-02-17,-3,3,14,7,-5,0
@@ -3433,6 +3457,8 @@ CL,Chile,Atacama,Copiapó Province,,,,2020-11-05,-33,-8,-43,-40,-18,13
 CL,Chile,Atacama,Copiapó Province,,,,2020-11-06,-30,-5,-42,-31,-19,14
 CL,Chile,Atacama,Copiapó Province,,,,2020-11-07,-34,-7,-48,-36,-9,13
 CL,Chile,Atacama,Copiapó Province,,,,2020-11-08,-37,-19,-42,-31,-11,14
+CL,Chile,Atacama,Copiapó Province,,,,2020-11-09,-32,-10,-49,-37,-18,14
+CL,Chile,Atacama,Copiapó Province,,,,2020-11-10,-30,-8,-49,-35,-18,14
 CL,Chile,Atacama,Huasco Province,,,,2020-02-15,0,3,8,18,-8,
 CL,Chile,Atacama,Huasco Province,,,,2020-02-16,4,-3,10,4,-1,
 CL,Chile,Atacama,Huasco Province,,,,2020-02-17,0,2,17,14,-3,0
@@ -3695,6 +3721,8 @@ CL,Chile,Atacama,Huasco Province,,,,2020-11-05,-32,-7,-39,-54,-12,15
 CL,Chile,Atacama,Huasco Province,,,,2020-11-06,-32,-8,-35,-54,-11,16
 CL,Chile,Atacama,Huasco Province,,,,2020-11-07,-36,-8,-37,-50,-2,12
 CL,Chile,Atacama,Huasco Province,,,,2020-11-08,-39,-17,-39,-39,-8,16
+CL,Chile,Atacama,Huasco Province,,,,2020-11-09,-29,-13,-37,-49,-10,14
+CL,Chile,Atacama,Huasco Province,,,,2020-11-10,-29,-11,-38,-48,-15,14
 CL,Chile,Aysén,,,CL-AI,,2020-02-15,3,6,0,13,-1,
 CL,Chile,Aysén,,,CL-AI,,2020-02-16,0,3,-11,8,-4,
 CL,Chile,Aysén,,,CL-AI,,2020-02-17,8,9,7,6,-5,3
@@ -3961,6 +3989,8 @@ CL,Chile,Aysén,,,CL-AI,,2020-11-05,-58,-39,-60,-72,-24,19
 CL,Chile,Aysén,,,CL-AI,,2020-11-06,-55,-28,-57,-65,-21,17
 CL,Chile,Aysén,,,CL-AI,,2020-11-07,-58,-32,-60,-79,-21,16
 CL,Chile,Aysén,,,CL-AI,,2020-11-08,-66,-42,-60,-81,-23,12
+CL,Chile,Aysén,,,CL-AI,,2020-11-09,-54,-34,-60,-76,-20,18
+CL,Chile,Aysén,,,CL-AI,,2020-11-10,-53,-31,-55,-73,-21,14
 CL,Chile,Aysén,Aysén Province,,,,2020-02-15,3,,-21,,-1,
 CL,Chile,Aysén,Aysén Province,,,,2020-02-16,-5,,-24,,,
 CL,Chile,Aysén,Aysén Province,,,,2020-02-17,0,13,-4,,-1,
@@ -4204,6 +4234,8 @@ CL,Chile,Aysén,Aysén Province,,,,2020-11-05,,,-41,,0,13
 CL,Chile,Aysén,Aysén Province,,,,2020-11-06,-32,,-31,,3,10
 CL,Chile,Aysén,Aysén Province,,,,2020-11-07,-33,,-42,,2,
 CL,Chile,Aysén,Aysén Province,,,,2020-11-08,,,-42,,-11,
+CL,Chile,Aysén,Aysén Province,,,,2020-11-09,,-9,-37,,4,11
+CL,Chile,Aysén,Aysén Province,,,,2020-11-10,,,-32,,6,8
 CL,Chile,Aysén,Capitán Prat Province,,,,2020-02-19,,,16,,,
 CL,Chile,Aysén,Capitán Prat Province,,,,2020-02-23,,,12,,,
 CL,Chile,Aysén,Capitán Prat Province,,,,2020-02-24,,,7,,,
@@ -4429,6 +4461,8 @@ CL,Chile,Aysén,Capitán Prat Province,,,,2020-11-05,,,-58,,,
 CL,Chile,Aysén,Capitán Prat Province,,,,2020-11-06,,,-51,,,
 CL,Chile,Aysén,Capitán Prat Province,,,,2020-11-07,,,-56,,,
 CL,Chile,Aysén,Capitán Prat Province,,,,2020-11-08,,,-60,,,
+CL,Chile,Aysén,Capitán Prat Province,,,,2020-11-09,,,-50,,,
+CL,Chile,Aysén,Capitán Prat Province,,,,2020-11-10,,,-54,,,
 CL,Chile,Aysén,Coyhaique Province,,,,2020-02-15,0,4,4,5,2,2
 CL,Chile,Aysén,Coyhaique Province,,,,2020-02-16,0,1,-10,2,1,
 CL,Chile,Aysén,Coyhaique Province,,,,2020-02-17,8,6,10,1,-4,3
@@ -4695,6 +4729,8 @@ CL,Chile,Aysén,Coyhaique Province,,,,2020-11-05,-62,-50,-72,-80,-27,24
 CL,Chile,Aysén,Coyhaique Province,,,,2020-11-06,-60,-39,-67,-75,-25,22
 CL,Chile,Aysén,Coyhaique Province,,,,2020-11-07,-64,-44,-71,-89,-25,20
 CL,Chile,Aysén,Coyhaique Province,,,,2020-11-08,-66,-51,-70,-89,-19,
+CL,Chile,Aysén,Coyhaique Province,,,,2020-11-09,-59,-45,-72,-84,-24,22
+CL,Chile,Aysén,Coyhaique Province,,,,2020-11-10,-59,-36,-69,-79,-25,19
 CL,Chile,Aysén,General Carrera Province,,,,2020-02-15,,,20,,,
 CL,Chile,Aysén,General Carrera Province,,,,2020-02-16,,,15,,,
 CL,Chile,Aysén,General Carrera Province,,,,2020-02-17,,,35,,,
@@ -4938,6 +4974,8 @@ CL,Chile,Aysén,General Carrera Province,,,,2020-11-05,,,-61,,,
 CL,Chile,Aysén,General Carrera Province,,,,2020-11-06,,,-67,,,
 CL,Chile,Aysén,General Carrera Province,,,,2020-11-07,,,-71,,,
 CL,Chile,Aysén,General Carrera Province,,,,2020-11-08,,,-72,,,
+CL,Chile,Aysén,General Carrera Province,,,,2020-11-09,,,-66,,,
+CL,Chile,Aysén,General Carrera Province,,,,2020-11-10,,,-57,,,
 CL,Chile,Bio Bio,,,CL-BI,,2020-02-15,2,7,9,20,-2,-1
 CL,Chile,Bio Bio,,,CL-BI,,2020-02-16,6,7,4,25,-2,0
 CL,Chile,Bio Bio,,,CL-BI,,2020-02-17,1,6,0,21,-6,1
@@ -5206,6 +5244,8 @@ CL,Chile,Bio Bio,,,CL-BI,,2020-11-05,-41,-12,-43,-34,-19,15
 CL,Chile,Bio Bio,,,CL-BI,,2020-11-06,-38,-9,-42,-28,-19,15
 CL,Chile,Bio Bio,,,CL-BI,,2020-11-07,-57,-26,-64,-49,-17,20
 CL,Chile,Bio Bio,,,CL-BI,,2020-11-08,-61,-35,-65,-50,-13,21
+CL,Chile,Bio Bio,,,CL-BI,,2020-11-09,-36,-11,-43,-29,-17,13
+CL,Chile,Bio Bio,,,CL-BI,,2020-11-10,-38,-13,-40,-31,-19,14
 CL,Chile,Bio Bio,Arauco Province,,,,2020-02-15,16,17,30,15,-1,-2
 CL,Chile,Bio Bio,Arauco Province,,,,2020-02-16,17,16,17,4,-5,0
 CL,Chile,Bio Bio,Arauco Province,,,,2020-02-17,8,12,12,1,-4,1
@@ -5474,6 +5514,8 @@ CL,Chile,Bio Bio,Arauco Province,,,,2020-11-05,-45,-25,-53,-66,-8,13
 CL,Chile,Bio Bio,Arauco Province,,,,2020-11-06,-42,-20,-51,-66,-5,14
 CL,Chile,Bio Bio,Arauco Province,,,,2020-11-07,-64,-40,-68,-75,-12,19
 CL,Chile,Bio Bio,Arauco Province,,,,2020-11-08,-69,-51,-71,-79,-13,21
+CL,Chile,Bio Bio,Arauco Province,,,,2020-11-09,-40,-24,-49,-66,-4,13
+CL,Chile,Bio Bio,Arauco Province,,,,2020-11-10,-43,-25,-49,-64,-8,13
 CL,Chile,Bio Bio,Bío Bío Province,,,,2020-02-15,14,15,13,33,-3,-1
 CL,Chile,Bio Bio,Bío Bío Province,,,,2020-02-16,7,12,2,16,-1,1
 CL,Chile,Bio Bio,Bío Bío Province,,,,2020-02-17,10,20,11,14,-4,2
@@ -5742,6 +5784,8 @@ CL,Chile,Bio Bio,Bío Bío Province,,,,2020-11-05,-31,-9,-38,-53,-7,13
 CL,Chile,Bio Bio,Bío Bío Province,,,,2020-11-06,-29,-8,-34,-50,-7,13
 CL,Chile,Bio Bio,Bío Bío Province,,,,2020-11-07,-33,-16,-51,-66,-5,16
 CL,Chile,Bio Bio,Bío Bío Province,,,,2020-11-08,-43,-23,-53,-71,-8,17
+CL,Chile,Bio Bio,Bío Bío Province,,,,2020-11-09,-32,-12,-35,-55,-6,12
+CL,Chile,Bio Bio,Bío Bío Province,,,,2020-11-10,-31,-15,-32,-53,-6,12
 CL,Chile,Bio Bio,Concepción Province,,,,2020-02-15,-2,4,7,18,-3,-1
 CL,Chile,Bio Bio,Concepción Province,,,,2020-02-16,3,5,2,27,-1,0
 CL,Chile,Bio Bio,Concepción Province,,,,2020-02-17,-2,2,0,22,-7,1
@@ -6010,6 +6054,8 @@ CL,Chile,Bio Bio,Concepción Province,,,,2020-11-05,-41,-13,-44,-29,-24,16
 CL,Chile,Bio Bio,Concepción Province,,,,2020-11-06,-39,-8,-43,-21,-22,15
 CL,Chile,Bio Bio,Concepción Province,,,,2020-11-07,-63,-29,-66,-46,-22,21
 CL,Chile,Bio Bio,Concepción Province,,,,2020-11-08,-65,-38,-69,-44,-18,22
+CL,Chile,Bio Bio,Concepción Province,,,,2020-11-09,-37,-11,-41,-21,-21,14
+CL,Chile,Bio Bio,Concepción Province,,,,2020-11-10,-39,-12,-38,-24,-24,15
 CL,Chile,Coquimbo,,,CL-CO,,2020-02-15,22,17,37,18,-2,-1
 CL,Chile,Coquimbo,,,CL-CO,,2020-02-16,23,17,29,15,-2,0
 CL,Chile,Coquimbo,,,CL-CO,,2020-02-17,19,18,40,18,-5,0
@@ -6278,6 +6324,8 @@ CL,Chile,Coquimbo,,,CL-CO,,2020-11-05,-41,-17,-64,-46,-18,13
 CL,Chile,Coquimbo,,,CL-CO,,2020-11-06,-39,-18,-59,-42,-16,14
 CL,Chile,Coquimbo,,,CL-CO,,2020-11-07,-39,-16,-59,-48,-12,11
 CL,Chile,Coquimbo,,,CL-CO,,2020-11-08,-46,-26,-61,-43,-13,11
+CL,Chile,Coquimbo,,,CL-CO,,2020-11-09,-41,-23,-64,-46,-15,12
+CL,Chile,Coquimbo,,,CL-CO,,2020-11-10,-42,-21,-66,-40,-16,12
 CL,Chile,Coquimbo,Choapa Province,,,,2020-02-15,41,34,33,45,-1,0
 CL,Chile,Coquimbo,Choapa Province,,,,2020-02-16,44,27,29,29,-4,
 CL,Chile,Coquimbo,Choapa Province,,,,2020-02-17,37,33,23,38,-6,1
@@ -6546,6 +6594,8 @@ CL,Chile,Coquimbo,Choapa Province,,,,2020-11-05,-46,-23,-57,-58,-10,14
 CL,Chile,Coquimbo,Choapa Province,,,,2020-11-06,-47,-22,-55,-55,-7,16
 CL,Chile,Coquimbo,Choapa Province,,,,2020-11-07,-48,-22,-57,-68,-7,15
 CL,Chile,Coquimbo,Choapa Province,,,,2020-11-08,-55,-38,-56,-66,-13,14
+CL,Chile,Coquimbo,Choapa Province,,,,2020-11-09,-48,-24,-55,-57,-4,12
+CL,Chile,Coquimbo,Choapa Province,,,,2020-11-10,-47,-23,-57,-59,-6,13
 CL,Chile,Coquimbo,Elqui Province,,,,2020-02-15,21,17,43,17,-3,-1
 CL,Chile,Coquimbo,Elqui Province,,,,2020-02-16,23,17,35,14,-1,0
 CL,Chile,Coquimbo,Elqui Province,,,,2020-02-17,18,18,49,14,-5,0
@@ -6814,6 +6864,8 @@ CL,Chile,Coquimbo,Elqui Province,,,,2020-11-05,-38,-18,-66,-40,-21,14
 CL,Chile,Coquimbo,Elqui Province,,,,2020-11-06,-38,-16,-60,-33,-18,14
 CL,Chile,Coquimbo,Elqui Province,,,,2020-11-07,-39,-15,-59,-42,-9,11
 CL,Chile,Coquimbo,Elqui Province,,,,2020-11-08,-44,-22,-62,-37,-12,11
+CL,Chile,Coquimbo,Elqui Province,,,,2020-11-09,-41,-21,-68,-41,-17,13
+CL,Chile,Coquimbo,Elqui Province,,,,2020-11-10,-40,-19,-70,-34,-19,12
 CL,Chile,Coquimbo,Limarí Province,,,,2020-02-15,14,9,19,,0,-1
 CL,Chile,Coquimbo,Limarí Province,,,,2020-02-16,14,7,10,,-5,0
 CL,Chile,Coquimbo,Limarí Province,,,,2020-02-17,9,4,16,,-4,1
@@ -7081,6 +7133,8 @@ CL,Chile,Coquimbo,Limarí Province,,,,2020-11-05,-34,-10,-43,,-11,14
 CL,Chile,Coquimbo,Limarí Province,,,,2020-11-06,-32,-12,-40,,-9,14
 CL,Chile,Coquimbo,Limarí Province,,,,2020-11-07,-30,-10,-41,,-9,13
 CL,Chile,Coquimbo,Limarí Province,,,,2020-11-08,-40,-19,-42,,-14,13
+CL,Chile,Coquimbo,Limarí Province,,,,2020-11-09,-33,-18,-33,,-9,12
+CL,Chile,Coquimbo,Limarí Province,,,,2020-11-10,-32,-16,-36,,-10,13
 CL,Chile,Los Lagos,,,CL-LL,,2020-02-15,14,13,13,13,-2,1
 CL,Chile,Los Lagos,,,CL-LL,,2020-02-16,15,13,6,12,-1,3
 CL,Chile,Los Lagos,,,CL-LL,,2020-02-17,15,16,31,20,-5,1
@@ -7349,6 +7403,8 @@ CL,Chile,Los Lagos,,,CL-LL,,2020-11-05,-55,-36,-59,-46,-22,20
 CL,Chile,Los Lagos,,,CL-LL,,2020-11-06,-51,-28,-55,-42,-20,20
 CL,Chile,Los Lagos,,,CL-LL,,2020-11-07,-60,-39,-62,-53,-23,21
 CL,Chile,Los Lagos,,,CL-LL,,2020-11-08,-66,-50,-68,-59,-22,22
+CL,Chile,Los Lagos,,,CL-LL,,2020-11-09,-52,-35,-52,-42,-19,18
+CL,Chile,Los Lagos,,,CL-LL,,2020-11-10,-53,-37,-53,-44,-20,17
 CL,Chile,Los Lagos,Chiloé Province,,,,2020-02-15,22,22,37,18,-1,0
 CL,Chile,Los Lagos,Chiloé Province,,,,2020-02-16,23,21,23,14,-3,3
 CL,Chile,Los Lagos,Chiloé Province,,,,2020-02-17,21,23,51,32,-5,0
@@ -7617,6 +7673,8 @@ CL,Chile,Los Lagos,Chiloé Province,,,,2020-11-05,-53,-35,-56,-48,-10,17
 CL,Chile,Los Lagos,Chiloé Province,,,,2020-11-06,-46,-20,-49,-41,-8,13
 CL,Chile,Los Lagos,Chiloé Province,,,,2020-11-07,-86,-72,-77,-80,-43,32
 CL,Chile,Los Lagos,Chiloé Province,,,,2020-11-08,-87,-76,-83,-83,-40,32
+CL,Chile,Los Lagos,Chiloé Province,,,,2020-11-09,-47,-32,-46,-43,-10,12
+CL,Chile,Los Lagos,Chiloé Province,,,,2020-11-10,-51,-33,-53,-46,-10,14
 CL,Chile,Los Lagos,Llanquihue Province,,,,2020-02-15,12,10,3,6,-3,2
 CL,Chile,Los Lagos,Llanquihue Province,,,,2020-02-16,15,12,5,11,-1,3
 CL,Chile,Los Lagos,Llanquihue Province,,,,2020-02-17,15,14,27,17,-6,1
@@ -7885,6 +7943,8 @@ CL,Chile,Los Lagos,Llanquihue Province,,,,2020-11-05,-55,-37,-62,-42,-24,21
 CL,Chile,Los Lagos,Llanquihue Province,,,,2020-11-06,-52,-30,-57,-36,-24,21
 CL,Chile,Los Lagos,Llanquihue Province,,,,2020-11-07,-54,-30,-57,-43,-17,19
 CL,Chile,Los Lagos,Llanquihue Province,,,,2020-11-08,-60,-40,-63,-45,-17,19
+CL,Chile,Los Lagos,Llanquihue Province,,,,2020-11-09,-53,-35,-55,-37,-23,18
+CL,Chile,Los Lagos,Llanquihue Province,,,,2020-11-10,-51,-36,-53,-39,-22,17
 CL,Chile,Los Lagos,Osorno Province,,,,2020-02-15,5,11,19,12,-1,1
 CL,Chile,Los Lagos,Osorno Province,,,,2020-02-16,10,11,2,11,1,4
 CL,Chile,Los Lagos,Osorno Province,,,,2020-02-17,5,10,34,12,-4,1
@@ -8153,6 +8213,8 @@ CL,Chile,Los Lagos,Osorno Province,,,,2020-11-05,-53,-34,-55,-48,-25,22
 CL,Chile,Los Lagos,Osorno Province,,,,2020-11-06,-52,-29,-54,-49,-21,23
 CL,Chile,Los Lagos,Osorno Province,,,,2020-11-07,-58,-35,-54,-52,-20,20
 CL,Chile,Los Lagos,Osorno Province,,,,2020-11-08,-63,-48,-60,-58,-18,21
+CL,Chile,Los Lagos,Osorno Province,,,,2020-11-09,-56,-37,-46,-48,-23,20
+CL,Chile,Los Lagos,Osorno Province,,,,2020-11-10,-53,-41,-47,-50,-24,19
 CL,Chile,Los Lagos,Palena Province,,,,2020-02-15,,,56,54,,
 CL,Chile,Los Lagos,Palena Province,,,,2020-02-16,,,39,50,,
 CL,Chile,Los Lagos,Palena Province,,,,2020-02-17,,,49,54,,
@@ -8396,6 +8458,8 @@ CL,Chile,Los Lagos,Palena Province,,,,2020-11-05,,,-69,-63,-19,
 CL,Chile,Los Lagos,Palena Province,,,,2020-11-06,,,-67,-59,-12,
 CL,Chile,Los Lagos,Palena Province,,,,2020-11-07,,,-61,-70,-26,
 CL,Chile,Los Lagos,Palena Province,,,,2020-11-08,,,-64,-78,-35,
+CL,Chile,Los Lagos,Palena Province,,,,2020-11-09,,,-68,-63,-16,
+CL,Chile,Los Lagos,Palena Province,,,,2020-11-10,,,-66,-60,-13,
 CL,Chile,Los Ríos,,,CL-LR,,2020-02-15,29,20,32,23,-1,1
 CL,Chile,Los Ríos,,,CL-LR,,2020-02-16,25,21,25,16,2,4
 CL,Chile,Los Ríos,,,CL-LR,,2020-02-17,27,22,56,26,-6,2
@@ -8664,6 +8728,8 @@ CL,Chile,Los Ríos,,,CL-LR,,2020-11-05,-47,-14,-65,-50,-18,16
 CL,Chile,Los Ríos,,,CL-LR,,2020-11-06,-40,-3,-55,-42,-18,14
 CL,Chile,Los Ríos,,,CL-LR,,2020-11-07,-81,-54,-77,-80,-42,30
 CL,Chile,Los Ríos,,,CL-LR,,2020-11-08,-83,-59,-79,-80,-37,30
+CL,Chile,Los Ríos,,,CL-LR,,2020-11-09,-70,-43,-65,-68,-33,24
+CL,Chile,Los Ríos,,,CL-LR,,2020-11-10,-68,-42,-66,-65,-33,22
 CL,Chile,Los Ríos,El Ranco Province,,,,2020-02-15,29,20,20,56,-4,1
 CL,Chile,Los Ríos,El Ranco Province,,,,2020-02-16,5,24,-2,13,-1,
 CL,Chile,Los Ríos,El Ranco Province,,,,2020-02-17,24,22,37,59,-2,3
@@ -8932,6 +8998,8 @@ CL,Chile,Los Ríos,El Ranco Province,,,,2020-11-05,-49,-27,-65,-75,-18,22
 CL,Chile,Los Ríos,El Ranco Province,,,,2020-11-06,-44,-13,-57,-74,-19,23
 CL,Chile,Los Ríos,El Ranco Province,,,,2020-11-07,-77,-60,-76,-86,-39,32
 CL,Chile,Los Ríos,El Ranco Province,,,,2020-11-08,-85,-71,-80,,-37,
+CL,Chile,Los Ríos,El Ranco Province,,,,2020-11-09,-52,-33,-57,-68,-21,22
+CL,Chile,Los Ríos,El Ranco Province,,,,2020-11-10,-52,-35,-60,-71,-21,21
 CL,Chile,Los Ríos,Valdivia Province,,,,2020-02-15,29,21,40,18,0,1
 CL,Chile,Los Ríos,Valdivia Province,,,,2020-02-16,28,19,36,16,-1,3
 CL,Chile,Los Ríos,Valdivia Province,,,,2020-02-17,26,23,63,27,-7,2
@@ -9200,6 +9268,8 @@ CL,Chile,Los Ríos,Valdivia Province,,,,2020-11-05,-44,-12,-65,-47,-20,14
 CL,Chile,Los Ríos,Valdivia Province,,,,2020-11-06,-35,2,-56,-39,-17,12
 CL,Chile,Los Ríos,Valdivia Province,,,,2020-11-07,-80,-54,-78,-81,-44,30
 CL,Chile,Los Ríos,Valdivia Province,,,,2020-11-08,-82,-58,-80,-80,-38,29
+CL,Chile,Los Ríos,Valdivia Province,,,,2020-11-09,-71,-45,-69,-67,-36,24
+CL,Chile,Los Ríos,Valdivia Province,,,,2020-11-10,-69,-42,-69,-64,-36,22
 CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-02-15,-2,-1,2,9,-3,0
 CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-02-16,-2,-1,2,9,2,0
 CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-02-17,-6,-5,-3,1,-7,2
@@ -9468,6 +9538,8 @@ CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-11-05,-62,-45,-55,-67,-
 CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-11-06,-61,-45,-50,-67,-32,22
 CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-11-07,-67,-45,-63,-77,-29,20
 CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-11-08,-77,-59,-66,-80,-28,18
+CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-11-09,-64,-48,-60,-70,-34,22
+CL,Chile,Magallanes and Chilean Antarctica,,,CL-MA,,2020-11-10,-60,-45,-49,-68,-34,20
 CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-02-15,-4,-1,-2,14,-3,0
 CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-02-16,-2,-3,-1,6,6,0
 CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-02-17,-8,-4,-14,-5,-8,2
@@ -9736,6 +9808,8 @@ CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-11-05,-60
 CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-11-06,-59,-46,-41,-66,-35,23
 CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-11-07,-64,-47,-54,-80,-29,20
 CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-11-08,-75,-61,-57,-81,-24,18
+CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-11-09,-63,-51,-54,-71,-37,23
+CL,Chile,Magallanes and Chilean Antarctica,Magallanes Province,,,,2020-11-10,-58,-47,-39,-66,-37,21
 CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-02-15,,,-2,,,
 CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-02-16,,,-3,,,
 CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-02-17,,,-7,,,
@@ -9973,6 +10047,8 @@ CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-11-
 CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-11-06,,,-53,,-17,
 CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-11-07,,,-66,,,
 CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-11-08,,,-62,,,
+CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-11-09,,,-60,,-21,
+CL,Chile,Magallanes and Chilean Antarctica,Tierra del Fuego Province,,,,2020-11-10,,,-52,,-21,
 CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-02-15,13,13,29,9,-1,
 CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-02-16,8,2,12,18,-2,
 CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-02-17,4,3,45,10,-6,
@@ -10216,6 +10292,8 @@ CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-11-05,-73,-
 CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-11-06,-71,-37,-80,-79,-36,23
 CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-11-07,-76,-33,-88,-79,-34,
 CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-11-08,,-57,-91,-83,-39,
+CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-11-09,-73,-36,-79,-78,-36,23
+CL,Chile,Magallanes and Chilean Antarctica,Última Esperanza,,,,2020-11-10,-71,-39,-77,-78,-39,22
 CL,Chile,Maule,,,CL-ML,,2020-02-15,6,9,20,20,-4,0
 CL,Chile,Maule,,,CL-ML,,2020-02-16,6,11,17,12,-1,0
 CL,Chile,Maule,,,CL-ML,,2020-02-17,6,13,19,13,-7,1
@@ -10484,6 +10562,8 @@ CL,Chile,Maule,,,CL-ML,,2020-11-05,-25,-4,-31,13,-9,12
 CL,Chile,Maule,,,CL-ML,,2020-11-06,-23,1,-26,19,-5,11
 CL,Chile,Maule,,,CL-ML,,2020-11-07,-54,-28,-45,-35,-20,19
 CL,Chile,Maule,,,CL-ML,,2020-11-08,-59,-33,-43,-33,-18,18
+CL,Chile,Maule,,,CL-ML,,2020-11-09,-25,-6,-27,14,-7,10
+CL,Chile,Maule,,,CL-ML,,2020-11-10,-25,-7,-28,9,-8,12
 CL,Chile,Maule,Cauquenes Province,,,,2020-02-15,27,32,54,,-7,
 CL,Chile,Maule,Cauquenes Province,,,,2020-02-16,30,20,39,,-4,
 CL,Chile,Maule,Cauquenes Province,,,,2020-02-17,23,,44,,-2,1
@@ -10752,6 +10832,8 @@ CL,Chile,Maule,Cauquenes Province,,,,2020-11-05,-44,,-51,,-6,12
 CL,Chile,Maule,Cauquenes Province,,,,2020-11-06,-37,,-47,,-7,14
 CL,Chile,Maule,Cauquenes Province,,,,2020-11-07,-48,-20,-51,,-12,16
 CL,Chile,Maule,Cauquenes Province,,,,2020-11-08,-55,-28,-49,,-19,
+CL,Chile,Maule,Cauquenes Province,,,,2020-11-09,-44,,-50,,-10,16
+CL,Chile,Maule,Cauquenes Province,,,,2020-11-10,-40,,-52,,-9,14
 CL,Chile,Maule,Curicó Province,,,,2020-02-15,-1,3,10,26,-1,0
 CL,Chile,Maule,Curicó Province,,,,2020-02-16,0,5,10,13,-1,1
 CL,Chile,Maule,Curicó Province,,,,2020-02-17,5,5,14,17,-4,0
@@ -11020,6 +11102,8 @@ CL,Chile,Maule,Curicó Province,,,,2020-11-05,-29,-9,-37,44,-8,11
 CL,Chile,Maule,Curicó Province,,,,2020-11-06,-26,-5,-37,63,-7,10
 CL,Chile,Maule,Curicó Province,,,,2020-11-07,-57,-31,-46,-3,-20,16
 CL,Chile,Maule,Curicó Province,,,,2020-11-08,-62,-32,-45,7,-16,15
+CL,Chile,Maule,Curicó Province,,,,2020-11-09,-24,-9,-30,61,-5,9
+CL,Chile,Maule,Curicó Province,,,,2020-11-10,-28,-12,-32,49,-7,10
 CL,Chile,Maule,Linares Province,,,,2020-02-15,15,18,23,33,-8,0
 CL,Chile,Maule,Linares Province,,,,2020-02-16,12,19,28,21,-1,0
 CL,Chile,Maule,Linares Province,,,,2020-02-17,15,23,18,24,-6,1
@@ -11288,6 +11372,8 @@ CL,Chile,Maule,Linares Province,,,,2020-11-05,-20,-13,-25,-22,-6,13
 CL,Chile,Maule,Linares Province,,,,2020-11-06,-17,-10,-22,-35,-5,12
 CL,Chile,Maule,Linares Province,,,,2020-11-07,-28,-21,-29,-44,-9,16
 CL,Chile,Maule,Linares Province,,,,2020-11-08,-39,-28,-31,-53,-10,15
+CL,Chile,Maule,Linares Province,,,,2020-11-09,-21,-15,-23,-31,-5,11
+CL,Chile,Maule,Linares Province,,,,2020-11-10,-22,-14,-22,-31,-7,12
 CL,Chile,Maule,Talca Province,,,,2020-02-15,3,8,8,4,-4,-1
 CL,Chile,Maule,Talca Province,,,,2020-02-16,6,12,5,4,-3,0
 CL,Chile,Maule,Talca Province,,,,2020-02-17,1,14,12,2,-10,1
@@ -11556,6 +11642,8 @@ CL,Chile,Maule,Talca Province,,,,2020-11-05,-26,7,-23,31,-10,12
 CL,Chile,Maule,Talca Province,,,,2020-11-06,-22,15,-21,41,-9,11
 CL,Chile,Maule,Talca Province,,,,2020-11-07,-66,-33,-48,-40,-30,23
 CL,Chile,Maule,Talca Province,,,,2020-11-08,-66,-36,-49,-34,-25,22
+CL,Chile,Maule,Talca Province,,,,2020-11-09,-26,6,-19,34,-9,11
+CL,Chile,Maule,Talca Province,,,,2020-11-10,-26,2,-22,27,-10,12
 CL,Chile,Ñuble,,,CL-NB,,2020-02-15,8,13,19,18,-16,2
 CL,Chile,Ñuble,,,CL-NB,,2020-02-16,8,14,13,17,-13,
 CL,Chile,Ñuble,,,CL-NB,,2020-02-17,7,19,21,19,-22,2
@@ -11824,6 +11912,8 @@ CL,Chile,Ñuble,,,CL-NB,,2020-11-05,-28,-17,-19,-52,-61,11
 CL,Chile,Ñuble,,,CL-NB,,2020-11-06,-24,-12,-17,-52,-62,11
 CL,Chile,Ñuble,,,CL-NB,,2020-11-07,-56,-32,-35,-64,-70,18
 CL,Chile,Ñuble,,,CL-NB,,2020-11-08,-59,-36,-40,-73,-67,16
+CL,Chile,Ñuble,,,CL-NB,,2020-11-09,-28,-16,-16,-49,-62,11
+CL,Chile,Ñuble,,,CL-NB,,2020-11-10,-29,-18,-15,-48,-63,12
 CL,Chile,Ñuble,Diguillín Province,,,,2020-02-15,6,12,17,18,-14,2
 CL,Chile,Ñuble,Diguillín Province,,,,2020-02-16,8,11,11,15,-16,0
 CL,Chile,Ñuble,Diguillín Province,,,,2020-02-17,4,15,19,16,-16,2
@@ -12092,6 +12182,8 @@ CL,Chile,Ñuble,Diguillín Province,,,,2020-11-05,-26,-18,-24,-58,-68,10
 CL,Chile,Ñuble,Diguillín Province,,,,2020-11-06,-22,-14,-21,-56,-69,10
 CL,Chile,Ñuble,Diguillín Province,,,,2020-11-07,-58,-38,-41,-71,-77,18
 CL,Chile,Ñuble,Diguillín Province,,,,2020-11-08,-60,-41,-46,-75,-75,16
+CL,Chile,Ñuble,Diguillín Province,,,,2020-11-09,-24,-20,-19,-54,-70,10
+CL,Chile,Ñuble,Diguillín Province,,,,2020-11-10,-26,-20,-20,-54,-70,11
 CL,Chile,Ñuble,Itata Province,,,,2020-02-15,1,11,35,17,,
 CL,Chile,Ñuble,Itata Province,,,,2020-02-16,-15,,32,17,,
 CL,Chile,Ñuble,Itata Province,,,,2020-02-17,-6,,35,14,,
@@ -12335,6 +12427,8 @@ CL,Chile,Ñuble,Itata Province,,,,2020-11-05,,,-23,-37,,
 CL,Chile,Ñuble,Itata Province,,,,2020-11-06,-50,,-26,-35,,
 CL,Chile,Ñuble,Itata Province,,,,2020-11-07,-59,-18,-35,-42,,
 CL,Chile,Ñuble,Itata Province,,,,2020-11-08,-67,,-36,-62,,
+CL,Chile,Ñuble,Itata Province,,,,2020-11-09,-53,,-22,-22,,
+CL,Chile,Ñuble,Itata Province,,,,2020-11-10,-52,,-21,-32,,
 CL,Chile,Ñuble,Punilla Province,,,,2020-02-15,19,22,21,26,-12,
 CL,Chile,Ñuble,Punilla Province,,,,2020-02-16,21,23,18,20,,
 CL,Chile,Ñuble,Punilla Province,,,,2020-02-17,18,23,18,36,-15,
@@ -12579,6 +12673,8 @@ CL,Chile,Ñuble,Punilla Province,,,,2020-11-05,-21,12,-19,-8,-68,
 CL,Chile,Ñuble,Punilla Province,,,,2020-11-06,-17,18,-15,-14,-71,
 CL,Chile,Ñuble,Punilla Province,,,,2020-11-07,-22,4,-26,-27,-74,
 CL,Chile,Ñuble,Punilla Province,,,,2020-11-08,-35,-3,-31,-44,-74,
+CL,Chile,Ñuble,Punilla Province,,,,2020-11-09,-24,10,-21,-26,-70,
+CL,Chile,Ñuble,Punilla Province,,,,2020-11-10,-20,8,-19,-15,-72,
 CL,Chile,O'Higgins,,,CL-LI,,2020-02-15,5,4,19,6,0,0
 CL,Chile,O'Higgins,,,CL-LI,,2020-02-16,3,6,13,7,0,0
 CL,Chile,O'Higgins,,,CL-LI,,2020-02-17,2,7,17,6,-3,0
@@ -12847,6 +12943,8 @@ CL,Chile,O'Higgins,,,CL-LI,,2020-11-05,-26,-7,-38,-24,-11,12
 CL,Chile,O'Higgins,,,CL-LI,,2020-11-06,-26,-6,-31,-19,-13,12
 CL,Chile,O'Higgins,,,CL-LI,,2020-11-07,-35,-12,-37,-34,-9,13
 CL,Chile,O'Higgins,,,CL-LI,,2020-11-08,-38,-15,-37,-34,-9,12
+CL,Chile,O'Higgins,,,CL-LI,,2020-11-09,-26,-13,-33,-23,-10,12
+CL,Chile,O'Higgins,,,CL-LI,,2020-11-10,-27,-8,-34,-24,-10,12
 CL,Chile,O'Higgins,Cachapoal,,,,2020-02-15,2,0,3,5,-1,0
 CL,Chile,O'Higgins,Cachapoal,,,,2020-02-16,-1,2,2,3,0,0
 CL,Chile,O'Higgins,Cachapoal,,,,2020-02-17,-1,2,0,1,-3,0
@@ -13115,6 +13213,8 @@ CL,Chile,O'Higgins,Cachapoal,,,,2020-11-05,-28,-3,-28,-3,-13,12
 CL,Chile,O'Higgins,Cachapoal,,,,2020-11-06,-27,-4,-24,3,-13,12
 CL,Chile,O'Higgins,Cachapoal,,,,2020-11-07,-34,-6,-33,-14,-7,12
 CL,Chile,O'Higgins,Cachapoal,,,,2020-11-08,-35,-11,-29,-15,-6,11
+CL,Chile,O'Higgins,Cachapoal,,,,2020-11-09,-26,-9,-24,-3,-12,12
+CL,Chile,O'Higgins,Cachapoal,,,,2020-11-10,-27,-6,-26,-2,-12,12
 CL,Chile,O'Higgins,Cardenal Caro,,,,2020-02-15,43,10,41,3,2,
 CL,Chile,O'Higgins,Cardenal Caro,,,,2020-02-16,34,16,34,-10,0,
 CL,Chile,O'Higgins,Cardenal Caro,,,,2020-02-17,59,28,77,3,0,2
@@ -13383,6 +13483,8 @@ CL,Chile,O'Higgins,Cardenal Caro,,,,2020-11-05,-39,-46,-70,,-13,17
 CL,Chile,O'Higgins,Cardenal Caro,,,,2020-11-06,-35,-43,-61,-77,-14,16
 CL,Chile,O'Higgins,Cardenal Caro,,,,2020-11-07,-36,-35,-53,-79,-19,16
 CL,Chile,O'Higgins,Cardenal Caro,,,,2020-11-08,-38,-35,-49,-77,-27,
+CL,Chile,O'Higgins,Cardenal Caro,,,,2020-11-09,-36,-45,-61,,-11,17
+CL,Chile,O'Higgins,Cardenal Caro,,,,2020-11-10,-41,-46,-69,,-9,17
 CL,Chile,O'Higgins,Colchagua,,,,2020-02-15,5,10,18,12,1,-1
 CL,Chile,O'Higgins,Colchagua,,,,2020-02-16,4,11,13,19,1,0
 CL,Chile,O'Higgins,Colchagua,,,,2020-02-17,8,15,11,19,-3,1
@@ -13651,6 +13753,8 @@ CL,Chile,O'Higgins,Colchagua,,,,2020-11-05,-28,-7,-28,-45,-6,11
 CL,Chile,O'Higgins,Colchagua,,,,2020-11-06,-24,6,-21,-28,-9,11
 CL,Chile,O'Higgins,Colchagua,,,,2020-11-07,-49,-21,-31,-64,-19,17
 CL,Chile,O'Higgins,Colchagua,,,,2020-11-08,-58,-27,-37,-53,-14,16
+CL,Chile,O'Higgins,Colchagua,,,,2020-11-09,-23,-4,-22,-43,-5,10
+CL,Chile,O'Higgins,Colchagua,,,,2020-11-10,-25,-5,-25,-39,-9,11
 CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-02-15,-10,-7,-9,-7,-4,0
 CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-02-16,-6,-3,-12,-2,0,-1
 CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-02-17,-8,-3,-10,-8,-9,1
@@ -13919,6 +14023,8 @@ CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-11-05,-31,-5,-26,-30,-28,16
 CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-11-06,-33,-6,-28,-31,-27,16
 CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-11-07,-32,-9,-27,-21,-9,10
 CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-11-08,-34,-15,-22,-24,-8,9
+CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-11-09,-32,-11,-29,-34,-28,16
+CL,Chile,Santiago Metropolitan Region,,,CL-RM,,2020-11-10,-32,-8,-30,-32,-28,16
 CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-02-15,-8,-7,-8,10,-2,0
 CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-02-16,-2,-5,-11,,0,-1
 CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-02-17,-3,-1,-3,1,-8,2
@@ -14187,6 +14293,8 @@ CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-11-05,-6,1,18,4
 CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-11-06,-2,2,18,20,-15,15
 CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-11-07,-1,-2,25,-2,4,11
 CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-11-08,-1,-7,24,,3,9
+CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-11-09,-4,-5,24,26,-19,15
+CL,Chile,Santiago Metropolitan Region,Chacabuco Province,,,,2020-11-10,-2,0,20,22,-13,15
 CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-02-15,-5,-5,-2,-10,-4,0
 CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-02-16,-6,-2,-11,-4,-1,-1
 CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-02-17,-1,1,-4,-11,-10,1
@@ -14455,6 +14563,8 @@ CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-11-05,-28,-9,-
 CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-11-06,-29,-9,-22,-9,-23,16
 CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-11-07,-34,-16,-24,-2,-8,11
 CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-11-08,-34,-28,-25,-28,-9,9
+CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-11-09,-26,-15,-25,-16,-23,15
+CL,Chile,Santiago Metropolitan Region,Cordillera Province,,,,2020-11-10,-27,-14,-21,-12,-25,15
 CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-02-15,-1,-3,-3,-2,-4,-1
 CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-02-16,0,-1,-7,-4,-4,0
 CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-02-17,-1,-2,0,-3,-9,1
@@ -14723,6 +14833,8 @@ CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-11-05,-16,-7,-20,-2
 CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-11-06,-17,-9,-22,-20,-19,14
 CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-11-07,-23,-11,-15,-14,-8,10
 CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-11-08,-24,-14,-17,-24,-4,9
+CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-11-09,-15,-12,-19,-23,-18,14
+CL,Chile,Santiago Metropolitan Region,Maipo Province,,,,2020-11-10,-17,-8,-16,-20,-18,13
 CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-02-15,5,-1,18,-3,0,0
 CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-02-16,-3,1,1,-21,-4,1
 CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-02-17,9,5,1,-10,-5,1
@@ -14991,6 +15103,8 @@ CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-11-05,-23,-4,-3
 CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-11-06,-23,-3,-38,13,-12,14
 CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-11-07,-27,-4,-39,-5,-4,12
 CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-11-08,-33,-3,-39,-8,-5,11
+CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-11-09,-27,-8,-40,-19,-12,14
+CL,Chile,Santiago Metropolitan Region,Melipilla Province,,,,2020-11-10,-21,-1,-41,-22,-13,14
 CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-02-15,-11,-6,-11,-7,-4,0
 CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-02-16,-6,-3,-14,-3,0,0
 CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-02-17,-9,-3,-12,-8,-9,1
@@ -15259,6 +15373,8 @@ CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-11-05,-32,-5,-27
 CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-11-06,-34,-6,-30,-33,-30,17
 CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-11-07,-33,-7,-26,-22,-10,10
 CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-11-08,-34,-15,-22,-23,-9,9
+CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-11-09,-34,-11,-30,-35,-30,17
+CL,Chile,Santiago Metropolitan Region,Santiago Province,,,,2020-11-10,-33,-8,-32,-33,-31,16
 CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-02-15,-4,1,2,-9,-3,0
 CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-02-16,-5,2,-9,-38,-1,0
 CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-02-17,-11,3,-6,-11,-8,1
@@ -15527,6 +15643,8 @@ CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-11-05,-21,-9,-3
 CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-11-06,-21,-6,-39,-23,-17,16
 CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-11-07,-32,-15,-47,-13,-5,12
 CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-11-08,-36,-16,-43,-67,-6,11
+CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-11-09,-23,-9,-31,-32,-19,15
+CL,Chile,Santiago Metropolitan Region,Talagante Province,,,,2020-11-10,-19,-5,-35,-36,-18,14
 CL,Chile,Tarapacá,,,CL-TA,,2020-02-15,5,-1,11,6,-1,1
 CL,Chile,Tarapacá,,,CL-TA,,2020-02-16,3,-1,18,9,0,0
 CL,Chile,Tarapacá,,,CL-TA,,2020-02-17,1,-1,-2,2,-5,1
@@ -15795,6 +15913,8 @@ CL,Chile,Tarapacá,,,CL-TA,,2020-11-05,-40,-19,-44,-21,-16,13
 CL,Chile,Tarapacá,,,CL-TA,,2020-11-06,-40,-16,-37,-24,-15,13
 CL,Chile,Tarapacá,,,CL-TA,,2020-11-07,-64,-40,-57,-45,-17,18
 CL,Chile,Tarapacá,,,CL-TA,,2020-11-08,-62,-45,-53,-41,-16,16
+CL,Chile,Tarapacá,,,CL-TA,,2020-11-09,-39,-19,-46,-22,-14,12
+CL,Chile,Tarapacá,,,CL-TA,,2020-11-10,-38,-20,-45,-23,-16,12
 CL,Chile,Tarapacá,Iquique Province,,,,2020-02-15,6,-2,13,10,-1,1
 CL,Chile,Tarapacá,Iquique Province,,,,2020-02-16,3,-1,18,17,0,0
 CL,Chile,Tarapacá,Iquique Province,,,,2020-02-17,1,-3,-1,9,-5,1
@@ -16063,6 +16183,8 @@ CL,Chile,Tarapacá,Iquique Province,,,,2020-11-05,-40,-18,-42,-6,-17,13
 CL,Chile,Tarapacá,Iquique Province,,,,2020-11-06,-39,-13,-37,-9,-17,13
 CL,Chile,Tarapacá,Iquique Province,,,,2020-11-07,-64,-37,-55,-37,-23,19
 CL,Chile,Tarapacá,Iquique Province,,,,2020-11-08,-62,-44,-51,-31,-16,17
+CL,Chile,Tarapacá,Iquique Province,,,,2020-11-09,-38,-17,-44,-6,-16,12
+CL,Chile,Tarapacá,Iquique Province,,,,2020-11-10,-37,-18,-43,-6,-15,12
 CL,Chile,Tarapacá,Tamarugal,,,,2020-02-15,6,,4,,-1,
 CL,Chile,Tarapacá,Tamarugal,,,,2020-02-16,4,,22,,,
 CL,Chile,Tarapacá,Tamarugal,,,,2020-02-17,1,,6,,-7,
@@ -16306,6 +16428,8 @@ CL,Chile,Tarapacá,Tamarugal,,,,2020-11-05,-49,,-61,-12,-3,
 CL,Chile,Tarapacá,Tamarugal,,,,2020-11-06,-45,,-46,-27,-4,
 CL,Chile,Tarapacá,Tamarugal,,,,2020-11-07,-59,,-66,-29,-1,
 CL,Chile,Tarapacá,Tamarugal,,,,2020-11-08,-57,,-64,-42,-7,
+CL,Chile,Tarapacá,Tamarugal,,,,2020-11-09,-46,,-53,,-1,
+CL,Chile,Tarapacá,Tamarugal,,,,2020-11-10,-47,,-63,,-8,
 CL,Chile,Valparaíso,,,CL-VS,,2020-02-15,11,9,16,9,-2,-1
 CL,Chile,Valparaíso,,,CL-VS,,2020-02-16,9,10,10,9,0,0
 CL,Chile,Valparaíso,,,CL-VS,,2020-02-17,9,13,21,7,-6,1
@@ -16574,6 +16698,8 @@ CL,Chile,Valparaíso,,,CL-VS,,2020-11-05,-41,-20,-47,-29,-22,14
 CL,Chile,Valparaíso,,,CL-VS,,2020-11-06,-41,-18,-44,-29,-22,14
 CL,Chile,Valparaíso,,,CL-VS,,2020-11-07,-42,-19,-49,-34,-14,12
 CL,Chile,Valparaíso,,,CL-VS,,2020-11-08,-46,-26,-48,-42,-18,11
+CL,Chile,Valparaíso,,,CL-VS,,2020-11-09,-41,-22,-49,-34,-22,13
+CL,Chile,Valparaíso,,,CL-VS,,2020-11-10,-41,-22,-52,-31,-23,14
 CL,Chile,Valparaíso,Easter Island,,,,2020-02-15,,,19,,,
 CL,Chile,Valparaíso,Easter Island,,,,2020-02-17,,,13,,,
 CL,Chile,Valparaíso,Easter Island,,,,2020-02-18,,,19,,,
@@ -16783,6 +16909,8 @@ CL,Chile,Valparaíso,Easter Island,,,,2020-11-05,,,-64,,7,
 CL,Chile,Valparaíso,Easter Island,,,,2020-11-06,,,-64,,0,
 CL,Chile,Valparaíso,Easter Island,,,,2020-11-07,,,-71,,-29,
 CL,Chile,Valparaíso,Easter Island,,,,2020-11-08,,,-76,,,
+CL,Chile,Valparaíso,Easter Island,,,,2020-11-09,,,-72,,-8,
+CL,Chile,Valparaíso,Easter Island,,,,2020-11-10,,,-74,,-5,
 CL,Chile,Valparaíso,Los Andes Province,,,,2020-02-15,14,5,-9,3,4,-1
 CL,Chile,Valparaíso,Los Andes Province,,,,2020-02-16,7,7,-3,-1,2,0
 CL,Chile,Valparaíso,Los Andes Province,,,,2020-02-17,3,2,-1,2,-4,0
@@ -17051,6 +17179,8 @@ CL,Chile,Valparaíso,Los Andes Province,,,,2020-11-05,-21,-15,-14,-29,-9,13
 CL,Chile,Valparaíso,Los Andes Province,,,,2020-11-06,-21,-7,-13,-49,-6,13
 CL,Chile,Valparaíso,Los Andes Province,,,,2020-11-07,-16,-11,-19,-51,2,11
 CL,Chile,Valparaíso,Los Andes Province,,,,2020-11-08,-19,-18,-37,-55,0,11
+CL,Chile,Valparaíso,Los Andes Province,,,,2020-11-09,-23,-17,-27,-53,-8,12
+CL,Chile,Valparaíso,Los Andes Province,,,,2020-11-10,-22,-16,-25,-49,-8,13
 CL,Chile,Valparaíso,Marga Marga,,,,2020-02-15,3,1,8,-2,-3,0
 CL,Chile,Valparaíso,Marga Marga,,,,2020-02-16,1,4,0,-1,-2,0
 CL,Chile,Valparaíso,Marga Marga,,,,2020-02-17,2,3,-4,-3,-6,1
@@ -17319,6 +17449,8 @@ CL,Chile,Valparaíso,Marga Marga,,,,2020-11-05,-23,-10,-26,-15,-21,14
 CL,Chile,Valparaíso,Marga Marga,,,,2020-11-06,-24,-8,-28,-12,-19,14
 CL,Chile,Valparaíso,Marga Marga,,,,2020-11-07,-22,0,-31,-12,-8,12
 CL,Chile,Valparaíso,Marga Marga,,,,2020-11-08,-29,-15,-40,-28,-13,11
+CL,Chile,Valparaíso,Marga Marga,,,,2020-11-09,-21,-11,-29,-19,-21,13
+CL,Chile,Valparaíso,Marga Marga,,,,2020-11-10,-21,-11,-32,-17,-21,14
 CL,Chile,Valparaíso,Petorca Province,,,,2020-02-15,22,9,29,34,-1,0
 CL,Chile,Valparaíso,Petorca Province,,,,2020-02-16,26,9,24,46,-5,
 CL,Chile,Valparaíso,Petorca Province,,,,2020-02-17,35,15,30,39,-3,2
@@ -17587,6 +17719,8 @@ CL,Chile,Valparaíso,Petorca Province,,,,2020-11-05,-47,-40,-68,-46,-20,15
 CL,Chile,Valparaíso,Petorca Province,,,,2020-11-06,-42,-36,-60,-45,-17,16
 CL,Chile,Valparaíso,Petorca Province,,,,2020-11-07,-45,-36,-59,-46,-18,15
 CL,Chile,Valparaíso,Petorca Province,,,,2020-11-08,-49,-44,-58,-63,-28,17
+CL,Chile,Valparaíso,Petorca Province,,,,2020-11-09,-45,-43,-69,-51,-19,16
+CL,Chile,Valparaíso,Petorca Province,,,,2020-11-10,-49,-43,-73,-50,-20,15
 CL,Chile,Valparaíso,Quillota Province,,,,2020-02-15,2,1,7,28,-3,-1
 CL,Chile,Valparaíso,Quillota Province,,,,2020-02-16,0,1,-3,16,1,0
 CL,Chile,Valparaíso,Quillota Province,,,,2020-02-17,3,-1,4,5,-4,0
@@ -17855,6 +17989,8 @@ CL,Chile,Valparaíso,Quillota Province,,,,2020-11-05,-28,-4,-9,-47,-13,11
 CL,Chile,Valparaíso,Quillota Province,,,,2020-11-06,-29,-8,-10,-44,-11,12
 CL,Chile,Valparaíso,Quillota Province,,,,2020-11-07,-23,-4,-16,-41,-3,10
 CL,Chile,Valparaíso,Quillota Province,,,,2020-11-08,-30,-14,-36,-42,-3,11
+CL,Chile,Valparaíso,Quillota Province,,,,2020-11-09,-28,-13,-9,-46,-11,11
+CL,Chile,Valparaíso,Quillota Province,,,,2020-11-10,-28,-11,-9,-43,-13,11
 CL,Chile,Valparaíso,San Antonio Province,,,,2020-02-15,24,22,25,39,-2,0
 CL,Chile,Valparaíso,San Antonio Province,,,,2020-02-16,20,22,19,26,-2,1
 CL,Chile,Valparaíso,San Antonio Province,,,,2020-02-17,30,32,50,37,-4,1
@@ -18123,6 +18259,8 @@ CL,Chile,Valparaíso,San Antonio Province,,,,2020-11-05,-59,-47,-64,-57,-19,15
 CL,Chile,Valparaíso,San Antonio Province,,,,2020-11-06,-54,-39,-56,-49,-20,14
 CL,Chile,Valparaíso,San Antonio Province,,,,2020-11-07,-54,-37,-52,-41,-21,14
 CL,Chile,Valparaíso,San Antonio Province,,,,2020-11-08,-52,-37,-47,-40,-25,12
+CL,Chile,Valparaíso,San Antonio Province,,,,2020-11-09,-58,-48,-63,-54,-19,14
+CL,Chile,Valparaíso,San Antonio Province,,,,2020-11-10,-59,-48,-65,-54,-20,14
 CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-02-15,6,7,36,23,3,-2
 CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-02-16,0,2,27,26,1,0
 CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-02-17,3,5,17,67,-2,0
@@ -18391,6 +18529,8 @@ CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-11-05,-12,-4,-13,-21,-8,12
 CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-11-06,-14,-3,-16,-35,-8,12
 CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-11-07,-19,-3,-11,-47,0,10
 CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-11-08,-23,-8,-17,-72,0,11
+CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-11-09,-16,-6,-15,-47,-8,12
+CL,Chile,Valparaíso,San Felipe de Aconcagua,,,,2020-11-10,-16,-7,-16,-37,-10,12
 CL,Chile,Valparaíso,Valparaíso Province,,,,2020-02-15,8,8,13,5,-2,0
 CL,Chile,Valparaíso,Valparaíso Province,,,,2020-02-16,8,11,8,6,0,0
 CL,Chile,Valparaíso,Valparaíso Province,,,,2020-02-17,3,10,13,1,-7,1
@@ -18659,3 +18799,5 @@ CL,Chile,Valparaíso,Valparaíso Province,,,,2020-11-05,-46,-18,-46,-29,-29,16
 CL,Chile,Valparaíso,Valparaíso Province,,,,2020-11-06,-46,-18,-42,-31,-29,17
 CL,Chile,Valparaíso,Valparaíso Province,,,,2020-11-07,-49,-21,-53,-38,-20,14
 CL,Chile,Valparaíso,Valparaíso Province,,,,2020-11-08,-51,-26,-51,-45,-23,12
+CL,Chile,Valparaíso,Valparaíso Province,,,,2020-11-09,-45,-21,-50,-34,-29,15
+CL,Chile,Valparaíso,Valparaíso Province,,,,2020-11-10,-46,-21,-55,-35,-30,15

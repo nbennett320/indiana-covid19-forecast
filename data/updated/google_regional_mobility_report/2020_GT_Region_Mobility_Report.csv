@@ -267,6 +267,8 @@ GT,Guatemala,,,,,,2020-11-05,-34,-19,-42,-42,-33,16
 GT,Guatemala,,,,,,2020-11-06,-31,-15,-37,-46,-30,16
 GT,Guatemala,,,,,,2020-11-07,-30,-15,-36,-34,-13,11
 GT,Guatemala,,,,,,2020-11-08,-31,-21,-34,-39,-14,9
+GT,Guatemala,,,,,,2020-11-09,-30,-16,-35,-40,-29,14
+GT,Guatemala,,,,,,2020-11-10,-27,-12,-30,-39,-30,13
 GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-02-15,9,4,6,-5,3,-2
 GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-02-16,6,10,5,,6,
 GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-02-17,1,6,-5,-11,7,-1
@@ -530,6 +532,8 @@ GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-11-05,-51,-8,-57,-53,-48,20
 GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-11-06,-61,-28,-65,-68,-68,29
 GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-11-07,-52,-11,-60,-32,-45,20
 GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-11-08,-43,1,-48,-34,-16,8
+GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-11-09,-33,13,-48,-33,-32,10
+GT,Guatemala,Alta Verapaz Department,,,GT-AV,,2020-11-10,-26,16,-46,-36,-28,10
 GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-02-15,9,5,4,-12,1,-1
 GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-02-16,1,16,3,11,4,
 GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-02-17,-5,5,-13,-20,7,0
@@ -798,6 +802,8 @@ GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-11-05,-57,-10,-70,-48,-50,21
 GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-11-06,-72,,-80,-61,-77,33
 GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-11-07,-61,-11,-77,-6,-53,20
 GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-11-08,-49,-4,-65,-7,-15,3
+GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-11-09,-38,17,-62,-13,-30,8
+GT,Guatemala,Alta Verapaz Department,Cobán,,,,2020-11-10,-30,31,-58,-14,-29,7
 GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-03-29,,,-52,,,
 GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-04-05,,,-55,,,
 GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-04-12,,,-62,,,
@@ -901,6 +907,8 @@ GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-11-03,,,,,-2
 GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-11-04,,,,,-25,
 GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-11-05,,,,,-28,
 GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-11-06,,,,,-60,
+GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-11-09,,,,,-23,
+GT,Guatemala,Alta Verapaz Department,San Cristóbal Verapaz,,,,2020-11-10,,,,,-17,
 GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-02-15,,,8,,,
 GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-02-16,,,9,,,
 GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-02-17,,,5,,,
@@ -1144,6 +1152,8 @@ GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-11-05,,,-54,,-67,
 GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-11-06,,,-64,,-75,
 GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-11-07,,,-63,,-64,
 GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-11-08,,,-45,,,
+GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-11-09,,,-50,,-32,
+GT,Guatemala,Alta Verapaz Department,San Pedro Carchá,,,,2020-11-10,,,-48,,-37,
 GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-02-15,,,-2,,-1,
 GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-02-16,,,-2,,-3,
 GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-02-17,,,3,,6,
@@ -1387,6 +1397,8 @@ GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-11-05,,,-59,,-36,
 GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-11-06,,,-58,,-31,
 GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-11-07,,,-56,,-19,
 GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-11-08,,,-53,,-15,
+GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-11-09,,,-51,,-28,
+GT,Guatemala,Baja Verapaz Department,,,GT-BV,,2020-11-10,,,-49,,-29,
 GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-02-15,6,,6,,,
 GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-02-16,,,7,,,
 GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-02-17,,,5,,12,
@@ -1630,6 +1642,8 @@ GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-11-05,,,-55,,-28,
 GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-11-06,,,-54,,-24,
 GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-11-07,-20,,-53,,-14,
 GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-11-08,,,-51,,-13,
+GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-11-09,,,-53,,-13,
+GT,Guatemala,Baja Verapaz Department,Salame,,,,2020-11-10,-11,,-51,,-23,
 GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-02-15,1,-3,4,,4,-2
 GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-02-16,4,-2,1,,1,-1
 GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-02-17,3,-3,-3,,7,-1
@@ -1895,6 +1909,8 @@ GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-11-05,-23,-30,-45,-72,-31,15
 GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-11-06,-21,-22,-36,-69,-22,14
 GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-11-07,-21,-19,-37,-74,-6,10
 GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-11-08,-21,-20,-35,-67,-10,10
+GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-11-09,-10,-18,-34,-66,-20,12
+GT,Guatemala,Chimaltenango Department,,,GT-CM,,2020-11-10,-12,-17,-31,-71,-22,11
 GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-02-15,,3,5,,4,
 GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-02-16,,,0,,,
 GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-02-17,,,-6,,8,
@@ -2138,6 +2154,8 @@ GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-11-05,,,-47,,-28,15
 GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-11-06,,,-42,,-21,12
 GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-11-07,,,-43,,-4,
 GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-11-08,,,-42,,-10,
+GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-11-09,,,-36,,-17,11
+GT,Guatemala,Chimaltenango Department,Chimaltenango,,,,2020-11-10,,,-33,,-21,10
 GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-04-19,,,-57,,,
 GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-04-26,,,-55,,,
 GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-05-03,,,-53,,,
@@ -2232,6 +2250,8 @@ GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-11-03,,,,,-30,
 GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-11-04,,,,,-33,
 GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-11-05,,,,,-30,
 GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-11-06,,,,,-24,
+GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-11-09,,,,,-29,
+GT,Guatemala,Chimaltenango Department,Comalapa,,,,2020-11-10,,,,,-25,
 GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-02-15,6,-6,4,-3,6,
 GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-02-16,4,-4,-14,2,,
 GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-02-17,3,-11,,-7,7,
@@ -2475,6 +2495,8 @@ GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-11-05,-36,-46,-57,,-26,14
 GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-11-06,-36,-39,-34,-77,-20,13
 GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-11-07,-35,-32,-42,,0,
 GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-11-08,-39,-25,-51,-71,-8,
+GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-11-09,-22,-37,-36,-67,-18,9
+GT,Guatemala,Chimaltenango Department,El Tejar,,,,2020-11-10,-33,-35,-43,,-20,10
 GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-02-15,,,2,,,
 GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-02-16,,,4,,,
 GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-02-17,,,-1,,,
@@ -2708,6 +2730,8 @@ GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-11-05,,,-52,,-37,
 GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-11-06,,,-49,,,
 GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-11-07,,,-43,,,
 GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-11-08,,,-45,,,
+GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-11-09,,,-46,,,
+GT,Guatemala,Chimaltenango Department,Parramos,,,,2020-11-10,,,-48,,,
 GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-02-15,,,0,,,
 GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-02-16,,,9,,,
 GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-02-21,,,-2,,,
@@ -2910,6 +2934,8 @@ GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-11-05,,,-48,,-38,
 GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-11-06,,,-39,,-26,
 GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-11-07,,,-40,,,
 GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-11-08,,,-38,,,
+GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-11-09,,,-40,,-27,
+GT,Guatemala,Chimaltenango Department,Patzún,,,,2020-11-10,,,-35,,-28,
 GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-04-09,,,,,-71,
 GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-06-08,,,,,-33,
 GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-06-09,,,,,-32,
@@ -3002,6 +3028,8 @@ GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-11-03,,,,,-26,
 GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-11-04,,,,,-28,
 GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-11-05,,,,,-34,
 GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-11-06,,,,,-20,
+GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-11-09,,,,,-28,
+GT,Guatemala,Chimaltenango Department,San Andrés Itzapa,,,,2020-11-10,,,,,-26,
 GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-06-08,,,,,-29,
 GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-06-09,,,,,-30,
 GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-06-10,,,,,-23,
@@ -3097,6 +3125,8 @@ GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-11-03,,,,,
 GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-11-04,,,,,-33,
 GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-11-05,,,,,-34,
 GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-11-06,,,,,-26,
+GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-11-09,,,,,-30,
+GT,Guatemala,Chimaltenango Department,San Martín Jilotepeque,,,,2020-11-10,,,,,-24,
 GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-02-15,-8,,,,,
 GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-02-16,7,,,,,
 GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-02-22,-14,,,,,
@@ -3304,6 +3334,8 @@ GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-11-05,,,,,-36,
 GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-11-06,,,,,-20,
 GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-11-07,-29,,-54,,-17,
 GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-11-08,-15,,-50,,-27,
+GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-11-09,,,,,-25,
+GT,Guatemala,Chimaltenango Department,Tecpán Guatemala,,,,2020-11-10,,,,,-23,
 GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-02-15,-1,-11,-7,,0,
 GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-02-16,0,-12,-1,,0,
 GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-02-17,-1,-5,-2,,5,0
@@ -3547,6 +3579,8 @@ GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-11-05,-43,-31,-50,,-35,14
 GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-11-06,-40,-32,-45,,-29,14
 GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-11-07,-41,-31,-44,-24,-18,10
 GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-11-08,-43,-38,-44,-32,-24,8
+GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-11-09,-32,-24,-38,-27,-29,9
+GT,Guatemala,Chiquimula Department,,,GT-CQ,,2020-11-10,-31,-22,-33,,-30,9
 GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-02-15,5,0,-8,-35,4,
 GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-02-16,0,5,-7,-30,-5,
 GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-02-17,-5,1,-4,-40,9,-1
@@ -3790,6 +3824,8 @@ GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-11-05,-42,-42,-41,-30,-30,
 GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-11-06,-40,-22,-30,-39,-26,13
 GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-11-07,-39,-33,-28,-32,-11,8
 GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-11-08,-44,-37,-30,-31,-15,
+GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-11-09,-32,-35,-29,-26,-23,9
+GT,Guatemala,Chiquimula Department,Chiquimula,,,,2020-11-10,-32,-21,-20,-30,-28,10
 GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-02-15,-19,,-30,,1,
 GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-02-16,,,1,,,
 GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-02-17,,,,,3,
@@ -4033,6 +4069,8 @@ GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-11-05,,,-52,,-32,
 GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-11-06,,,-58,,-27,
 GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-11-07,-40,,-75,,-16,
 GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-11-08,-32,,-68,,-20,
+GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-11-09,,,,,-29,
+GT,Guatemala,Chiquimula Department,Esquipulas,,,,2020-11-10,,,,,-26,
 GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-02-15,,,-12,,,
 GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-02-16,,,7,,,
 GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-02-17,,,-5,,,
@@ -4261,6 +4299,7 @@ GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-11-01,,,-74,,,
 GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-11-03,,,-75,,,
 GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-11-04,,,-80,,,
 GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-11-08,,,-76,,,
+GT,Guatemala,Chiquimula Department,Quezaltepeque,,,,2020-11-09,,,-78,,,
 GT,Guatemala,El Progreso Department,,,GT-PR,,2020-02-15,2,,-2,,4,
 GT,Guatemala,El Progreso Department,,,GT-PR,,2020-02-16,0,,-3,,0,
 GT,Guatemala,El Progreso Department,,,GT-PR,,2020-02-17,-2,,-3,,3,
@@ -4504,6 +4543,8 @@ GT,Guatemala,El Progreso Department,,,GT-PR,,2020-11-05,-37,,-33,,-32,
 GT,Guatemala,El Progreso Department,,,GT-PR,,2020-11-06,-42,,-27,,-32,
 GT,Guatemala,El Progreso Department,,,GT-PR,,2020-11-07,-41,,-29,,-20,
 GT,Guatemala,El Progreso Department,,,GT-PR,,2020-11-08,-43,,-27,,-27,
+GT,Guatemala,El Progreso Department,,,GT-PR,,2020-11-09,-34,,-30,,-34,
+GT,Guatemala,El Progreso Department,,,GT-PR,,2020-11-10,-23,,-29,,-32,
 GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-02-15,,,-7,,,
 GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-02-16,,,2,,,
 GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-02-17,,,-9,,,
@@ -4737,6 +4778,8 @@ GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-11-05,,,-52,,-29,
 GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-11-06,,,-45,,-24,
 GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-11-07,,,-42,,-23,
 GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-11-08,,,-33,,,
+GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-11-09,,,-44,,-27,
+GT,Guatemala,El Progreso Department,Guastatoya,,,,2020-11-10,,,-41,,-19,
 GT,Guatemala,El Progreso Department,Morazán,,,,2020-02-15,,,-2,,,
 GT,Guatemala,El Progreso Department,Morazán,,,,2020-02-16,,,0,,,
 GT,Guatemala,El Progreso Department,Morazán,,,,2020-02-17,,,11,,,
@@ -4980,6 +5023,8 @@ GT,Guatemala,El Progreso Department,Morazán,,,,2020-11-05,,,-26,,,
 GT,Guatemala,El Progreso Department,Morazán,,,,2020-11-06,,,-22,,,
 GT,Guatemala,El Progreso Department,Morazán,,,,2020-11-07,,,-28,,,
 GT,Guatemala,El Progreso Department,Morazán,,,,2020-11-08,,,-19,,,
+GT,Guatemala,El Progreso Department,Morazán,,,,2020-11-09,,,-22,,,
+GT,Guatemala,El Progreso Department,Morazán,,,,2020-11-10,,,-15,,,
 GT,Guatemala,El Progreso Department,Sanarate,,,,2020-02-15,,,5,,,
 GT,Guatemala,El Progreso Department,Sanarate,,,,2020-02-16,,,-6,,,
 GT,Guatemala,El Progreso Department,Sanarate,,,,2020-02-17,,,-9,,,
@@ -5223,6 +5268,8 @@ GT,Guatemala,El Progreso Department,Sanarate,,,,2020-11-05,,,-36,,-34,
 GT,Guatemala,El Progreso Department,Sanarate,,,,2020-11-06,,,-28,,-25,
 GT,Guatemala,El Progreso Department,Sanarate,,,,2020-11-07,,,-29,,-10,
 GT,Guatemala,El Progreso Department,Sanarate,,,,2020-11-08,,,-35,,,
+GT,Guatemala,El Progreso Department,Sanarate,,,,2020-11-09,,,-36,,-38,
+GT,Guatemala,El Progreso Department,Sanarate,,,,2020-11-10,,,-29,,-28,
 GT,Guatemala,Escuintla Department,,,GT-ES,,2020-02-15,9,8,-2,6,4,-2
 GT,Guatemala,Escuintla Department,,,GT-ES,,2020-02-16,8,16,5,28,2,-1
 GT,Guatemala,Escuintla Department,,,GT-ES,,2020-02-17,3,2,-1,1,5,-1
@@ -5491,6 +5538,8 @@ GT,Guatemala,Escuintla Department,,,GT-ES,,2020-11-05,-27,-26,-33,-25,-24,13
 GT,Guatemala,Escuintla Department,,,GT-ES,,2020-11-06,-25,-25,-23,-34,-22,11
 GT,Guatemala,Escuintla Department,,,GT-ES,,2020-11-07,-29,-26,-27,-42,-12,11
 GT,Guatemala,Escuintla Department,,,GT-ES,,2020-11-08,-28,-20,-22,-30,-15,9
+GT,Guatemala,Escuintla Department,,,GT-ES,,2020-11-09,-23,-24,-26,-24,-24,10
+GT,Guatemala,Escuintla Department,,,GT-ES,,2020-11-10,-20,-24,-18,-33,-24,9
 GT,Guatemala,Escuintla Department,Escuintla,,,,2020-02-15,6,13,-7,32,7,-2
 GT,Guatemala,Escuintla Department,Escuintla,,,,2020-02-16,8,21,-2,,-1,
 GT,Guatemala,Escuintla Department,Escuintla,,,,2020-02-17,2,2,-4,,5,-1
@@ -5756,6 +5805,8 @@ GT,Guatemala,Escuintla Department,Escuintla,,,,2020-11-05,-31,-30,-14,,-26,11
 GT,Guatemala,Escuintla Department,Escuintla,,,,2020-11-06,-30,-37,-4,-17,-22,10
 GT,Guatemala,Escuintla Department,Escuintla,,,,2020-11-07,-39,-40,-15,-24,-12,9
 GT,Guatemala,Escuintla Department,Escuintla,,,,2020-11-08,-33,-31,-7,10,-17,8
+GT,Guatemala,Escuintla Department,Escuintla,,,,2020-11-09,-32,-30,-12,,-23,9
+GT,Guatemala,Escuintla Department,Escuintla,,,,2020-11-10,-27,-35,5,,-25,7
 GT,Guatemala,Escuintla Department,Masagua,,,,2020-02-15,,,-5,,,
 GT,Guatemala,Escuintla Department,Masagua,,,,2020-02-22,,,-9,,,
 GT,Guatemala,Escuintla Department,Masagua,,,,2020-02-29,,,-5,,,
@@ -5964,6 +6015,8 @@ GT,Guatemala,Escuintla Department,Masagua,,,,2020-11-05,,,-62,,,
 GT,Guatemala,Escuintla Department,Masagua,,,,2020-11-06,,,-47,,,
 GT,Guatemala,Escuintla Department,Masagua,,,,2020-11-07,,,-61,,,
 GT,Guatemala,Escuintla Department,Masagua,,,,2020-11-08,,,-49,,,
+GT,Guatemala,Escuintla Department,Masagua,,,,2020-11-09,,,-55,,,
+GT,Guatemala,Escuintla Department,Masagua,,,,2020-11-10,,,-61,,,
 GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-02-15,,,0,,,
 GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-02-16,,,7,,,
 GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-02-17,,,4,,,
@@ -6207,6 +6260,8 @@ GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-11-05,,,-50,,-23,
 GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-11-06,,,-43,,-23,
 GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-11-07,,,-37,,,
 GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-11-08,,,-40,,,
+GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-11-09,,,-43,,-23,
+GT,Guatemala,Escuintla Department,Nueva Concepción,,,,2020-11-10,,,-42,,-23,
 GT,Guatemala,Escuintla Department,Palín,,,,2020-02-15,,,7,,-2,
 GT,Guatemala,Escuintla Department,Palín,,,,2020-02-16,,,0,,,
 GT,Guatemala,Escuintla Department,Palín,,,,2020-02-17,,,,,4,
@@ -6450,6 +6505,8 @@ GT,Guatemala,Escuintla Department,Palín,,,,2020-11-05,,,-48,,-20,13
 GT,Guatemala,Escuintla Department,Palín,,,,2020-11-06,,,-48,,-18,12
 GT,Guatemala,Escuintla Department,Palín,,,,2020-11-07,,,-46,-63,-3,
 GT,Guatemala,Escuintla Department,Palín,,,,2020-11-08,,,-46,,-5,
+GT,Guatemala,Escuintla Department,Palín,,,,2020-11-09,,,,,-17,13
+GT,Guatemala,Escuintla Department,Palín,,,,2020-11-10,,,-42,,-16,10
 GT,Guatemala,Escuintla Department,San José,,,,2020-02-15,11,1,,,,
 GT,Guatemala,Escuintla Department,San José,,,,2020-02-16,11,,,,,
 GT,Guatemala,Escuintla Department,San José,,,,2020-02-17,4,-3,,,2,
@@ -6692,6 +6749,8 @@ GT,Guatemala,Escuintla Department,San José,,,,2020-11-05,-38,,,,-23,
 GT,Guatemala,Escuintla Department,San José,,,,2020-11-06,-26,-18,,,-22,
 GT,Guatemala,Escuintla Department,San José,,,,2020-11-07,-30,-25,,,-16,
 GT,Guatemala,Escuintla Department,San José,,,,2020-11-08,-33,,,,-12,
+GT,Guatemala,Escuintla Department,San José,,,,2020-11-09,-32,,,,-26,
+GT,Guatemala,Escuintla Department,San José,,,,2020-11-10,-28,,,,-28,
 GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-02-15,,,5,,1,
 GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-02-16,,,-5,,,
 GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-02-17,,,-4,,12,
@@ -6935,6 +6994,8 @@ GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-11-05,,,-2
 GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-11-06,,,-12,,-17,
 GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-11-07,,,-12,,-12,
 GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-11-08,,,-4,,-8,
+GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-11-09,,,-17,,-24,
+GT,Guatemala,Escuintla Department,Santa Lucía Cotzulmalguapa,,,,2020-11-10,,,-19,,-22,
 GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-04-09,,,,,-52,
 GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-04-10,,,,,-58,
 GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-05-15,,,,,-49,
@@ -7065,6 +7126,8 @@ GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-11-05,,,,,-24,
 GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-11-06,,,,,-25,
 GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-11-07,,,,,-13,
 GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-11-08,,,,,-17,
+GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-11-09,,,,,-17,
+GT,Guatemala,Escuintla Department,Tiquisate,,,,2020-11-10,,,,,-23,
 GT,Guatemala,Guatemala Department,,,GT-GU,,2020-02-15,6,3,4,3,2,-2
 GT,Guatemala,Guatemala Department,,,GT-GU,,2020-02-16,6,4,1,0,1,-1
 GT,Guatemala,Guatemala Department,,,GT-GU,,2020-02-17,-2,-1,0,-2,3,0
@@ -7333,6 +7396,8 @@ GT,Guatemala,Guatemala Department,,,GT-GU,,2020-11-05,-32,-15,-43,-48,-34,17
 GT,Guatemala,Guatemala Department,,,GT-GU,,2020-11-06,-29,-10,-35,-50,-30,17
 GT,Guatemala,Guatemala Department,,,GT-GU,,2020-11-07,-25,-11,-29,-43,-11,10
 GT,Guatemala,Guatemala Department,,,GT-GU,,2020-11-08,-28,-18,-36,-47,-10,8
+GT,Guatemala,Guatemala Department,,,GT-GU,,2020-11-09,-31,-15,-34,-48,-30,15
+GT,Guatemala,Guatemala Department,,,GT-GU,,2020-11-10,-27,-11,-31,-46,-32,15
 GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-02-15,8,6,7,,4,-2
 GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-02-16,16,7,-3,,2,
 GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-02-17,-5,9,-8,,3,1
@@ -7598,6 +7663,8 @@ GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-11-05,-22,-30,-38,,-23,15
 GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-11-06,-20,-34,-28,,-20,14
 GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-11-07,-18,-33,-31,,-4,10
 GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-11-08,-15,-44,-28,,-6,8
+GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-11-09,-21,-30,-35,,-20,13
+GT,Guatemala,Guatemala Department,Amatitlán,,,,2020-11-10,-16,-24,-26,,-22,13
 GT,Guatemala,Guatemala Department,Chinautla,,,,2020-02-15,,-4,,,-1,-2
 GT,Guatemala,Guatemala Department,Chinautla,,,,2020-02-16,,1,,,-1,
 GT,Guatemala,Guatemala Department,Chinautla,,,,2020-02-17,,-6,,,2,0
@@ -7863,6 +7930,8 @@ GT,Guatemala,Guatemala Department,Chinautla,,,,2020-11-05,,,,,-30,20
 GT,Guatemala,Guatemala Department,Chinautla,,,,2020-11-06,,-4,,,-26,18
 GT,Guatemala,Guatemala Department,Chinautla,,,,2020-11-07,,-1,,,-6,9
 GT,Guatemala,Guatemala Department,Chinautla,,,,2020-11-08,,-2,,,-1,9
+GT,Guatemala,Guatemala Department,Chinautla,,,,2020-11-09,,-10,,,-25,16
+GT,Guatemala,Guatemala Department,Chinautla,,,,2020-11-10,,-10,,,-26,15
 GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-02-15,10,,,,2,-1
 GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-02-16,8,,,,4,
 GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-02-17,,,,,4,0
@@ -8125,6 +8194,8 @@ GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-11-05,-14,,-36,,-36,19
 GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-11-06,-7,,-19,,-37,17
 GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-11-07,-10,,-24,,-8,7
 GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-11-08,-14,,,,-10,
+GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-11-09,,,-37,,-33,16
+GT,Guatemala,Guatemala Department,Fraijanes,,,,2020-11-10,-7,,-52,,-37,17
 GT,Guatemala,Guatemala Department,Guatemala,,,,2020-02-15,6,2,4,3,2,-2
 GT,Guatemala,Guatemala Department,Guatemala,,,,2020-02-16,5,4,2,1,1,-1
 GT,Guatemala,Guatemala Department,Guatemala,,,,2020-02-17,-3,-2,3,-1,3,0
@@ -8393,6 +8464,8 @@ GT,Guatemala,Guatemala Department,Guatemala,,,,2020-11-05,-37,-17,-57,-50,-36,18
 GT,Guatemala,Guatemala Department,Guatemala,,,,2020-11-06,-34,-11,-54,-52,-33,18
 GT,Guatemala,Guatemala Department,Guatemala,,,,2020-11-07,-29,-10,-41,-41,-11,10
 GT,Guatemala,Guatemala Department,Guatemala,,,,2020-11-08,-31,-18,-47,-47,-12,9
+GT,Guatemala,Guatemala Department,Guatemala,,,,2020-11-09,-35,-17,-48,-48,-33,16
+GT,Guatemala,Guatemala Department,Guatemala,,,,2020-11-10,-32,-11,-47,-48,-34,16
 GT,Guatemala,Guatemala Department,Mixco,,,,2020-02-15,4,3,-2,3,3,-2
 GT,Guatemala,Guatemala Department,Mixco,,,,2020-02-16,4,5,2,,-1,-1
 GT,Guatemala,Guatemala Department,Mixco,,,,2020-02-17,0,1,-2,,3,0
@@ -8661,6 +8734,8 @@ GT,Guatemala,Guatemala Department,Mixco,,,,2020-11-05,-25,2,-3,-37,-37,18
 GT,Guatemala,Guatemala Department,Mixco,,,,2020-11-06,-18,6,22,-43,-31,18
 GT,Guatemala,Guatemala Department,Mixco,,,,2020-11-07,-18,6,5,-33,-14,10
 GT,Guatemala,Guatemala Department,Mixco,,,,2020-11-08,-27,-11,-26,,-14,8
+GT,Guatemala,Guatemala Department,Mixco,,,,2020-11-09,-21,2,3,,-35,16
+GT,Guatemala,Guatemala Department,Mixco,,,,2020-11-10,-18,6,14,-42,-34,16
 GT,Guatemala,Guatemala Department,Palencia,,,,2020-02-17,,,,,6,
 GT,Guatemala,Guatemala Department,Palencia,,,,2020-02-18,,,,,9,
 GT,Guatemala,Guatemala Department,Palencia,,,,2020-02-19,,,,,8,
@@ -8882,6 +8957,8 @@ GT,Guatemala,Guatemala Department,Palencia,,,,2020-11-05,,,,,-22,
 GT,Guatemala,Guatemala Department,Palencia,,,,2020-11-06,,,,,-18,
 GT,Guatemala,Guatemala Department,Palencia,,,,2020-11-07,,,,,0,
 GT,Guatemala,Guatemala Department,Palencia,,,,2020-11-08,,,,,-8,
+GT,Guatemala,Guatemala Department,Palencia,,,,2020-11-09,,,,,-19,
+GT,Guatemala,Guatemala Department,Palencia,,,,2020-11-10,,,,,-20,
 GT,Guatemala,Guatemala Department,Petapa,,,,2020-02-15,2,6,15,-17,4,-2
 GT,Guatemala,Guatemala Department,Petapa,,,,2020-02-16,10,13,14,-25,4,-2
 GT,Guatemala,Guatemala Department,Petapa,,,,2020-02-17,2,5,-6,-2,4,-1
@@ -9150,6 +9227,8 @@ GT,Guatemala,Guatemala Department,Petapa,,,,2020-11-05,-7,-2,-30,-44,-28,16
 GT,Guatemala,Guatemala Department,Petapa,,,,2020-11-06,-2,3,-24,-51,-25,17
 GT,Guatemala,Guatemala Department,Petapa,,,,2020-11-07,1,1,-8,-56,-5,9
 GT,Guatemala,Guatemala Department,Petapa,,,,2020-11-08,4,-7,-24,-61,-4,7
+GT,Guatemala,Guatemala Department,Petapa,,,,2020-11-09,-6,-5,-22,-50,-26,15
+GT,Guatemala,Guatemala Department,Petapa,,,,2020-11-10,-2,6,-18,-47,-26,15
 GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-02-15,9,1,,,5,
 GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-02-16,,-2,,,6,
 GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-02-17,,,,,2,-1
@@ -9403,6 +9482,8 @@ GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-11-05,,,-51,,-33,16
 GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-11-06,-12,,-40,,-30,15
 GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-11-07,0,-23,-40,,-18,9
 GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-11-08,-10,-26,-40,,-12,
+GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-11-09,,,-39,,-32,13
+GT,Guatemala,Guatemala Department,San José Pinula,,,,2020-11-10,,,,,-31,13
 GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-02-15,-1,,-1,,2,-2
 GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-02-16,14,4,-4,,4,
 GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-02-17,-5,,-16,,3,-1
@@ -9668,6 +9749,8 @@ GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-11-05,-7,,-39,,
 GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-11-06,-3,,-30,,-23,15
 GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-11-07,-1,,-26,,-15,11
 GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-11-08,3,-26,-29,,-11,10
+GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-11-09,1,,-21,,-21,13
+GT,Guatemala,Guatemala Department,San Juan Sacatepéquez,,,,2020-11-10,11,,-9,,-24,12
 GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-02-15,,,,,0,
 GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-02-17,,,,,4,
 GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-02-18,,,,,3,
@@ -9894,6 +9977,8 @@ GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-11-05,,,,,-30,
 GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-11-06,,,,,-25,
 GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-11-07,,,,,-22,
 GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-11-08,,,,,-14,
+GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-11-09,,,,,-26,
+GT,Guatemala,Guatemala Department,San Pedro Ayampuc,,,,2020-11-10,,,,,-28,
 GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-02-15,,,1,,5,
 GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-02-16,,,3,,,
 GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-02-17,,,-5,,5,0
@@ -10137,6 +10222,8 @@ GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-11-05,,,-45,,-
 GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-11-06,,,-32,,-27,14
 GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-11-07,,,-26,,-9,
 GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-11-08,,,-25,,-15,
+GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-11-09,,,-24,,-24,14
+GT,Guatemala,Guatemala Department,San Pedro Sacatepéquez,,,,2020-11-10,,,-23,,-25,13
 GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-02-15,,,-7,,,
 GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-02-16,,,-4,,,
 GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-02-22,,,-22,,,
@@ -10324,6 +10411,8 @@ GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-11-05,,,-45,,-34,
 GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-11-06,,,-34,,-16,
 GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-11-07,,,-41,,,
 GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-11-08,,,-43,,,
+GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-11-09,,,-35,,-33,
+GT,Guatemala,Guatemala Department,San Raymundo,,,,2020-11-10,,,,,-31,
 GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-02-15,3,2,-1,-9,-1,-2
 GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-02-16,2,5,-11,-11,3,-1
 GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-02-17,-3,0,,-14,2,-1
@@ -10592,6 +10681,8 @@ GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-11-05,-21,-24,-1
 GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-11-06,-19,-16,,-5,-34,17
 GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-11-07,-14,-20,6,-11,-14,9
 GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-11-08,-21,-30,,-15,-10,8
+GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-11-09,-22,-23,,-8,-35,15
+GT,Guatemala,Guatemala Department,Santa Catarina Pinula,,,,2020-11-10,-16,-18,,-8,-35,16
 GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-02-15,0,9,13,-2,4,-3
 GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-02-16,5,8,2,,-2,-2
 GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-02-17,2,5,8,,2,-1
@@ -10857,6 +10948,8 @@ GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-11-05,-9,-8,-26,-64,-30,
 GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-11-06,-11,-5,-25,-65,-27,16
 GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-11-07,-13,1,-23,-66,-5,8
 GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-11-08,-14,-8,-26,,-4,7
+GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-11-09,-11,-6,-25,-65,-26,13
+GT,Guatemala,Guatemala Department,Villa Canales,,,,2020-11-10,2,2,-16,-67,-28,15
 GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-02-15,9,3,2,6,2,-2
 GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-02-16,8,3,4,12,-1,-2
 GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-02-17,2,1,0,2,3,0
@@ -11125,6 +11218,8 @@ GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-11-05,-16,-23,-23,-65,-29,
 GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-11-06,-15,-21,-22,-64,-25,16
 GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-11-07,-14,-23,-19,-60,-10,9
 GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-11-08,-17,-27,-20,-56,-10,8
+GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-11-09,-17,-22,-20,-64,-24,15
+GT,Guatemala,Guatemala Department,Villa Nueva,,,,2020-11-10,-13,-18,-24,-64,-26,14
 GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-02-15,6,-1,-3,8,3,-2
 GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-02-16,7,9,-1,0,0,0
 GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-02-17,-2,-7,-6,-4,6,0
@@ -11391,6 +11486,8 @@ GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-11-05,-28,1,-46,-22,-33,13
 GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-11-06,-29,-1,-45,-28,-25,12
 GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-11-07,-29,0,-45,-20,-18,12
 GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-11-08,-27,-3,-41,-26,-21,11
+GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-11-09,-21,11,-39,-15,-25,11
+GT,Guatemala,Huehuetenango Department,,,GT-HU,,2020-11-10,-19,14,-37,-16,-29,8
 GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-02-15,7,1,2,5,2,-1
 GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-02-16,11,14,4,-1,2,
 GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-02-17,-4,0,-6,-4,8,0
@@ -11656,6 +11753,8 @@ GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-11-05,-27,5,-58,-18,
 GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-11-06,-28,1,-55,-25,-23,12
 GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-11-07,-30,1,-52,-20,-10,9
 GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-11-08,-26,8,-47,-24,-10,8
+GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-11-09,-24,10,-54,-16,-23,10
+GT,Guatemala,Huehuetenango Department,Huehuetenango,,,,2020-11-10,-20,12,-49,-15,-26,9
 GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-02-15,,,5,,,
 GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-02-16,,,-2,,,
 GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-02-17,,,-8,,,
@@ -11890,6 +11989,8 @@ GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-11-05,,,-56,,-35,
 GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-11-06,,,-62,,-24,
 GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-11-07,,,-55,,,
 GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-11-08,,,-60,,,
+GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-11-09,,,-58,,-25,
+GT,Guatemala,Huehuetenango Department,La Democracia,,,,2020-11-10,,,-56,,-28,
 GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-02-23,,,-12,,,
 GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-03-01,,,-21,,,
 GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-03-08,,,-30,,,
@@ -12031,6 +12132,8 @@ GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-11-05,,,,,-3
 GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-11-06,,,,,-25,
 GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-11-07,,,-55,,,
 GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-11-08,,,-61,,,
+GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-11-09,,,,,-32,
+GT,Guatemala,Huehuetenango Department,Municipio de Chiantla,,,,2020-11-10,,,,,-38,
 GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-02-15,,,-4,,,
 GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-02-16,,,-3,,,
 GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-02-17,,,-2,,,
@@ -12268,6 +12371,8 @@ GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-11-05,,,-59,,-35,
 GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-11-06,,,-47,,,
 GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-11-07,,,-38,,,
 GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-11-08,,,-53,,-40,
+GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-11-09,,,-25,,,
+GT,Guatemala,Huehuetenango Department,San Pedro Soloma,,,,2020-11-10,,,-47,,,
 GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-02-15,,,-7,,,
 GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-02-16,,,6,,,
 GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-02-17,,,-4,,,
@@ -12511,6 +12616,8 @@ GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-11-05,,,-18
 GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-11-06,,,-13,,,
 GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-11-07,,,-26,,,
 GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-11-08,,,-14,,,
+GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-11-09,,,-16,,,
+GT,Guatemala,Huehuetenango Department,Santiago Chimaltenango,,,,2020-11-10,,,-17,,,
 GT,Guatemala,Izabal Department,,,GT-IZ,,2020-02-15,2,2,13,,5,-3
 GT,Guatemala,Izabal Department,,,GT-IZ,,2020-02-16,5,8,14,,2,
 GT,Guatemala,Izabal Department,,,GT-IZ,,2020-02-17,0,2,5,,2,0
@@ -12773,6 +12880,8 @@ GT,Guatemala,Izabal Department,,,GT-IZ,,2020-11-05,-47,-52,-54,,-56,8
 GT,Guatemala,Izabal Department,,,GT-IZ,,2020-11-06,-34,-27,-47,,-44,9
 GT,Guatemala,Izabal Department,,,GT-IZ,,2020-11-07,-28,-22,-44,,-30,5
 GT,Guatemala,Izabal Department,,,GT-IZ,,2020-11-08,-25,-30,-38,,-25,7
+GT,Guatemala,Izabal Department,,,GT-IZ,,2020-11-09,-22,-21,-36,,-30,6
+GT,Guatemala,Izabal Department,,,GT-IZ,,2020-11-10,-21,-21,-18,,-29,5
 GT,Guatemala,Izabal Department,Livingston,,,,2020-02-15,,,9,,,
 GT,Guatemala,Izabal Department,Livingston,,,,2020-02-16,,,9,,,
 GT,Guatemala,Izabal Department,Livingston,,,,2020-02-17,,,1,,,
@@ -13013,6 +13122,8 @@ GT,Guatemala,Izabal Department,Livingston,,,,2020-11-05,,,-73,,-48,
 GT,Guatemala,Izabal Department,Livingston,,,,2020-11-06,,,-69,,-48,
 GT,Guatemala,Izabal Department,Livingston,,,,2020-11-07,,,-66,,-28,
 GT,Guatemala,Izabal Department,Livingston,,,,2020-11-08,,,-64,,,
+GT,Guatemala,Izabal Department,Livingston,,,,2020-11-09,,,-55,,-20,
+GT,Guatemala,Izabal Department,Livingston,,,,2020-11-10,,,-58,,-35,
 GT,Guatemala,Izabal Department,Morales,,,,2020-02-15,-2,,3,,3,
 GT,Guatemala,Izabal Department,Morales,,,,2020-02-16,,,19,,,
 GT,Guatemala,Izabal Department,Morales,,,,2020-02-17,,,0,,0,
@@ -13256,6 +13367,8 @@ GT,Guatemala,Izabal Department,Morales,,,,2020-11-05,-46,,-46,,-67,
 GT,Guatemala,Izabal Department,Morales,,,,2020-11-06,-35,,-34,,-66,
 GT,Guatemala,Izabal Department,Morales,,,,2020-11-07,-21,,-42,,-42,
 GT,Guatemala,Izabal Department,Morales,,,,2020-11-08,,,-28,,-22,
+GT,Guatemala,Izabal Department,Morales,,,,2020-11-09,,,-33,,-32,
+GT,Guatemala,Izabal Department,Morales,,,,2020-11-10,-16,,-4,,-30,
 GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-02-15,3,7,35,,6,-2
 GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-02-16,7,7,28,,3,
 GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-02-17,0,5,19,,2,-1
@@ -13518,6 +13631,8 @@ GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-11-05,-50,-52,-47,,-53,11
 GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-11-06,-35,-26,-35,,-34,8
 GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-11-07,-31,-17,-22,,-24,5
 GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-11-08,-29,-35,-23,,-22,7
+GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-11-09,-24,-17,-8,,-27,7
+GT,Guatemala,Izabal Department,Puerto Barrios,,,,2020-11-10,-26,-18,5,,-27,6
 GT,Guatemala,Jalapa Department,,,GT-JA,,2020-02-15,4,,-8,,-3,
 GT,Guatemala,Jalapa Department,,,GT-JA,,2020-02-16,,,-7,,0,
 GT,Guatemala,Jalapa Department,,,GT-JA,,2020-02-17,,,-5,,2,
@@ -13761,6 +13876,8 @@ GT,Guatemala,Jalapa Department,,,GT-JA,,2020-11-05,,,-30,,-33,
 GT,Guatemala,Jalapa Department,,,GT-JA,,2020-11-06,-22,,-27,,-29,
 GT,Guatemala,Jalapa Department,,,GT-JA,,2020-11-07,-21,,-13,,-21,
 GT,Guatemala,Jalapa Department,,,GT-JA,,2020-11-08,-28,,-30,,-28,
+GT,Guatemala,Jalapa Department,,,GT-JA,,2020-11-09,,,-4,,-29,
+GT,Guatemala,Jalapa Department,,,GT-JA,,2020-11-10,,,-7,,-29,
 GT,Guatemala,Jalapa Department,Jalapa,,,,2020-02-15,,,,,1,
 GT,Guatemala,Jalapa Department,Jalapa,,,,2020-02-16,,,3,,0,
 GT,Guatemala,Jalapa Department,Jalapa,,,,2020-02-17,,,,,1,
@@ -14004,6 +14121,8 @@ GT,Guatemala,Jalapa Department,Jalapa,,,,2020-11-05,,,,,-29,10
 GT,Guatemala,Jalapa Department,Jalapa,,,,2020-11-06,-21,,-13,,-28,9
 GT,Guatemala,Jalapa Department,Jalapa,,,,2020-11-07,-14,,,,-16,
 GT,Guatemala,Jalapa Department,Jalapa,,,,2020-11-08,,,-17,,-25,
+GT,Guatemala,Jalapa Department,Jalapa,,,,2020-11-09,,,,,-27,9
+GT,Guatemala,Jalapa Department,Jalapa,,,,2020-11-10,,,,,-27,8
 GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-02-15,9,6,7,,1,
 GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-02-16,6,4,6,,-3,
 GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-02-17,-1,0,-7,,3,1
@@ -14247,6 +14366,8 @@ GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-11-05,-36,-27,-44,,-34,11
 GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-11-06,-37,-25,-41,,-32,11
 GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-11-07,-40,-22,-42,,-27,11
 GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-11-08,-40,-25,-36,,-28,8
+GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-11-09,-29,-12,-39,,-33,9
+GT,Guatemala,Jutiapa Department,,,GT-JU,,2020-11-10,-22,-15,-34,,-32,7
 GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-03-18,,,,,-27,
 GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-03-19,,,,,-23,
 GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-03-20,,,,,-31,
@@ -14447,6 +14568,8 @@ GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-11-05,,,,,-40,
 GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-11-06,,,,,-34,
 GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-11-07,-41,,,,-30,
 GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-11-08,,,,,-33,
+GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-11-09,,,,,-33,
+GT,Guatemala,Jutiapa Department,Asunción Mita,,,,2020-11-10,,,,,-32,
 GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-02-15,,,3,,,
 GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-02-16,,,7,,,
 GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-02-17,,,-15,,,
@@ -14690,6 +14813,8 @@ GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-11-05,,,-45,,-27,
 GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-11-06,,,-45,,-21,
 GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-11-07,,,-39,,-20,
 GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-11-08,,,-25,,-36,
+GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-11-09,,,-30,,-22,
+GT,Guatemala,Jutiapa Department,El Progreso,,,,2020-11-10,,,-31,,-24,
 GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-02-15,21,4,18,,6,
 GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-02-16,11,5,4,,-5,
 GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-02-17,2,0,-2,,4,
@@ -14933,6 +15058,8 @@ GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-11-05,-32,,-54,,-32,13
 GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-11-06,-38,,-54,,-31,12
 GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-11-07,-42,-32,-49,,-25,
 GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-11-08,-41,-30,-54,,-23,
+GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-11-09,-29,,-49,,-31,10
+GT,Guatemala,Jutiapa Department,Jutiapa,,,,2020-11-10,-26,,-43,,-30,9
 GT,Guatemala,Petén Department,,,GT-PE,,2020-02-15,8,6,-3,14,3,
 GT,Guatemala,Petén Department,,,GT-PE,,2020-02-16,1,2,3,-9,5,
 GT,Guatemala,Petén Department,,,GT-PE,,2020-02-17,-2,-1,-4,-4,6,1
@@ -15184,6 +15311,8 @@ GT,Guatemala,Petén Department,,,GT-PE,,2020-11-05,-29,-22,-42,-27,-31,9
 GT,Guatemala,Petén Department,,,GT-PE,,2020-11-06,-34,-23,-39,-39,-27,10
 GT,Guatemala,Petén Department,,,GT-PE,,2020-11-07,-30,-20,-40,-32,-24,10
 GT,Guatemala,Petén Department,,,GT-PE,,2020-11-08,-31,-26,-37,-40,-24,10
+GT,Guatemala,Petén Department,,,GT-PE,,2020-11-09,-25,-19,-30,-32,-25,8
+GT,Guatemala,Petén Department,,,GT-PE,,2020-11-10,-22,-18,-30,-26,-28,6
 GT,Guatemala,Petén Department,Flores,,,,2020-02-15,5,8,-3,12,,
 GT,Guatemala,Petén Department,Flores,,,,2020-02-16,-6,0,15,-9,,
 GT,Guatemala,Petén Department,Flores,,,,2020-02-17,-8,1,-12,-6,11,
@@ -15427,6 +15556,8 @@ GT,Guatemala,Petén Department,Flores,,,,2020-11-05,-36,-37,-57,-27,-33,
 GT,Guatemala,Petén Department,Flores,,,,2020-11-06,-43,-40,-64,-41,-26,
 GT,Guatemala,Petén Department,Flores,,,,2020-11-07,-41,-35,-70,-30,-24,
 GT,Guatemala,Petén Department,Flores,,,,2020-11-08,-40,-37,-49,-39,-21,
+GT,Guatemala,Petén Department,Flores,,,,2020-11-09,-35,-37,-57,-31,-23,
+GT,Guatemala,Petén Department,Flores,,,,2020-11-10,-32,-35,-63,-21,-31,
 GT,Guatemala,Petén Department,Poptún,,,,2020-03-18,,,,,-24,
 GT,Guatemala,Petén Department,Poptún,,,,2020-03-19,,,,,-25,
 GT,Guatemala,Petén Department,Poptún,,,,2020-03-23,,,,,-37,
@@ -15604,6 +15735,8 @@ GT,Guatemala,Petén Department,Poptún,,,,2020-11-05,,,,,-28,
 GT,Guatemala,Petén Department,Poptún,,,,2020-11-06,,,,,-20,
 GT,Guatemala,Petén Department,Poptún,,,,2020-11-07,,,,,-28,
 GT,Guatemala,Petén Department,Poptún,,,,2020-11-08,,,,,-18,
+GT,Guatemala,Petén Department,Poptún,,,,2020-11-09,,,,,-29,
+GT,Guatemala,Petén Department,Poptún,,,,2020-11-10,,,,,-26,
 GT,Guatemala,Petén Department,San Benito,,,,2020-02-17,,,,,9,
 GT,Guatemala,Petén Department,San Benito,,,,2020-02-18,,,,,8,
 GT,Guatemala,Petén Department,San Benito,,,,2020-02-19,,,,,4,
@@ -15825,6 +15958,8 @@ GT,Guatemala,Petén Department,San Benito,,,,2020-11-05,,,,,-23,
 GT,Guatemala,Petén Department,San Benito,,,,2020-11-06,,,,,-20,
 GT,Guatemala,Petén Department,San Benito,,,,2020-11-07,,,,,-16,
 GT,Guatemala,Petén Department,San Benito,,,,2020-11-08,,,,,-22,
+GT,Guatemala,Petén Department,San Benito,,,,2020-11-09,,,,,-19,
+GT,Guatemala,Petén Department,San Benito,,,,2020-11-10,,,,,-20,
 GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-02-15,5,5,1,11,1,-2
 GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-02-16,1,5,2,6,0,0
 GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-02-17,-3,0,2,2,6,0
@@ -16093,6 +16228,8 @@ GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-11-05,-35,-10,-35,-46,-32,1
 GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-11-06,-36,-10,-34,-46,-29,14
 GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-11-07,-36,-12,-35,-45,-13,12
 GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-11-08,-38,-16,-33,-52,-18,11
+GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-11-09,-33,-6,-31,-43,-28,13
+GT,Guatemala,Quetzaltenango Department,,,GT-QZ,,2020-11-10,-30,-6,-28,-42,-30,12
 GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-04-09,,,,,-60,
 GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-06-08,,,,,-21,
 GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-06-09,,,,,-35,
@@ -16200,6 +16337,8 @@ GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-11-03,,,,,-27,
 GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-11-04,,,,,-15,
 GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-11-05,,,,,-23,
 GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-11-06,,,,,-24,
+GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-11-09,,,,,-17,
+GT,Guatemala,Quetzaltenango Department,Cantel,,,,2020-11-10,,,,,-22,
 GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-02-15,1,,1,,2,
 GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-02-16,-1,,13,,-1,
 GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-02-17,,,15,,5,-1
@@ -16443,6 +16582,8 @@ GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-11-05,-22,,-26,,-28,12
 GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-11-06,-27,,-40,,-27,14
 GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-11-07,-22,-30,-36,,-13,
 GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-11-08,-27,,-42,,-20,
+GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-11-09,-22,,-23,,-23,12
+GT,Guatemala,Quetzaltenango Department,Coatepeque,,,,2020-11-10,-13,,-14,,-25,9
 GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-02-15,,,7,,,
 GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-02-16,,,-8,,,
 GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-02-17,,,3,,,
@@ -16686,6 +16827,8 @@ GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-11-05,,,-19,,,
 GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-11-06,,,-23,,,
 GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-11-07,,,-25,,,
 GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-11-08,,,-26,,,
+GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-11-09,,,-20,,,
+GT,Guatemala,Quetzaltenango Department,Flores Costa Cuca,,,,2020-11-10,,,-14,,,
 GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-03-24,,,,,-65,
 GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-03-26,,,,,-63,
 GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-04-07,,,,,-53,
@@ -16782,6 +16925,8 @@ GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-11-03,,,,,-33,
 GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-11-04,,,,,-21,
 GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-11-05,,,,,-28,
 GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-11-06,,,,,-18,
+GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-11-09,,,,,-21,
+GT,Guatemala,Quetzaltenango Department,La Esperanza,,,,2020-11-10,,,,,-30,
 GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-03-16,,,,,-17,
 GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-03-17,,,,,-43,
 GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-03-18,,,,,-44,
@@ -16953,6 +17098,8 @@ GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-11-04,,,,,-19,
 GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-11-05,,,,,-25,
 GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-11-06,,,,,-17,
 GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-11-07,,,,,-6,
+GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-11-09,,,,,-24,
+GT,Guatemala,Quetzaltenango Department,Olintepeque,,,,2020-11-10,,,,,-21,
 GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-02-15,7,6,2,12,3,-2
 GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-02-16,2,7,1,4,2,0
 GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-02-17,-3,-1,0,0,6,0
@@ -17221,6 +17368,8 @@ GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-11-05,-37,-12,-39,
 GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-11-06,-36,-10,-35,-47,-30,15
 GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-11-07,-37,-14,-37,-48,-9,11
 GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-11-08,-39,-16,-31,-57,-14,10
+GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-11-09,-35,-7,-34,-47,-28,13
+GT,Guatemala,Quetzaltenango Department,Quetzaltenango,,,,2020-11-10,-31,-8,-32,-47,-30,12
 GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-02-15,,3,-8,,,
 GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-02-16,,,0,,,
 GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-02-17,,,18,,,
@@ -17454,6 +17603,8 @@ GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-11-05,,,-29,,-28,
 GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-11-06,,,-29,,-25,
 GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-11-07,,,-30,,-8,
 GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-11-08,,,-29,,,
+GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-11-09,,,-31,,-26,
+GT,Guatemala,Quetzaltenango Department,Salcajá,,,,2020-11-10,,,-31,,-23,
 GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-02-15,,,-15,,,
 GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-02-16,,,-3,,,
 GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-02-17,,,-3,,,
@@ -17685,6 +17836,8 @@ GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-11-05,,,-47,,
 GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-11-06,,,-50,,-25,
 GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-11-07,,,-47,,-10,
 GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-11-08,,,-64,,,
+GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-11-09,,,-45,,-28,
+GT,Guatemala,Quetzaltenango Department,San Juan Ostuncalco,,,,2020-11-10,,,-47,,-20,
 GT,Guatemala,Quiché Department,,,GT-QC,,2020-02-15,-3,3,0,,-1,
 GT,Guatemala,Quiché Department,,,GT-QC,,2020-02-16,-6,2,1,,-2,
 GT,Guatemala,Quiché Department,,,GT-QC,,2020-02-17,-4,-5,3,,4,1
@@ -17928,6 +18081,8 @@ GT,Guatemala,Quiché Department,,,GT-QC,,2020-11-05,-33,-37,-45,,-35,13
 GT,Guatemala,Quiché Department,,,GT-QC,,2020-11-06,-32,-33,-39,,-32,15
 GT,Guatemala,Quiché Department,,,GT-QC,,2020-11-07,-28,-30,-37,,-26,16
 GT,Guatemala,Quiché Department,,,GT-QC,,2020-11-08,-29,-31,-29,,-22,12
+GT,Guatemala,Quiché Department,,,GT-QC,,2020-11-09,-21,-22,-32,,-29,14
+GT,Guatemala,Quiché Department,,,GT-QC,,2020-11-10,-20,-20,-30,,-29,13
 GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-06-08,,,,,-25,
 GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-06-09,,,,,-27,
 GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-06-10,,,,,-25,
@@ -18025,6 +18180,8 @@ GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-11-03,,,,,-22,
 GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-11-04,,,,,-17,
 GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-11-05,,,,,-21,
 GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-11-06,,,,,-12,
+GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-11-09,,,,,-14,
+GT,Guatemala,Quiché Department,Chichicastenango,,,,2020-11-10,,,,,-19,
 GT,Guatemala,Quiché Department,El Ixcán,,,,2020-02-15,,,3,,,
 GT,Guatemala,Quiché Department,El Ixcán,,,,2020-02-16,,,5,,,
 GT,Guatemala,Quiché Department,El Ixcán,,,,2020-02-17,,,10,,,
@@ -18268,6 +18425,8 @@ GT,Guatemala,Quiché Department,El Ixcán,,,,2020-11-05,,,-68,,,
 GT,Guatemala,Quiché Department,El Ixcán,,,,2020-11-06,,,-73,,-61,
 GT,Guatemala,Quiché Department,El Ixcán,,,,2020-11-07,,,-76,,,
 GT,Guatemala,Quiché Department,El Ixcán,,,,2020-11-08,,,-67,,,
+GT,Guatemala,Quiché Department,El Ixcán,,,,2020-11-09,,,-76,,-61,
+GT,Guatemala,Quiché Department,El Ixcán,,,,2020-11-10,,,-77,,,
 GT,Guatemala,Quiché Department,Joyabaj,,,,2020-03-18,,,-48,,,
 GT,Guatemala,Quiché Department,Joyabaj,,,,2020-03-19,,,-59,,,
 GT,Guatemala,Quiché Department,Joyabaj,,,,2020-03-24,,,-60,,,
@@ -18422,6 +18581,8 @@ GT,Guatemala,Quiché Department,Joyabaj,,,,2020-11-05,,,-70,,-36,
 GT,Guatemala,Quiché Department,Joyabaj,,,,2020-11-06,,,,,-30,
 GT,Guatemala,Quiché Department,Joyabaj,,,,2020-11-07,,,,,-32,
 GT,Guatemala,Quiché Department,Joyabaj,,,,2020-11-08,,,,,-34,
+GT,Guatemala,Quiché Department,Joyabaj,,,,2020-11-09,,,-54,,-26,
+GT,Guatemala,Quiché Department,Joyabaj,,,,2020-11-10,,,-44,,-24,
 GT,Guatemala,Quiché Department,Nebaj,,,,2020-02-15,,,-4,,,
 GT,Guatemala,Quiché Department,Nebaj,,,,2020-02-16,,,2,,,
 GT,Guatemala,Quiché Department,Nebaj,,,,2020-02-17,,,-10,,,
@@ -18665,6 +18826,8 @@ GT,Guatemala,Quiché Department,Nebaj,,,,2020-11-05,,,-55,,-41,
 GT,Guatemala,Quiché Department,Nebaj,,,,2020-11-06,,,-47,,-31,
 GT,Guatemala,Quiché Department,Nebaj,,,,2020-11-07,,,-38,,,
 GT,Guatemala,Quiché Department,Nebaj,,,,2020-11-08,,,-34,,,
+GT,Guatemala,Quiché Department,Nebaj,,,,2020-11-09,,,-41,,-33,
+GT,Guatemala,Quiché Department,Nebaj,,,,2020-11-10,,,-38,,-33,
 GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-02-15,,,4,,-2,
 GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-02-16,-5,,-7,,,
 GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-02-17,-4,,7,,12,
@@ -18908,6 +19071,8 @@ GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-11-05,,,-35,,-32,
 GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-11-06,,,-39,,-25,
 GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-11-07,,,-40,,-21,
 GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-11-08,,,-21,,-10,
+GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-11-09,,,-18,,-20,
+GT,Guatemala,Quiché Department,Santa Cruz del Quiché,,,,2020-11-10,,,-23,,-23,
 GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-02-15,2,-1,-3,,5,
 GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-02-16,1,4,-4,,-2,
 GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-02-17,-3,1,5,0,11,
@@ -19151,6 +19316,8 @@ GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-11-05,-28,-13,-6,-13,-28,9
 GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-11-06,-32,-14,-5,-23,-25,12
 GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-11-07,-42,-17,-22,-16,-18,
 GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-11-08,-47,-35,-27,,-24,
+GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-11-09,-22,-10,0,-19,-22,11
+GT,Guatemala,Retalhuleu Department,,,GT-RE,,2020-11-10,-18,-8,2,-11,-25,10
 GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-02-15,9,1,,-1,3,
 GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-02-16,3,7,,6,-3,
 GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-02-17,-3,3,,-3,8,
@@ -19394,6 +19561,8 @@ GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-11-05,-31,-10,,-14,-25,9
 GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-11-06,-31,-11,,-25,-23,9
 GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-11-07,-38,-17,,-14,-10,
 GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-11-08,-43,-35,,-19,-23,
+GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-11-09,-26,-9,,-17,-18,10
+GT,Guatemala,Retalhuleu Department,Retalhuleu,,,,2020-11-10,-24,-9,,-12,-25,8
 GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-02-15,7,0,6,24,3,-2
 GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-02-16,13,5,11,18,2,0
 GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-02-17,1,-1,-5,8,5,0
@@ -19662,6 +19831,8 @@ GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-11-05,-39,-29,-46,-51,-31,18
 GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-11-06,-35,-27,-40,-44,-27,17
 GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-11-07,-33,-28,-39,-39,-12,11
 GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-11-08,-27,-31,-25,-43,-10,10
+GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-11-09,-29,-27,-37,-40,-27,15
+GT,Guatemala,Sacatepéquez Department,,,GT-SA,,2020-11-10,-25,-22,-28,-42,-28,14
 GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-02-15,9,-3,10,24,0,
 GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-02-16,21,9,16,19,2,
 GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-02-17,2,-4,-4,7,3,0
@@ -19927,6 +20098,8 @@ GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-11-05,-48,-33,-5
 GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-11-06,-45,-29,-54,-58,-32,17
 GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-11-07,-43,-31,-49,-55,-15,10
 GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-11-08,-35,-38,-32,-50,-15,
+GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-11-09,-40,-31,-46,-55,-32,15
+GT,Guatemala,Sacatepéquez Department,Antigua Guatemala,,,,2020-11-10,-33,-24,-38,-55,-35,13
 GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-02-15,,,-17,,,
 GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-02-16,,,-15,,,
 GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-02-17,,,,,8,
@@ -20167,6 +20340,8 @@ GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-11-05,,,,,-22,
 GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-11-06,,,,,-23,
 GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-11-07,,,,,-12,
 GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-11-08,,,-2,,-13,
+GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-11-09,,,,,-18,
+GT,Guatemala,Sacatepéquez Department,Ciudad Vieja,,,,2020-11-10,,,,,-17,
 GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-02-17,,,,,3,
 GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-02-18,,,,,8,
 GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-02-19,,,,,7,
@@ -20382,6 +20557,8 @@ GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-11-05,,,,,-34,
 GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-11-06,,,,,-30,
 GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-11-07,,,,,-10,
 GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-11-08,,,,,-11,
+GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-11-09,,,,,-29,
+GT,Guatemala,Sacatepéquez Department,Jocotenango,,,,2020-11-10,,,,,-29,
 GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-04-08,,,,,-62,
 GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-04-09,,,,,-66,
 GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-04-10,,,,,-76,
@@ -20478,6 +20655,8 @@ GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-11-03,,,,,-24,
 GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-11-04,,,,,-27,
 GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-11-05,,,,,-22,
 GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-11-06,,,,,-27,
+GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-11-09,,,,,-17,
+GT,Guatemala,Sacatepéquez Department,Pastores,,,,2020-11-10,,,,,-26,
 GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-02-15,3,4,,,1,
 GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-02-16,8,1,,,,
 GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-02-17,1,4,,,5,1
@@ -20721,6 +20900,8 @@ GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-11-05,-37,
 GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-11-06,-34,-35,,,-31,19
 GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-11-07,-28,-36,,,-17,
 GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-11-08,-23,-42,,,-11,
+GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-11-09,-27,-33,,,-30,15
+GT,Guatemala,Sacatepéquez Department,San Lucas Sacatepéquez,,,,2020-11-10,-25,-31,,,-32,15
 GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-04-08,,,,,-77,
 GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-06-08,,,,,-48,
 GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-06-09,,,,,-41,
@@ -20813,6 +20994,8 @@ GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-11-03,,,
 GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-11-04,,,,,-34,
 GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-11-05,,,,,-30,
 GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-11-06,,,,,-26,
+GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-11-09,,,,,-30,
+GT,Guatemala,Sacatepéquez Department,Santa Lucía Milpas Altas,,,,2020-11-10,,,,,-31,
 GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-02-17,,,,,3,
 GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-02-18,,,,,9,
 GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-02-19,,,,,9,
@@ -21015,6 +21198,8 @@ GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-11-04,,,,,-2
 GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-11-05,,,,,-26,
 GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-11-06,,,,,-19,
 GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-11-07,,,,,-7,
+GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-11-09,,,,,-25,
+GT,Guatemala,Sacatepéquez Department,Santiago Sacateplquez,,,,2020-11-10,,,,,-24,
 GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-02-17,,,,,8,
 GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-02-18,,,,,2,
 GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-02-19,,,,,4,
@@ -21237,6 +21422,8 @@ GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-11-05,,,,,-27,
 GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-11-06,,,,,-25,
 GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-11-07,,,,,-5,
 GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-11-08,,,-43,,,
+GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-11-09,,,,,-26,
+GT,Guatemala,Sacatepéquez Department,Sumpango,,,,2020-11-10,,,,,-25,
 GT,Guatemala,San Marcos Department,,,GT-SM,,2020-02-15,3,-2,0,13,4,-2
 GT,Guatemala,San Marcos Department,,,GT-SM,,2020-02-16,0,-6,-1,8,3,
 GT,Guatemala,San Marcos Department,,,GT-SM,,2020-02-17,-5,-11,-3,-8,7,0
@@ -21500,6 +21687,8 @@ GT,Guatemala,San Marcos Department,,,GT-SM,,2020-11-05,-22,-17,-28,-39,-30,12
 GT,Guatemala,San Marcos Department,,,GT-SM,,2020-11-06,-20,-20,-32,-43,-28,13
 GT,Guatemala,San Marcos Department,,,GT-SM,,2020-11-07,-24,-18,-33,-38,-19,13
 GT,Guatemala,San Marcos Department,,,GT-SM,,2020-11-08,-33,-24,-32,-40,-26,13
+GT,Guatemala,San Marcos Department,,,GT-SM,,2020-11-09,-17,-12,-26,-33,-26,12
+GT,Guatemala,San Marcos Department,,,GT-SM,,2020-11-10,-16,-16,-21,-27,-28,10
 GT,Guatemala,San Marcos Department,Ayutla,,,,2020-02-15,,,7,,,
 GT,Guatemala,San Marcos Department,Ayutla,,,,2020-02-16,,,-1,,,
 GT,Guatemala,San Marcos Department,Ayutla,,,,2020-02-22,,,-1,,,
@@ -21707,6 +21896,8 @@ GT,Guatemala,San Marcos Department,Ayutla,,,,2020-11-05,,,-24,,-23,
 GT,Guatemala,San Marcos Department,Ayutla,,,,2020-11-06,,,-25,,-20,
 GT,Guatemala,San Marcos Department,Ayutla,,,,2020-11-07,,,-47,,-22,
 GT,Guatemala,San Marcos Department,Ayutla,,,,2020-11-08,,,-26,,,
+GT,Guatemala,San Marcos Department,Ayutla,,,,2020-11-09,,,-19,,-20,
+GT,Guatemala,San Marcos Department,Ayutla,,,,2020-11-10,,,,,-23,
 GT,Guatemala,San Marcos Department,Malacatán,,,,2020-02-15,,-5,12,,,
 GT,Guatemala,San Marcos Department,Malacatán,,,,2020-02-16,,,-5,,,
 GT,Guatemala,San Marcos Department,Malacatán,,,,2020-02-17,,2,-8,,,
@@ -21947,6 +22138,8 @@ GT,Guatemala,San Marcos Department,Malacatán,,,,2020-11-05,,,-52,,-26,
 GT,Guatemala,San Marcos Department,Malacatán,,,,2020-11-06,,,-47,,-29,
 GT,Guatemala,San Marcos Department,Malacatán,,,,2020-11-07,-19,,-45,,-25,
 GT,Guatemala,San Marcos Department,Malacatán,,,,2020-11-08,,,-53,,-28,
+GT,Guatemala,San Marcos Department,Malacatán,,,,2020-11-09,,,-43,,-25,
+GT,Guatemala,San Marcos Department,Malacatán,,,,2020-11-10,,,-45,,-27,
 GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-02-15,,,-7,,,
 GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-02-16,,,-5,,,
 GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-02-17,,,-4,,,
@@ -22190,6 +22383,8 @@ GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-11-05,,,-17,,,
 GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-11-06,,,-20,,,
 GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-11-07,,,-25,,,
 GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-11-08,,,-24,,,
+GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-11-09,,,-14,,,
+GT,Guatemala,San Marcos Department,Nuevo Progreso,,,,2020-11-10,,,-13,,,
 GT,Guatemala,San Marcos Department,San Marcos,,,,2020-02-15,11,,,,,
 GT,Guatemala,San Marcos Department,San Marcos,,,,2020-02-17,2,,,,9,
 GT,Guatemala,San Marcos Department,San Marcos,,,,2020-02-18,-4,,,,6,
@@ -22421,6 +22616,8 @@ GT,Guatemala,San Marcos Department,San Marcos,,,,2020-11-05,-31,,,,-24,
 GT,Guatemala,San Marcos Department,San Marcos,,,,2020-11-06,-32,,,,-23,
 GT,Guatemala,San Marcos Department,San Marcos,,,,2020-11-07,-21,,,,-9,
 GT,Guatemala,San Marcos Department,San Marcos,,,,2020-11-08,-30,,,,-21,
+GT,Guatemala,San Marcos Department,San Marcos,,,,2020-11-09,-26,,,,-21,
+GT,Guatemala,San Marcos Department,San Marcos,,,,2020-11-10,-20,,,,-27,
 GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-02-15,3,,,19,0,
 GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-02-16,0,,,2,,
 GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-02-17,-11,,,-11,8,
@@ -22664,6 +22861,8 @@ GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-11-05,-27,,,-4
 GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-11-06,-21,,,-49,-17,
 GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-11-07,-28,,,-37,-1,
 GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-11-08,-43,,,-44,-13,
+GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-11-09,-21,,,-36,-23,
+GT,Guatemala,San Marcos Department,San Pedro Sacatepequez,,,,2020-11-10,-22,,,-30,-20,
 GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-02-15,2,3,11,,4,
 GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-02-16,1,0,7,,-1,
 GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-02-17,0,-4,1,,3,1
@@ -22907,6 +23106,8 @@ GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-11-05,-26,-14,-26,,-32,10
 GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-11-06,-30,-9,-26,,-28,12
 GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-11-07,-31,-13,-28,,-21,
 GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-11-08,-30,,-31,,-19,
+GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-11-09,-27,-15,-25,,-27,10
+GT,Guatemala,Santa Rosa Department,,,GT-SR,,2020-11-10,-22,-4,-19,,-29,10
 GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-02-16,,,3,,,
 GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-02-17,,,,,3,
 GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-02-18,,,,,0,
@@ -23131,6 +23332,8 @@ GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-11-05,,,,,-31,
 GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-11-06,,,,,-25,
 GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-11-07,,,-75,,-17,
 GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-11-08,,,-72,,-13,
+GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-11-09,,,,,-24,
+GT,Guatemala,Santa Rosa Department,Barberena,,,,2020-11-10,,,,,-28,
 GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-02-15,,,16,,,
 GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-02-16,,,16,,,
 GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-02-22,,,27,,,
@@ -23289,6 +23492,8 @@ GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-11-05,,,,,-26,
 GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-11-06,,,,,-13,
 GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-11-07,,,-28,,-17,
 GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-11-08,,,-33,,,
+GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-11-09,,,,,-23,
+GT,Guatemala,Santa Rosa Department,Chiquimulilla,,,,2020-11-10,,,,,-21,
 GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-03-18,,,,,-34,
 GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-03-19,,,,,-33,
 GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-03-20,,,,,-39,
@@ -23458,6 +23663,8 @@ GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-11-04,,,,,-38,
 GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-11-05,,,,,-36,
 GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-11-06,,,,,-34,
 GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-11-07,,,,,-24,
+GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-11-09,,,,,-27,
+GT,Guatemala,Santa Rosa Department,Cuilapa,,,,2020-11-10,,,,,-33,
 GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-06-08,,,,,-36,
 GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-06-09,,,,,-27,
 GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-06-10,,,,,-27,
@@ -23549,6 +23756,8 @@ GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-11-03,,,,,-30,
 GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-11-04,,,,,-27,
 GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-11-05,,,,,-38,
 GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-11-06,,,,,-26,
+GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-11-09,,,,,-29,
+GT,Guatemala,Santa Rosa Department,Nueva Santa Rosa,,,,2020-11-10,,,,,-23,
 GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-02-15,,,7,,,
 GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-02-16,,,2,,,
 GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-02-17,,,1,,,
@@ -23792,6 +24001,8 @@ GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-11-05,,,-30,,,
 GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-11-06,,,-26,,,
 GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-11-07,,,-38,,,
 GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-11-08,,,-28,,,
+GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-11-09,,,-37,,,
+GT,Guatemala,Santa Rosa Department,San Juan Tecuaco,,,,2020-11-10,,,-29,,,
 GT,Guatemala,Sololá Department,,,GT-SO,,2020-02-15,-2,,3,0,4,
 GT,Guatemala,Sololá Department,,,GT-SO,,2020-02-16,-1,,5,2,2,
 GT,Guatemala,Sololá Department,,,GT-SO,,2020-02-17,0,,1,-5,7,
@@ -24035,6 +24246,8 @@ GT,Guatemala,Sololá Department,,,GT-SO,,2020-11-05,-44,,-43,-48,-37,13
 GT,Guatemala,Sololá Department,,,GT-SO,,2020-11-06,-42,-38,-44,-51,-34,15
 GT,Guatemala,Sololá Department,,,GT-SO,,2020-11-07,-47,-43,-46,-50,-21,
 GT,Guatemala,Sololá Department,,,GT-SO,,2020-11-08,-42,,-40,-43,-19,
+GT,Guatemala,Sololá Department,,,GT-SO,,2020-11-09,-37,,-40,-42,-31,15
+GT,Guatemala,Sololá Department,,,GT-SO,,2020-11-10,-33,,-42,-42,-31,12
 GT,Guatemala,Sololá Department,Panajachel,,,,2020-02-15,-3,,9,15,,
 GT,Guatemala,Sololá Department,Panajachel,,,,2020-02-16,,,7,9,,
 GT,Guatemala,Sololá Department,Panajachel,,,,2020-02-17,,,1,,,
@@ -24266,6 +24479,8 @@ GT,Guatemala,Sololá Department,Panajachel,,,,2020-11-05,,,-46,-56,-32,
 GT,Guatemala,Sololá Department,Panajachel,,,,2020-11-06,,,-49,-58,-27,
 GT,Guatemala,Sololá Department,Panajachel,,,,2020-11-07,-62,,-52,-47,-19,
 GT,Guatemala,Sololá Department,Panajachel,,,,2020-11-08,,,-52,-23,,
+GT,Guatemala,Sololá Department,Panajachel,,,,2020-11-09,,,-42,,-26,
+GT,Guatemala,Sololá Department,Panajachel,,,,2020-11-10,,,-41,,-25,
 GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-02-15,,,2,,,
 GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-02-16,,,-3,,,
 GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-02-17,,,2,,,
@@ -24509,6 +24724,8 @@ GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-11-05,,,-39,,,
 GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-11-06,,,-45,,,
 GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-11-07,,,-49,,,
 GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-11-08,,,-47,,,
+GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-11-09,,,-45,,,
+GT,Guatemala,Sololá Department,San Andrés Semetabaj,,,,2020-11-10,,,-45,,,
 GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-02-15,,,8,,,
 GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-02-16,,,8,,,
 GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-02-21,,,-14,,,
@@ -24708,6 +24925,7 @@ GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-11-05,,,-36,,,
 GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-11-06,,,-24,,,
 GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-11-07,,,-35,,,
 GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-11-08,,,-25,,,
+GT,Guatemala,Sololá Department,Santiago Atitlán,,,,2020-11-09,,,-25,,,
 GT,Guatemala,Sololá Department,Sololá,,,,2020-02-15,1,,1,-9,,
 GT,Guatemala,Sololá Department,Sololá,,,,2020-02-16,-10,,7,-6,,
 GT,Guatemala,Sololá Department,Sololá,,,,2020-02-17,-3,,1,-10,1,
@@ -24950,6 +25168,8 @@ GT,Guatemala,Sololá Department,Sololá,,,,2020-11-05,-33,,-60,-51,-35,
 GT,Guatemala,Sololá Department,Sololá,,,,2020-11-06,-35,,-62,-50,-30,
 GT,Guatemala,Sololá Department,Sololá,,,,2020-11-07,-32,,-63,-53,-24,
 GT,Guatemala,Sololá Department,Sololá,,,,2020-11-08,-37,,-52,-55,-24,
+GT,Guatemala,Sololá Department,Sololá,,,,2020-11-09,-29,,-52,-48,-30,
+GT,Guatemala,Sololá Department,Sololá,,,,2020-11-10,-19,,-54,-48,-26,
 GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-02-15,9,-3,0,3,3,-3
 GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-02-16,11,-1,-1,3,-1,
 GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-02-17,-6,-3,-6,-9,3,-1
@@ -25207,6 +25427,8 @@ GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-11-05,-22,-13,-44,-29,-29,1
 GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-11-06,-24,-16,-40,-31,-26,12
 GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-11-07,-25,-22,-43,-29,-16,12
 GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-11-08,-25,-16,-40,-32,-17,11
+GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-11-09,-13,-12,-38,-27,-26,12
+GT,Guatemala,Suchitepéquez Department,,,GT-SU,,2020-11-10,-10,-11,-36,-17,-24,11
 GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-02-15,13,-9,22,3,2,
 GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-02-16,12,-5,8,6,-9,
 GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-02-17,-8,-13,-7,-8,3,
@@ -25450,6 +25672,8 @@ GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-11-05,-27,-20,-54,-27
 GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-11-06,-27,-23,-43,-30,-19,11
 GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-11-07,-28,-28,-47,-28,-9,
 GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-11-08,-30,-30,-46,-27,-6,
+GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-11-09,-19,-16,-47,-24,-16,12
+GT,Guatemala,Suchitepéquez Department,Mazatenango,,,,2020-11-10,-13,-13,-41,-17,-16,12
 GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-02-15,,,3,,,
 GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-02-16,,,5,,,
 GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-02-20,,,9,,,
@@ -25675,6 +25899,8 @@ GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-11-05,,,-46,,,
 GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-11-06,,,-47,,,
 GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-11-07,,,-49,,,
 GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-11-08,,,-49,,,
+GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-11-09,,,-45,,,
+GT,Guatemala,Suchitepéquez Department,Patulul,,,,2020-11-10,,,-35,,,
 GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-06-08,,,,,-32,
 GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-06-09,,,,,-28,
 GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-06-10,,,,,-38,
@@ -25777,6 +26003,8 @@ GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-11-04,
 GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-11-05,,,,,-38,
 GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-11-06,,,,,-29,
 GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-11-07,,,,,-26,
+GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-11-09,,,,,-30,
+GT,Guatemala,Suchitepéquez Department,San Antonio Suchitepéquez,,,,2020-11-10,,,,,-24,
 GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-02-15,,,-14,,,
 GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-02-16,,,1,,,
 GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-02-17,,,-3,,,
@@ -26020,6 +26248,8 @@ GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-11-05,,,-48,,,
 GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-11-06,,,-46,,,
 GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-11-07,,,-48,,,
 GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-11-08,,,-41,,,
+GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-11-09,,,-39,,,
+GT,Guatemala,Suchitepéquez Department,San José el Idolo,,,,2020-11-10,,,-42,,,
 GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-02-15,,,-5,,-2,
 GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-02-16,,,-9,,1,
 GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-02-17,-2,,-9,,7,
@@ -26263,6 +26493,8 @@ GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-11-05,-5,-9,-52,,-32,
 GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-11-06,-14,,-55,,-26,
 GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-11-07,-19,,-62,,-18,
 GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-11-08,,,-54,,-23,
+GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-11-09,-5,,-53,,-30,
+GT,Guatemala,Totonicapán Department,,,GT-TO,,2020-11-10,-7,,-54,,-29,
 GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-02-16,,,-21,,,
 GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-02-17,,,-35,,,
 GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-02-18,,,-24,,,
@@ -26464,6 +26696,8 @@ GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-11-05,,,-57,,,
 GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-11-06,,,-55,,,
 GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-11-07,,,-60,,,
 GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-11-08,,,-38,,,
+GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-11-09,,,-55,,,
+GT,Guatemala,Totonicapán Department,Momostenango,,,,2020-11-10,,,-57,,,
 GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-06-08,,,,,-24,
 GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-06-09,,,,,-23,
 GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-06-10,,,,,-25,
@@ -26555,6 +26789,8 @@ GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-11-03,,
 GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-11-04,,,,,-23,
 GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-11-05,,,,,-17,
 GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-11-06,,,,,-21,
+GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-11-09,,,,,-25,
+GT,Guatemala,Totonicapán Department,San Cristóbal Totonicapán,,,,2020-11-10,,,,,-20,
 GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-02-15,,,-4,,4,
 GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-02-16,,,-3,,,
 GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-02-17,,,2,,11,
@@ -26798,6 +27034,8 @@ GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-11-05,,,-63,,-30,
 GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-11-06,,,-59,,-22,
 GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-11-07,-24,,-68,,-17,
 GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-11-08,,,-66,,-20,
+GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-11-09,,,-58,,-22,
+GT,Guatemala,Totonicapán Department,Totonicapun,,,,2020-11-10,,,-60,,-27,
 GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-02-15,3,2,13,,7,
 GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-02-16,5,-1,5,,5,
 GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-02-17,-8,1,7,,6,0
@@ -27041,6 +27279,8 @@ GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-11-05,-49,-39,-44,-71,-40,12
 GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-11-06,-41,-21,-37,-73,-35,8
 GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-11-07,-35,-19,-32,-73,-22,
 GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-11-08,-38,-18,-33,,-17,
+GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-11-09,-24,-13,-27,-74,-29,9
+GT,Guatemala,Zacapa Department,,,GT-ZA,,2020-11-10,-14,-11,-26,-65,-30,7
 GT,Guatemala,Zacapa Department,Gualán,,,,2020-02-17,,,,-9,,
 GT,Guatemala,Zacapa Department,Gualán,,,,2020-02-24,,,,-13,,
 GT,Guatemala,Zacapa Department,Gualán,,,,2020-02-29,,,,-26,,
@@ -27194,6 +27434,8 @@ GT,Guatemala,Zacapa Department,Gualán,,,,2020-11-04,,,,,-24,
 GT,Guatemala,Zacapa Department,Gualán,,,,2020-11-05,,,,,-48,
 GT,Guatemala,Zacapa Department,Gualán,,,,2020-11-06,,,,,-56,
 GT,Guatemala,Zacapa Department,Gualán,,,,2020-11-07,,,,,-25,
+GT,Guatemala,Zacapa Department,Gualán,,,,2020-11-09,,,,,-36,
+GT,Guatemala,Zacapa Department,Gualán,,,,2020-11-10,,,,,-26,
 GT,Guatemala,Zacapa Department,Teculután,,,,2020-04-09,,,-60,,,
 GT,Guatemala,Zacapa Department,Teculután,,,,2020-06-08,,,,,-21,
 GT,Guatemala,Zacapa Department,Teculután,,,,2020-06-09,,,,,-22,
@@ -27291,6 +27533,8 @@ GT,Guatemala,Zacapa Department,Teculután,,,,2020-11-03,,,,,-22,
 GT,Guatemala,Zacapa Department,Teculután,,,,2020-11-04,,,,,-33,
 GT,Guatemala,Zacapa Department,Teculután,,,,2020-11-05,,,,,-33,
 GT,Guatemala,Zacapa Department,Teculután,,,,2020-11-06,,,,,-39,
+GT,Guatemala,Zacapa Department,Teculután,,,,2020-11-09,,,,,-23,
+GT,Guatemala,Zacapa Department,Teculután,,,,2020-11-10,,,,,-22,
 GT,Guatemala,Zacapa Department,Zacapa,,,,2020-02-15,-5,,18,,12,
 GT,Guatemala,Zacapa Department,Zacapa,,,,2020-02-16,,,5,,,
 GT,Guatemala,Zacapa Department,Zacapa,,,,2020-02-17,,,16,,6,
@@ -27534,3 +27778,5 @@ GT,Guatemala,Zacapa Department,Zacapa,,,,2020-11-05,,,-50,,-31,
 GT,Guatemala,Zacapa Department,Zacapa,,,,2020-11-06,-25,,-45,,-23,
 GT,Guatemala,Zacapa Department,Zacapa,,,,2020-11-07,-28,,-42,,-13,
 GT,Guatemala,Zacapa Department,Zacapa,,,,2020-11-08,-23,,-43,,-13,
+GT,Guatemala,Zacapa Department,Zacapa,,,,2020-11-09,,,-38,,-24,
+GT,Guatemala,Zacapa Department,Zacapa,,,,2020-11-10,,,-30,,-24,

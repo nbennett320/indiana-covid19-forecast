@@ -267,6 +267,8 @@ BF,Burkina Faso,,,,,,2020-11-05,10,60,21,10,-2,-2
 BF,Burkina Faso,,,,,,2020-11-06,12,56,34,3,1,-2
 BF,Burkina Faso,,,,,,2020-11-07,9,53,34,0,1,-3
 BF,Burkina Faso,,,,,,2020-11-08,9,45,27,4,-4,-1
+BF,Burkina Faso,,,,,,2020-11-09,7,56,30,5,0,-2
+BF,Burkina Faso,,,,,,2020-11-10,6,62,28,5,1,-1
 BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-09-30,,,,,-40,
 BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-10-01,,,,,-45,
 BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-10-02,,,,,-45,
@@ -276,6 +278,7 @@ BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-10-07,,,,,-40,
 BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-10-14,,,,,-37,
 BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-10-29,,,,,-49,
 BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-11-02,,,,,-53,
+BF,Burkina Faso,Boucle du Mouhoun Region,,,BF-01,,2020-11-09,,,,,-36,
 BF,Burkina Faso,Centre Region,,,BF-03,,2020-02-15,0,0,0,0,5,-1
 BF,Burkina Faso,Centre Region,,,BF-03,,2020-02-16,1,1,-14,-4,2,-1
 BF,Burkina Faso,Centre Region,,,BF-03,,2020-02-17,-2,-1,0,1,4,-1
@@ -544,6 +547,8 @@ BF,Burkina Faso,Centre Region,,,BF-03,,2020-11-05,3,67,,5,1,0
 BF,Burkina Faso,Centre Region,,,BF-03,,2020-11-06,10,62,,-1,3,-1
 BF,Burkina Faso,Centre Region,,,BF-03,,2020-11-07,10,57,,-3,3,-1
 BF,Burkina Faso,Centre Region,,,BF-03,,2020-11-08,8,50,62,-2,4,0
+BF,Burkina Faso,Centre Region,,,BF-03,,2020-11-09,5,63,,1,2,0
+BF,Burkina Faso,Centre Region,,,BF-03,,2020-11-10,5,68,,-1,4,-1
 BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-02-17,,,,,4,
 BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-02-18,,,,,8,
 BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-02-19,,,,,4,
@@ -723,6 +728,8 @@ BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-11-04,,,,,-28,
 BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-11-05,,,,,-27,
 BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-11-06,,,,,-31,
 BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-11-07,,,,,-22,
+BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-11-09,,,,,-26,
+BF,Burkina Faso,Centre-Est Region,,,BF-04,,2020-11-10,,,,,-21,
 BF,Burkina Faso,Centre-Nord Region,,,BF-05,,2020-11-02,,,,,-44,
 BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-02-17,,,,,10,
 BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-02-18,,,,,-2,
@@ -892,6 +899,8 @@ BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-11-03,,,,,-14,
 BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-11-04,,,,,-3,
 BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-11-05,,,,,-6,
 BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-11-06,,,,,-12,
+BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-11-09,,,,,-8,
+BF,Burkina Faso,Centre-Ouest Region,,,BF-06,,2020-11-10,,,,,-9,
 BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-02-15,8,4,,-4,7,
 BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-02-16,3,6,,2,11,
 BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-02-17,3,1,,4,8,0
@@ -1149,6 +1158,8 @@ BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-11-05,28,53,,27,-6,-7
 BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-11-06,18,46,,13,-4,-6
 BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-11-07,17,45,,0,-2,-7
 BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-11-08,17,34,,7,-5,
+BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-11-09,14,46,,16,-5,-6
+BF,Burkina Faso,Hauts-Bassins Region,,,BF-09,,2020-11-10,10,47,,14,-6,-5
 BF,Burkina Faso,Nord Region,,,BF-10,,2020-07-31,,,,,-48,
 BF,Burkina Faso,Nord Region,,,BF-10,,2020-10-29,,,,,-37,
 BF,Burkina Faso,Nord Region,,,BF-10,,2020-11-02,,,,,-38,
