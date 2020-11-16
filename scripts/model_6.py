@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-import collections, os, logging
+import collections, os, math, logging
 from argparse import ArgumentParser
 import numpy as np
 import pandas as pd
@@ -62,16 +62,15 @@ county_level_combined_raw = pd.read_csv(county_level_combined_filename, index_co
 # read fetched data
 apple_vehicle_mobility_report_raw = pd.read_csv(apple_vehicle_mobility_report_filename, index_col=4)
 google_mobility_trends_raw = pd.read_csv(google_mobility_trends_filename).set_index('sub_region_1')
-indiana_county_level_test_case_death_trends_raw = pd.read_excel(indiana_county_level_test_case_death_trends_filename).set_index('COUNTY_NAME')
-indiana_covid_demographics_by_county_raw = pd.read_excel(indiana_covid_demographics_by_county_filename).set_index('county_name')
-indiana_hospital_vent_data_raw = pd.read_excel(indiana_hospital_vent_data_filename, index_col=1)
-indiana_covid_cases_by_school_raw = pd.read_excel(indiana_covid_cases_by_school_filename).set_index('school_county')
+indiana_county_level_test_case_death_trends_raw = pd.read_excel(indiana_county_level_test_case_death_trends_filename)
+indiana_covid_demographics_by_county_raw = pd.read_excel(indiana_covid_demographics_by_county_filename)
+indiana_hospital_vent_data_raw = pd.read_excel(indiana_hospital_vent_data_filename)
+indiana_covid_cases_by_school_raw = pd.read_excel(indiana_covid_cases_by_school_filename)
 
 def format_apple_mobility_data():
-  df = pd.DataFrame(apple_vehicle_mobility_report_raw)
-  cdf = pd.DataFrame(indiana_counties_raw)
+  df = pd.DataFrame(apple_vehicle_mobility_report_raw).copy()
+  cdf = pd.DataFrame(indiana_counties_raw).copy()
   df = df.loc['Indiana', :]
-  print(df.columns)
   df = df[df.geo_type != 'city']
   del df['geo_type']
   del df['alternative_name']
@@ -80,18 +79,102 @@ def format_apple_mobility_data():
   df['region'] = df['region'].apply(lambda x: x.replace('County', '').strip(' '))
   df.index = df['region']
   del df['region']
+  del cdf['location_id']
   df = cdf.set_index('county_name').join(df)
-  print(df)
-  return df
+  df = df.fillna(0)
+  return df.T
 
 def format_google_mobility_data():
-  df = pd.DataFrame(google_mobility_trends_raw)
+  df = pd.DataFrame(google_mobility_trends_raw).copy()
   df = df.loc['Indiana', :]
+  del df['country_region_code']
+  del df['country_region']
+  del df['metro_area']
+  del df['iso_3166_2_code']
+  del df['census_fips_code']
+  df = df[df.sub_region_2 == df.sub_region_2]
+  df['sub_region_2'] = df['sub_region_2'].apply(lambda x: x.replace('County', '').strip(' '))
+  df.reset_index(drop=True, inplace=True)
+  df.index = df['sub_region_2']
+  df.reset_index(drop=True, inplace=True)
+  df.index = df['date']
+  del df['date']
+  for col in df.columns[1:]:
+    df[col] = df[col].apply(lambda x: 100 if math.isnan(DTYPE(x)) else DTYPE(x) + 100)
+  df = df.fillna(0)
+  return df
+
+def format_county_level_test_case_death_trends():
+  df = pd.DataFrame(indiana_county_level_test_case_death_trends_raw).copy()
+  for col in df.columns:
+    df[col.lower()] = df[col]
+    del df[col]
+  df = df.set_index('date')
+  del df['location_id']
+  top = df.pop('county_name')
+  df.insert(0, top.name, top)
+  df = df.fillna(0)
+  return df
+
+def format_covid_demographics_by_county():
+  df = pd.DataFrame(indiana_covid_demographics_by_county_raw).copy()
+  # map suppressed data entries to -1
+  for col in df.columns[1:]:
+    df[col] = df[col].apply(lambda x: -1 if type(x) == str and str(x) in "Suppressed" else x)
+  df = df.set_index('county_name')
+  df = df[df.location_level != 'd']
+  del df['location_level']
+  del df['location_id']
+  df = df.fillna(0)
+  return df
+
+def format_hospital_vent_data():
+  df = pd.DataFrame(indiana_hospital_vent_data_raw).copy()
+  for col in df.columns:
+    df[col.lower()] = df[col]
+    del df[col]
+  df = df.set_index('date')
+  df = df.fillna(0)
+  return df
+
+def format_covid_cases_by_school_data():
+  df = pd.DataFrame(indiana_covid_cases_by_school_raw).copy()
+  cdf = pd.DataFrame(indiana_counties_raw).copy()
+  df['school_name'] = df['school_name'].apply(lambda x: x.lower())
+  df['school_county'] = df['school_county'].apply(lambda x: x.capitalize())
+  df['school_city'] = df['school_city'].apply(lambda x: x.lower() if x == x else -1)
+  dummies = pd.get_dummies(df['submission_status'])
+  for col in dummies.columns:
+    label = col.lower().replace(' ', '_').strip(' ')
+    df[label] = dummies[col]
+  del df['submission_status']
+  del df['county_fips']
+  del df['school_id']
+  df['student_total_cases'] = df['student_total_cases'].apply(lambda x: np.random.randint(low=1, high=4) if x == '<5' else x)
+  df['teacher_total_cases'] = df['teacher_total_cases'].apply(lambda x: np.random.randint(low=1, high=4) if x == '<5' else x)
+  df['staff_total_cases'] = df['staff_total_cases'].apply(lambda x: np.random.randint(low=1, high=4) if x == '<5' else x)
+  df['county_name'] = df['school_county']
+  del df['school_county']
+  del cdf['location_id']
+  df = df.set_index('county_name').join(cdf)
+  df = df.fillna(-1)
+  df = df.rename(columns={ 'longitude': 'school_longitude', 'latitude': 'school_latitude' })
+  del df['county_name']
   return df
 
 def preprocess_data():
   apple_mobility_df = format_apple_mobility_data()
+  print("apple mobility:\n", apple_mobility_df)
   google_mobility_df = format_google_mobility_data()
+  print("google mobility:\n", google_mobility_df)
+  county_level_test_case_death_trends_df = format_county_level_test_case_death_trends()
+  print("county_level_test_case_death_trends_df:\n", county_level_test_case_death_trends_df)
+  covid_demographics_by_county_df = format_covid_demographics_by_county()
+  print("county_level_test_case_death_trends_df:\n", covid_demographics_by_county_df)
+  hospital_vent_df = format_hospital_vent_data()
+  print("hospital_vent_df:\n", hospital_vent_df)
+  covid_cases_by_school_df = format_covid_cases_by_school_data()
+  print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
 
 def predict_infections(
   intervention_indicators,
