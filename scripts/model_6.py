@@ -7,12 +7,15 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import tensorflow_probability as tfp
-from datetime import datetime
-from argparse import ArgumentParser
-from functools import reduce
+from tensorflow import keras
+from tensorflow.keras import layers
+from tensorflow.keras.layers.experimental import preprocessing
 from tensorflow_probability.python.internal import prefer_static as ps
 from tensorflow_probability.python.mcmc.internal import util as mcmc_util
 from sklearn.linear_model import LinearRegression
+from datetime import datetime
+from argparse import ArgumentParser
+from functools import reduce
 from util import print_separator, update_dataset, assign_school_type
 tf = tf.compat.v2
 tf.enable_v2_behavior()
@@ -44,13 +47,20 @@ dataset_dir = './data/updated/'
 global is_verbose
 is_verbose = False
 
-# num of epochs
-global model_epochs
-model_epochs = 100
+# num of days to model for
+global n_days
+n_days = 14
+
+global model_county
+model_county = 'Porter'
 
 # update dataset
 global should_fetch_datasets
 should_fetch_datasets = False
+
+# plot results
+global should_plot
+should_plot = False
 
 # data filenames
 indiana_counties_list_filename = './data/indiana_counties.csv'
@@ -68,19 +78,19 @@ jh_cases_filename = './data/updated/data_jh_cases.csv'
 jh_deaths_filename = './data/updated/data_jh_deaths.csv'
 
 # read static data
-indiana_counties_raw = pd.read_csv(indiana_counties_list_filename, dtype='unicode')
-indiana_county_level_data_raw = pd.read_csv(indiana_county_level_data_filename, index_col=0, dtype='unicode')
-county_populations_by_age_raw = pd.read_csv(county_populations_by_age_filename, index_col=0, dtype='unicode')
-prevention_measures_raw = pd.read_csv(prevention_measures_filename, index_col=0, dtype='unicode')
-county_level_combined_raw = pd.read_csv(county_level_combined_filename, index_col=0, dtype='unicode')
+indiana_counties_raw = pd.read_csv(indiana_counties_list_filename)
+indiana_county_level_data_raw = pd.read_csv(indiana_county_level_data_filename, index_col=0)
+county_populations_by_age_raw = pd.read_csv(county_populations_by_age_filename, index_col=0)
+prevention_measures_raw = pd.read_csv(prevention_measures_filename, index_col=0)
+county_level_combined_raw = pd.read_csv(county_level_combined_filename, index_col=0)
 
 # read fetched data
-apple_vehicle_mobility_report_raw = pd.read_csv(apple_vehicle_mobility_report_filename, index_col=4, dtype='unicode')
-google_mobility_trends_raw = pd.read_csv(google_mobility_trends_filename, dtype='unicode').set_index('sub_region_1')
-indiana_county_level_test_case_death_trends_raw = pd.read_excel(indiana_county_level_test_case_death_trends_filename, dtype='unicode')
-indiana_covid_demographics_by_county_raw = pd.read_excel(indiana_covid_demographics_by_county_filename, dtype='unicode')
-indiana_hospital_vent_data_raw = pd.read_excel(indiana_hospital_vent_data_filename, dtype='unicode')
-indiana_covid_cases_by_school_raw = pd.read_excel(indiana_covid_cases_by_school_filename, dtype='unicode')
+apple_vehicle_mobility_report_raw = pd.read_csv(apple_vehicle_mobility_report_filename, index_col=4)
+google_mobility_trends_raw = pd.read_csv(google_mobility_trends_filename).set_index('sub_region_1')
+indiana_county_level_test_case_death_trends_raw = pd.read_excel(indiana_county_level_test_case_death_trends_filename)
+indiana_covid_demographics_by_county_raw = pd.read_excel(indiana_covid_demographics_by_county_filename)
+indiana_hospital_vent_data_raw = pd.read_excel(indiana_hospital_vent_data_filename)
+indiana_covid_cases_by_school_raw = pd.read_excel(indiana_covid_cases_by_school_filename)
 
 def format_apple_mobility_data():
   df = pd.DataFrame(apple_vehicle_mobility_report_raw).copy()
@@ -134,11 +144,34 @@ def format_google_mobility_data():
 
 def format_county_level_test_case_death_trends():
   df = pd.DataFrame(indiana_county_level_test_case_death_trends_raw).copy()
+  cdf = pd.DataFrame(indiana_counties_raw).copy()
   for col in df.columns:
     df[col.lower()] = df[col]
     del df[col]
+  df.set_index('county_name', inplace=True)
+  # cumulative cases
+  df.insert(1, 'covid_count_cumulative', 0)
+  for i, j in cdf['county_name'].iteritems():
+    df.loc[j, 'covid_count_cumulative'] = df.loc[j, 'covid_count'].cumsum()
+    
+  # cumulative deaths
+  df.insert(2, 'covid_deaths_cumulative', 0)
+  for i, j in cdf['county_name'].iteritems():
+    df.loc[j, 'covid_deaths_cumulative'] = df.loc[j, 'covid_deaths'].cumsum()
+  
+  # # case covariance
+  # df.insert(3, 'covid_count_covariance', 0)
+  # for i, j in cdf['county_name'].iteritems():
+  #   df.loc[j, 'covid_count_cumulative'] = pd.DataFrame([df.loc[j,:]['covid_count'].values.tolist(), df.loc[j,:]['date'].values.tolist()], columns=['covid_count', 'date']).cov()
+
+  # # death covariance
+  # df.insert(4, 'covid_deaths_covariance', 0)
+  # for i, j in cdf['county_name'].iteritems():
+  #   df.loc[j, 'covid_deaths_cumulative'] = df.loc[j, :].cov()
+  df.reset_index(inplace=True)
   df = df.set_index('date')
   del df['location_id']
+  df.insert(5, 'covid_count_state_cumulative', df['covid_count'].cumsum())
   top = df.pop('county_name')
   df.insert(0, top.name, top)
   df = df.fillna(0)
@@ -210,11 +243,14 @@ def join_time_series_data(
   df = pd.concat(df_list, axis=0)
   df.reset_index(inplace=True)
   df.set_index('date', inplace=True)
-  df = df.fillna(100)
+  df = df.fillna(0)
   hospital_vent_df.insert(0, 'date', hospital_vent_df.index)
   hospital_vent_df.set_index('date', inplace=True)
   df = df.join(hospital_vent_df)
   df = df.fillna(0)
+  print(df)
+  print(df.columns)
+  print(df.covid_count)
   return df
 
 def join_county_data(
@@ -260,12 +296,12 @@ def preprocess_data():
   covid_demographics_by_county_df = format_covid_demographics_by_county()
   hospital_vent_df = format_hospital_vent_data()
   covid_cases_by_school_df = format_covid_cases_by_school_data()
-  time_series_df = join_time_series_data(
-    apple_mobility_df,
-    google_mobility_df,
-    county_level_test_case_death_trends_df,
-    hospital_vent_df
-  )
+  # time_series_df = join_time_series_data(
+  #   apple_mobility_df,
+  #   google_mobility_df,
+  #   county_level_test_case_death_trends_df,
+  #   hospital_vent_df
+  # )
 
   if is_verbose:
     print("apple mobility:\n", apple_mobility_df)
@@ -274,34 +310,23 @@ def preprocess_data():
     print("county_level_test_case_death_trends_df:\n", covid_demographics_by_county_df)
     print("hospital_vent_df:\n", hospital_vent_df)
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
-    print("all time series data:\n", time_series_df)
-  
-  county_level_df = join_county_data(
-    time_series_df,
-    covid_demographics_by_county_df,
-    covid_cases_by_school_df
+    # print("all time series data:\n", time_series_df)
+
+  predict_cases(
+    county_level_test_case_death_trends_df,
+    county=model_county,
+    y='covid_count',
   )
-  # df = join_static_data(time_series_df)
-  # plot_by_county(
-  #   county_level_test_case_death_trends_df, 
-  #   county='Porter', 
-  #   y=['covid_count', 'covid_deaths']
-  # )
 
-  # predict(
-  #   county_level_test_case_death_trends_df,
-  #   county='Allen',
-  #   y='covid_count'
-  # )
-
-def predict(df, county, y):
+def predict_cases(df, county, y):
+  print(df.loc[df['county_name'] == county, y])
   X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
   Y = df.loc[df['county_name'] == county, df.columns[1:]]
   print('X: ',X)
   print('X shape:',X.shape)
   print('Y:',Y)
   print('Y:',Y.shape)
-  datelist = pd.date_range(datetime.today(), periods=14).to_numpy()
+  datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   print('dates to predict for:',datelist)
   print('date shape:',datelist.shape)
   lr = LinearRegression()
@@ -311,23 +336,63 @@ def predict(df, county, y):
   print('score:',score)
   print('prediction:',pred)
   print('prediction shape:', pred.shape)
+
   plot_line(
     df.loc[df['county_name'] == county, y].index,
     df.loc[df['county_name'] == county, y],
     legend_key=y.replace('_',' ')
   )
+  # plt.plot(
+  #   df.loc[df['county_name'] == county, y].index,
+  #   pred,
+  #   label='regressed data'
+  # )
   plt.plot(
     datelist,
-    pred[len(pred)-14:],
+    pred[len(pred)-n_days:],
     label='prediction'
   )
+  # z = np.polyfit(X, pred, 1)
+  # p = np.poly1d(z)
+  # plt.plot(X, p(X),"r--")
   title = "covid-19 in " + county.lower() + " county"
   format_plot(
     xlab="date",
+    ylab="cases/day",
     title=title,
     show_legend=True
   )
   plt.show()
+
+def predict_2(df, county, y):
+  X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
+  # Y = df.loc[df['county_name'] == county, df.columns[1:]]
+  Y = df.loc[df['county_name'] == county, 'covid_count'].values
+  print('X: ',X)
+  print('X shape:',X.shape)
+  print('Y:',Y)
+  print('Y:',Y.shape)
+  datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
+  print('dates to predict for:',datelist)
+  print('date shape:',datelist.shape)
+  layer0 = layers.Dense(
+    units=1, 
+    input_shape=[1]
+  )
+  model = keras.Sequential([layer0])
+  model.compile(
+    loss='mean_squared_error',
+    optimizer=keras.optimizers.Adam(2)
+  )
+  history = model.fit(
+    X,
+    Y,
+    epochs=100
+  )
+  print('prediction:\n',model.predict(X))
+
+  weights = layer0.get_weights()
+  print('weight: {} bias: {}'.format(weights[0], weights[1]))
 
 def plot_by_county(df, county='Marion', y=['covid_count', 'covid_deaths']):
   for n in range(0, len(y)):
@@ -629,11 +694,18 @@ def make_conv_serial_interval(initial_days, total_days):
 def get_flags():
   arg_parser = ArgumentParser()
   arg_parser.add_argument(
-    '-e', 
-    '--epochs', 
+    '-d', 
+    '--days', 
     type=int,
-    dest='epochs',
-    help="number of epochs"
+    dest='days',
+    help="number of days to forecase, defaults to 14"
+  )
+  arg_parser.add_argument(
+    '-C', 
+    '--county', 
+    type=str,
+    dest='county',
+    help="county to model data for"
   )
   arg_parser.add_argument(
     '-D', 
@@ -656,13 +728,24 @@ def get_flags():
     dest='verbose_mode',
     help="if passed, use verbose console messages"
   )
+  arg_parser.add_argument(
+    '-P', 
+    '--plot',
+    action='store_true',
+    dest='plot_mode',
+    help="if passed, plot results"
+  )
   args = arg_parser.parse_args()
-  global model_epochs
-  model_epochs = args.epochs if args.epochs else 100
+  global n_days
+  n_days = args.days if args.days else 14
+  global model_county
+  model_county = args.county if args.county else 'Porter'
   global model_dir
   model_dir = args.model_dir if args.model_dir else './train'
   global should_fetch_datasets
   should_fetch_datasets = args.should_fetch_datasets
+  global should_plot
+  should_plot = args.plot_mode
   global is_verbose
   is_verbose = args.verbose_mode
 
