@@ -337,32 +337,33 @@ def predict_cases(df, county, y):
   print('prediction:',pred)
   print('prediction shape:', pred.shape)
 
-  plot_line(
-    df.loc[df['county_name'] == county, y].index,
-    df.loc[df['county_name'] == county, y],
-    legend_key=y.replace('_',' ')
-  )
-  # plt.plot(
-  #   df.loc[df['county_name'] == county, y].index,
-  #   pred,
-  #   label='regressed data'
-  # )
-  plt.plot(
-    datelist,
-    pred[len(pred)-n_days:],
-    label='prediction'
-  )
-  # z = np.polyfit(X, pred, 1)
-  # p = np.poly1d(z)
-  # plt.plot(X, p(X),"r--")
-  title = "covid-19 in " + county.lower() + " county"
-  format_plot(
-    xlab="date",
-    ylab="cases/day",
-    title=title,
-    show_legend=True
-  )
-  plt.show()
+  if should_plot:
+    plot_line(
+      df.loc[df['county_name'] == county, y].index,
+      df.loc[df['county_name'] == county, y],
+      legend_key=y.replace('_',' ')
+    )
+    # plt.plot(
+    #   df.loc[df['county_name'] == county, y].index,
+    #   pred,
+    #   label='regressed data'
+    # )
+    plt.plot(
+      datelist,
+      pred[len(pred)-n_days:],
+      label='prediction'
+    )
+    # z = np.polyfit(X, pred, 1)
+    # p = np.poly1d(z)
+    # plt.plot(X, p(X),"r--")
+    title = "covid-19 in " + county.lower() + " county"
+    format_plot(
+      xlab="date",
+      ylab="cases/day",
+      title=title,
+      show_legend=True
+    )
+    plt.show()
 
 def predict_2(df, county, y):
   X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
