@@ -99,7 +99,7 @@ def format_apple_mobility_data():
   df = df[df.geo_type != 'city']
   del df['geo_type']
   del df['alternative_name']
-  del df['country']
+  del df['county']
   df.reset_index(drop=True, inplace=True)
   df['region'] = df['region'].apply(lambda x: x.replace('County', '').strip(' '))
   df.index = df['region']
@@ -123,8 +123,8 @@ def format_apple_mobility_data():
 def format_google_mobility_data():
   df = pd.DataFrame(google_mobility_trends_raw).copy()
   df = df.loc['Indiana', :]
-  del df['country_region_code']
-  del df['country_region']
+  del df['county_region_code']
+  del df['county_region']
   del df['metro_area']
   del df['iso_3166_2_code']
   del df['census_fips_code']
@@ -440,13 +440,13 @@ def predict_infections(
   Args:
     intervention_indicators: Binary array of shape
       `[num_countries, total_days, num_interventions]`, in which `1` indicates
-      the intervention is active in that country at that time and `0` indicates
+      the intervention is active in that county at that time and `0` indicates
       otherwise.
-    population: Vector of length `num_countries`. Population of each country.
+    population: Vector of length `num_countries`. Population of each county.
     initial_cases: Array of shape `[batch_size, num_countries]`. Number of cases
-      in each country at the start of the simulation.
+      in each county at the start of the simulation.
     mu: Array of shape `[batch_size, num_countries]`. Initial reproduction rate
-      (R_0) by country.
+      (R_0) by county.
     alpha_hier: Array of shape `[batch_size, num_interventions]` representing
       the effectiveness of interventions.
     conv_serial_interval: Array of shape
@@ -454,13 +454,13 @@ def predict_infections(
       `make_conv_serial_interval`. Convolution kernel for serial interval
       distribution.
     initial_days: Integer, number of sequential days to seed infections after
-      the 10th death in a country. (N0 in the authors' Stan code.)
+      the 10th death in a county. (N0 in the authors' Stan code.)
     total_days: Integer, number of days of observed data plus days to forecast.
       (N2 in the authors' Stan code.)
   Returns:
     predicted_infections: Array of shape
       `[total_days, batch_size, num_countries]`. (Batched) predicted number of
-      infections over time and by country.
+      infections over time and by county.
   """
   alpha = alpha_hier - tf.cast(np.log(1.05) / 6.0, DTYPE)
   linear_prediction = tf.einsum('ijk,...k->j...i', intervention_indicators, alpha)
@@ -495,7 +495,7 @@ def predict_infections(
   return daily_infections_final.stack()
 
 def predict_deaths(predicted_infections, ifr_noise, conv_fatality_rate):
-  """Expected number of reported deaths by country, by day.
+  """Expected number of reported deaths by county, by day.
 
   Args:
     predicted_infections: Array of shape
@@ -508,7 +508,7 @@ def predict_deaths(predicted_infections, ifr_noise, conv_fatality_rate):
       calculating fatalities, output from `make_conv_fatality_rate`.
   Returns:
     predicted_deaths: Array of shape `[total_days, batch_size, num_countries]`.
-      (Batched) predicted number of deaths over time and by country.
+      (Batched) predicted number of deaths over time and by county.
   """
   # Multiply the number of infections on day j by the probability of death
   # on day i given infection on day j, and sum over j. This yields the expected
@@ -525,7 +525,7 @@ def make_jd_prior(num_countries, num_interventions):
     # Rate parameter for the distribution of initial cases (tau).
     tfd.Exponential(rate=tf.cast(0.03, DTYPE)),
 
-    # Initial cases for each country.
+    # Initial cases for each county.
     lambda tau: tfd.Sample(
     tfd.Exponential(rate=tf.cast(1, DTYPE) / tau),
       sample_shape=num_countries
@@ -538,7 +538,7 @@ def make_jd_prior(num_countries, num_interventions):
     # (kappa).
     tfd.HalfNormal(scale=tf.cast(0.5, DTYPE)),
 
-    # Initial reproduction number, R_0, for each country (mu).
+    # Initial reproduction number, R_0, for each county (mu).
     lambda kappa: tfd.Sample(
       tfd.TruncatedNormal(
         loc=3.28, 
@@ -605,7 +605,7 @@ def make_likelihood_fn(
       conv_fatality_rate
     )
 
-    # Construct the Negative Binomial distribution for deaths by country.
+    # Construct the Negative Binomial distribution for deaths by county.
     mu_m = tf.transpose(e_deaths_all_countries, [1, 0, 2])
     psi_m = psi[..., tf.newaxis, tf.newaxis]
     probs = tf.clip_by_value(mu_m / (mu_m + psi_m), 1e-9, 1.)
@@ -659,10 +659,10 @@ def make_conv_fatality_rate(infection_fatality_rate, total_days):
   """Computes the probability of death on day `i` given infection on day `j`."""
   p_fatal_all_countries = daily_fatality_probability(infection_fatality_rate, total_days)
 
-  # Use the probability of death d days after infection in each country
+  # Use the probability of death d days after infection in each county
   # to build an array of shape [total_days - 1, total_days, num_countries],
   # where the element [i, j, c] is the probability of death on day i+1 given
-  # infection on day j in country c.
+  # infection on day j in county c.
   conv_fatality_rate = np.zeros(
     [total_days - 1, 
     total_days, 
