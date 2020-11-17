@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
 import { Route, Switch } from 'react-router'
 import { Header } from './components/'
-import { Map } from './views'
+import { Map, Summary, About } from './views'
 import './assets/css/App.css'
 
 const App = () => {
@@ -12,13 +12,13 @@ const App = () => {
       <Router>
         <Switch>
           <Route path='/'>
-            <Map />
+            <Summary />
           </Route>
           <Route path='/map'>
             <Map />
           </Route>
           <Route path='/about'>
-            <Map />
+            <About />
           </Route>
         </Switch>
       </Router>
