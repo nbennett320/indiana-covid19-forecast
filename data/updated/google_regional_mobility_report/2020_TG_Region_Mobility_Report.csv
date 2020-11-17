@@ -269,6 +269,9 @@ TG,Togo,,,,,,2020-11-07,-5,23,33,-11,1,10
 TG,Togo,,,,,,2020-11-08,-5,11,30,-11,-4,11
 TG,Togo,,,,,,2020-11-09,-9,32,40,-4,-3,8
 TG,Togo,,,,,,2020-11-10,-7,28,32,-6,-2,8
+TG,Togo,,,,,,2020-11-11,-9,23,24,-12,-3,11
+TG,Togo,,,,,,2020-11-12,-7,29,23,2,-4,11
+TG,Togo,,,,,,2020-11-13,-5,31,27,-2,1,9
 TG,Togo,Centrale Region,,,TG-C,,2020-10-01,,,,,-45,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-05,,,,,-48,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-06,,,,,-44,
@@ -452,6 +455,9 @@ TG,Togo,Kara Region,,,TG-K,,2020-11-06,,,-48,,-28,
 TG,Togo,Kara Region,,,TG-K,,2020-11-07,,,-43,,,
 TG,Togo,Kara Region,,,TG-K,,2020-11-09,,,,,-30,
 TG,Togo,Kara Region,,,TG-K,,2020-11-10,,,,,-33,
+TG,Togo,Kara Region,,,TG-K,,2020-11-11,,,,,-28,
+TG,Togo,Kara Region,,,TG-K,,2020-11-12,,,,,-30,
+TG,Togo,Kara Region,,,TG-K,,2020-11-13,,,-52,,-24,
 TG,Togo,Maritime Region,,,TG-M,,2020-02-15,-3,0,-11,-2,2,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-16,-4,-2,-12,-7,-1,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-17,-7,2,-9,-8,0,1
@@ -722,6 +728,9 @@ TG,Togo,Maritime Region,,,TG-M,,2020-11-07,-5,23,64,-11,2,10
 TG,Togo,Maritime Region,,,TG-M,,2020-11-08,-5,12,55,-12,-3,11
 TG,Togo,Maritime Region,,,TG-M,,2020-11-09,-8,33,81,-5,-1,9
 TG,Togo,Maritime Region,,,TG-M,,2020-11-10,-8,29,75,-7,-4,9
+TG,Togo,Maritime Region,,,TG-M,,2020-11-11,-9,23,62,-15,-2,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-12,-7,28,59,2,-1,11
+TG,Togo,Maritime Region,,,TG-M,,2020-11-13,-6,31,59,-4,0,9
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-15,,,,,2,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-17,,,,,0,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-18,,,,,2,
@@ -908,4 +917,7 @@ TG,Togo,Plateaux Region,,,TG-P,,2020-11-06,,,,,-10,
 TG,Togo,Plateaux Region,,,TG-P,,2020-11-07,,,,,-12,
 TG,Togo,Plateaux Region,,,TG-P,,2020-11-09,,,,,-18,
 TG,Togo,Plateaux Region,,,TG-P,,2020-11-10,,,,,-13,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-11,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-12,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-11-13,,,,,-16,
 TG,Togo,Savanes Region,,,TG-S,,2020-07-31,,,,,-50,

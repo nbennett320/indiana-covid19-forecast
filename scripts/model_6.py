@@ -99,7 +99,7 @@ def format_apple_mobility_data():
   df = df[df.geo_type != 'city']
   del df['geo_type']
   del df['alternative_name']
-  del df['county']
+  del df['country']
   df.reset_index(drop=True, inplace=True)
   df['region'] = df['region'].apply(lambda x: x.replace('County', '').strip(' '))
   df.index = df['region']
@@ -123,8 +123,8 @@ def format_apple_mobility_data():
 def format_google_mobility_data():
   df = pd.DataFrame(google_mobility_trends_raw).copy()
   df = df.loc['Indiana', :]
-  del df['county_region_code']
-  del df['county_region']
+  del df['country_region_code']
+  del df['country_region']
   del df['metro_area']
   del df['iso_3166_2_code']
   del df['census_fips_code']
