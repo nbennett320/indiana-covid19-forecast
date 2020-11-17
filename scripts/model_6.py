@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-import collections, sys, os, math, logging
+import collections, sys, os, math, json, logging
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -38,6 +38,10 @@ DTYPE = np.float32
 # model train dir
 global model_dir
 model_dir = "./train/"
+
+# county csv output dir
+global output_dir
+output_dir = "./frontend/src/data/"
 
 # dataset dir
 global dataset_dir
@@ -322,20 +326,36 @@ def predict_cases(df, county, y):
   print(df.loc[df['county_name'] == county, y])
   X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
   Y = df.loc[df['county_name'] == county, df.columns[1:]]
-  print('X: ',X)
-  print('X shape:',X.shape)
-  print('Y:',Y)
-  print('Y:',Y.shape)
+  if is_verbose:
+    print('X: ',X)
+    print('X shape:',X.shape)
+    print('Y:',Y)
+    print('Y:',Y.shape)
   datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
-  print('dates to predict for:',datelist)
-  print('date shape:',datelist.shape)
+  if is_verbose:
+    print('dates to predict for:',datelist)
+    print('date shape:',datelist.shape)
   lr = LinearRegression()
   lr.fit(Y, X)
   score = lr.score(Y, X)
   pred = lr.predict(Y)
-  print('score:',score)
-  print('prediction:',pred)
-  print('prediction shape:', pred.shape)
+  output = dict({
+    'county': county,
+    'prediction_key': y,
+    'x_data': df.loc[df['county_name'] == county, y].index.values.tolist(),
+    'y_data': df.loc[df['county_name'] == county, y].values.tolist(),
+    'x_pred': datelist.tolist(),
+    'y_pred': pred[len(pred)-n_days:].tolist(),
+    'r2_score': score
+  })
+  filename = output_dir + 'model_prediction_' + county + '_' + y + '.json'
+  with open(filename, 'w') as outfile:
+    json.dump(output, outfile)
+
+  if is_verbose:
+    print('score:',score)
+    print('prediction:',pred)
+    print('prediction shape:', pred.shape)
 
   if should_plot:
     plot_line(
@@ -716,6 +736,13 @@ def get_flags():
     help="directory for model files"
   )
   arg_parser.add_argument(
+    '-o', 
+    '--output-dir', 
+    type=str,
+    dest='output_dir',
+    help="directory for output files"
+  )
+  arg_parser.add_argument(
     '-u', 
     '--update-datasets',
     action='store_true',
@@ -743,6 +770,8 @@ def get_flags():
   model_county = args.county if args.county else 'Porter'
   global model_dir
   model_dir = args.model_dir if args.model_dir else './train'
+  global output_dir
+  output_dir = args.output_dir if args.output_dir else './frontend/src/data/'
   global should_fetch_datasets
   should_fetch_datasets = args.should_fetch_datasets
   global should_plot
