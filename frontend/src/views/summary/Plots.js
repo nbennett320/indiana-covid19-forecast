@@ -46,7 +46,10 @@ const Plots = props => {
           },
           yaxis: {
             title: 'Infections per day',
-          }
+          },
+          paper_bgcolor: '#fafafa',
+          plot_bgcolor: '#fafafa',
+          
         }}
       />
     </div>
@@ -55,7 +58,7 @@ const Plots = props => {
 
 const styles = {
   width: '100%',
-  padding: '20px',
+  paddingTop: '20px',
   margin: '0 auto',
 }
 
