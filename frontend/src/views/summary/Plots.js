@@ -49,7 +49,6 @@ const Plots = props => {
           },
           paper_bgcolor: '#fafafa',
           plot_bgcolor: '#fafafa',
-          
         }}
       />
     </div>

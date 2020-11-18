@@ -13,6 +13,7 @@ from tensorflow.keras.layers.experimental import preprocessing
 from tensorflow_probability.python.internal import prefer_static as ps
 from tensorflow_probability.python.mcmc.internal import util as mcmc_util
 from sklearn.linear_model import LinearRegression
+from scipy import interpolate
 from datetime import datetime
 from argparse import ArgumentParser
 from functools import reduce
@@ -65,6 +66,9 @@ should_fetch_datasets = False
 # plot results
 global should_plot
 should_plot = False
+
+global show_smooth
+show_smooth = False
 
 # data filenames
 indiana_counties_list_filename = './data/indiana_counties.csv'
@@ -363,19 +367,55 @@ def predict_cases(df, county, y):
       df.loc[df['county_name'] == county, y],
       legend_key=y.replace('_',' ')
     )
-    # plt.plot(
-    #   df.loc[df['county_name'] == county, y].index,
-    #   pred,
-    #   label='regressed data'
-    # )
+    
+    if show_smooth == 'polynomial':
+      polynomial_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
+      polynomial_data = polynomial_data.resample('4H', kind='timestamp')
+      polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
+      plot_line(
+        polynomial_data.index,
+        polynomial_data,
+        legend_key='polynomial'
+      )
+    elif show_smooth == 'spline':
+      spline_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
+      spline_data = spline_data.resample('4H', kind='timestamp')
+      spline_data = spline_data.interpolate(method='spline', order=2)
+      plot_line(
+        spline_data.index,
+        spline_data,
+        legend_key='spline'
+      )
+    
+    # prepare prediction df
+    df_pred = pd.DataFrame({
+      'date': datelist,
+      y: pred[len(pred)-n_days:]
+    }).set_index('date')
+    if show_smooth == 'polynomial':
+      polynomial_pred = df_pred[y].resample('2D', kind='timestamp').mean()
+      polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
+      polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
+      plot_line(
+        polynomial_pred.index,
+        polynomial_pred,
+        legend_key='polynomial_pred'
+      )
+    elif show_smooth == 'spline':
+      spline_pred = df_pred[y].resample('2D', kind='timestamp').mean()
+      spline_pred = df_pred.resample('4H', kind='timestamp')
+      spline_pred = spline_pred.interpolate(method='spline', order=2)
+      plot_line(
+        spline_pred.index,
+        spline_pred,
+        legend_key='spline_pred'
+      )
+
     plt.plot(
-      datelist,
-      pred[len(pred)-n_days:],
+      df_pred.index,
+      df_pred,
       label='prediction'
     )
-    # z = np.polyfit(X, pred, 1)
-    # p = np.poly1d(z)
-    # plt.plot(X, p(X),"r--")
     title = "covid-19 in " + county.lower() + " county"
     format_plot(
       xlab="date",
@@ -384,6 +424,14 @@ def predict_cases(df, county, y):
       show_legend=True
     )
     plt.show()
+
+# def interpolate_df(df):
+#   df = df.resample('6H')
+#   df = df.interpolate(method='linear')
+#   f = interpolate.interp1d(x, y, kind='cubic')
+#   print(f)
+#   print(f(x))
+#   return f(x)
 
 def predict_2(df, county, y):
   X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
@@ -763,6 +811,13 @@ def get_flags():
     dest='plot_mode',
     help="if passed, plot results"
   )
+  arg_parser.add_argument(
+    '-S', 
+    '--smooth-mode',
+    type=str,
+    dest='interpolation_method',
+    help="pandas interpolation method for line smoothing, 'spline' or 'polynomial'"
+  )
   args = arg_parser.parse_args()
   global n_days
   n_days = args.days if args.days else 14
@@ -776,6 +831,8 @@ def get_flags():
   should_fetch_datasets = args.should_fetch_datasets
   global should_plot
   should_plot = args.plot_mode
+  global show_smooth
+  show_smooth = args.interpolation_method if args.interpolation_method else False
   global is_verbose
   is_verbose = args.verbose_mode
 
