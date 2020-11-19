@@ -42,7 +42,7 @@ model_dir = "./train/"
 
 # county csv output dir
 global output_dir
-output_dir = "./frontend/src/data/"
+output_dir = False
 
 # dataset dir
 global dataset_dir
@@ -180,6 +180,7 @@ def format_county_level_test_case_death_trends():
   df = df.set_index('date')
   del df['location_id']
   df.insert(5, 'covid_count_state_cumulative', df['covid_count'].cumsum())
+  print('df--\n', df)
   top = df.pop('county_name')
   df.insert(0, top.name, top)
   df = df.fillna(0)
@@ -343,18 +344,6 @@ def predict_cases(df, county, y):
   lr.fit(Y, X)
   score = lr.score(Y, X)
   pred = lr.predict(Y)
-  output = dict({
-    'county': county,
-    'prediction_key': y,
-    'x_data': df.loc[df['county_name'] == county, y].index.values.tolist(),
-    'y_data': df.loc[df['county_name'] == county, y].values.tolist(),
-    'x_pred': datelist.tolist(),
-    'y_pred': pred[len(pred)-n_days:].tolist(),
-    'r2_score': score
-  })
-  filename = output_dir + 'model_prediction_' + county + '_' + y + '.json'
-  with open(filename, 'w') as outfile:
-    json.dump(output, outfile)
 
   if is_verbose:
     print('score:',score)
@@ -368,6 +357,7 @@ def predict_cases(df, county, y):
       legend_key=y.replace('_',' ')
     )
     
+    # smoothing
     if show_smooth == 'polynomial':
       polynomial_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
       polynomial_data = polynomial_data.resample('4H', kind='timestamp')
@@ -392,6 +382,8 @@ def predict_cases(df, county, y):
       'date': datelist,
       y: pred[len(pred)-n_days:]
     }).set_index('date')
+
+    # smoothing
     if show_smooth == 'polynomial':
       polynomial_pred = df_pred[y].resample('2D', kind='timestamp').mean()
       polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
@@ -424,14 +416,47 @@ def predict_cases(df, county, y):
       show_legend=True
     )
     plt.show()
+  
+  if output_dir:
+    # prepare prediction df
+    df_pred = pd.DataFrame({
+      'date': datelist,
+      y: pred[len(pred)-n_days:]
+    }).set_index('date')
+    polynomial_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
+    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
+    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
+    spline_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
+    spline_data = spline_data.resample('4H', kind='timestamp')
+    spline_data = spline_data.interpolate(method='spline', order=2)
+    polynomial_pred = df_pred[y].resample('2D', kind='timestamp').mean()
+    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
+    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
+    spline_pred = df_pred[y].resample('2D', kind='timestamp').mean()
+    spline_pred = df_pred.resample('4H', kind='timestamp')
+    spline_pred = spline_pred.interpolate(method='spline', order=2)
 
-# def interpolate_df(df):
-#   df = df.resample('6H')
-#   df = df.interpolate(method='linear')
-#   f = interpolate.interp1d(x, y, kind='cubic')
-#   print(f)
-#   print(f(x))
-#   return f(x)
+    output = dict({
+      'county': county,
+      'prediction_key': y,
+      'x_data': df.loc[df['county_name'] == county, y].index.values.tolist(),
+      'y_data': df.loc[df['county_name'] == county, y].values.tolist(),
+      'x_pred': datelist.tolist(),
+      'y_pred': pred[len(pred)-n_days:].tolist(),
+      'x_data_polynomial': polynomial_data.index.values.tolist(),
+      'y_data_polynomial': polynomial_data.values.tolist(),
+      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
+      'y_pred_polynomial': polynomial_data.values.tolist(),
+      'x_data_spline': spline_data.index.values.tolist(),
+      'y_data_spline': spline_data.values.tolist(),
+      'x_pred_spline': spline_pred.index.values.tolist(),
+      'y_pred_spline': spline_pred.values.tolist(),
+      'r2_score': score
+    })
+
+    filename = output_dir + 'model_prediction_' + county + '_' + y + '.json'
+    with open(filename, 'w') as outfile:
+      json.dump(output, outfile)
 
 def predict_2(df, county, y):
   X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
@@ -479,7 +504,6 @@ def plot_by_county(df, county='Marion', y=['covid_count', 'covid_deaths']):
   plt.show()
 
 def plot_line(time, series, format="-", start=0, end=None, legend_key=None):
-  print(legend_key)
   plt.plot(
     time[start:end], 
     series[start:end], 
@@ -826,7 +850,7 @@ def get_flags():
   global model_dir
   model_dir = args.model_dir if args.model_dir else './train'
   global output_dir
-  output_dir = args.output_dir if args.output_dir else './frontend/src/data/'
+  output_dir = args.output_dir if args.output_dir.lower() not in 'false' and args.output_dir.lower() not in 'none' else False
   global should_fetch_datasets
   should_fetch_datasets = args.should_fetch_datasets
   global should_plot
