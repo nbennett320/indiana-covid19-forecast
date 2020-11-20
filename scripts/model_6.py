@@ -178,9 +178,6 @@ def format_county_level_test_case_death_trends():
   # for i, j in cdf['county_name'].iteritems():
   #   df.loc[j, 'covid_deaths_cumulative'] = df.loc[j, :].cov()
 
-  
-
-
   df.sort_values(by=['date', 'county_name'], inplace=True)
   df.reset_index(inplace=True)
   df_date = df.pop('date')
@@ -445,7 +442,8 @@ def predict_cases(df, county, y):
     )
     plt.show()
   
-  if output_dir:
+  if len(output_dir) > 0:
+    print('output', output_dir)
     # prepare prediction df
     df_pred = pd.DataFrame({
       'date': datelist,
