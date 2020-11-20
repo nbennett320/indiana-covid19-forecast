@@ -153,6 +153,7 @@ def format_google_mobility_data():
 def format_county_level_test_case_death_trends():
   df = pd.DataFrame(indiana_county_level_test_case_death_trends_raw).copy()
   cdf = pd.DataFrame(indiana_counties_raw).copy()
+  del cdf['location_id']
   for col in df.columns:
     df[col.lower()] = df[col]
     del df[col]
@@ -176,15 +177,42 @@ def format_county_level_test_case_death_trends():
   # df.insert(4, 'covid_deaths_covariance', 0)
   # for i, j in cdf['county_name'].iteritems():
   #   df.loc[j, 'covid_deaths_cumulative'] = df.loc[j, :].cov()
+
+  
+
+
+  df.sort_values(by=['date', 'county_name'], inplace=True)
   df.reset_index(inplace=True)
-  df = df.set_index('date')
+  df_date = df.pop('date')
+  df_date = pd.to_datetime(df_date)
+  df.insert(0, df_date.name, df_date)
+  df_date = df_date.unique()
+  # print('df date', df_date)
+  # df.set_index('date', drop=False, inplace=True)
   del df['location_id']
+
+  print('start', df)
+  print('len:', len(df_date))
+  for i in range(0, len(df_date)):
+    if i % 20 == 0:
+      print('[' + ('=' * int(math.ceil(i / 20.0))) + ']')
+    sel = df.loc[df['date'] == df_date[i], :]
+    isum = sel.sum()
+    isum['county_name'] = 'Indiana'
+    isum['date'] = df_date[i]
+    isum = isum.to_frame().T
+    df = df.append(isum, ignore_index=True)
+  df.sort_values(by=['date', 'county_name'], inplace=True)
+  print(df)
+  print(df.loc[df['county_name'] == 'Indiana'])
   df.insert(5, 'covid_count_state_cumulative', df['covid_count'].cumsum())
   print('df--\n', df)
   top = df.pop('county_name')
   df.insert(0, top.name, top)
   df = df.fillna(0)
-  df.index = pd.to_datetime(df.index)
+  df.set_index('date', drop=True, inplace=True)
+  df.sort_values(by=['county_name'], inplace=True)
+  df.sort_index(axis=0, inplace=True)
   return df
 
 def format_covid_demographics_by_county():
