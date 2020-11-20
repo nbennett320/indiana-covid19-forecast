@@ -346,11 +346,21 @@ def preprocess_data():
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
 
-  predict_cases(
-    county_level_test_case_death_trends_df,
-    county=model_county,
-    y='covid_count',
-  )
+  if model_county.lower() == 'all':
+    cdf = pd.DataFrame(indiana_counties_raw).copy()
+    del cdf['location_id']
+    for i in cdf['county_name']:
+      predict_cases(
+        county_level_test_case_death_trends_df,
+        county=i,
+        y='covid_count',
+      )
+  else:
+    predict_cases(
+      county_level_test_case_death_trends_df,
+      county=model_county,
+      y='covid_count',
+    )
 
 def predict_cases(df, county, y):
   print(df.loc[df['county_name'] == county, y])
@@ -443,7 +453,8 @@ def predict_cases(df, county, y):
     plt.show()
   
   if len(output_dir) > 0:
-    print('output', output_dir)
+    if is_verbose:
+      print('output', output_dir)
     # prepare prediction df
     df_pred = pd.DataFrame({
       'date': datelist,
