@@ -1,6 +1,5 @@
 import React from 'react'
 import Plot from 'react-plotly.js'
-import moment from 'moment'
 
 const getRenderedData = props => {
   const rawData = require(`../../data/model_prediction_${props.county}_${props.plotData}.json`)
