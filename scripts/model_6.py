@@ -345,7 +345,7 @@ def preprocess_data():
     print("hospital_vent_df:\n", hospital_vent_df)
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
-
+  
   if model_county.lower() == 'all':
     cdf = pd.DataFrame(indiana_counties_raw).copy()
     del cdf['location_id']
@@ -361,7 +361,7 @@ def preprocess_data():
       county=model_county,
       y='covid_count',
     )
-
+    
 def predict_cases(df, county, y):
   print(df.loc[df['county_name'] == county, y])
   X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
@@ -379,7 +379,7 @@ def predict_cases(df, county, y):
   lr.fit(Y, X)
   score = lr.score(Y, X)
   pred = lr.predict(Y)
-
+  print('estimators:', lr.get_params())
   if is_verbose:
     print('score:',score)
     print('prediction:',pred)
