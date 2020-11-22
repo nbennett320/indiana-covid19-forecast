@@ -463,15 +463,9 @@ def predict_cases(df, county, y):
     polynomial_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
     polynomial_data = polynomial_data.resample('4H', kind='timestamp')
     polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
-    spline_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
-    spline_data = spline_data.resample('4H', kind='timestamp')
-    spline_data = spline_data.interpolate(method='spline', order=2)
     polynomial_pred = df_pred[y].resample('2D', kind='timestamp').mean()
     polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
     polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
-    spline_pred = df_pred[y].resample('2D', kind='timestamp').mean()
-    spline_pred = df_pred.resample('4H', kind='timestamp')
-    spline_pred = spline_pred.interpolate(method='spline', order=2)
 
     output = dict({
       'county': county,
@@ -484,10 +478,6 @@ def predict_cases(df, county, y):
       'y_data_polynomial': polynomial_data.values.tolist(),
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist(),
-      'x_data_spline': spline_data.index.values.tolist(),
-      'y_data_spline': spline_data.values.tolist(),
-      'x_pred_spline': spline_pred.index.values.tolist(),
-      'y_pred_spline': spline_pred.values.tolist(),
       'r2_score': score
     })
 
