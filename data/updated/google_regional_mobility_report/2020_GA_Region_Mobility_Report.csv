@@ -274,6 +274,8 @@ GA,Gabon,,,,,,2020-11-12,-11,-14,14,6,-13,8
 GA,Gabon,,,,,,2020-11-13,-10,-11,27,12,-10,7
 GA,Gabon,,,,,,2020-11-14,-11,-12,27,13,-7,5
 GA,Gabon,,,,,,2020-11-15,-11,-6,20,9,-5,6
+GA,Gabon,,,,,,2020-11-16,-10,-11,17,12,-13,5
+GA,Gabon,,,,,,2020-11-17,-10,-9,21,11,-13,5
 GA,Gabon,Estuaire,,,GA-1,,2020-02-15,-2,-4,,1,4,1
 GA,Gabon,Estuaire,,,GA-1,,2020-02-16,-3,-4,,-3,-1,2
 GA,Gabon,Estuaire,,,GA-1,,2020-02-17,-5,-9,,-2,0,1
@@ -549,6 +551,8 @@ GA,Gabon,Estuaire,,,GA-1,,2020-11-12,-12,-12,,9,-11,8
 GA,Gabon,Estuaire,,,GA-1,,2020-11-13,-13,-12,,14,-9,8
 GA,Gabon,Estuaire,,,GA-1,,2020-11-14,-10,-10,,14,-3,5
 GA,Gabon,Estuaire,,,GA-1,,2020-11-15,-11,-4,,11,0,6
+GA,Gabon,Estuaire,,,GA-1,,2020-11-16,-12,-11,,12,-10,5
+GA,Gabon,Estuaire,,,GA-1,,2020-11-17,-11,-8,,12,-10,6
 GA,Gabon,Haut-Ogooue,,,GA-2,,2020-02-17,,,,,0,
 GA,Gabon,Haut-Ogooue,,,GA-2,,2020-02-18,,,,,4,
 GA,Gabon,Haut-Ogooue,,,GA-2,,2020-02-19,,,,,8,
@@ -725,6 +729,8 @@ GA,Gabon,Haut-Ogooue,,,GA-2,,2020-11-10,,,,,-30,
 GA,Gabon,Haut-Ogooue,,,GA-2,,2020-11-11,,,,,-32,
 GA,Gabon,Haut-Ogooue,,,GA-2,,2020-11-12,,,,,-28,
 GA,Gabon,Haut-Ogooue,,,GA-2,,2020-11-13,,,,,-25,
+GA,Gabon,Haut-Ogooue,,,GA-2,,2020-11-16,,,,,-29,
+GA,Gabon,Haut-Ogooue,,,GA-2,,2020-11-17,,,,,-29,
 GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-02-15,6,-1,,,3,
 GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-02-16,,-7,,,6,
 GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-02-17,,-9,,,2,
@@ -975,3 +981,5 @@ GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-11-12,-18,-24,,,-22,
 GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-11-13,-7,-17,,,-14,
 GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-11-14,-17,-18,,,-13,
 GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-11-15,-24,-11,,,-13,
+GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-11-16,-5,-21,,,-16,
+GA,Gabon,Ogooue-Maritime,,,GA-8,,2020-11-17,-11,-23,,,-18,

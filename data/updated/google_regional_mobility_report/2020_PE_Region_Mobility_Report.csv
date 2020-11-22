@@ -274,6 +274,8 @@ PE,Peru,,,,,,2020-11-12,-39,-20,-30,-42,-31,18
 PE,Peru,,,,,,2020-11-13,-44,-23,-37,-46,-30,19
 PE,Peru,,,,,,2020-11-14,-34,-14,-26,-34,-15,12
 PE,Peru,,,,,,2020-11-15,-52,-34,-42,-52,-20,16
+PE,Peru,,,,,,2020-11-16,-37,-19,-31,-42,-30,17
+PE,Peru,,,,,,2020-11-17,-40,-21,-33,-44,-31,17
 PE,Peru,Amazonas,,,PE-AMA,,2020-02-15,0,-13,-1,-9,3,
 PE,Peru,Amazonas,,,PE-AMA,,2020-02-16,-8,-14,-8,1,0,
 PE,Peru,Amazonas,,,PE-AMA,,2020-02-17,-6,-2,-2,8,3,
@@ -524,6 +526,8 @@ PE,Peru,Amazonas,,,PE-AMA,,2020-11-12,-36,,-28,-43,-12,19
 PE,Peru,Amazonas,,,PE-AMA,,2020-11-13,-37,,-33,-45,-11,20
 PE,Peru,Amazonas,,,PE-AMA,,2020-11-14,-34,,-28,-43,-4,
 PE,Peru,Amazonas,,,PE-AMA,,2020-11-15,-44,,-36,-50,-15,
+PE,Peru,Amazonas,,,PE-AMA,,2020-11-16,-37,,-28,-33,-9,18
+PE,Peru,Amazonas,,,PE-AMA,,2020-11-17,-37,,-30,-39,-9,17
 PE,Peru,Amazonas,Bagua Province,,,,2020-02-15,,,-2,-12,,
 PE,Peru,Amazonas,Bagua Province,,,,2020-02-16,,,3,-7,,
 PE,Peru,Amazonas,Bagua Province,,,,2020-02-17,,,-8,0,,
@@ -774,6 +778,8 @@ PE,Peru,Amazonas,Bagua Province,,,,2020-11-12,,,-4,-52,-14,
 PE,Peru,Amazonas,Bagua Province,,,,2020-11-13,,,-9,-53,-9,
 PE,Peru,Amazonas,Bagua Province,,,,2020-11-14,,,-14,-50,-3,
 PE,Peru,Amazonas,Bagua Province,,,,2020-11-15,,,-19,-50,-2,
+PE,Peru,Amazonas,Bagua Province,,,,2020-11-16,,,-7,-44,-7,
+PE,Peru,Amazonas,Bagua Province,,,,2020-11-17,,,-20,-48,-14,
 PE,Peru,Amazonas,Chachapoyas Province,,,,2020-02-15,,,-4,,6,
 PE,Peru,Amazonas,Chachapoyas Province,,,,2020-02-16,,,-11,,,
 PE,Peru,Amazonas,Chachapoyas Province,,,,2020-02-17,,,-1,,6,
@@ -1024,6 +1030,8 @@ PE,Peru,Amazonas,Chachapoyas Province,,,,2020-11-12,,,-44,,-16,
 PE,Peru,Amazonas,Chachapoyas Province,,,,2020-11-13,,,-50,,-18,
 PE,Peru,Amazonas,Chachapoyas Province,,,,2020-11-14,,,-45,,-14,
 PE,Peru,Amazonas,Chachapoyas Province,,,,2020-11-15,,,-57,,-28,
+PE,Peru,Amazonas,Chachapoyas Province,,,,2020-11-16,,,-43,,-13,
+PE,Peru,Amazonas,Chachapoyas Province,,,,2020-11-17,,,-46,,-18,
 PE,Peru,Amazonas,Luya Province,,,,2020-02-15,,,-7,,,
 PE,Peru,Amazonas,Luya Province,,,,2020-02-16,,,-4,,,
 PE,Peru,Amazonas,Luya Province,,,,2020-02-17,,,1,,,
@@ -1274,6 +1282,8 @@ PE,Peru,Amazonas,Luya Province,,,,2020-11-12,,,-20,,,
 PE,Peru,Amazonas,Luya Province,,,,2020-11-13,,,-31,,,
 PE,Peru,Amazonas,Luya Province,,,,2020-11-14,,,-20,,,
 PE,Peru,Amazonas,Luya Province,,,,2020-11-15,,,-26,,,
+PE,Peru,Amazonas,Luya Province,,,,2020-11-16,,,-28,,,
+PE,Peru,Amazonas,Luya Province,,,,2020-11-17,,,-22,,,
 PE,Peru,Amazonas,Utcubamba Province,,,,2020-02-15,,,-14,-8,,
 PE,Peru,Amazonas,Utcubamba Province,,,,2020-02-16,,,-11,4,,
 PE,Peru,Amazonas,Utcubamba Province,,,,2020-02-17,,,-18,6,,
@@ -1524,6 +1534,8 @@ PE,Peru,Amazonas,Utcubamba Province,,,,2020-11-12,,,-17,-43,3,
 PE,Peru,Amazonas,Utcubamba Province,,,,2020-11-13,,,-22,-50,-2,
 PE,Peru,Amazonas,Utcubamba Province,,,,2020-11-14,,,-16,-50,3,
 PE,Peru,Amazonas,Utcubamba Province,,,,2020-11-15,,,-23,-58,-19,
+PE,Peru,Amazonas,Utcubamba Province,,,,2020-11-16,,,-15,-48,1,
+PE,Peru,Amazonas,Utcubamba Province,,,,2020-11-17,,,-12,-47,2,
 PE,Peru,Ancash,,,PE-ANC,,2020-02-15,2,1,6,2,1,-1
 PE,Peru,Ancash,,,PE-ANC,,2020-02-16,2,-2,4,10,-2,0
 PE,Peru,Ancash,,,PE-ANC,,2020-02-17,0,0,1,6,1,0
@@ -1799,6 +1811,8 @@ PE,Peru,Ancash,,,PE-ANC,,2020-11-12,-38,-20,-23,-60,-27,14
 PE,Peru,Ancash,,,PE-ANC,,2020-11-13,-43,-25,-32,-61,-25,15
 PE,Peru,Ancash,,,PE-ANC,,2020-11-14,-35,-15,-22,-62,-14,10
 PE,Peru,Ancash,,,PE-ANC,,2020-11-15,-49,-40,-36,-71,-25,13
+PE,Peru,Ancash,,,PE-ANC,,2020-11-16,-37,-19,-22,-62,-25,13
+PE,Peru,Ancash,,,PE-ANC,,2020-11-17,-40,-24,-28,-58,-28,13
 PE,Peru,Ancash,Carhuaz Province,,,,2020-02-15,,,6,,,
 PE,Peru,Ancash,Carhuaz Province,,,,2020-02-16,,,-1,,,
 PE,Peru,Ancash,Carhuaz Province,,,,2020-02-17,,,3,,,
@@ -2049,6 +2063,8 @@ PE,Peru,Ancash,Carhuaz Province,,,,2020-11-12,,,-43,,-26,
 PE,Peru,Ancash,Carhuaz Province,,,,2020-11-13,,,-44,,-29,
 PE,Peru,Ancash,Carhuaz Province,,,,2020-11-14,,,-45,,-19,
 PE,Peru,Ancash,Carhuaz Province,,,,2020-11-15,,,-58,,-46,
+PE,Peru,Ancash,Carhuaz Province,,,,2020-11-16,,,-40,,-26,
+PE,Peru,Ancash,Carhuaz Province,,,,2020-11-17,,,-43,,-30,
 PE,Peru,Ancash,Casma Province,,,,2020-02-15,5,,9,,,
 PE,Peru,Ancash,Casma Province,,,,2020-02-16,8,,10,,,
 PE,Peru,Ancash,Casma Province,,,,2020-02-17,9,,21,,2,
@@ -2299,6 +2315,8 @@ PE,Peru,Ancash,Casma Province,,,,2020-11-12,-44,,-47,,-19,
 PE,Peru,Ancash,Casma Province,,,,2020-11-13,-45,,-52,,-16,
 PE,Peru,Ancash,Casma Province,,,,2020-11-14,-44,,-50,,-13,
 PE,Peru,Ancash,Casma Province,,,,2020-11-15,-64,,-66,,-28,
+PE,Peru,Ancash,Casma Province,,,,2020-11-16,-41,,-49,,-22,
+PE,Peru,Ancash,Casma Province,,,,2020-11-17,-41,,-54,,-16,
 PE,Peru,Ancash,Huaraz,,,,2020-02-15,-3,-2,4,-1,2,-2
 PE,Peru,Ancash,Huaraz,,,,2020-02-16,2,-1,16,10,4,-1
 PE,Peru,Ancash,Huaraz,,,,2020-02-17,-3,-1,-5,11,0,0
@@ -2574,6 +2592,8 @@ PE,Peru,Ancash,Huaraz,,,,2020-11-12,-39,-31,-16,-46,-34,19
 PE,Peru,Ancash,Huaraz,,,,2020-11-13,-45,-34,-28,-48,-32,20
 PE,Peru,Ancash,Huaraz,,,,2020-11-14,-34,-23,-11,-37,-19,13
 PE,Peru,Ancash,Huaraz,,,,2020-11-15,-49,-50,-18,-47,-31,15
+PE,Peru,Ancash,Huaraz,,,,2020-11-16,-37,-30,-16,-41,-33,17
+PE,Peru,Ancash,Huaraz,,,,2020-11-17,-42,-33,-18,-40,-34,18
 PE,Peru,Ancash,Huari Province,,,,2020-02-15,,,-4,,,
 PE,Peru,Ancash,Huari Province,,,,2020-02-16,,,-13,,,
 PE,Peru,Ancash,Huari Province,,,,2020-02-17,,,-2,,,
@@ -2824,6 +2844,8 @@ PE,Peru,Ancash,Huari Province,,,,2020-11-12,,,-11,,-14,
 PE,Peru,Ancash,Huari Province,,,,2020-11-13,,,-8,,-11,
 PE,Peru,Ancash,Huari Province,,,,2020-11-14,,,-7,,-16,
 PE,Peru,Ancash,Huari Province,,,,2020-11-15,,,-17,,-19,
+PE,Peru,Ancash,Huari Province,,,,2020-11-16,,,2,,-7,
+PE,Peru,Ancash,Huari Province,,,,2020-11-17,,,-12,,-13,
 PE,Peru,Ancash,Huarmey Province,,,,2020-02-15,,,12,12,,
 PE,Peru,Ancash,Huarmey Province,,,,2020-02-16,,,7,30,,
 PE,Peru,Ancash,Huarmey Province,,,,2020-02-17,,,,16,,
@@ -3055,6 +3077,8 @@ PE,Peru,Ancash,Huarmey Province,,,,2020-11-12,,,2,-58,-18,
 PE,Peru,Ancash,Huarmey Province,,,,2020-11-13,,,-13,-59,-21,
 PE,Peru,Ancash,Huarmey Province,,,,2020-11-14,,,-37,-67,-21,
 PE,Peru,Ancash,Huarmey Province,,,,2020-11-15,,,-57,-68,-28,
+PE,Peru,Ancash,Huarmey Province,,,,2020-11-16,,,1,-62,-16,
+PE,Peru,Ancash,Huarmey Province,,,,2020-11-17,,,3,-54,-26,
 PE,Peru,Ancash,Huaylas Province,,,,2020-02-15,,,-1,,,
 PE,Peru,Ancash,Huaylas Province,,,,2020-02-16,,,-6,,,
 PE,Peru,Ancash,Huaylas Province,,,,2020-02-17,,,11,,,
@@ -3305,6 +3329,8 @@ PE,Peru,Ancash,Huaylas Province,,,,2020-11-12,,,-5,,-19,
 PE,Peru,Ancash,Huaylas Province,,,,2020-11-13,,,-18,,-12,
 PE,Peru,Ancash,Huaylas Province,,,,2020-11-14,,,-1,,-3,
 PE,Peru,Ancash,Huaylas Province,,,,2020-11-15,,,-26,,-36,
+PE,Peru,Ancash,Huaylas Province,,,,2020-11-16,,,7,,-9,
+PE,Peru,Ancash,Huaylas Province,,,,2020-11-17,,,-5,,-11,
 PE,Peru,Ancash,Santa,,,,2020-02-15,2,0,8,1,0,-1
 PE,Peru,Ancash,Santa,,,,2020-02-16,-2,-3,8,5,0,1
 PE,Peru,Ancash,Santa,,,,2020-02-17,-1,-1,2,0,2,0
@@ -3580,6 +3606,8 @@ PE,Peru,Ancash,Santa,,,,2020-11-12,-38,-16,-25,-83,-25,13
 PE,Peru,Ancash,Santa,,,,2020-11-13,-44,-21,-34,-84,-21,14
 PE,Peru,Ancash,Santa,,,,2020-11-14,-36,-13,-21,-82,-13,10
 PE,Peru,Ancash,Santa,,,,2020-11-15,-50,-35,-34,-89,-21,14
+PE,Peru,Ancash,Santa,,,,2020-11-16,-37,-16,-23,-84,-23,12
+PE,Peru,Ancash,Santa,,,,2020-11-17,-41,-21,-30,-82,-26,12
 PE,Peru,Ancash,Yungay Province,,,,2020-02-15,,,12,,,
 PE,Peru,Ancash,Yungay Province,,,,2020-02-16,,,1,,,
 PE,Peru,Ancash,Yungay Province,,,,2020-02-17,,,7,,,
@@ -3830,6 +3858,8 @@ PE,Peru,Ancash,Yungay Province,,,,2020-11-12,,,-42,,-27,
 PE,Peru,Ancash,Yungay Province,,,,2020-11-13,,,-48,,,
 PE,Peru,Ancash,Yungay Province,,,,2020-11-14,,,-39,,,
 PE,Peru,Ancash,Yungay Province,,,,2020-11-15,,,-60,,,
+PE,Peru,Ancash,Yungay Province,,,,2020-11-16,,,-46,,-31,
+PE,Peru,Ancash,Yungay Province,,,,2020-11-17,,,-45,,,
 PE,Peru,Apurimac,,,PE-APU,,2020-02-15,5,3,-1,-4,-1,-1
 PE,Peru,Apurimac,,,PE-APU,,2020-02-16,0,-4,-6,,-1,
 PE,Peru,Apurimac,,,PE-APU,,2020-02-17,4,6,0,2,3,2
@@ -4102,6 +4132,8 @@ PE,Peru,Apurimac,,,PE-APU,,2020-11-12,-16,-22,-21,-39,-14,19
 PE,Peru,Apurimac,,,PE-APU,,2020-11-13,-24,-32,-30,-39,-12,21
 PE,Peru,Apurimac,,,PE-APU,,2020-11-14,-8,-13,-20,-38,-3,15
 PE,Peru,Apurimac,,,PE-APU,,2020-11-15,-50,-47,-40,-48,-18,21
+PE,Peru,Apurimac,,,PE-APU,,2020-11-16,-15,-14,-22,-34,-11,18
+PE,Peru,Apurimac,,,PE-APU,,2020-11-17,-16,-29,-30,-30,-11,17
 PE,Peru,Apurimac,Abancay Province,,,,2020-02-15,7,2,-3,0,1,-1
 PE,Peru,Apurimac,Abancay Province,,,,2020-02-16,0,1,-7,6,-1,
 PE,Peru,Apurimac,Abancay Province,,,,2020-02-17,-2,-3,0,6,4,2
@@ -4374,6 +4406,8 @@ PE,Peru,Apurimac,Abancay Province,,,,2020-11-12,3,-32,-22,-35,-13,20
 PE,Peru,Apurimac,Abancay Province,,,,2020-11-13,-14,-40,-30,-45,-15,24
 PE,Peru,Apurimac,Abancay Province,,,,2020-11-14,6,-23,-19,-34,-5,16
 PE,Peru,Apurimac,Abancay Province,,,,2020-11-15,-37,-52,-36,-48,-18,
+PE,Peru,Apurimac,Abancay Province,,,,2020-11-16,2,-27,-21,-34,-11,20
+PE,Peru,Apurimac,Abancay Province,,,,2020-11-17,3,-36,-29,-26,-11,20
 PE,Peru,Apurimac,Andahuaylas Province,,,,2020-02-15,3,,-1,,5,
 PE,Peru,Apurimac,Andahuaylas Province,,,,2020-02-16,-4,,-1,,-2,
 PE,Peru,Apurimac,Andahuaylas Province,,,,2020-02-17,7,,-2,,10,
@@ -4627,6 +4661,8 @@ PE,Peru,Apurimac,Andahuaylas Province,,,,2020-11-12,-30,,-17,,-7,22
 PE,Peru,Apurimac,Andahuaylas Province,,,,2020-11-13,-35,,-29,,-2,22
 PE,Peru,Apurimac,Andahuaylas Province,,,,2020-11-14,-23,,-16,,10,
 PE,Peru,Apurimac,Andahuaylas Province,,,,2020-11-15,-62,,-44,,-20,
+PE,Peru,Apurimac,Andahuaylas Province,,,,2020-11-16,-32,,-19,,0,20
+PE,Peru,Apurimac,Andahuaylas Province,,,,2020-11-17,-31,,-28,,-2,20
 PE,Peru,Apurimac,Cotabambas Province,,,,2020-02-15,,,3,,,
 PE,Peru,Apurimac,Cotabambas Province,,,,2020-02-16,,,-10,,,
 PE,Peru,Apurimac,Cotabambas Province,,,,2020-02-17,,,5,,,
@@ -4853,6 +4889,8 @@ PE,Peru,Apurimac,Cotabambas Province,,,,2020-11-12,,,-40,,-17,
 PE,Peru,Apurimac,Cotabambas Province,,,,2020-11-13,,,-36,,-11,
 PE,Peru,Apurimac,Cotabambas Province,,,,2020-11-14,,,-34,,-18,
 PE,Peru,Apurimac,Cotabambas Province,,,,2020-11-15,,,-44,,-29,
+PE,Peru,Apurimac,Cotabambas Province,,,,2020-11-16,,,-29,,-13,
+PE,Peru,Apurimac,Cotabambas Province,,,,2020-11-17,,,-33,,-14,
 PE,Peru,Arequipa,,,PE-ARE,,2020-02-15,1,1,3,11,-1,-1
 PE,Peru,Arequipa,,,PE-ARE,,2020-02-16,-2,-3,-1,15,-2,-1
 PE,Peru,Arequipa,,,PE-ARE,,2020-02-17,0,2,5,5,-2,0
@@ -5128,6 +5166,8 @@ PE,Peru,Arequipa,,,PE-ARE,,2020-11-12,-42,-22,-25,-46,-26,18
 PE,Peru,Arequipa,,,PE-ARE,,2020-11-13,-43,-23,-29,-46,-26,19
 PE,Peru,Arequipa,,,PE-ARE,,2020-11-14,-36,-15,-20,-40,-13,13
 PE,Peru,Arequipa,,,PE-ARE,,2020-11-15,-56,-37,-36,-54,-25,18
+PE,Peru,Arequipa,,,PE-ARE,,2020-11-16,-38,-21,-24,-42,-24,16
+PE,Peru,Arequipa,,,PE-ARE,,2020-11-17,-41,-22,-27,-45,-26,17
 PE,Peru,Arequipa,Arequipa,,,,2020-02-15,-1,-4,-2,3,-1,-1
 PE,Peru,Arequipa,Arequipa,,,,2020-02-16,-2,-5,-3,6,-2,-1
 PE,Peru,Arequipa,Arequipa,,,,2020-02-17,-1,-1,1,1,-2,0
@@ -5403,6 +5443,8 @@ PE,Peru,Arequipa,Arequipa,,,,2020-11-12,-42,-23,-22,-42,-27,18
 PE,Peru,Arequipa,Arequipa,,,,2020-11-13,-43,-25,-25,-43,-27,20
 PE,Peru,Arequipa,Arequipa,,,,2020-11-14,-35,-15,-9,-32,-13,12
 PE,Peru,Arequipa,Arequipa,,,,2020-11-15,-57,-33,-36,-47,-25,17
+PE,Peru,Arequipa,Arequipa,,,,2020-11-16,-38,-22,-21,-37,-26,17
+PE,Peru,Arequipa,Arequipa,,,,2020-11-17,-42,-25,-24,-41,-27,18
 PE,Peru,Arequipa,Camaná Province,,,,2020-02-15,59,25,27,30,-2,
 PE,Peru,Arequipa,Camaná Province,,,,2020-02-16,27,1,15,64,-8,
 PE,Peru,Arequipa,Camaná Province,,,,2020-02-17,,19,16,25,-2,
@@ -5659,6 +5701,8 @@ PE,Peru,Arequipa,Camaná Province,,,,2020-11-12,,-39,-41,-76,-19,
 PE,Peru,Arequipa,Camaná Province,,,,2020-11-13,,-46,-48,-76,-21,
 PE,Peru,Arequipa,Camaná Province,,,,2020-11-14,-36,-44,-62,-76,-15,
 PE,Peru,Arequipa,Camaná Province,,,,2020-11-15,-60,-83,-70,-87,-42,
+PE,Peru,Arequipa,Camaná Province,,,,2020-11-16,,-39,-46,-75,-17,
+PE,Peru,Arequipa,Camaná Province,,,,2020-11-17,,-35,-46,-76,-20,
 PE,Peru,Arequipa,Caravelí Province,,,,2020-02-15,,,16,,,
 PE,Peru,Arequipa,Caravelí Province,,,,2020-02-16,,,12,,,
 PE,Peru,Arequipa,Caravelí Province,,,,2020-02-17,,,11,,,
@@ -5909,6 +5953,8 @@ PE,Peru,Arequipa,Caravelí Province,,,,2020-11-12,,,-34,,-20,
 PE,Peru,Arequipa,Caravelí Province,,,,2020-11-13,,,-29,,-21,
 PE,Peru,Arequipa,Caravelí Province,,,,2020-11-14,,,-36,,-5,
 PE,Peru,Arequipa,Caravelí Province,,,,2020-11-15,,,-38,,-19,
+PE,Peru,Arequipa,Caravelí Province,,,,2020-11-16,,,-29,,-17,
+PE,Peru,Arequipa,Caravelí Province,,,,2020-11-17,,,-28,,-11,
 PE,Peru,Arequipa,Castilla Province,,,,2020-02-15,,,18,,,
 PE,Peru,Arequipa,Castilla Province,,,,2020-02-16,,,-14,,,
 PE,Peru,Arequipa,Castilla Province,,,,2020-02-17,,,20,,,
@@ -6159,6 +6205,8 @@ PE,Peru,Arequipa,Castilla Province,,,,2020-11-12,,,-36,,,
 PE,Peru,Arequipa,Castilla Province,,,,2020-11-13,,,-39,,,
 PE,Peru,Arequipa,Castilla Province,,,,2020-11-14,,,-28,,,
 PE,Peru,Arequipa,Castilla Province,,,,2020-11-15,,,-35,,,
+PE,Peru,Arequipa,Castilla Province,,,,2020-11-16,,,-32,,,
+PE,Peru,Arequipa,Castilla Province,,,,2020-11-17,,,-34,,,
 PE,Peru,Arequipa,Caylloma Province,,,,2020-02-15,8,6,-20,-3,-1,
 PE,Peru,Arequipa,Caylloma Province,,,,2020-02-16,-21,-30,-28,-34,-17,
 PE,Peru,Arequipa,Caylloma Province,,,,2020-02-17,-4,4,-24,2,-1,
@@ -6409,6 +6457,8 @@ PE,Peru,Arequipa,Caylloma Province,,,,2020-11-12,,24,-26,-43,-11,
 PE,Peru,Arequipa,Caylloma Province,,,,2020-11-13,,7,-39,-50,-10,
 PE,Peru,Arequipa,Caylloma Province,,,,2020-11-14,,23,-23,-53,-5,
 PE,Peru,Arequipa,Caylloma Province,,,,2020-11-15,,-9,-35,-61,-24,
+PE,Peru,Arequipa,Caylloma Province,,,,2020-11-16,,22,-42,-41,-10,
+PE,Peru,Arequipa,Caylloma Province,,,,2020-11-17,,19,-37,-47,-13,
 PE,Peru,Arequipa,Islay Province,,,,2020-02-15,19,13,28,39,2,
 PE,Peru,Arequipa,Islay Province,,,,2020-02-16,22,16,30,39,2,
 PE,Peru,Arequipa,Islay Province,,,,2020-02-17,15,6,21,25,-1,
@@ -6671,6 +6721,8 @@ PE,Peru,Arequipa,Islay Province,,,,2020-11-12,-56,-35,-53,-52,-20,16
 PE,Peru,Arequipa,Islay Province,,,,2020-11-13,-60,-45,-63,-58,-23,18
 PE,Peru,Arequipa,Islay Province,,,,2020-11-14,-68,-53,-69,-65,-21,
 PE,Peru,Arequipa,Islay Province,,,,2020-11-15,-75,-66,-74,-75,-31,
+PE,Peru,Arequipa,Islay Province,,,,2020-11-16,-54,-42,-58,-58,-21,17
+PE,Peru,Arequipa,Islay Province,,,,2020-11-17,-56,-42,-55,-59,-26,17
 PE,Peru,Ayacucho,,,PE-AYA,,2020-02-15,2,0,0,4,-1,-1
 PE,Peru,Ayacucho,,,PE-AYA,,2020-02-16,-2,-1,-7,10,-3,1
 PE,Peru,Ayacucho,,,PE-AYA,,2020-02-17,0,4,-1,8,2,0
@@ -6946,6 +6998,8 @@ PE,Peru,Ayacucho,,,PE-AYA,,2020-11-12,-21,8,-24,-42,-15,17
 PE,Peru,Ayacucho,,,PE-AYA,,2020-11-13,-25,7,-33,-50,-18,19
 PE,Peru,Ayacucho,,,PE-AYA,,2020-11-14,-18,15,-20,-35,-7,14
 PE,Peru,Ayacucho,,,PE-AYA,,2020-11-15,-41,-42,-35,-58,-19,16
+PE,Peru,Ayacucho,,,PE-AYA,,2020-11-16,-23,6,-26,-41,-17,17
+PE,Peru,Ayacucho,,,PE-AYA,,2020-11-17,-20,4,-29,-43,-18,17
 PE,Peru,Ayacucho,Huamanga,,,,2020-02-15,4,1,-1,6,1,0
 PE,Peru,Ayacucho,Huamanga,,,,2020-02-16,1,2,-6,11,-5,1
 PE,Peru,Ayacucho,Huamanga,,,,2020-02-17,3,8,-1,8,5,0
@@ -7221,6 +7275,8 @@ PE,Peru,Ayacucho,Huamanga,,,,2020-11-12,-23,7,-28,-44,-16,20
 PE,Peru,Ayacucho,Huamanga,,,,2020-11-13,-27,2,-38,-51,-18,22
 PE,Peru,Ayacucho,Huamanga,,,,2020-11-14,-19,11,-24,-35,-6,16
 PE,Peru,Ayacucho,Huamanga,,,,2020-11-15,-44,-44,-38,-58,-23,17
+PE,Peru,Ayacucho,Huamanga,,,,2020-11-16,-24,6,-31,-45,-16,20
+PE,Peru,Ayacucho,Huamanga,,,,2020-11-17,-22,4,-34,-44,-17,19
 PE,Peru,Ayacucho,Huanta Province,,,,2020-02-15,,,9,,,
 PE,Peru,Ayacucho,Huanta Province,,,,2020-02-16,,,2,,,
 PE,Peru,Ayacucho,Huanta Province,,,,2020-02-17,,,14,,5,
@@ -7471,6 +7527,8 @@ PE,Peru,Ayacucho,Huanta Province,,,,2020-11-12,,,-1,,-4,
 PE,Peru,Ayacucho,Huanta Province,,,,2020-11-13,,,-11,,-9,
 PE,Peru,Ayacucho,Huanta Province,,,,2020-11-14,,,16,,0,
 PE,Peru,Ayacucho,Huanta Province,,,,2020-11-15,,,-34,,-32,
+PE,Peru,Ayacucho,Huanta Province,,,,2020-11-16,,,6,,-5,
+PE,Peru,Ayacucho,Huanta Province,,,,2020-11-17,,,7,,-5,
 PE,Peru,Ayacucho,La Mar Province,,,,2020-02-15,,,-4,,,
 PE,Peru,Ayacucho,La Mar Province,,,,2020-02-16,,,-10,,,
 PE,Peru,Ayacucho,La Mar Province,,,,2020-02-17,,,7,,,
@@ -7721,6 +7779,8 @@ PE,Peru,Ayacucho,La Mar Province,,,,2020-11-12,,,-25,,,
 PE,Peru,Ayacucho,La Mar Province,,,,2020-11-13,,,-23,,,
 PE,Peru,Ayacucho,La Mar Province,,,,2020-11-14,,,-16,,,
 PE,Peru,Ayacucho,La Mar Province,,,,2020-11-15,,,-24,,,
+PE,Peru,Ayacucho,La Mar Province,,,,2020-11-16,,,-20,,,
+PE,Peru,Ayacucho,La Mar Province,,,,2020-11-17,,,-28,,,
 PE,Peru,Ayacucho,Lucanas Province,,,,2020-02-15,,,-20,,,
 PE,Peru,Ayacucho,Lucanas Province,,,,2020-02-16,,,-19,,,
 PE,Peru,Ayacucho,Lucanas Province,,,,2020-02-17,,,-18,,,
@@ -7971,6 +8031,8 @@ PE,Peru,Ayacucho,Lucanas Province,,,,2020-11-12,,,-16,,,
 PE,Peru,Ayacucho,Lucanas Province,,,,2020-11-13,,,-27,,,
 PE,Peru,Ayacucho,Lucanas Province,,,,2020-11-14,,,-20,,,
 PE,Peru,Ayacucho,Lucanas Province,,,,2020-11-15,,,-30,,,
+PE,Peru,Ayacucho,Lucanas Province,,,,2020-11-16,,,-22,,,
+PE,Peru,Ayacucho,Lucanas Province,,,,2020-11-17,,,-28,,,
 PE,Peru,Cajamarca,,,PE-CAJ,,2020-02-15,5,-2,6,-3,0,-1
 PE,Peru,Cajamarca,,,PE-CAJ,,2020-02-16,-1,1,7,2,1,1
 PE,Peru,Cajamarca,,,PE-CAJ,,2020-02-17,2,4,4,2,1,0
@@ -8246,6 +8308,8 @@ PE,Peru,Cajamarca,,,PE-CAJ,,2020-11-12,-37,-6,-29,-47,-24,17
 PE,Peru,Cajamarca,,,PE-CAJ,,2020-11-13,-41,-6,-39,-48,-24,19
 PE,Peru,Cajamarca,,,PE-CAJ,,2020-11-14,-31,3,-24,-44,-12,12
 PE,Peru,Cajamarca,,,PE-CAJ,,2020-11-15,-46,-25,-33,-53,-19,15
+PE,Peru,Cajamarca,,,PE-CAJ,,2020-11-16,-35,-2,-28,-47,-23,16
+PE,Peru,Cajamarca,,,PE-CAJ,,2020-11-17,-40,-7,-33,-48,-23,16
 PE,Peru,Cajamarca,Cajabamba Province,,,,2020-02-15,,,24,,,
 PE,Peru,Cajamarca,Cajabamba Province,,,,2020-02-16,,,17,,,
 PE,Peru,Cajamarca,Cajabamba Province,,,,2020-02-17,,,15,,,
@@ -8496,6 +8560,8 @@ PE,Peru,Cajamarca,Cajabamba Province,,,,2020-11-12,,,-52,,-10,
 PE,Peru,Cajamarca,Cajabamba Province,,,,2020-11-13,,,-62,,-15,
 PE,Peru,Cajamarca,Cajabamba Province,,,,2020-11-14,,,-54,,-14,
 PE,Peru,Cajamarca,Cajabamba Province,,,,2020-11-15,,,-55,,-17,
+PE,Peru,Cajamarca,Cajabamba Province,,,,2020-11-16,,,-49,,-13,
+PE,Peru,Cajamarca,Cajabamba Province,,,,2020-11-17,,,-56,,-17,
 PE,Peru,Cajamarca,Cajamarca,,,,2020-02-15,6,5,10,3,-2,-1
 PE,Peru,Cajamarca,Cajamarca,,,,2020-02-16,0,2,10,9,2,-1
 PE,Peru,Cajamarca,Cajamarca,,,,2020-02-17,3,8,5,2,0,0
@@ -8771,6 +8837,8 @@ PE,Peru,Cajamarca,Cajamarca,,,,2020-11-12,-42,-15,-33,-46,-30,19
 PE,Peru,Cajamarca,Cajamarca,,,,2020-11-13,-48,-18,-46,-44,-29,20
 PE,Peru,Cajamarca,Cajamarca,,,,2020-11-14,-37,-7,-28,-41,-16,13
 PE,Peru,Cajamarca,Cajamarca,,,,2020-11-15,-54,-38,-39,-51,-19,15
+PE,Peru,Cajamarca,Cajamarca,,,,2020-11-16,-42,-9,-33,-49,-28,17
+PE,Peru,Cajamarca,Cajamarca,,,,2020-11-17,-45,-15,-39,-47,-29,17
 PE,Peru,Cajamarca,Celendín Province,,,,2020-02-15,,,-1,,,
 PE,Peru,Cajamarca,Celendín Province,,,,2020-02-16,,,10,,,
 PE,Peru,Cajamarca,Celendín Province,,,,2020-02-17,,,12,,,
@@ -9021,6 +9089,8 @@ PE,Peru,Cajamarca,Celendín Province,,,,2020-11-12,,,-36,,-1,
 PE,Peru,Cajamarca,Celendín Province,,,,2020-11-13,,,-38,,-9,
 PE,Peru,Cajamarca,Celendín Province,,,,2020-11-14,,,-34,,,
 PE,Peru,Cajamarca,Celendín Province,,,,2020-11-15,,,-41,,,
+PE,Peru,Cajamarca,Celendín Province,,,,2020-11-16,,,-25,,11,
+PE,Peru,Cajamarca,Celendín Province,,,,2020-11-17,,,-36,,0,
 PE,Peru,Cajamarca,Chota Province,,,,2020-02-15,,,-2,,,
 PE,Peru,Cajamarca,Chota Province,,,,2020-02-16,,,0,,,
 PE,Peru,Cajamarca,Chota Province,,,,2020-02-17,,,1,,-1,
@@ -9271,6 +9341,8 @@ PE,Peru,Cajamarca,Chota Province,,,,2020-11-12,,,-27,,-12,
 PE,Peru,Cajamarca,Chota Province,,,,2020-11-13,,,-32,,-15,
 PE,Peru,Cajamarca,Chota Province,,,,2020-11-14,,,-20,,-1,
 PE,Peru,Cajamarca,Chota Province,,,,2020-11-15,,,-27,,-4,
+PE,Peru,Cajamarca,Chota Province,,,,2020-11-16,,,-29,,-14,
+PE,Peru,Cajamarca,Chota Province,,,,2020-11-17,,,-35,,-9,
 PE,Peru,Cajamarca,Contumazá Province,,,,2020-02-15,,,-1,,,
 PE,Peru,Cajamarca,Contumazá Province,,,,2020-02-16,,,-9,,,
 PE,Peru,Cajamarca,Contumazá Province,,,,2020-02-17,,,2,,,
@@ -9521,6 +9593,8 @@ PE,Peru,Cajamarca,Contumazá Province,,,,2020-11-12,,,-38,,,
 PE,Peru,Cajamarca,Contumazá Province,,,,2020-11-13,,,-43,,,
 PE,Peru,Cajamarca,Contumazá Province,,,,2020-11-14,,,-35,,,
 PE,Peru,Cajamarca,Contumazá Province,,,,2020-11-15,,,-48,,,
+PE,Peru,Cajamarca,Contumazá Province,,,,2020-11-16,,,-33,,,
+PE,Peru,Cajamarca,Contumazá Province,,,,2020-11-17,,,-38,,,
 PE,Peru,Cajamarca,Cutervo Province,,,,2020-03-22,-46,,,,,
 PE,Peru,Cajamarca,Cutervo Province,,,,2020-03-29,-52,,,,,
 PE,Peru,Cajamarca,Cutervo Province,,,,2020-04-05,,,-32,,,
@@ -9652,6 +9726,8 @@ PE,Peru,Cajamarca,Cutervo Province,,,,2020-11-11,,,,,-9,
 PE,Peru,Cajamarca,Cutervo Province,,,,2020-11-12,,,,,1,
 PE,Peru,Cajamarca,Cutervo Province,,,,2020-11-13,,,,,3,
 PE,Peru,Cajamarca,Cutervo Province,,,,2020-11-15,,,,,-14,
+PE,Peru,Cajamarca,Cutervo Province,,,,2020-11-16,,,,,-8,
+PE,Peru,Cajamarca,Cutervo Province,,,,2020-11-17,,,,,8,
 PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-06-08,,,,,-12,
 PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-06-09,,,,,-21,
 PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-06-10,,,,,-17,
@@ -9743,6 +9819,7 @@ PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-11-06,,,,,-13,
 PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-11-10,,,,,-5,
 PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-11-11,,,,,-2,
 PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-11-13,,,,,-2,
+PE,Peru,Cajamarca,Hualgayoc Province,,,,2020-11-17,,,,,0,
 PE,Peru,Cajamarca,Jaén Province,,,,2020-02-15,4,,-4,-10,-1,0
 PE,Peru,Cajamarca,Jaén Province,,,,2020-02-16,-11,,-5,-6,-2,
 PE,Peru,Cajamarca,Jaén Province,,,,2020-02-17,1,,-1,-1,4,1
@@ -10014,6 +10091,8 @@ PE,Peru,Cajamarca,Jaén Province,,,,2020-11-12,-30,,-2,-52,-16,16
 PE,Peru,Cajamarca,Jaén Province,,,,2020-11-13,-30,,-12,-53,-14,16
 PE,Peru,Cajamarca,Jaén Province,,,,2020-11-14,-23,,0,-47,-11,10
 PE,Peru,Cajamarca,Jaén Province,,,,2020-11-15,-39,-14,-11,-56,-18,14
+PE,Peru,Cajamarca,Jaén Province,,,,2020-11-16,-25,,-4,-47,-16,14
+PE,Peru,Cajamarca,Jaén Province,,,,2020-11-17,-33,,-11,-52,-16,16
 PE,Peru,Cajamarca,San Ignacio Province,,,,2020-02-15,,,-5,,,
 PE,Peru,Cajamarca,San Ignacio Province,,,,2020-02-16,,,-2,,,
 PE,Peru,Cajamarca,San Ignacio Province,,,,2020-02-17,,,2,,,
@@ -10264,6 +10343,8 @@ PE,Peru,Cajamarca,San Ignacio Province,,,,2020-11-12,,,-10,,-3,
 PE,Peru,Cajamarca,San Ignacio Province,,,,2020-11-13,,,2,,,
 PE,Peru,Cajamarca,San Ignacio Province,,,,2020-11-14,,,8,,,
 PE,Peru,Cajamarca,San Ignacio Province,,,,2020-11-15,,,0,,,
+PE,Peru,Cajamarca,San Ignacio Province,,,,2020-11-16,,,3,,3,
+PE,Peru,Cajamarca,San Ignacio Province,,,,2020-11-17,,,-3,,3,
 PE,Peru,Callao Region,,,PE-CAL,,2020-02-15,2,4,1,3,0,-1
 PE,Peru,Callao Region,,,PE-CAL,,2020-02-16,0,1,0,5,-1,0
 PE,Peru,Callao Region,,,PE-CAL,,2020-02-17,-1,1,1,8,1,0
@@ -10539,6 +10620,8 @@ PE,Peru,Callao Region,,,PE-CAL,,2020-11-12,-39,-21,-38,-56,-36,19
 PE,Peru,Callao Region,,,PE-CAL,,2020-11-13,-40,-21,-38,-53,-35,20
 PE,Peru,Callao Region,,,PE-CAL,,2020-11-14,-35,-16,-36,-53,-21,12
 PE,Peru,Callao Region,,,PE-CAL,,2020-11-15,-50,-32,-53,-62,-24,16
+PE,Peru,Callao Region,,,PE-CAL,,2020-11-16,-36,-21,-34,-52,-35,18
+PE,Peru,Callao Region,,,PE-CAL,,2020-11-17,-38,-24,-36,-55,-36,18
 PE,Peru,Cusco,,,PE-CUS,,2020-02-15,1,-4,0,0,2,0
 PE,Peru,Cusco,,,PE-CUS,,2020-02-16,0,-3,-7,-3,-2,2
 PE,Peru,Cusco,,,PE-CUS,,2020-02-17,-1,-3,-3,0,6,1
@@ -10814,6 +10897,8 @@ PE,Peru,Cusco,,,PE-CUS,,2020-11-12,-46,-21,-23,-48,-24,19
 PE,Peru,Cusco,,,PE-CUS,,2020-11-13,-50,-22,-38,-50,-24,20
 PE,Peru,Cusco,,,PE-CUS,,2020-11-14,-39,-23,-31,-44,-14,13
 PE,Peru,Cusco,,,PE-CUS,,2020-11-15,-59,-50,-40,-60,-28,20
+PE,Peru,Cusco,,,PE-CUS,,2020-11-16,-44,-20,-30,-47,-23,18
+PE,Peru,Cusco,,,PE-CUS,,2020-11-17,-46,-22,-30,-47,-25,19
 PE,Peru,Cusco,Calca Province,,,,2020-02-15,,,-1,,,
 PE,Peru,Cusco,Calca Province,,,,2020-02-16,-6,,19,,,
 PE,Peru,Cusco,Calca Province,,,,2020-02-17,,,17,,,
@@ -11060,6 +11145,8 @@ PE,Peru,Cusco,Calca Province,,,,2020-11-12,,,4,,-7,
 PE,Peru,Cusco,Calca Province,,,,2020-11-13,,,-11,,6,
 PE,Peru,Cusco,Calca Province,,,,2020-11-14,,,26,,3,
 PE,Peru,Cusco,Calca Province,,,,2020-11-15,,,-38,,,
+PE,Peru,Cusco,Calca Province,,,,2020-11-16,,,9,,0,
+PE,Peru,Cusco,Calca Province,,,,2020-11-17,,,-9,,-7,
 PE,Peru,Cusco,Canchis Province,,,,2020-02-15,,,5,6,7,
 PE,Peru,Cusco,Canchis Province,,,,2020-02-16,,,7,-6,,
 PE,Peru,Cusco,Canchis Province,,,,2020-02-17,,,4,-2,8,
@@ -11310,6 +11397,8 @@ PE,Peru,Cusco,Canchis Province,,,,2020-11-12,,,0,-26,-1,
 PE,Peru,Cusco,Canchis Province,,,,2020-11-13,,,-6,-26,2,
 PE,Peru,Cusco,Canchis Province,,,,2020-11-14,,,-9,-16,6,
 PE,Peru,Cusco,Canchis Province,,,,2020-11-15,,,-30,-44,-6,
+PE,Peru,Cusco,Canchis Province,,,,2020-11-16,,,-11,-34,1,
+PE,Peru,Cusco,Canchis Province,,,,2020-11-17,,,-3,-33,2,
 PE,Peru,Cusco,Cusco,,,,2020-02-15,0,-2,5,1,3,0
 PE,Peru,Cusco,Cusco,,,,2020-02-16,0,-1,-10,-2,-2,2
 PE,Peru,Cusco,Cusco,,,,2020-02-17,-2,-1,1,1,6,1
@@ -11585,6 +11674,8 @@ PE,Peru,Cusco,Cusco,,,,2020-11-12,-47,-26,-27,-55,-32,21
 PE,Peru,Cusco,Cusco,,,,2020-11-13,-52,-26,-44,-55,-33,22
 PE,Peru,Cusco,Cusco,,,,2020-11-14,-42,-27,-34,-52,-22,14
 PE,Peru,Cusco,Cusco,,,,2020-11-15,-62,-55,-44,-67,-36,20
+PE,Peru,Cusco,Cusco,,,,2020-11-16,-46,-23,-35,-53,-33,19
+PE,Peru,Cusco,Cusco,,,,2020-11-17,-50,-26,-37,-52,-34,21
 PE,Peru,Cusco,Espinar Province,,,,2020-02-15,,,,-14,,
 PE,Peru,Cusco,Espinar Province,,,,2020-02-16,,,,-8,,
 PE,Peru,Cusco,Espinar Province,,,,2020-02-17,,,,-5,,
@@ -11829,6 +11920,8 @@ PE,Peru,Cusco,Espinar Province,,,,2020-11-12,,,,-50,9,
 PE,Peru,Cusco,Espinar Province,,,,2020-11-13,,,,-55,22,
 PE,Peru,Cusco,Espinar Province,,,,2020-11-14,,,,-45,16,
 PE,Peru,Cusco,Espinar Province,,,,2020-11-15,,,,-52,5,
+PE,Peru,Cusco,Espinar Province,,,,2020-11-16,,,,-51,16,
+PE,Peru,Cusco,Espinar Province,,,,2020-11-17,,,,-55,15,
 PE,Peru,Cusco,La Convención Province,,,,2020-02-15,7,,0,5,6,
 PE,Peru,Cusco,La Convención Province,,,,2020-02-16,-9,,-4,-7,-1,
 PE,Peru,Cusco,La Convención Province,,,,2020-02-17,2,,-4,4,8,2
@@ -12091,6 +12184,8 @@ PE,Peru,Cusco,La Convención Province,,,,2020-11-12,-14,,-25,0,-9,13
 PE,Peru,Cusco,La Convención Province,,,,2020-11-13,-10,,-35,-11,-11,14
 PE,Peru,Cusco,La Convención Province,,,,2020-11-14,-3,,-29,10,-10,11
 PE,Peru,Cusco,La Convención Province,,,,2020-11-15,-34,,-41,-22,-32,16
+PE,Peru,Cusco,La Convención Province,,,,2020-11-16,-10,,-32,2,-11,15
+PE,Peru,Cusco,La Convención Province,,,,2020-11-17,-15,,-33,-9,-11,14
 PE,Peru,Cusco,Quispicanchi Province,,,,2020-02-15,,,-3,,,
 PE,Peru,Cusco,Quispicanchi Province,,,,2020-02-16,,,7,,,
 PE,Peru,Cusco,Quispicanchi Province,,,,2020-02-17,,,13,,,
@@ -12339,6 +12434,8 @@ PE,Peru,Cusco,Quispicanchi Province,,,,2020-11-12,,,-29,,1,
 PE,Peru,Cusco,Quispicanchi Province,,,,2020-11-13,,,-35,,-6,
 PE,Peru,Cusco,Quispicanchi Province,,,,2020-11-14,,,-16,,,
 PE,Peru,Cusco,Quispicanchi Province,,,,2020-11-15,,,-38,,,
+PE,Peru,Cusco,Quispicanchi Province,,,,2020-11-16,,,-34,,-2,
+PE,Peru,Cusco,Quispicanchi Province,,,,2020-11-17,,,-35,,-6,
 PE,Peru,Cusco,Urubamba Province,,,,2020-02-15,-16,,-8,-17,4,
 PE,Peru,Cusco,Urubamba Province,,,,2020-02-16,,,-11,-5,,
 PE,Peru,Cusco,Urubamba Province,,,,2020-02-17,,,-3,-7,1,
@@ -12609,6 +12706,8 @@ PE,Peru,Cusco,Urubamba Province,,,,2020-11-12,,,-62,-68,-20,
 PE,Peru,Cusco,Urubamba Province,,,,2020-11-13,,,-65,-72,-21,
 PE,Peru,Cusco,Urubamba Province,,,,2020-11-14,,,-56,-66,-15,
 PE,Peru,Cusco,Urubamba Province,,,,2020-11-15,-72,,-66,-74,-31,
+PE,Peru,Cusco,Urubamba Province,,,,2020-11-16,,,-57,-67,-17,
+PE,Peru,Cusco,Urubamba Province,,,,2020-11-17,,,-59,-53,-21,
 PE,Peru,Huancavelica,,,PE-HUV,,2020-02-15,-1,,-9,-10,1,
 PE,Peru,Huancavelica,,,PE-HUV,,2020-02-16,0,,-8,-24,-6,
 PE,Peru,Huancavelica,,,PE-HUV,,2020-02-17,0,,-9,-17,2,
@@ -12859,6 +12958,8 @@ PE,Peru,Huancavelica,,,PE-HUV,,2020-11-12,,,-7,-38,-11,
 PE,Peru,Huancavelica,,,PE-HUV,,2020-11-13,,,-20,-47,-9,
 PE,Peru,Huancavelica,,,PE-HUV,,2020-11-14,,,-7,-37,-1,
 PE,Peru,Huancavelica,,,PE-HUV,,2020-11-15,,,-23,-52,-9,
+PE,Peru,Huancavelica,,,PE-HUV,,2020-11-16,,,-12,-49,-8,
+PE,Peru,Huancavelica,,,PE-HUV,,2020-11-17,,,-17,-45,-10,
 PE,Peru,Huancavelica,Huancavelica Province,,,,2020-02-15,,,-10,-12,0,
 PE,Peru,Huancavelica,Huancavelica Province,,,,2020-02-16,,,-23,-27,-8,
 PE,Peru,Huancavelica,Huancavelica Province,,,,2020-02-17,,,-11,-19,4,
@@ -13112,6 +13213,8 @@ PE,Peru,Huancavelica,Huancavelica Province,,,,2020-11-12,,,-10,-46,-12,20
 PE,Peru,Huancavelica,Huancavelica Province,,,,2020-11-13,,,-22,-52,-14,22
 PE,Peru,Huancavelica,Huancavelica Province,,,,2020-11-14,,,-6,-48,-12,
 PE,Peru,Huancavelica,Huancavelica Province,,,,2020-11-15,,,-25,-59,-19,
+PE,Peru,Huancavelica,Huancavelica Province,,,,2020-11-16,,,-14,-52,-13,21
+PE,Peru,Huancavelica,Huancavelica Province,,,,2020-11-17,,,-21,-51,-14,20
 PE,Peru,Huancavelica,Tayacaja Province,,,,2020-02-15,,,-4,,,
 PE,Peru,Huancavelica,Tayacaja Province,,,,2020-02-16,,,-7,,,
 PE,Peru,Huancavelica,Tayacaja Province,,,,2020-02-17,,,-5,,,
@@ -13362,6 +13465,8 @@ PE,Peru,Huancavelica,Tayacaja Province,,,,2020-11-12,,,-22,,,
 PE,Peru,Huancavelica,Tayacaja Province,,,,2020-11-13,,,-19,,,
 PE,Peru,Huancavelica,Tayacaja Province,,,,2020-11-14,,,-9,,,
 PE,Peru,Huancavelica,Tayacaja Province,,,,2020-11-15,,,-25,,,
+PE,Peru,Huancavelica,Tayacaja Province,,,,2020-11-16,,,-15,,,
+PE,Peru,Huancavelica,Tayacaja Province,,,,2020-11-17,,,-18,,,
 PE,Peru,Huanuco,,,PE-HUC,,2020-02-15,-3,-8,-7,-11,-2,0
 PE,Peru,Huanuco,,,PE-HUC,,2020-02-16,-10,-6,-12,-7,-3,2
 PE,Peru,Huanuco,,,PE-HUC,,2020-02-17,-10,-4,-2,-2,1,0
@@ -13637,6 +13742,8 @@ PE,Peru,Huanuco,,,PE-HUC,,2020-11-12,-28,-18,-35,-51,-25,14
 PE,Peru,Huanuco,,,PE-HUC,,2020-11-13,-33,-24,-43,-54,-24,16
 PE,Peru,Huanuco,,,PE-HUC,,2020-11-14,-32,-13,-37,-48,-17,9
 PE,Peru,Huanuco,,,PE-HUC,,2020-11-15,-47,-42,-48,-55,-28,13
+PE,Peru,Huanuco,,,PE-HUC,,2020-11-16,-29,-19,-40,-54,-22,13
+PE,Peru,Huanuco,,,PE-HUC,,2020-11-17,-30,-23,-40,-53,-24,13
 PE,Peru,Huanuco,Huanuco,,,,2020-02-15,-3,-7,-9,-18,0,-1
 PE,Peru,Huanuco,Huanuco,,,,2020-02-16,-9,-8,-9,-16,0,2
 PE,Peru,Huanuco,Huanuco,,,,2020-02-17,-10,-3,-2,-6,1,1
@@ -13912,6 +14019,8 @@ PE,Peru,Huanuco,Huanuco,,,,2020-11-12,-30,-24,-33,-57,-26,16
 PE,Peru,Huanuco,Huanuco,,,,2020-11-13,-37,-31,-44,-63,-25,18
 PE,Peru,Huanuco,Huanuco,,,,2020-11-14,-32,-20,-35,-54,-13,11
 PE,Peru,Huanuco,Huanuco,,,,2020-11-15,-53,-46,-48,-62,-30,15
+PE,Peru,Huanuco,Huanuco,,,,2020-11-16,-32,-26,-37,-60,-24,15
+PE,Peru,Huanuco,Huanuco,,,,2020-11-17,-33,-28,-38,-59,-25,15
 PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-02-15,-4,,-2,6,-2,
 PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-02-16,-4,,-1,19,-6,
 PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-02-17,-7,,0,17,4,0
@@ -14165,6 +14274,8 @@ PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-11-12,-20,,-35,-45,-22,15
 PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-11-13,-20,,-40,-37,-22,14
 PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-11-14,-33,,-39,-34,-26,5
 PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-11-15,-31,,-42,-39,-26,12
+PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-11-16,-22,,-36,-38,-21,13
+PE,Peru,Huanuco,Leoncio Prado Province,,,,2020-11-17,-20,,-37,-42,-24,13
 PE,Peru,Ica,,,PE-ICA,,2020-02-15,7,0,7,9,-1,0
 PE,Peru,Ica,,,PE-ICA,,2020-02-16,1,0,5,9,0,1
 PE,Peru,Ica,,,PE-ICA,,2020-02-17,1,3,5,8,0,1
@@ -14440,6 +14551,8 @@ PE,Peru,Ica,,,PE-ICA,,2020-11-12,-43,-18,-43,-51,-25,16
 PE,Peru,Ica,,,PE-ICA,,2020-11-13,-46,-19,-50,-52,-22,17
 PE,Peru,Ica,,,PE-ICA,,2020-11-14,-41,-13,-40,-49,-14,12
 PE,Peru,Ica,,,PE-ICA,,2020-11-15,-57,-40,-53,-61,-25,17
+PE,Peru,Ica,,,PE-ICA,,2020-11-16,-42,-16,-39,-50,-22,15
+PE,Peru,Ica,,,PE-ICA,,2020-11-17,-43,-17,-43,-50,-24,15
 PE,Peru,Ica,Chincha Province,,,,2020-02-15,4,5,3,6,-2,-1
 PE,Peru,Ica,Chincha Province,,,,2020-02-16,3,-5,3,13,0,0
 PE,Peru,Ica,Chincha Province,,,,2020-02-17,0,1,-1,7,1,1
@@ -14715,6 +14828,8 @@ PE,Peru,Ica,Chincha Province,,,,2020-11-12,-36,-7,-60,-34,-24,13
 PE,Peru,Ica,Chincha Province,,,,2020-11-13,-41,-11,-64,-35,-23,15
 PE,Peru,Ica,Chincha Province,,,,2020-11-14,-31,-1,-57,-31,-15,10
 PE,Peru,Ica,Chincha Province,,,,2020-11-15,-49,-27,-64,-48,-24,15
+PE,Peru,Ica,Chincha Province,,,,2020-11-16,-34,-3,-59,-29,-22,13
+PE,Peru,Ica,Chincha Province,,,,2020-11-17,-36,-10,-62,-28,-24,13
 PE,Peru,Ica,Ica,,,,2020-02-15,8,3,6,12,-2,0
 PE,Peru,Ica,Ica,,,,2020-02-16,-3,-1,2,6,-2,0
 PE,Peru,Ica,Ica,,,,2020-02-17,0,3,4,7,-2,1
@@ -14990,6 +15105,8 @@ PE,Peru,Ica,Ica,,,,2020-11-12,-44,-16,-42,-58,-31,17
 PE,Peru,Ica,Ica,,,,2020-11-13,-48,-19,-50,-60,-29,17
 PE,Peru,Ica,Ica,,,,2020-11-14,-42,-11,-38,-56,-21,13
 PE,Peru,Ica,Ica,,,,2020-11-15,-59,-36,-48,-67,-29,17
+PE,Peru,Ica,Ica,,,,2020-11-16,-44,-16,-40,-58,-29,16
+PE,Peru,Ica,Ica,,,,2020-11-17,-45,-14,-43,-58,-30,15
 PE,Peru,Ica,Nazca Province,,,,2020-02-15,17,,10,4,4,-2
 PE,Peru,Ica,Nazca Province,,,,2020-02-16,5,,10,19,0,
 PE,Peru,Ica,Nazca Province,,,,2020-02-17,8,,8,5,2,0
@@ -15265,6 +15382,8 @@ PE,Peru,Ica,Nazca Province,,,,2020-11-12,-53,,-35,-46,-11,16
 PE,Peru,Ica,Nazca Province,,,,2020-11-13,-53,,-42,-50,-8,17
 PE,Peru,Ica,Nazca Province,,,,2020-11-14,-49,,-33,-50,-5,14
 PE,Peru,Ica,Nazca Province,,,,2020-11-15,-61,,-43,-56,-20,20
+PE,Peru,Ica,Nazca Province,,,,2020-11-16,-52,,-30,-46,-8,15
+PE,Peru,Ica,Nazca Province,,,,2020-11-17,-50,,-36,-50,-15,16
 PE,Peru,Ica,Palpa Province,,,,2020-02-15,,,21,,,
 PE,Peru,Ica,Palpa Province,,,,2020-02-16,,,16,,,
 PE,Peru,Ica,Palpa Province,,,,2020-02-23,,,22,,,
@@ -15457,6 +15576,7 @@ PE,Peru,Ica,Palpa Province,,,,2020-11-11,,,-23,,,
 PE,Peru,Ica,Palpa Province,,,,2020-11-13,,,-20,,,
 PE,Peru,Ica,Palpa Province,,,,2020-11-14,,,-22,,,
 PE,Peru,Ica,Palpa Province,,,,2020-11-15,,,-47,,,
+PE,Peru,Ica,Palpa Province,,,,2020-11-16,,,-20,,,
 PE,Peru,Ica,Pisco Province,,,,2020-02-15,6,-3,6,5,-1,-1
 PE,Peru,Ica,Pisco Province,,,,2020-02-16,0,-3,13,8,0,2
 PE,Peru,Ica,Pisco Province,,,,2020-02-17,8,1,10,10,2,1
@@ -15732,6 +15852,8 @@ PE,Peru,Ica,Pisco Province,,,,2020-11-12,-44,-24,-44,-60,-25,15
 PE,Peru,Ica,Pisco Province,,,,2020-11-13,-46,-24,-46,-60,-21,16
 PE,Peru,Ica,Pisco Province,,,,2020-11-14,-46,-19,-43,-59,-13,11
 PE,Peru,Ica,Pisco Province,,,,2020-11-15,-66,-64,-60,-68,-29,18
+PE,Peru,Ica,Pisco Province,,,,2020-11-16,-42,-20,-36,-61,-20,14
+PE,Peru,Ica,Pisco Province,,,,2020-11-17,-45,-24,-39,-59,-22,14
 PE,Peru,Junin,,,PE-JUN,,2020-02-15,1,-5,3,0,-1,-2
 PE,Peru,Junin,,,PE-JUN,,2020-02-16,-5,-4,-9,-5,0,1
 PE,Peru,Junin,,,PE-JUN,,2020-02-17,-3,-2,-4,-5,1,1
@@ -16007,6 +16129,8 @@ PE,Peru,Junin,,,PE-JUN,,2020-11-12,-37,-21,-20,-44,-22,19
 PE,Peru,Junin,,,PE-JUN,,2020-11-13,-43,-25,-27,-48,-22,20
 PE,Peru,Junin,,,PE-JUN,,2020-11-14,-35,-16,-16,-45,-11,15
 PE,Peru,Junin,,,PE-JUN,,2020-11-15,-52,-43,-34,-58,-22,18
+PE,Peru,Junin,,,PE-JUN,,2020-11-16,-35,-12,-16,-48,-20,17
+PE,Peru,Junin,,,PE-JUN,,2020-11-17,-40,-21,-23,-45,-23,18
 PE,Peru,Junin,Chanchamayo Province,,,,2020-02-15,-1,,-1,4,2,-1
 PE,Peru,Junin,Chanchamayo Province,,,,2020-02-16,-10,,-4,-1,-2,
 PE,Peru,Junin,Chanchamayo Province,,,,2020-02-17,-6,,-5,-2,2,3
@@ -16282,6 +16406,8 @@ PE,Peru,Junin,Chanchamayo Province,,,,2020-11-12,-15,,-20,-55,-10,16
 PE,Peru,Junin,Chanchamayo Province,,,,2020-11-13,-15,,-24,-55,-11,17
 PE,Peru,Junin,Chanchamayo Province,,,,2020-11-14,-10,,-7,-50,-8,14
 PE,Peru,Junin,Chanchamayo Province,,,,2020-11-15,-25,,-16,-63,-16,14
+PE,Peru,Junin,Chanchamayo Province,,,,2020-11-16,-15,,-14,-55,-6,16
+PE,Peru,Junin,Chanchamayo Province,,,,2020-11-17,-20,,-18,-52,-9,15
 PE,Peru,Junin,Chupaca Province,,,,2020-02-15,,,1,,,
 PE,Peru,Junin,Chupaca Province,,,,2020-02-16,,,-1,,,
 PE,Peru,Junin,Chupaca Province,,,,2020-02-17,,,-2,,-3,
@@ -16534,6 +16660,8 @@ PE,Peru,Junin,Chupaca Province,,,,2020-11-12,,,-33,,-16,
 PE,Peru,Junin,Chupaca Province,,,,2020-11-13,,,-32,,-19,
 PE,Peru,Junin,Chupaca Province,,,,2020-11-14,,,-41,,-10,
 PE,Peru,Junin,Chupaca Province,,,,2020-11-15,,,-35,,-19,
+PE,Peru,Junin,Chupaca Province,,,,2020-11-16,,,-31,,-19,
+PE,Peru,Junin,Chupaca Province,,,,2020-11-17,,,-29,,-15,
 PE,Peru,Junin,Concepción Province,,,,2020-02-15,,,-1,,,
 PE,Peru,Junin,Concepción Province,,,,2020-02-16,,,-8,,,
 PE,Peru,Junin,Concepción Province,,,,2020-02-17,,,-9,,,
@@ -16784,6 +16912,8 @@ PE,Peru,Junin,Concepción Province,,,,2020-11-12,,,-28,,-16,
 PE,Peru,Junin,Concepción Province,,,,2020-11-13,,,-25,,-20,
 PE,Peru,Junin,Concepción Province,,,,2020-11-14,,,-13,,-9,
 PE,Peru,Junin,Concepción Province,,,,2020-11-15,,,-36,,,
+PE,Peru,Junin,Concepción Province,,,,2020-11-16,,,-18,,-19,
+PE,Peru,Junin,Concepción Province,,,,2020-11-17,,,-28,,-19,
 PE,Peru,Junin,Huancayo,,,,2020-02-15,1,-5,4,2,-3,-1
 PE,Peru,Junin,Huancayo,,,,2020-02-16,-1,-5,-6,-1,1,2
 PE,Peru,Junin,Huancayo,,,,2020-02-17,-2,-3,-5,-1,1,1
@@ -17059,6 +17189,8 @@ PE,Peru,Junin,Huancayo,,,,2020-11-12,-41,-25,-12,-44,-29,19
 PE,Peru,Junin,Huancayo,,,,2020-11-13,-48,-26,-27,-51,-27,21
 PE,Peru,Junin,Huancayo,,,,2020-11-14,-40,-22,-8,-46,-16,15
 PE,Peru,Junin,Huancayo,,,,2020-11-15,-55,-45,-35,-61,-26,19
+PE,Peru,Junin,Huancayo,,,,2020-11-16,-37,-18,-4,-48,-25,18
+PE,Peru,Junin,Huancayo,,,,2020-11-17,-44,-25,-21,-49,-29,20
 PE,Peru,Junin,Jauja Province,,,,2020-02-15,,,13,-4,,
 PE,Peru,Junin,Jauja Province,,,,2020-02-16,,,2,-3,,
 PE,Peru,Junin,Jauja Province,,,,2020-02-17,,,11,-2,0,
@@ -17309,6 +17441,8 @@ PE,Peru,Junin,Jauja Province,,,,2020-11-12,,,-26,-64,-11,
 PE,Peru,Junin,Jauja Province,,,,2020-11-13,,,-29,-61,-16,
 PE,Peru,Junin,Jauja Province,,,,2020-11-14,,,-14,-56,-1,
 PE,Peru,Junin,Jauja Province,,,,2020-11-15,,,-26,-71,-22,
+PE,Peru,Junin,Jauja Province,,,,2020-11-16,,,-13,-59,-9,
+PE,Peru,Junin,Jauja Province,,,,2020-11-17,,,-27,-61,-18,
 PE,Peru,Junin,Satipo Province,,,,2020-02-15,-1,,3,8,6,
 PE,Peru,Junin,Satipo Province,,,,2020-02-16,-7,,-4,4,3,
 PE,Peru,Junin,Satipo Province,,,,2020-02-17,-6,,-1,4,1,
@@ -17562,6 +17696,8 @@ PE,Peru,Junin,Satipo Province,,,,2020-11-12,-16,,-31,-47,-7,15
 PE,Peru,Junin,Satipo Province,,,,2020-11-13,-23,,-32,-42,-2,15
 PE,Peru,Junin,Satipo Province,,,,2020-11-14,-20,,-30,-47,0,
 PE,Peru,Junin,Satipo Province,,,,2020-11-15,-30,,-31,-38,-12,
+PE,Peru,Junin,Satipo Province,,,,2020-11-16,-22,,-28,-43,-2,15
+PE,Peru,Junin,Satipo Province,,,,2020-11-17,-22,,-32,-51,-5,13
 PE,Peru,Junin,Tarma Province,,,,2020-02-15,4,,-8,4,6,
 PE,Peru,Junin,Tarma Province,,,,2020-02-16,2,,-8,-4,5,
 PE,Peru,Junin,Tarma Province,,,,2020-02-17,4,,1,-1,0,
@@ -17812,6 +17948,8 @@ PE,Peru,Junin,Tarma Province,,,,2020-11-12,-22,,-31,-39,-16,
 PE,Peru,Junin,Tarma Province,,,,2020-11-13,-26,,-45,-48,-16,
 PE,Peru,Junin,Tarma Province,,,,2020-11-14,-14,,-31,-38,1,
 PE,Peru,Junin,Tarma Province,,,,2020-11-15,-47,,-46,-49,-24,
+PE,Peru,Junin,Tarma Province,,,,2020-11-16,-13,,-32,-40,-11,
+PE,Peru,Junin,Tarma Province,,,,2020-11-17,-19,,-36,-39,-21,
 PE,Peru,Junin,Yauli Province,,,,2020-02-15,-5,,-2,-12,-6,
 PE,Peru,Junin,Yauli Province,,,,2020-02-16,-3,,-2,-4,,
 PE,Peru,Junin,Yauli Province,,,,2020-02-17,5,,3,3,1,
@@ -18062,6 +18200,8 @@ PE,Peru,Junin,Yauli Province,,,,2020-11-12,-38,,-21,27,-24,
 PE,Peru,Junin,Yauli Province,,,,2020-11-13,-38,,-9,-4,-35,
 PE,Peru,Junin,Yauli Province,,,,2020-11-14,-42,,-28,-30,-18,
 PE,Peru,Junin,Yauli Province,,,,2020-11-15,,,-36,-6,-22,
+PE,Peru,Junin,Yauli Province,,,,2020-11-16,-45,,-29,-11,-25,
+PE,Peru,Junin,Yauli Province,,,,2020-11-17,-50,,-35,5,-31,
 PE,Peru,La Libertad,,,PE-LAL,,2020-02-15,5,1,2,-4,1,-1
 PE,Peru,La Libertad,,,PE-LAL,,2020-02-16,0,-1,-3,-5,0,0
 PE,Peru,La Libertad,,,PE-LAL,,2020-02-17,-2,0,0,-1,3,1
@@ -18337,6 +18477,8 @@ PE,Peru,La Libertad,,,PE-LAL,,2020-11-12,-36,-14,-29,-40,-28,15
 PE,Peru,La Libertad,,,PE-LAL,,2020-11-13,-43,-18,-36,-41,-26,16
 PE,Peru,La Libertad,,,PE-LAL,,2020-11-14,-36,-13,-27,-42,-14,12
 PE,Peru,La Libertad,,,PE-LAL,,2020-11-15,-50,-28,-40,-62,-21,15
+PE,Peru,La Libertad,,,PE-LAL,,2020-11-16,-37,-16,-29,-40,-27,14
+PE,Peru,La Libertad,,,PE-LAL,,2020-11-17,-39,-17,-31,-39,-26,15
 PE,Peru,La Libertad,Ascope Province,,,,2020-02-15,12,,-13,1,2,
 PE,Peru,La Libertad,Ascope Province,,,,2020-02-16,7,,-25,-13,3,
 PE,Peru,La Libertad,Ascope Province,,,,2020-02-17,8,,-18,-3,6,
@@ -18590,6 +18732,8 @@ PE,Peru,La Libertad,Ascope Province,,,,2020-11-12,-48,,-38,-43,-27,18
 PE,Peru,La Libertad,Ascope Province,,,,2020-11-13,-47,,-48,-47,-26,19
 PE,Peru,La Libertad,Ascope Province,,,,2020-11-14,-45,,-43,-44,-18,15
 PE,Peru,La Libertad,Ascope Province,,,,2020-11-15,-60,,-61,-71,-21,
+PE,Peru,La Libertad,Ascope Province,,,,2020-11-16,-46,,-43,-46,-25,14
+PE,Peru,La Libertad,Ascope Province,,,,2020-11-17,-43,,-39,-46,-25,16
 PE,Peru,La Libertad,Chepén Province,,,,2020-02-15,-4,,-5,-9,0,
 PE,Peru,La Libertad,Chepén Province,,,,2020-02-16,-6,,-6,-20,-1,
 PE,Peru,La Libertad,Chepén Province,,,,2020-02-17,-1,,2,6,-1,
@@ -18840,6 +18984,8 @@ PE,Peru,La Libertad,Chepén Province,,,,2020-11-12,-43,,-15,-42,-24,
 PE,Peru,La Libertad,Chepén Province,,,,2020-11-13,-48,,-31,-51,-20,
 PE,Peru,La Libertad,Chepén Province,,,,2020-11-14,-44,,-16,-43,-11,
 PE,Peru,La Libertad,Chepén Province,,,,2020-11-15,-56,,-18,-62,-25,
+PE,Peru,La Libertad,Chepén Province,,,,2020-11-16,-43,,-21,-27,-20,
+PE,Peru,La Libertad,Chepén Province,,,,2020-11-17,-43,,-21,-44,-18,
 PE,Peru,La Libertad,Pacasmayo Province,,,,2020-02-15,16,,14,26,-2,
 PE,Peru,La Libertad,Pacasmayo Province,,,,2020-02-16,0,,0,1,-3,
 PE,Peru,La Libertad,Pacasmayo Province,,,,2020-02-17,-5,,5,9,3,
@@ -19096,6 +19242,8 @@ PE,Peru,La Libertad,Pacasmayo Province,,,,2020-11-12,-29,,-48,-52,-23,17
 PE,Peru,La Libertad,Pacasmayo Province,,,,2020-11-13,-32,,-55,-56,-23,18
 PE,Peru,La Libertad,Pacasmayo Province,,,,2020-11-14,-29,,-51,-57,-14,16
 PE,Peru,La Libertad,Pacasmayo Province,,,,2020-11-15,-39,,-59,-69,-22,
+PE,Peru,La Libertad,Pacasmayo Province,,,,2020-11-16,-34,,-50,-63,-26,17
+PE,Peru,La Libertad,Pacasmayo Province,,,,2020-11-17,-32,,-50,-59,-26,18
 PE,Peru,La Libertad,Pataz Province,,,,2020-03-21,,,-8,,,
 PE,Peru,La Libertad,Pataz Province,,,,2020-03-22,,,-9,,,
 PE,Peru,La Libertad,Pataz Province,,,,2020-03-27,,,-19,,,
@@ -19281,6 +19429,8 @@ PE,Peru,La Libertad,Pataz Province,,,,2020-11-12,,,-29,,-25,
 PE,Peru,La Libertad,Pataz Province,,,,2020-11-13,,,-40,,-20,
 PE,Peru,La Libertad,Pataz Province,,,,2020-11-14,,,-33,,-22,
 PE,Peru,La Libertad,Pataz Province,,,,2020-11-15,,,-33,,-32,
+PE,Peru,La Libertad,Pataz Province,,,,2020-11-16,,,-39,,-33,
+PE,Peru,La Libertad,Pataz Province,,,,2020-11-17,,,-42,,-25,
 PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-02-15,-4,,12,14,,
 PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-02-16,-4,,-1,6,,
 PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-02-17,-4,,,-2,7,
@@ -19531,6 +19681,8 @@ PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-11-12,-23,,10,-46,-3,
 PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-11-13,-33,,-2,-48,-1,
 PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-11-14,-16,,21,-35,7,
 PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-11-15,-33,,0,-43,-7,
+PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-11-16,-24,,,-40,3,
+PE,Peru,La Libertad,Sánchez Carrión Province,,,,2020-11-17,-31,,0,-46,-2,
 PE,Peru,La Libertad,Trujillo,,,,2020-02-15,5,0,4,-4,1,-1
 PE,Peru,La Libertad,Trujillo,,,,2020-02-16,2,1,-1,-1,1,0
 PE,Peru,La Libertad,Trujillo,,,,2020-02-17,0,1,0,1,3,1
@@ -19806,6 +19958,8 @@ PE,Peru,La Libertad,Trujillo,,,,2020-11-12,-36,-16,-27,-37,-31,15
 PE,Peru,La Libertad,Trujillo,,,,2020-11-13,-43,-20,-33,-37,-28,17
 PE,Peru,La Libertad,Trujillo,,,,2020-11-14,-35,-14,-25,-37,-18,12
 PE,Peru,La Libertad,Trujillo,,,,2020-11-15,-50,-29,-39,-59,-24,16
+PE,Peru,La Libertad,Trujillo,,,,2020-11-16,-36,-17,-28,-37,-29,15
+PE,Peru,La Libertad,Trujillo,,,,2020-11-17,-39,-18,-30,-34,-30,15
 PE,Peru,La Libertad,Virú Province,,,,2020-02-15,-4,-1,-7,-30,5,
 PE,Peru,La Libertad,Virú Province,,,,2020-02-16,-9,-2,-10,,4,
 PE,Peru,La Libertad,Virú Province,,,,2020-02-17,-5,0,1,,11,
@@ -20056,6 +20210,8 @@ PE,Peru,La Libertad,Virú Province,,,,2020-11-12,-5,11,-32,,-10,
 PE,Peru,La Libertad,Virú Province,,,,2020-11-13,-11,-1,-34,-38,-12,
 PE,Peru,La Libertad,Virú Province,,,,2020-11-14,-3,5,-26,-39,-6,
 PE,Peru,La Libertad,Virú Province,,,,2020-11-15,-16,0,-33,,-20,
+PE,Peru,La Libertad,Virú Province,,,,2020-11-16,-7,7,-28,,-16,
+PE,Peru,La Libertad,Virú Province,,,,2020-11-17,-3,2,-29,,-10,
 PE,Peru,Lambayeque,,,PE-LAM,,2020-02-15,5,-1,0,-4,-2,0
 PE,Peru,Lambayeque,,,PE-LAM,,2020-02-16,-4,-3,-3,-2,-1,1
 PE,Peru,Lambayeque,,,PE-LAM,,2020-02-17,0,-2,-3,5,1,1
@@ -20331,6 +20487,8 @@ PE,Peru,Lambayeque,,,PE-LAM,,2020-11-12,-42,-17,-33,-48,-27,16
 PE,Peru,Lambayeque,,,PE-LAM,,2020-11-13,-46,-26,-40,-55,-29,18
 PE,Peru,Lambayeque,,,PE-LAM,,2020-11-14,-37,-16,-30,-52,-16,13
 PE,Peru,Lambayeque,,,PE-LAM,,2020-11-15,-53,-33,-42,-61,-25,16
+PE,Peru,Lambayeque,,,PE-LAM,,2020-11-16,-40,-20,-31,-51,-25,15
+PE,Peru,Lambayeque,,,PE-LAM,,2020-11-17,-41,-21,-35,-53,-27,16
 PE,Peru,Lambayeque,Chiclayo,,,,2020-02-15,3,1,2,-5,-1,0
 PE,Peru,Lambayeque,Chiclayo,,,,2020-02-16,-6,-2,-2,-1,0,1
 PE,Peru,Lambayeque,Chiclayo,,,,2020-02-17,-3,-1,-1,3,1,1
@@ -20606,6 +20764,8 @@ PE,Peru,Lambayeque,Chiclayo,,,,2020-11-12,-38,-20,-29,-48,-28,17
 PE,Peru,Lambayeque,Chiclayo,,,,2020-11-13,-43,-25,-39,-57,-29,18
 PE,Peru,Lambayeque,Chiclayo,,,,2020-11-14,-35,-17,-27,-54,-16,13
 PE,Peru,Lambayeque,Chiclayo,,,,2020-11-15,-50,-33,-39,-62,-25,16
+PE,Peru,Lambayeque,Chiclayo,,,,2020-11-16,-39,-21,-33,-52,-25,15
+PE,Peru,Lambayeque,Chiclayo,,,,2020-11-17,-39,-21,-36,-53,-26,16
 PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-02-15,7,,7,,-4,
 PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-02-16,6,,20,,,
 PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-02-17,,,2,,0,
@@ -20856,6 +21016,8 @@ PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-11-12,,,-16,,-20,
 PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-11-13,,,-17,,-25,
 PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-11-14,,,-12,,-18,
 PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-11-15,,,-22,,-24,
+PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-11-16,,,-17,,-26,
+PE,Peru,Lambayeque,Ferreñafe Province,,,,2020-11-17,,,-24,,-24,
 PE,Peru,Lambayeque,Lambayeque Province,,,,2020-02-15,3,-8,-4,7,-1,0
 PE,Peru,Lambayeque,Lambayeque Province,,,,2020-02-16,5,-4,-5,18,-2,1
 PE,Peru,Lambayeque,Lambayeque Province,,,,2020-02-17,6,0,-2,23,2,1
@@ -21131,6 +21293,8 @@ PE,Peru,Lambayeque,Lambayeque Province,,,,2020-11-12,-48,-12,-43,-33,-26,16
 PE,Peru,Lambayeque,Lambayeque Province,,,,2020-11-13,-51,-19,-46,-40,-31,16
 PE,Peru,Lambayeque,Lambayeque Province,,,,2020-11-14,-48,-5,-44,-30,-17,13
 PE,Peru,Lambayeque,Lambayeque Province,,,,2020-11-15,-59,-23,-57,-51,-30,17
+PE,Peru,Lambayeque,Lambayeque Province,,,,2020-11-16,-47,-14,-41,-36,-23,14
+PE,Peru,Lambayeque,Lambayeque Province,,,,2020-11-17,-50,-17,-43,-44,-27,15
 PE,Peru,Lima Region,,,PE-LIM,,2020-02-15,12,3,13,11,0,-1
 PE,Peru,Lima Region,,,PE-LIM,,2020-02-16,11,4,10,12,0,0
 PE,Peru,Lima Region,,,PE-LIM,,2020-02-17,6,1,3,9,1,0
@@ -21406,6 +21570,8 @@ PE,Peru,Lima Region,,,PE-LIM,,2020-11-12,-38,-24,-37,-43,-24,16
 PE,Peru,Lima Region,,,PE-LIM,,2020-11-13,-46,-31,-46,-49,-24,17
 PE,Peru,Lima Region,,,PE-LIM,,2020-11-14,-41,-28,-43,-46,-14,13
 PE,Peru,Lima Region,,,PE-LIM,,2020-11-15,-55,-37,-55,-60,-23,16
+PE,Peru,Lima Region,,,PE-LIM,,2020-11-16,-34,-20,-36,-47,-22,15
+PE,Peru,Lima Region,,,PE-LIM,,2020-11-17,-38,-23,-38,-42,-23,15
 PE,Peru,Lima Region,Barranca Province,,,,2020-02-15,9,6,18,6,-3,-1
 PE,Peru,Lima Region,Barranca Province,,,,2020-02-16,12,-1,7,-1,1,1
 PE,Peru,Lima Region,Barranca Province,,,,2020-02-17,5,2,10,2,-2,1
@@ -21681,6 +21847,8 @@ PE,Peru,Lima Region,Barranca Province,,,,2020-11-12,-35,-15,-39,-45,-25,14
 PE,Peru,Lima Region,Barranca Province,,,,2020-11-13,-36,-23,-48,-45,-22,16
 PE,Peru,Lima Region,Barranca Province,,,,2020-11-14,-41,-20,-42,-50,-14,12
 PE,Peru,Lima Region,Barranca Province,,,,2020-11-15,-49,-36,-58,-54,-23,16
+PE,Peru,Lima Region,Barranca Province,,,,2020-11-16,-33,-18,-36,-39,-22,13
+PE,Peru,Lima Region,Barranca Province,,,,2020-11-17,-34,-21,-39,-37,-24,14
 PE,Peru,Lima Region,Cañete Province,,,,2020-02-15,14,13,16,21,2,-2
 PE,Peru,Lima Region,Cañete Province,,,,2020-02-16,13,9,13,14,-2,0
 PE,Peru,Lima Region,Cañete Province,,,,2020-02-17,10,7,5,8,2,1
@@ -21956,6 +22124,8 @@ PE,Peru,Lima Region,Cañete Province,,,,2020-11-12,-35,-24,-39,-40,-19,21
 PE,Peru,Lima Region,Cañete Province,,,,2020-11-13,-50,-41,-50,-52,-19,23
 PE,Peru,Lima Region,Cañete Province,,,,2020-11-14,-45,-36,-52,-49,-11,17
 PE,Peru,Lima Region,Cañete Province,,,,2020-11-15,-59,-37,-63,-61,-21,21
+PE,Peru,Lima Region,Cañete Province,,,,2020-11-16,-30,-16,-35,-41,-18,21
+PE,Peru,Lima Region,Cañete Province,,,,2020-11-17,-33,-16,-37,-38,-19,19
 PE,Peru,Lima Region,Huaral Province,,,,2020-02-15,8,7,7,22,2,-1
 PE,Peru,Lima Region,Huaral Province,,,,2020-02-16,10,8,3,35,2,0
 PE,Peru,Lima Region,Huaral Province,,,,2020-02-17,1,7,-2,32,1,0
@@ -22231,6 +22401,8 @@ PE,Peru,Lima Region,Huaral Province,,,,2020-11-12,-33,-15,-41,-60,-23,15
 PE,Peru,Lima Region,Huaral Province,,,,2020-11-13,-39,-21,-48,-61,-24,16
 PE,Peru,Lima Region,Huaral Province,,,,2020-11-14,-32,-20,-42,-61,-14,13
 PE,Peru,Lima Region,Huaral Province,,,,2020-11-15,-52,-38,-56,-71,-19,15
+PE,Peru,Lima Region,Huaral Province,,,,2020-11-16,-30,-16,-41,-56,-19,15
+PE,Peru,Lima Region,Huaral Province,,,,2020-11-17,-36,-23,-41,-59,-20,14
 PE,Peru,Lima Region,Huarochirí Province,,,,2020-02-15,-1,,7,-22,,
 PE,Peru,Lima Region,Huarochirí Province,,,,2020-02-16,2,,-4,-11,,
 PE,Peru,Lima Region,Huarochirí Province,,,,2020-02-17,-3,,4,-7,4,
@@ -22481,6 +22653,8 @@ PE,Peru,Lima Region,Huarochirí Province,,,,2020-11-12,-45,,3,-25,-24,
 PE,Peru,Lima Region,Huarochirí Province,,,,2020-11-13,-56,,-20,-33,-21,
 PE,Peru,Lima Region,Huarochirí Province,,,,2020-11-14,-40,,-6,-15,-12,
 PE,Peru,Lima Region,Huarochirí Province,,,,2020-11-15,-53,,-24,-25,-15,
+PE,Peru,Lima Region,Huarochirí Province,,,,2020-11-16,-49,,4,-32,-19,
+PE,Peru,Lima Region,Huarochirí Province,,,,2020-11-17,-51,,1,-29,-22,
 PE,Peru,Lima Region,Huaura Province,,,,2020-02-15,7,5,12,3,2,0
 PE,Peru,Lima Region,Huaura Province,,,,2020-02-16,4,3,6,5,1,1
 PE,Peru,Lima Region,Huaura Province,,,,2020-02-17,1,0,3,3,1,0
@@ -22756,6 +22930,8 @@ PE,Peru,Lima Region,Huaura Province,,,,2020-11-12,-40,-35,-39,-46,-24,14
 PE,Peru,Lima Region,Huaura Province,,,,2020-11-13,-45,-36,-47,-44,-24,16
 PE,Peru,Lima Region,Huaura Province,,,,2020-11-14,-40,-31,-40,-41,-11,12
 PE,Peru,Lima Region,Huaura Province,,,,2020-11-15,-52,-40,-54,-57,-19,16
+PE,Peru,Lima Region,Huaura Province,,,,2020-11-16,-39,-31,-40,-49,-22,15
+PE,Peru,Lima Region,Huaura Province,,,,2020-11-17,-41,-34,-42,-40,-22,14
 PE,Peru,Lima Region,Oyón Province,,,,2020-02-15,,,5,,,
 PE,Peru,Lima Region,Oyón Province,,,,2020-02-16,,,16,,,
 PE,Peru,Lima Region,Oyón Province,,,,2020-02-17,,,17,,,
@@ -22980,6 +23156,8 @@ PE,Peru,Lima Region,Oyón Province,,,,2020-11-12,,,-68,,,
 PE,Peru,Lima Region,Oyón Province,,,,2020-11-13,,,-60,,,
 PE,Peru,Lima Region,Oyón Province,,,,2020-11-14,,,-68,,,
 PE,Peru,Lima Region,Oyón Province,,,,2020-11-15,,,-62,,,
+PE,Peru,Lima Region,Oyón Province,,,,2020-11-16,,,-58,,,
+PE,Peru,Lima Region,Oyón Province,,,,2020-11-17,,,-59,,,
 PE,Peru,Loreto,,,PE-LOR,,2020-02-15,-5,-7,-5,-1,-1,0
 PE,Peru,Loreto,,,PE-LOR,,2020-02-16,-9,-2,-6,3,1,0
 PE,Peru,Loreto,,,PE-LOR,,2020-02-17,-7,-2,-6,0,0,0
@@ -23255,6 +23433,8 @@ PE,Peru,Loreto,,,PE-LOR,,2020-11-12,-16,-4,-28,-23,-17,10
 PE,Peru,Loreto,,,PE-LOR,,2020-11-13,-21,-1,-30,-19,-11,9
 PE,Peru,Loreto,,,PE-LOR,,2020-11-14,-17,7,-22,-16,-9,5
 PE,Peru,Loreto,,,PE-LOR,,2020-11-15,-34,-14,-33,-30,-16,9
+PE,Peru,Loreto,,,PE-LOR,,2020-11-16,-21,-1,-25,-18,-14,9
+PE,Peru,Loreto,,,PE-LOR,,2020-11-17,-21,-5,-29,-23,-15,8
 PE,Peru,Loreto,Alto Amazonas Province,,,,2020-02-15,-7,,8,-10,6,
 PE,Peru,Loreto,Alto Amazonas Province,,,,2020-02-16,6,,-8,,1,
 PE,Peru,Loreto,Alto Amazonas Province,,,,2020-02-17,-4,,0,,1,
@@ -23505,6 +23685,8 @@ PE,Peru,Loreto,Alto Amazonas Province,,,,2020-11-12,,,-26,-23,-15,9
 PE,Peru,Loreto,Alto Amazonas Province,,,,2020-11-13,,,-27,-27,-17,7
 PE,Peru,Loreto,Alto Amazonas Province,,,,2020-11-14,,,-18,-30,-9,
 PE,Peru,Loreto,Alto Amazonas Province,,,,2020-11-15,,,-35,-40,-18,
+PE,Peru,Loreto,Alto Amazonas Province,,,,2020-11-16,,,-31,-24,-13,8
+PE,Peru,Loreto,Alto Amazonas Province,,,,2020-11-17,,,-28,-26,-17,7
 PE,Peru,Loreto,Maynas Province,,,,2020-02-15,-5,-8,-10,-1,2,1
 PE,Peru,Loreto,Maynas Province,,,,2020-02-16,-11,-5,-5,3,3,-1
 PE,Peru,Loreto,Maynas Province,,,,2020-02-17,-6,-3,-7,0,1,0
@@ -23780,6 +23962,8 @@ PE,Peru,Loreto,Maynas Province,,,,2020-11-12,-24,-12,-32,-22,-17,12
 PE,Peru,Loreto,Maynas Province,,,,2020-11-13,-30,-10,-35,-15,-8,11
 PE,Peru,Loreto,Maynas Province,,,,2020-11-14,-24,-3,-28,-14,-4,6
 PE,Peru,Loreto,Maynas Province,,,,2020-11-15,-39,-20,-37,-26,-11,10
+PE,Peru,Loreto,Maynas Province,,,,2020-11-16,-28,-7,-26,-16,-13,10
+PE,Peru,Loreto,Maynas Province,,,,2020-11-17,-28,-11,-32,-22,-14,10
 PE,Peru,Madre de Dios,,,PE-MDD,,2020-02-15,-4,-1,2,7,-1,
 PE,Peru,Madre de Dios,,,PE-MDD,,2020-02-16,-10,-3,-7,3,0,
 PE,Peru,Madre de Dios,,,PE-MDD,,2020-02-17,-5,-1,-8,-13,3,1
@@ -24030,6 +24214,8 @@ PE,Peru,Madre de Dios,,,PE-MDD,,2020-11-12,-8,-3,-27,-20,-14,9
 PE,Peru,Madre de Dios,,,PE-MDD,,2020-11-13,-21,-6,-33,-36,-14,10
 PE,Peru,Madre de Dios,,,PE-MDD,,2020-11-14,-10,5,-22,-18,-10,5
 PE,Peru,Madre de Dios,,,PE-MDD,,2020-11-15,-36,-45,-32,-54,-27,
+PE,Peru,Madre de Dios,,,PE-MDD,,2020-11-16,-11,-7,-28,-29,-14,8
+PE,Peru,Madre de Dios,,,PE-MDD,,2020-11-17,-5,-5,-26,-34,-15,7
 PE,Peru,Madre de Dios,Tambopata,,,,2020-02-15,-1,-1,4,8,-1,-2
 PE,Peru,Madre de Dios,Tambopata,,,,2020-02-16,-8,-4,-10,3,1,0
 PE,Peru,Madre de Dios,Tambopata,,,,2020-02-17,-5,-2,-10,-7,5,1
@@ -24302,6 +24488,8 @@ PE,Peru,Madre de Dios,Tambopata,,,,2020-11-12,-11,-2,-35,-29,-12,10
 PE,Peru,Madre de Dios,Tambopata,,,,2020-11-13,-19,-1,-42,-37,-11,12
 PE,Peru,Madre de Dios,Tambopata,,,,2020-11-14,-8,5,-31,-21,-11,6
 PE,Peru,Madre de Dios,Tambopata,,,,2020-11-15,-38,-38,-42,-58,-29,13
+PE,Peru,Madre de Dios,Tambopata,,,,2020-11-16,-8,-3,-38,-31,-13,9
+PE,Peru,Madre de Dios,Tambopata,,,,2020-11-17,-9,-3,-36,-39,-13,8
 PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-02-15,2,1,1,2,0,-1
 PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-02-16,1,1,-2,1,0,0
 PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-02-17,1,1,1,1,1,0
@@ -24577,6 +24765,8 @@ PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-11-12,-41,-21,-30,-41,-
 PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-11-13,-46,-24,-42,-45,-35,21
 PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-11-14,-34,-13,-27,-29,-17,12
 PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-11-15,-52,-31,-43,-48,-21,17
+PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-11-16,-39,-21,-33,-42,-35,18
+PE,Peru,Metropolitan Municipality of Lima,,,PE-LMA,,2020-11-17,-41,-22,-35,-43,-36,19
 PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-02-15,3,1,1,3,0,-1
 PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-02-16,1,-1,-2,2,0,0
 PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-02-17,1,1,1,1,1,0
@@ -24852,6 +25042,8 @@ PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-11-12,-41,-21,-3
 PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-11-13,-46,-24,-42,-44,-35,21
 PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-11-14,-34,-13,-26,-28,-17,12
 PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-11-15,-52,-33,-43,-47,-21,17
+PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-11-16,-39,-21,-33,-42,-35,18
+PE,Peru,Metropolitan Municipality of Lima,Lima Province,,,,2020-11-17,-41,-22,-34,-43,-36,19
 PE,Peru,Moquegua,,,PE-MOQ,,2020-02-15,9,4,8,4,3,-1
 PE,Peru,Moquegua,,,PE-MOQ,,2020-02-16,10,5,-3,15,2,1
 PE,Peru,Moquegua,,,PE-MOQ,,2020-02-17,5,1,-3,8,2,1
@@ -25127,6 +25319,8 @@ PE,Peru,Moquegua,,,PE-MOQ,,2020-11-12,-33,-21,-43,-54,-21,18
 PE,Peru,Moquegua,,,PE-MOQ,,2020-11-13,-34,-32,-51,-59,-22,20
 PE,Peru,Moquegua,,,PE-MOQ,,2020-11-14,-31,-13,-43,-54,-14,14
 PE,Peru,Moquegua,,,PE-MOQ,,2020-11-15,-62,-63,-63,-72,-36,24
+PE,Peru,Moquegua,,,PE-MOQ,,2020-11-16,-33,-12,-49,-57,-23,18
+PE,Peru,Moquegua,,,PE-MOQ,,2020-11-17,-35,-25,-50,-58,-24,19
 PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-02-15,5,-2,6,1,6,-2
 PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-02-16,2,0,-8,15,2,2
 PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-02-17,2,-3,-7,4,5,0
@@ -25402,6 +25596,8 @@ PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-11-12,-41,-25,-44,-65,-19,17
 PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-11-13,-40,-35,-46,-66,-17,17
 PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-11-14,-35,-15,-31,-57,-8,11
 PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-11-15,-72,-73,-61,-78,-39,26
+PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-11-16,-36,-25,-46,-63,-19,16
+PE,Peru,Moquegua,Mariscal Nieto Province,,,,2020-11-17,-45,-30,-48,-62,-20,18
 PE,Peru,Moquegua,Province of Ilo,,,,2020-02-15,10,8,-1,8,5,-2
 PE,Peru,Moquegua,Province of Ilo,,,,2020-02-16,14,6,-4,19,3,
 PE,Peru,Moquegua,Province of Ilo,,,,2020-02-17,3,6,-15,11,6,1
@@ -25677,6 +25873,8 @@ PE,Peru,Moquegua,Province of Ilo,,,,2020-11-12,-23,-16,-43,-45,-23,18
 PE,Peru,Moquegua,Province of Ilo,,,,2020-11-13,-30,-26,-53,-51,-23,20
 PE,Peru,Moquegua,Province of Ilo,,,,2020-11-14,-26,-13,-51,-50,-14,15
 PE,Peru,Moquegua,Province of Ilo,,,,2020-11-15,-54,-52,-63,-65,-29,24
+PE,Peru,Moquegua,Province of Ilo,,,,2020-11-16,-33,0,-53,-49,-22,19
+PE,Peru,Moquegua,Province of Ilo,,,,2020-11-17,-26,-21,-52,-54,-24,19
 PE,Peru,Pasco,,,PE-PAS,,2020-02-15,-5,-5,-5,,0,
 PE,Peru,Pasco,,,PE-PAS,,2020-02-16,-21,,-9,,-2,
 PE,Peru,Pasco,,,PE-PAS,,2020-02-17,-9,0,-5,,1,
@@ -25927,6 +26125,8 @@ PE,Peru,Pasco,,,PE-PAS,,2020-11-12,-8,,-26,,-8,20
 PE,Peru,Pasco,,,PE-PAS,,2020-11-13,-13,,-31,,-7,19
 PE,Peru,Pasco,,,PE-PAS,,2020-11-14,1,,-20,,-2,
 PE,Peru,Pasco,,,PE-PAS,,2020-11-15,-25,,-27,,-9,
+PE,Peru,Pasco,,,PE-PAS,,2020-11-16,-1,,-28,,-6,19
+PE,Peru,Pasco,,,PE-PAS,,2020-11-17,-11,,-31,,-8,19
 PE,Peru,Pasco,Oxapampa Province,,,,2020-02-15,-4,,1,,-2,
 PE,Peru,Pasco,Oxapampa Province,,,,2020-02-16,-17,,-9,,,
 PE,Peru,Pasco,Oxapampa Province,,,,2020-02-17,-11,,-3,0,-1,
@@ -26177,6 +26377,8 @@ PE,Peru,Pasco,Oxapampa Province,,,,2020-11-12,,,-9,-7,3,
 PE,Peru,Pasco,Oxapampa Province,,,,2020-11-13,,,-11,-15,6,
 PE,Peru,Pasco,Oxapampa Province,,,,2020-11-14,,,-3,,0,
 PE,Peru,Pasco,Oxapampa Province,,,,2020-11-15,,,-11,,-11,
+PE,Peru,Pasco,Oxapampa Province,,,,2020-11-16,,,-10,-10,3,
+PE,Peru,Pasco,Oxapampa Province,,,,2020-11-17,,,-14,-21,0,
 PE,Peru,Pasco,Pasco Province,,,,2020-02-15,-6,,-12,,0,
 PE,Peru,Pasco,Pasco Province,,,,2020-02-16,-18,,-10,,-1,
 PE,Peru,Pasco,Pasco Province,,,,2020-02-17,-6,,-10,,3,-1
@@ -26427,6 +26629,8 @@ PE,Peru,Pasco,Pasco Province,,,,2020-11-12,-6,,-44,,-12,27
 PE,Peru,Pasco,Pasco Province,,,,2020-11-13,-12,,-48,,-8,27
 PE,Peru,Pasco,Pasco Province,,,,2020-11-14,3,,-38,,-2,23
 PE,Peru,Pasco,Pasco Province,,,,2020-11-15,-29,,-45,,-9,
+PE,Peru,Pasco,Pasco Province,,,,2020-11-16,7,,-46,,-9,24
+PE,Peru,Pasco,Pasco Province,,,,2020-11-17,-6,,-47,,-7,26
 PE,Peru,Piura,,,PE-PIU,,2020-02-15,2,-1,0,4,-1,-1
 PE,Peru,Piura,,,PE-PIU,,2020-02-16,-1,-3,-2,5,0,0
 PE,Peru,Piura,,,PE-PIU,,2020-02-17,-1,-2,-1,3,1,0
@@ -26702,6 +26906,8 @@ PE,Peru,Piura,,,PE-PIU,,2020-11-12,-38,-22,-30,-41,-24,16
 PE,Peru,Piura,,,PE-PIU,,2020-11-13,-41,-21,-35,-41,-22,17
 PE,Peru,Piura,,,PE-PIU,,2020-11-14,-33,-18,-23,-34,-7,12
 PE,Peru,Piura,,,PE-PIU,,2020-11-15,-46,-32,-35,-46,-18,16
+PE,Peru,Piura,,,PE-PIU,,2020-11-16,-35,-20,-26,-37,-21,15
+PE,Peru,Piura,,,PE-PIU,,2020-11-17,-38,-21,-31,-38,-23,15
 PE,Peru,Piura,Huancabamba Province,,,,2020-02-15,,,-1,,,
 PE,Peru,Piura,Huancabamba Province,,,,2020-02-16,,,-8,,,
 PE,Peru,Piura,Huancabamba Province,,,,2020-02-17,,,-8,,,
@@ -26952,6 +27158,8 @@ PE,Peru,Piura,Huancabamba Province,,,,2020-11-12,,,-5,,,
 PE,Peru,Piura,Huancabamba Province,,,,2020-11-13,,,17,,,
 PE,Peru,Piura,Huancabamba Province,,,,2020-11-14,,,12,,,
 PE,Peru,Piura,Huancabamba Province,,,,2020-11-15,,,1,,,
+PE,Peru,Piura,Huancabamba Province,,,,2020-11-16,,,9,,,
+PE,Peru,Piura,Huancabamba Province,,,,2020-11-17,,,2,,,
 PE,Peru,Piura,Morropón Province,,,,2020-02-15,3,,-15,,-4,
 PE,Peru,Piura,Morropón Province,,,,2020-02-16,-4,,-7,,-7,
 PE,Peru,Piura,Morropón Province,,,,2020-02-17,-5,,-3,-12,-2,
@@ -27202,6 +27410,8 @@ PE,Peru,Piura,Morropón Province,,,,2020-11-12,-45,,-16,,-18,
 PE,Peru,Piura,Morropón Province,,,,2020-11-13,-42,,-18,-30,-11,
 PE,Peru,Piura,Morropón Province,,,,2020-11-14,-36,,-12,,-12,
 PE,Peru,Piura,Morropón Province,,,,2020-11-15,-45,,-12,-41,-25,
+PE,Peru,Piura,Morropón Province,,,,2020-11-16,-43,,-16,-34,-15,
+PE,Peru,Piura,Morropón Province,,,,2020-11-17,-43,,-17,-36,-14,
 PE,Peru,Piura,Paita Province,,,,2020-02-15,10,,8,,-3,0
 PE,Peru,Piura,Paita Province,,,,2020-02-16,1,,4,,-3,
 PE,Peru,Piura,Paita Province,,,,2020-02-17,3,,9,,3,1
@@ -27461,6 +27671,8 @@ PE,Peru,Piura,Paita Province,,,,2020-11-12,-19,,-23,,-15,16
 PE,Peru,Piura,Paita Province,,,,2020-11-13,-23,,-28,,-15,17
 PE,Peru,Piura,Paita Province,,,,2020-11-14,-17,,-20,,-6,13
 PE,Peru,Piura,Paita Province,,,,2020-11-15,-36,,-35,,-13,18
+PE,Peru,Piura,Paita Province,,,,2020-11-16,,,-7,,-12,14
+PE,Peru,Piura,Paita Province,,,,2020-11-17,-20,,-13,,-13,14
 PE,Peru,Piura,Piura,,,,2020-02-15,0,-4,0,4,-2,-1
 PE,Peru,Piura,Piura,,,,2020-02-16,0,-5,-4,8,1,0
 PE,Peru,Piura,Piura,,,,2020-02-17,-1,-5,-2,4,1,0
@@ -27736,6 +27948,8 @@ PE,Peru,Piura,Piura,,,,2020-11-12,-38,-26,-32,-46,-29,16
 PE,Peru,Piura,Piura,,,,2020-11-13,-42,-29,-39,-44,-27,18
 PE,Peru,Piura,Piura,,,,2020-11-14,-32,-21,-23,-39,-12,11
 PE,Peru,Piura,Piura,,,,2020-11-15,-46,-39,-36,-49,-21,16
+PE,Peru,Piura,Piura,,,,2020-11-16,-36,-26,-28,-40,-27,15
+PE,Peru,Piura,Piura,,,,2020-11-17,-40,-25,-37,-43,-28,15
 PE,Peru,Piura,Sechura Province,,,,2020-02-15,,,-3,-1,,
 PE,Peru,Piura,Sechura Province,,,,2020-02-16,,,2,6,,
 PE,Peru,Piura,Sechura Province,,,,2020-02-17,,,-1,6,0,
@@ -27986,6 +28200,8 @@ PE,Peru,Piura,Sechura Province,,,,2020-11-12,,,-38,-77,-12,
 PE,Peru,Piura,Sechura Province,,,,2020-11-13,,,-39,-71,-9,
 PE,Peru,Piura,Sechura Province,,,,2020-11-14,,,-34,-75,-9,
 PE,Peru,Piura,Sechura Province,,,,2020-11-15,,,-43,-73,-19,
+PE,Peru,Piura,Sechura Province,,,,2020-11-16,,,-37,-71,-18,
+PE,Peru,Piura,Sechura Province,,,,2020-11-17,,,-33,-74,-12,
 PE,Peru,Piura,Sullana Province,,,,2020-02-15,5,-7,0,9,-2,-1
 PE,Peru,Piura,Sullana Province,,,,2020-02-16,0,-3,-2,-3,0,-1
 PE,Peru,Piura,Sullana Province,,,,2020-02-17,0,-7,-2,7,1,1
@@ -28261,6 +28477,8 @@ PE,Peru,Piura,Sullana Province,,,,2020-11-12,-32,-6,-30,-38,-15,16
 PE,Peru,Piura,Sullana Province,,,,2020-11-13,-34,-14,-38,-43,-15,17
 PE,Peru,Piura,Sullana Province,,,,2020-11-14,-27,-7,-25,-38,-6,11
 PE,Peru,Piura,Sullana Province,,,,2020-11-15,-41,-16,-37,-48,-15,13
+PE,Peru,Piura,Sullana Province,,,,2020-11-16,-26,-6,-31,-36,-15,14
+PE,Peru,Piura,Sullana Province,,,,2020-11-17,-31,-12,-31,-37,-16,14
 PE,Peru,Piura,Talara Province,,,,2020-02-15,4,10,7,10,3,0
 PE,Peru,Piura,Talara Province,,,,2020-02-16,5,3,4,9,-1,0
 PE,Peru,Piura,Talara Province,,,,2020-02-17,2,3,2,10,7,0
@@ -28536,6 +28754,8 @@ PE,Peru,Piura,Talara Province,,,,2020-11-12,-42,-23,-43,-37,-26,18
 PE,Peru,Piura,Talara Province,,,,2020-11-13,-46,-16,-45,-37,-22,20
 PE,Peru,Piura,Talara Province,,,,2020-11-14,-38,-11,-35,-24,-6,15
 PE,Peru,Piura,Talara Province,,,,2020-11-15,-49,-30,-51,-40,-16,18
+PE,Peru,Piura,Talara Province,,,,2020-11-16,-39,-18,-35,-28,-18,17
+PE,Peru,Piura,Talara Province,,,,2020-11-17,-43,-21,-39,-29,-23,17
 PE,Peru,Puno,,,PE-PUN,,2020-02-15,-5,-1,-4,5,0,1
 PE,Peru,Puno,,,PE-PUN,,2020-02-16,-13,-8,-15,-11,-4,0
 PE,Peru,Puno,,,PE-PUN,,2020-02-17,-5,-2,-7,1,-1,1
@@ -28811,6 +29031,8 @@ PE,Peru,Puno,,,PE-PUN,,2020-11-12,-27,-11,-27,-39,-17,17
 PE,Peru,Puno,,,PE-PUN,,2020-11-13,-34,-15,-31,-44,-16,19
 PE,Peru,Puno,,,PE-PUN,,2020-11-14,-22,-3,-19,-39,-4,13
 PE,Peru,Puno,,,PE-PUN,,2020-11-15,-47,-36,-40,-51,-27,10
+PE,Peru,Puno,,,PE-PUN,,2020-11-16,-25,-12,-23,-39,-15,15
+PE,Peru,Puno,,,PE-PUN,,2020-11-17,-32,-16,-27,-43,-17,17
 PE,Peru,Puno,Azángaro Province,,,,2020-02-15,,,-19,,,
 PE,Peru,Puno,Azángaro Province,,,,2020-02-16,,,-6,,,
 PE,Peru,Puno,Azángaro Province,,,,2020-02-17,,,-20,,,
@@ -29061,6 +29283,8 @@ PE,Peru,Puno,Azángaro Province,,,,2020-11-12,,,-25,,-2,
 PE,Peru,Puno,Azángaro Province,,,,2020-11-13,,,-40,,-4,
 PE,Peru,Puno,Azángaro Province,,,,2020-11-14,,,-27,,,
 PE,Peru,Puno,Azángaro Province,,,,2020-11-15,,,-27,,-9,
+PE,Peru,Puno,Azángaro Province,,,,2020-11-16,,,-31,,-1,
+PE,Peru,Puno,Azángaro Province,,,,2020-11-17,,,-22,,2,
 PE,Peru,Puno,Chucuito Province,,,,2020-02-15,,,4,,,
 PE,Peru,Puno,Chucuito Province,,,,2020-02-16,,,1,,,
 PE,Peru,Puno,Chucuito Province,,,,2020-02-17,,,-9,,,
@@ -29311,6 +29535,8 @@ PE,Peru,Puno,Chucuito Province,,,,2020-11-12,,,-25,,-6,
 PE,Peru,Puno,Chucuito Province,,,,2020-11-13,,,-49,-32,-1,
 PE,Peru,Puno,Chucuito Province,,,,2020-11-14,,,-22,,,
 PE,Peru,Puno,Chucuito Province,,,,2020-11-15,,,-40,,,
+PE,Peru,Puno,Chucuito Province,,,,2020-11-16,,,-31,,,
+PE,Peru,Puno,Chucuito Province,,,,2020-11-17,,,-41,,-4,
 PE,Peru,Puno,El Collao Province,,,,2020-02-15,,,0,,,
 PE,Peru,Puno,El Collao Province,,,,2020-02-16,,,2,,,
 PE,Peru,Puno,El Collao Province,,,,2020-02-17,,,-12,,,
@@ -29561,6 +29787,8 @@ PE,Peru,Puno,El Collao Province,,,,2020-11-12,,,-18,,-1,
 PE,Peru,Puno,El Collao Province,,,,2020-11-13,,,-21,,1,
 PE,Peru,Puno,El Collao Province,,,,2020-11-14,,,19,,,
 PE,Peru,Puno,El Collao Province,,,,2020-11-15,,,-63,,-37,
+PE,Peru,Puno,El Collao Province,,,,2020-11-16,,,-19,,-6,
+PE,Peru,Puno,El Collao Province,,,,2020-11-17,,,-26,,1,
 PE,Peru,Puno,Melgar Province,,,,2020-02-15,,,4,,,
 PE,Peru,Puno,Melgar Province,,,,2020-02-16,,,-4,,,
 PE,Peru,Puno,Melgar Province,,,,2020-02-17,,,-7,,,
@@ -29811,6 +30039,8 @@ PE,Peru,Puno,Melgar Province,,,,2020-11-12,,,-37,,-7,
 PE,Peru,Puno,Melgar Province,,,,2020-11-13,,,-38,,9,
 PE,Peru,Puno,Melgar Province,,,,2020-11-14,,,-24,,,
 PE,Peru,Puno,Melgar Province,,,,2020-11-15,,,-36,,-12,
+PE,Peru,Puno,Melgar Province,,,,2020-11-16,,,-35,,-4,
+PE,Peru,Puno,Melgar Province,,,,2020-11-17,,,-43,,0,
 PE,Peru,Puno,Puno,,,,2020-02-15,-4,3,3,25,2,1
 PE,Peru,Puno,Puno,,,,2020-02-16,-28,-17,-37,-24,-10,1
 PE,Peru,Puno,Puno,,,,2020-02-17,-9,-6,-7,6,-3,2
@@ -30086,6 +30316,8 @@ PE,Peru,Puno,Puno,,,,2020-11-12,-52,-15,-34,-45,-27,20
 PE,Peru,Puno,Puno,,,,2020-11-13,-60,-20,-40,-51,-27,23
 PE,Peru,Puno,Puno,,,,2020-11-14,-45,-5,-26,-49,-13,13
 PE,Peru,Puno,Puno,,,,2020-11-15,-69,-45,-50,-66,-32,20
+PE,Peru,Puno,Puno,,,,2020-11-16,-62,-20,-34,-45,-26,17
+PE,Peru,Puno,Puno,,,,2020-11-17,-62,-24,-34,-51,-28,19
 PE,Peru,Puno,San Roman,,,,2020-02-15,-4,-2,0,-6,0,1
 PE,Peru,Puno,San Roman,,,,2020-02-16,-2,-3,-5,-8,1,0
 PE,Peru,Puno,San Roman,,,,2020-02-17,-2,-1,-6,5,2,0
@@ -30361,6 +30593,8 @@ PE,Peru,Puno,San Roman,,,,2020-11-12,-14,-10,-26,-39,-16,16
 PE,Peru,Puno,San Roman,,,,2020-11-13,-22,-14,-31,-44,-16,18
 PE,Peru,Puno,San Roman,,,,2020-11-14,-12,-3,-17,-38,-5,13
 PE,Peru,Puno,San Roman,,,,2020-11-15,-38,-32,-37,-47,-31,2
+PE,Peru,Puno,San Roman,,,,2020-11-16,-11,-11,-19,-35,-13,13
+PE,Peru,Puno,San Roman,,,,2020-11-17,-18,-12,-28,-43,-16,16
 PE,Peru,Puno,Yunguyo Province,,,,2020-02-15,,,-29,,,
 PE,Peru,Puno,Yunguyo Province,,,,2020-02-16,,,-25,,,
 PE,Peru,Puno,Yunguyo Province,,,,2020-02-17,,,-20,,,
@@ -30609,6 +30843,8 @@ PE,Peru,Puno,Yunguyo Province,,,,2020-11-12,,,-48,,,
 PE,Peru,Puno,Yunguyo Province,,,,2020-11-13,,,-47,,,
 PE,Peru,Puno,Yunguyo Province,,,,2020-11-14,,,-35,,,
 PE,Peru,Puno,Yunguyo Province,,,,2020-11-15,,,-67,,,
+PE,Peru,Puno,Yunguyo Province,,,,2020-11-16,,,-45,,,
+PE,Peru,Puno,Yunguyo Province,,,,2020-11-17,,,-40,,,
 PE,Peru,San Martin,,,PE-SAM,,2020-02-15,7,-5,1,2,-1,-1
 PE,Peru,San Martin,,,PE-SAM,,2020-02-16,-2,-5,-4,-4,1,1
 PE,Peru,San Martin,,,PE-SAM,,2020-02-17,-2,-3,-2,0,3,0
@@ -30884,6 +31120,8 @@ PE,Peru,San Martin,,,PE-SAM,,2020-11-12,-25,-2,-24,-39,-17,9
 PE,Peru,San Martin,,,PE-SAM,,2020-11-13,-27,-6,-28,-39,-19,9
 PE,Peru,San Martin,,,PE-SAM,,2020-11-14,-21,1,-18,-36,-14,4
 PE,Peru,San Martin,,,PE-SAM,,2020-11-15,-45,-24,-29,-45,-24,10
+PE,Peru,San Martin,,,PE-SAM,,2020-11-16,-23,-2,-25,-38,-16,8
+PE,Peru,San Martin,,,PE-SAM,,2020-11-17,-25,-7,-30,-43,-19,8
 PE,Peru,San Martin,Lamas Province,,,,2020-02-15,,,-1,,,
 PE,Peru,San Martin,Lamas Province,,,,2020-02-16,,,0,,,
 PE,Peru,San Martin,Lamas Province,,,,2020-02-17,,,-4,,,
@@ -31134,6 +31372,8 @@ PE,Peru,San Martin,Lamas Province,,,,2020-11-12,,,-28,,-13,
 PE,Peru,San Martin,Lamas Province,,,,2020-11-13,,,-27,,-20,
 PE,Peru,San Martin,Lamas Province,,,,2020-11-14,,,-20,,-5,
 PE,Peru,San Martin,Lamas Province,,,,2020-11-15,,,-34,,,
+PE,Peru,San Martin,Lamas Province,,,,2020-11-16,,,-32,,-14,
+PE,Peru,San Martin,Lamas Province,,,,2020-11-17,,,-38,,-18,
 PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-02-15,,,14,-3,,
 PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-02-16,,,-20,-19,,
 PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-02-17,,,-22,-12,,
@@ -31382,6 +31622,8 @@ PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-11-12,,,-13,-42,-14,
 PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-11-13,,,-21,-38,-7,
 PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-11-14,,,-3,-45,-6,
 PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-11-15,,,-27,-48,-17,
+PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-11-16,,,-9,-42,-5,
+PE,Peru,San Martin,Mariscal Cáceres Province,,,,2020-11-17,,,-22,-40,-10,
 PE,Peru,San Martin,Moyobamba Province,,,,2020-02-15,-5,-10,-7,7,3,
 PE,Peru,San Martin,Moyobamba Province,,,,2020-02-16,-12,-9,-10,0,4,
 PE,Peru,San Martin,Moyobamba Province,,,,2020-02-17,-2,-7,-4,5,6,2
@@ -31642,6 +31884,8 @@ PE,Peru,San Martin,Moyobamba Province,,,,2020-11-12,-19,-16,-24,-38,-7,11
 PE,Peru,San Martin,Moyobamba Province,,,,2020-11-13,-25,-20,-29,-42,-11,11
 PE,Peru,San Martin,Moyobamba Province,,,,2020-11-14,-19,-12,-21,-31,-5,5
 PE,Peru,San Martin,Moyobamba Province,,,,2020-11-15,-41,-37,-36,-43,-22,
+PE,Peru,San Martin,Moyobamba Province,,,,2020-11-16,-20,-20,-30,-41,-8,13
+PE,Peru,San Martin,Moyobamba Province,,,,2020-11-17,-23,-20,-31,-38,-12,10
 PE,Peru,San Martin,Province of Bellavista,,,,2020-02-15,,,-6,,,
 PE,Peru,San Martin,Province of Bellavista,,,,2020-02-16,,,-7,,,
 PE,Peru,San Martin,Province of Bellavista,,,,2020-02-17,,,-4,,,
@@ -31892,6 +32136,8 @@ PE,Peru,San Martin,Province of Bellavista,,,,2020-11-12,,,-28,,-19,
 PE,Peru,San Martin,Province of Bellavista,,,,2020-11-13,,,-32,,-12,
 PE,Peru,San Martin,Province of Bellavista,,,,2020-11-14,,,-27,,,
 PE,Peru,San Martin,Province of Bellavista,,,,2020-11-15,,,-33,,,
+PE,Peru,San Martin,Province of Bellavista,,,,2020-11-16,,,-28,,-19,
+PE,Peru,San Martin,Province of Bellavista,,,,2020-11-17,,,-27,,-18,
 PE,Peru,San Martin,Rioja Province,,,,2020-02-15,-1,,2,-8,4,
 PE,Peru,San Martin,Rioja Province,,,,2020-02-16,-6,,0,-9,-3,
 PE,Peru,San Martin,Rioja Province,,,,2020-02-17,-7,,2,-18,5,
@@ -32142,6 +32388,8 @@ PE,Peru,San Martin,Rioja Province,,,,2020-11-12,-17,,-34,-40,-17,
 PE,Peru,San Martin,Rioja Province,,,,2020-11-13,-20,,-40,-39,-18,
 PE,Peru,San Martin,Rioja Province,,,,2020-11-14,-17,,-30,-41,-15,
 PE,Peru,San Martin,Rioja Province,,,,2020-11-15,-31,,-42,-50,-23,
+PE,Peru,San Martin,Rioja Province,,,,2020-11-16,-11,,-35,-47,-15,
+PE,Peru,San Martin,Rioja Province,,,,2020-11-17,-14,,-37,-37,-21,
 PE,Peru,San Martin,San Martin,,,,2020-02-15,11,-5,7,7,-4,-1
 PE,Peru,San Martin,San Martin,,,,2020-02-16,3,-2,1,4,0,0
 PE,Peru,San Martin,San Martin,,,,2020-02-17,-2,-2,1,5,4,0
@@ -32417,6 +32665,8 @@ PE,Peru,San Martin,San Martin,,,,2020-11-12,-29,-4,-25,-40,-19,10
 PE,Peru,San Martin,San Martin,,,,2020-11-13,-30,-9,-29,-36,-21,9
 PE,Peru,San Martin,San Martin,,,,2020-11-14,-24,-2,-12,-34,-15,4
 PE,Peru,San Martin,San Martin,,,,2020-11-15,-52,-25,-23,-42,-23,10
+PE,Peru,San Martin,San Martin,,,,2020-11-16,-27,-1,-25,-36,-19,8
+PE,Peru,San Martin,San Martin,,,,2020-11-17,-28,-11,-35,-49,-22,9
 PE,Peru,San Martin,Tocache Province,,,,2020-02-15,,,-1,,,
 PE,Peru,San Martin,Tocache Province,,,,2020-02-16,-9,,-16,,,
 PE,Peru,San Martin,Tocache Province,,,,2020-02-17,,,-4,,-1,
@@ -32667,6 +32917,8 @@ PE,Peru,San Martin,Tocache Province,,,,2020-11-12,,,-9,-50,-22,
 PE,Peru,San Martin,Tocache Province,,,,2020-11-13,-25,,-23,-58,-18,
 PE,Peru,San Martin,Tocache Province,,,,2020-11-14,-21,,-14,-50,-14,
 PE,Peru,San Martin,Tocache Province,,,,2020-11-15,-41,,-26,-53,-21,
+PE,Peru,San Martin,Tocache Province,,,,2020-11-16,,,-16,-49,-19,
+PE,Peru,San Martin,Tocache Province,,,,2020-11-17,,,-16,-49,-22,
 PE,Peru,Tacna,,,PE-TAC,,2020-02-15,9,8,4,8,-2,-1
 PE,Peru,Tacna,,,PE-TAC,,2020-02-16,4,7,1,9,-1,0
 PE,Peru,Tacna,,,PE-TAC,,2020-02-17,2,6,4,8,0,1
@@ -32942,6 +33194,8 @@ PE,Peru,Tacna,,,PE-TAC,,2020-11-12,-39,-28,-37,-46,-26,17
 PE,Peru,Tacna,,,PE-TAC,,2020-11-13,-42,-31,-45,-52,-25,19
 PE,Peru,Tacna,,,PE-TAC,,2020-11-14,-35,-25,-36,-44,-18,13
 PE,Peru,Tacna,,,PE-TAC,,2020-11-15,-52,-40,-49,-61,-26,19
+PE,Peru,Tacna,,,PE-TAC,,2020-11-16,-38,-31,-42,-47,-26,16
+PE,Peru,Tacna,,,PE-TAC,,2020-11-17,-41,-32,-44,-49,-27,17
 PE,Peru,Tacna,Tacna,,,,2020-02-15,8,6,6,9,-1,-1
 PE,Peru,Tacna,Tacna,,,,2020-02-16,2,7,3,11,-1,0
 PE,Peru,Tacna,Tacna,,,,2020-02-17,2,5,3,7,-1,1
@@ -33217,6 +33471,8 @@ PE,Peru,Tacna,Tacna,,,,2020-11-12,-39,-29,-35,-46,-28,17
 PE,Peru,Tacna,Tacna,,,,2020-11-13,-42,-32,-44,-50,-25,19
 PE,Peru,Tacna,Tacna,,,,2020-11-14,-37,-25,-33,-41,-18,13
 PE,Peru,Tacna,Tacna,,,,2020-11-15,-53,-41,-48,-60,-27,20
+PE,Peru,Tacna,Tacna,,,,2020-11-16,-39,-32,-38,-45,-27,16
+PE,Peru,Tacna,Tacna,,,,2020-11-17,-41,-33,-41,-48,-28,17
 PE,Peru,Tumbes,,,PE-TUM,,2020-02-15,0,5,-6,-2,-1,0
 PE,Peru,Tumbes,,,PE-TUM,,2020-02-16,1,-6,-6,0,1,
 PE,Peru,Tumbes,,,PE-TUM,,2020-02-17,0,3,-2,1,4,0
@@ -33489,6 +33745,8 @@ PE,Peru,Tumbes,,,PE-TUM,,2020-11-12,-31,-14,-36,-44,-22,15
 PE,Peru,Tumbes,,,PE-TUM,,2020-11-13,-34,-16,-41,-38,-22,16
 PE,Peru,Tumbes,,,PE-TUM,,2020-11-14,-28,-5,-35,-43,-17,13
 PE,Peru,Tumbes,,,PE-TUM,,2020-11-15,-44,-23,-43,-39,-21,15
+PE,Peru,Tumbes,,,PE-TUM,,2020-11-16,-31,-8,-37,-44,-19,14
+PE,Peru,Tumbes,,,PE-TUM,,2020-11-17,-31,-15,-39,-43,-22,13
 PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-02-15,,,-3,,,
 PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-02-16,,,-2,,,
 PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-02-19,,,-27,,,
@@ -33711,6 +33969,8 @@ PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-11-12,,,-61,,-19,
 PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-11-13,,,-60,,,
 PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-11-14,,,-49,,,
 PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-11-15,,,-56,,,
+PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-11-16,,,-58,,,
+PE,Peru,Tumbes,Contralmirante Villar Province,,,,2020-11-17,,,-55,,,
 PE,Peru,Tumbes,Tumbes Province,,,,2020-02-15,-2,7,-5,-5,1,0
 PE,Peru,Tumbes,Tumbes Province,,,,2020-02-16,-4,2,-8,-3,-1,0
 PE,Peru,Tumbes,Tumbes Province,,,,2020-02-17,-4,1,-4,-1,2,-1
@@ -33986,6 +34246,8 @@ PE,Peru,Tumbes,Tumbes Province,,,,2020-11-12,-33,-18,-38,-38,-22,17
 PE,Peru,Tumbes,Tumbes Province,,,,2020-11-13,-37,-21,-42,-36,-21,18
 PE,Peru,Tumbes,Tumbes Province,,,,2020-11-14,-26,-8,-30,-38,-15,13
 PE,Peru,Tumbes,Tumbes Province,,,,2020-11-15,-44,-28,-42,-37,-23,17
+PE,Peru,Tumbes,Tumbes Province,,,,2020-11-16,-32,-12,-38,-41,-21,15
+PE,Peru,Tumbes,Tumbes Province,,,,2020-11-17,-33,-19,-36,-39,-20,14
 PE,Peru,Tumbes,Zarumilla Province,,,,2020-02-15,,,-4,,,
 PE,Peru,Tumbes,Zarumilla Province,,,,2020-02-16,,,-8,,,
 PE,Peru,Tumbes,Zarumilla Province,,,,2020-02-17,,,-5,,5,
@@ -34236,6 +34498,8 @@ PE,Peru,Tumbes,Zarumilla Province,,,,2020-11-12,,,-35,,-25,
 PE,Peru,Tumbes,Zarumilla Province,,,,2020-11-13,,,-40,,-23,
 PE,Peru,Tumbes,Zarumilla Province,,,,2020-11-14,,,-40,,-17,
 PE,Peru,Tumbes,Zarumilla Province,,,,2020-11-15,,,-45,,-26,
+PE,Peru,Tumbes,Zarumilla Province,,,,2020-11-16,,,-44,,-20,
+PE,Peru,Tumbes,Zarumilla Province,,,,2020-11-17,,,-42,,-26,
 PE,Peru,Ucayali,,,PE-UCA,,2020-02-15,-2,-5,6,0,1,-1
 PE,Peru,Ucayali,,,PE-UCA,,2020-02-16,1,6,1,5,1,0
 PE,Peru,Ucayali,,,PE-UCA,,2020-02-17,-3,0,-5,4,2,1
@@ -34511,6 +34775,8 @@ PE,Peru,Ucayali,,,PE-UCA,,2020-11-12,-19,-4,-21,-19,-7,9
 PE,Peru,Ucayali,,,PE-UCA,,2020-11-13,-26,-7,-26,-4,-7,10
 PE,Peru,Ucayali,,,PE-UCA,,2020-11-14,-21,-4,-21,-6,-5,7
 PE,Peru,Ucayali,,,PE-UCA,,2020-11-15,-23,-19,-17,-22,-7,6
+PE,Peru,Ucayali,,,PE-UCA,,2020-11-16,-18,-5,-22,-11,-4,7
+PE,Peru,Ucayali,,,PE-UCA,,2020-11-17,-21,-4,-24,-11,-6,8
 PE,Peru,Ucayali,Atalaya Province,,,,2020-02-15,,,-8,,,
 PE,Peru,Ucayali,Atalaya Province,,,,2020-02-16,,,-1,,,
 PE,Peru,Ucayali,Atalaya Province,,,,2020-02-21,,,-13,,,
@@ -34934,6 +35200,8 @@ PE,Peru,Ucayali,Coronel Portillo,,,,2020-11-12,-16,2,-23,-21,-8,10
 PE,Peru,Ucayali,Coronel Portillo,,,,2020-11-13,-24,-5,-29,-9,-11,11
 PE,Peru,Ucayali,Coronel Portillo,,,,2020-11-14,-19,-2,-22,-9,-2,7
 PE,Peru,Ucayali,Coronel Portillo,,,,2020-11-15,-19,-16,-19,-32,-7,7
+PE,Peru,Ucayali,Coronel Portillo,,,,2020-11-16,-15,1,-28,-10,-3,8
+PE,Peru,Ucayali,Coronel Portillo,,,,2020-11-17,-19,0,-27,-11,-7,9
 PE,Peru,Ucayali,Padre Abad Province,,,,2020-02-15,,,19,,,
 PE,Peru,Ucayali,Padre Abad Province,,,,2020-02-16,,,27,,,
 PE,Peru,Ucayali,Padre Abad Province,,,,2020-02-19,,,14,,,
@@ -35167,3 +35435,5 @@ PE,Peru,Ucayali,Padre Abad Province,,,,2020-11-12,,,,,-5,
 PE,Peru,Ucayali,Padre Abad Province,,,,2020-11-13,,,,,-9,
 PE,Peru,Ucayali,Padre Abad Province,,,,2020-11-14,,,26,,-11,
 PE,Peru,Ucayali,Padre Abad Province,,,,2020-11-15,,,23,,,
+PE,Peru,Ucayali,Padre Abad Province,,,,2020-11-16,,,,,-9,
+PE,Peru,Ucayali,Padre Abad Province,,,,2020-11-17,,,,,-5,
