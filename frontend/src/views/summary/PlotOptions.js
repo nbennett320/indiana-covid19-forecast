@@ -65,7 +65,6 @@ const useStyles = makeStyles(theme => ({
   root: {
     display: 'flex',
     minWidth: 160,
-    marginRight: theme.spacing(3)
   },
   formControl: {
     width: 160,

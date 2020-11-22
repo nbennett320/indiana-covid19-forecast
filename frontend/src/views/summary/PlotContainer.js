@@ -1,14 +1,16 @@
 import React, { useState } from 'react'
 import DataPlot from './DataPlot'
 import PlotOptions from './PlotOptions'
+import { makeStyles } from '@material-ui/core/styles'
 
 const PlotContainer = props => {
   const [showData, setShowData] = useState(true)
   const [showSmooth, setShowSmooth] = useState(false)
   const [smoothType, setSmoothType] = useState('polynomial')
+  const classes = useStyles()
   return (
-    <div style={styles.main}>
-      <div style={styles.rowContainer}>
+    <div className={classes.main}>
+      <div className={classes.rowContainer}>
         <PlotOptions 
           showData={showData}
           showSmooth={showSmooth}
@@ -28,19 +30,20 @@ const PlotContainer = props => {
   )
 }
 
-const styles = {
+const useStyles = makeStyles(() => ({
   main: {
-    width: '100%',
-    height: '100%',
-    padding: '8px 12px',
+    width: 'auto',
+    height: 'auto',
     backgroundColor: '#fafafa',
     display: 'flex',
     flexDirection: 'column',
+    paddingTop: '12px',
+    paddingBttom: '12px'
   },
   rowContainer: {
     display: 'flex',
     flexDirection: 'row'
   }
-}
+}))
 
 export default PlotContainer

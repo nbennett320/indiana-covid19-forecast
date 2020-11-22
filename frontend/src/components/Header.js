@@ -67,7 +67,7 @@ const Header = props => {
                 <SearchIcon />
               </div>
               <InputBase
-                placeholder="Search…"
+                placeholder="Filter"
                 classes={{
                   root: classes.inputRoot,
                   input: classes.inputInput,
@@ -102,9 +102,9 @@ const useStyles = makeStyles(theme => ({
   search: {
     position: 'relative',
     borderRadius: theme.shape.borderRadius,
-    backgroundColor: fade(theme.palette.common.black, 0.15),
+    backgroundColor: fade(theme.palette.primary.dark, 0.25),
     '&:hover': {
-      backgroundColor: fade(theme.palette.common.black, 0.25),
+      backgroundColor: fade(theme.palette.primary.dark, 0.35),
     },
     marginLeft: 0,
     width: '100%',
@@ -123,7 +123,7 @@ const useStyles = makeStyles(theme => ({
     justifyContent: 'center',
   },
   inputRoot: {
-    color: 'inherit',
+    color: theme.palette.common.white,
   },
   inputInput: {
     padding: theme.spacing(1, 1, 1, 0),
@@ -140,7 +140,7 @@ const useStyles = makeStyles(theme => ({
   indianaIcon: {
     height: '32px',
     padding: '2px 2px',
-    paddingRight: '8px',
+    paddingRight: '12px',
     transform: 'rotate(6deg)',
     filter: 'hue-rotate(90deg)',
     userSelect: 'none',

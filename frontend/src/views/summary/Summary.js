@@ -8,7 +8,7 @@ const Summary = props => {
         county="Porter"
         plotData="covid_count"
         format={{
-          title: "Porter County Covid-19 Forecast",
+          title: "Indiana County Covid-19 Forecast",
           xLab: "Date",
           yLab: "Cases per day"
         }}

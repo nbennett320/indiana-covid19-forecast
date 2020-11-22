@@ -18,31 +18,38 @@ const getRenderedData = props => {
       x: x_data.map(t => new Date(t / Math.pow(10, 6))),
       y: y_data,
       name: 'Cases',
+      showlegend: true,
       type: 'line',
       mode: 'lines',
       marker: {
         color: '#00bcd4'
+      },
+      layout: {
+        showLegend: true
       }
     },
     {
       x: x_pred.map(t => new Date(t / Math.pow(10, 6))),
       y: y_pred,
       name: 'Forecasted',
+      showlegend: true,
       type: 'line',
       mode: 'lines',
       marker: {
         color: '#ffc107'
-      }
+      },
     },
     {
       x: [x_data[x_data.length - 1], x_pred[0]].map(t => new Date(t / Math.pow(10, 6))),
       y: [y_data[y_data.length - 1], y_pred[0]],
       name: 'Today',
+      showlegend: false,
+      hoverinfo: 'skip',
       type: 'line',
       mode: 'lines',
       marker: {
         color: '#0097a7'
-      }
+      },
     }
   ]
   if(props.showSmooth) {
@@ -52,32 +59,39 @@ const getRenderedData = props => {
           x: x_data_polynomial.map(t => new Date(t / Math.pow(10, 6))),
           y: y_data_polynomial,
           name: 'Cases (Smooth)',
+          showlegend: true,
+          hoverinfo: 'skip',
           type: 'line',
           mode: 'lines',
           marker: {
-            color: '#d43c00'
-          }
+            color: '#d43c00',
+          },
         },
         {
           x: x_pred_polynomial.map(t => new Date(t / Math.pow(10, 6))),
           y: y_pred_polynomial,
           name: 'Forecasted (Smooth)',
+          showlegend: true,
+          hoverinfo: 'skip',
           type: 'line',
           mode: 'lines',
           marker: {
             color: '#8307ff'
+          },
+          layout: {
           }
         },
         {
           x: [x_data_polynomial[x_data_polynomial.length - 1], x_pred_polynomial[0]].map(t => new Date(t / Math.pow(10, 6))),
           y: [y_data_polynomial[y_data_polynomial.length - 1], y_pred_polynomial[0]],
           name: 'Today (Smooth)',
-          showLegend: false,
+          showlegend: false,
+          hoverinfo: 'skip',
           type: 'line',
           mode: 'lines',
           marker: {
             color: '#a72d00'
-          }
+          },
         }
       ])
     }
@@ -109,8 +123,7 @@ const DataPlot = props => {
 }
 
 const styles = {
-  width: '100%',
-  paddingTop: '20px',
+  width: 'auto',
   margin: '0 auto',
 }
 
