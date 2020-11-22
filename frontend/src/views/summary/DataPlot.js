@@ -1,16 +1,24 @@
 import React from 'react'
 import Plot from 'react-plotly.js'
-import porter_county from '../../data/model_prediction_Porter_covid_count.json'
+import t from '../../data/model_prediction_Indiana_covid_count.json'
 
-const Plots = props => {
-  console.log(porter_county)
+console.log(t)
+const DataPlot = async props => {
+  const path = `../../data/model_prediction_${props.county}_${props.plotData}.json`
+  const {
+    x_data,
+    y_data,
+    x_pred,
+    y_pred
+  } = await import(path).then(module => module)
+
   return (
     <div style={styles}>
       <Plot
         data={[
           {
-            x: porter_county.x_pred,
-            y: porter_county.y_pred,
+            x: x_pred,
+            y: y_pred,
             name: 'Forecasted',
             type: 'line',
             mode: 'lines',
@@ -19,8 +27,8 @@ const Plots = props => {
             }
           },
           {
-            x: porter_county.x_data,
-            y: porter_county.y_data,
+            x: x_data,
+            y: y_data,
             name: 'Cases',
             type: 'line',
             mode: 'lines',
@@ -29,8 +37,8 @@ const Plots = props => {
             }
           },
           {
-            x: [porter_county.x_data[porter_county.x_data.length - 1], porter_county.x_pred[0]],
-            y: [porter_county.y_data[porter_county.y_data.length - 1], porter_county.y_pred[0]],
+            x: [x_data[x_data.length - 1], x_pred[0]],
+            y: [y_data[y_data.length - 1], y_pred[0]],
             name: 'Today',
             type: 'line',
             mode: 'lines',
@@ -40,12 +48,12 @@ const Plots = props => {
           }
         ]}
         layout={{
-          title: `${porter_county.county} County COVID-19 forecast.`,
+          title: props.format.title,
           xaxis: {
-            title: 'Date',
+            title: props.format.xLab,
           },
           yaxis: {
-            title: 'Infections per day',
+            title: props.format.yLab,
           },
           paper_bgcolor: '#fafafa',
           plot_bgcolor: '#fafafa',
@@ -61,4 +69,4 @@ const styles = {
   margin: '0 auto',
 }
 
-export default Plots
+export default DataPlot
