@@ -1,14 +1,14 @@
 import React from 'react'
-import DataPlot from './DataPlot'
+import { default as Plot } from './PlotContainer'
 
 const Summary = props => {
   return (
     <div style={styles}>
-      <DataPlot 
-        county={"Indiana"}
-        plotData={"covid_count"}
+      <Plot
+        county="Porter"
+        plotData="covid_count"
         format={{
-          title: "Indiana Covid-19 Forecast",
+          title: "Porter County Covid-19 Forecast",
           xLab: "Date",
           yLab: "Cases per day"
         }}
@@ -20,7 +20,8 @@ const Summary = props => {
 const styles = {
   width: '100%',
   height: '100%',
-  backgroundColor: '#fafafa'
+  backgroundColor: '#fafafa',
+  paddingTop: 'calc(32px + 4px)'
 }
 
 export default Summary

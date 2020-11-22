@@ -6,7 +6,6 @@ import {
   IconButton,
   Typography,
   InputBase,
-  SvgIcon,
   useScrollTrigger
 } from '@material-ui/core'
 import { 
@@ -16,10 +15,77 @@ import {
 import MenuIcon from '@material-ui/icons/Menu'
 import SearchIcon from '@material-ui/icons/Search'
 
-const useStyles = makeStyles((theme) => ({
+const ElevationScroll = props => {
+  const { children, window } = props
+  const trigger = useScrollTrigger({
+    disableHysteresis: true,
+    threshold: 0,
+    target: window ? window() : undefined,
+  })
+  return React.cloneElement(children, {
+    elevation: trigger ? 4 : 0,
+  })
+}
+
+ElevationScroll.propTypes = {
+  children: PropTypes.element.isRequired,
+  window: PropTypes.func,
+}
+
+const Header = props => {
+  const classes = useStyles()
+  return (
+    <div className={classes.root}>
+      <ElevationScroll {...props}>
+        <AppBar 
+          position="static" 
+          className="header"
+        >
+          <Toolbar>
+            <IconButton
+              edge="start"
+              className={classes.menuButton}
+              aria-label="open drawer"
+            >
+              <MenuIcon />
+            </IconButton>
+            <img 
+              src="https://upload.wikimedia.org/wikipedia/commons/0/01/Blank_map_subdivisions_Indiana.svg"
+              className={classes.indianaIcon}
+              alt="Indiana state outline"
+            />
+            <Typography 
+              className={classes.title} 
+              variant="h6" 
+              color="textPrimary"
+              noWrap
+            >
+              Indiana Covid-19 Forecast
+            </Typography>
+            <div className={classes.search}>
+              <div className={classes.searchIcon}>
+                <SearchIcon />
+              </div>
+              <InputBase
+                placeholder="Search…"
+                classes={{
+                  root: classes.inputRoot,
+                  input: classes.inputInput,
+                }}
+                inputProps={{ 'aria-label': 'search' }}
+              />
+            </div>
+          </Toolbar>
+        </AppBar>
+      </ElevationScroll>
+    </div>
+  )
+}
+
+const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1,
-    position: 'absolute',
+    position: 'fixed',
     zIndex: '100',
     width: '100%'
   },
@@ -71,78 +137,6 @@ const useStyles = makeStyles((theme) => ({
       },
     },
   },
-}))
-
-const ElevationScroll = props => {
-  const { children, window } = props
-  const trigger = useScrollTrigger({
-    disableHysteresis: true,
-    threshold: 0,
-    target: window ? window() : undefined,
-  })
-
-  return React.cloneElement(children, {
-    elevation: trigger ? 4 : 0,
-  })
-}
-
-ElevationScroll.propTypes = {
-  children: PropTypes.element.isRequired,
-  window: PropTypes.func,
-}
-
-const Header = props => {
-  const classes = useStyles()
-  return (
-    <div className={classes.root}>
-      <ElevationScroll {...props}>
-        <AppBar 
-          position="static" 
-          className="header"
-        >
-          <Toolbar>
-            <IconButton
-              edge="start"
-              className={classes.menuButton}
-              color="textSecondary"
-              aria-label="open drawer"
-            >
-              <MenuIcon />
-            </IconButton>
-            <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/0/01/Blank_map_subdivisions_Indiana.svg"
-              style={styles.indianaIcon}
-            />
-            <Typography 
-              className={classes.title} 
-              variant="h6" 
-              color="textPrimary"
-              noWrap
-            >
-              Indiana Covid-19 Forecast
-            </Typography>
-            <div className={classes.search}>
-              <div className={classes.searchIcon}>
-                <SearchIcon />
-              </div>
-              <InputBase
-                placeholder="Search…"
-                color="textSecondary"
-                classes={{
-                  root: classes.inputRoot,
-                  input: classes.inputInput,
-                }}
-                inputProps={{ 'aria-label': 'search' }}
-              />
-            </div>
-          </Toolbar>
-        </AppBar>
-      </ElevationScroll>
-    </div>
-  )
-}
-
-const styles = {
   indianaIcon: {
     height: '32px',
     padding: '2px 2px',
@@ -151,6 +145,6 @@ const styles = {
     filter: 'hue-rotate(90deg)',
     userSelect: 'none',
   }
-}
+}))
 
 export default Header

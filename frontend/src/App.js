@@ -28,7 +28,7 @@ const App = () => {
 
 const styles = {
   height: '100vh',
-  width: '100vw'
+  width: '100vw',
 }
 
 export default App
