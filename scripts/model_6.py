@@ -10,9 +10,11 @@ import tensorflow_probability as tfp
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras.layers.experimental import preprocessing
+from tensorflow_estimator import estimator as tfest
 from tensorflow_probability.python.internal import prefer_static as ps
 from tensorflow_probability.python.mcmc.internal import util as mcmc_util
 from sklearn.linear_model import LinearRegression
+from sklearn import model_selection
 from scipy import interpolate
 from datetime import datetime
 from argparse import ArgumentParser
@@ -345,24 +347,65 @@ def preprocess_data():
     print("hospital_vent_df:\n", hospital_vent_df)
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
-  
-  if model_county.lower() == 'all':
-    cdf = pd.DataFrame(indiana_counties_raw).copy()
-    del cdf['location_id']
-    for i in cdf['county_name']:
-      predict_cases(
-        county_level_test_case_death_trends_df,
-        county=i,
-        y='covid_count',
-      )
-  else:
-    predict_cases(
-      county_level_test_case_death_trends_df,
-      county=model_county,
-      y='covid_count',
-    )
-    
-def predict_cases(df, county, y):
+  predict_hospital_occupation(hospital_vent_df)
+
+  # if model_county.lower() == 'all':
+  #   cdf = pd.DataFrame(indiana_counties_raw).copy()
+  #   del cdf['location_id']
+  #   for i in cdf['county_name']:
+  #     predict_cases(
+  #       county_level_test_case_death_trends_df,
+  #       county=i,
+  #       y='covid_count',
+  #     )
+  # else:
+  #   predict_cases(
+  #     county_level_test_case_death_trends_df,
+  #     county=model_county,
+  #     y='covid_count',
+  #   )
+
+def input_fn_hospital_occupation(features, labels, training=True, batch_size=256):
+  dataset = tf.data.Dataset.from_tensor_slices((features, labels))
+  if training:
+    dataset = dataset.shuffle(1000).repeat()
+  return dataset.batch(batch_size)
+
+def input_fn_hospital_occupation_2(df, training=True, batch_size=256):
+  dataset = tf.data.Dataset.from_tensor_slices(tf.convert_to_tensor(df))
+  print("dataset:", type(dataset))
+  if training:
+    dataset = dataset.shuffle(1000).repeat()
+  return dataset.batch(batch_size)
+
+def predict_hospital_occupation(df: pd.DataFrame):
+  print(df)
+  print(df.index)
+  print(df.columns)
+  fcols = []
+  for col in df.columns:
+    fcols.append(tf.feature_column.numeric_column(col))
+  estimator = tf.estimator.LinearRegressor(
+    feature_columns=fcols,
+    model_dir=model_dir
+  )
+
+  train_x, train_y = model_selection.train_test_split(df)
+  # train_x, test_x, train_y, test_y = model_selection.train_test_split(df, )
+  print('train_x:', train_x)
+  print('train_y:', train_y)
+  # print('test_x:', test_x)
+  # print('test_y:', test_y)
+  df.reset_index(inplace=True, drop=True)
+  train_fn = tfest.inputs.pandas_input_fn(
+    x=df,
+    y=df['beds_available_icu_beds_total'],
+    shuffle=True,
+    num_epochs=10
+  )
+  estimator.train(input_fn=train_fn)
+
+def predict_cases(df: pd.DataFrame, county: str, y: str):
   print(df.loc[df['county_name'] == county, y])
   X = (df.loc[df['county_name'] == county, y].index - df.loc[df['county_name'] == county, y].index[0]).days
   Y = df.loc[df['county_name'] == county, df.columns[1:]]
