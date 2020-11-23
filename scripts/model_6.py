@@ -5,6 +5,7 @@ import collections, sys, os, math, json, logging
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from pandas import tseries
 import tensorflow as tf
 import tensorflow_probability as tfp
 from tensorflow import keras
@@ -365,19 +366,6 @@ def preprocess_data():
   #     y='covid_count',
   #   )
 
-def input_fn_hospital_occupation(features, labels, training=True, batch_size=256):
-  dataset = tf.data.Dataset.from_tensor_slices((features, labels))
-  if training:
-    dataset = dataset.shuffle(1000).repeat()
-  return dataset.batch(batch_size)
-
-def input_fn_hospital_occupation_2(df, training=True, batch_size=256):
-  dataset = tf.data.Dataset.from_tensor_slices(tf.convert_to_tensor(df))
-  print("dataset:", type(dataset))
-  if training:
-    dataset = dataset.shuffle(1000).repeat()
-  return dataset.batch(batch_size)
-
 def predict_hospital_occupation(df: pd.DataFrame):
   print(df)
   print(df.index)
@@ -387,23 +375,59 @@ def predict_hospital_occupation(df: pd.DataFrame):
     fcols.append(tf.feature_column.numeric_column(col))
   estimator = tf.estimator.LinearRegressor(
     feature_columns=fcols,
-    model_dir=model_dir
+    model_dir=model_dir,
+    optimizer=tf.optimizers.Ftrl(
+      learning_rate=0.05,
+      l1_regularization_strength=0.0,
+    )
   )
-
-  train_x, train_y = model_selection.train_test_split(df)
-  # train_x, test_x, train_y, test_y = model_selection.train_test_split(df, )
+  plt.plot(
+    df.index,
+    df['beds_available_icu_beds_total'],
+    label="bed data"
+  )
+  df = df.reset_index(drop=True)
+  train_x, test_x, train_y, test_y = model_selection.train_test_split(df, df['beds_available_icu_beds_total'])
   print('train_x:', train_x)
   print('train_y:', train_y)
-  # print('test_x:', test_x)
-  # print('test_y:', test_y)
-  df.reset_index(inplace=True, drop=True)
+  print('test_x:', test_x)
+  print('test_y:', test_y)
   train_fn = tfest.inputs.pandas_input_fn(
-    x=df,
-    y=df['beds_available_icu_beds_total'],
+    x=train_x,
+    y=train_y,
     shuffle=True,
-    num_epochs=10
+    num_epochs=100,
+    batch_size=14
   )
-  estimator.train(input_fn=train_fn)
+  test_fn = tfest.inputs.pandas_input_fn(
+    x=test_x,
+    y=test_y,
+    shuffle=False,
+    batch_size=14
+  )
+  model = estimator.train(input_fn=train_fn, steps=5000)
+  result = model.evaluate(input_fn=train_fn, steps=10)
+  for key, val in result.items():
+    print(key, ':', val)
+  print_separator()
+  pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
+  predictions = None
+  for pred in pred_generator:
+    for key, val in pred.items():
+      predictions = val
+      print(key, ':', val)
+      print('len:', len(val))
+      print('shape:', val.shape)
+    break
+  if should_plot:
+    datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
+    print('predictions:',predictions.flatten())
+    plt.plot(
+      datelist,
+      predictions.flatten(),
+      label="bed predictions"
+    )
+  plt.show()
 
 def predict_cases(df: pd.DataFrame, county: str, y: str):
   print(df.loc[df['county_name'] == county, y])
