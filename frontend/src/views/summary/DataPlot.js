@@ -30,7 +30,7 @@ const getRenderedData = props => {
     },
     {
       x: x_pred.map(t => new Date(t / Math.pow(10, 6))),
-      y: y_pred,
+      y: y_pred.map(n => Math.round(n)),
       name: 'Forecasted',
       showlegend: true,
       type: 'line',
@@ -41,7 +41,7 @@ const getRenderedData = props => {
     },
     {
       x: [x_data[x_data.length - 1], x_pred[0]].map(t => new Date(t / Math.pow(10, 6))),
-      y: [y_data[y_data.length - 1], y_pred[0]],
+      y: [y_data[y_data.length - 1], y_pred[0]].map(n => Math.round(n)),
       name: 'Today',
       showlegend: false,
       hoverinfo: 'skip',

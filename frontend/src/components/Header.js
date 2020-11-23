@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import {
   AppBar,
@@ -14,6 +14,7 @@ import {
 } from '@material-ui/core/styles'
 import MenuIcon from '@material-ui/icons/Menu'
 import SearchIcon from '@material-ui/icons/Search'
+import FilterResults from './FilterResults'
 
 const ElevationScroll = props => {
   const { children, window } = props
@@ -33,7 +34,22 @@ ElevationScroll.propTypes = {
 }
 
 const Header = props => {
+  const [query, setQuery] = useState('')
+  const [menuIsOpen, setMenuIsOpen] = useState(false)
+  const anchorRef = React.useRef(null)
   const classes = useStyles()
+  const handleQuery = e => {
+    setQuery(e.target.value)
+    if(query.length > 0 && anchorRef.current) {
+      setMenuIsOpen(true)
+    }
+  }
+  const handleClose = e => {
+    if(anchorRef.current && anchorRef.current.contains(e.target))
+      return
+    setMenuIsOpen(false)
+  }
+
   return (
     <div className={classes.root}>
       <ElevationScroll {...props}>
@@ -62,11 +78,15 @@ const Header = props => {
             >
               Indiana Covid-19 Forecast
             </Typography>
-            <div className={classes.search}>
+            <div 
+              className={classes.search} 
+              ref={anchorRef}
+            >
               <div className={classes.searchIcon}>
                 <SearchIcon />
               </div>
               <InputBase
+                onKeyUp={handleQuery}
                 placeholder="Filter"
                 classes={{
                   root: classes.inputRoot,
@@ -78,6 +98,12 @@ const Header = props => {
           </Toolbar>
         </AppBar>
       </ElevationScroll>
+      <FilterResults
+        query={query}
+        anchorEl={anchorRef.current}
+        isOpen={menuIsOpen}
+        handleClose={handleClose}
+      />
     </div>
   )
 }
