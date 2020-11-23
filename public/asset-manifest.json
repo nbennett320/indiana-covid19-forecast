@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.41eb6e41.chunk.css",
-    "main.js": "/static/js/main.6ea17628.chunk.js",
-    "main.js.map": "/static/js/main.6ea17628.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.32aae409.js",
-    "runtime-main.js.map": "/static/js/runtime-main.32aae409.js.map",
-    "static/css/2.377bcfc6.chunk.css": "/static/css/2.377bcfc6.chunk.css",
-    "static/js/2.e89f5053.chunk.js": "/static/js/2.e89f5053.chunk.js",
-    "static/js/2.e89f5053.chunk.js.map": "/static/js/2.e89f5053.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.377bcfc6.chunk.css.map": "/static/css/2.377bcfc6.chunk.css.map",
-    "static/css/main.41eb6e41.chunk.css.map": "/static/css/main.41eb6e41.chunk.css.map",
-    "static/js/2.e89f5053.chunk.js.LICENSE.txt": "/static/js/2.e89f5053.chunk.js.LICENSE.txt"
+    "main.css": "/indiana-covid19-forecast/static/css/main.b1f64f20.chunk.css",
+    "main.js": "/indiana-covid19-forecast/static/js/main.9385dbcb.chunk.js",
+    "main.js.map": "/indiana-covid19-forecast/static/js/main.9385dbcb.chunk.js.map",
+    "runtime-main.js": "/indiana-covid19-forecast/static/js/runtime-main.f8d35876.js",
+    "runtime-main.js.map": "/indiana-covid19-forecast/static/js/runtime-main.f8d35876.js.map",
+    "static/css/2.377bcfc6.chunk.css": "/indiana-covid19-forecast/static/css/2.377bcfc6.chunk.css",
+    "static/js/2.0bd97a10.chunk.js": "/indiana-covid19-forecast/static/js/2.0bd97a10.chunk.js",
+    "static/js/2.0bd97a10.chunk.js.map": "/indiana-covid19-forecast/static/js/2.0bd97a10.chunk.js.map",
+    "index.html": "/indiana-covid19-forecast/index.html",
+    "static/css/2.377bcfc6.chunk.css.map": "/indiana-covid19-forecast/static/css/2.377bcfc6.chunk.css.map",
+    "static/css/main.b1f64f20.chunk.css.map": "/indiana-covid19-forecast/static/css/main.b1f64f20.chunk.css.map",
+    "static/js/2.0bd97a10.chunk.js.LICENSE.txt": "/indiana-covid19-forecast/static/js/2.0bd97a10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32aae409.js",
+    "static/js/runtime-main.f8d35876.js",
     "static/css/2.377bcfc6.chunk.css",
-    "static/js/2.e89f5053.chunk.js",
-    "static/css/main.41eb6e41.chunk.css",
-    "static/js/main.6ea17628.chunk.js"
+    "static/js/2.0bd97a10.chunk.js",
+    "static/css/main.b1f64f20.chunk.css",
+    "static/js/main.9385dbcb.chunk.js"
   ]
 }
