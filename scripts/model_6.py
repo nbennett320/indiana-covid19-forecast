@@ -348,23 +348,23 @@ def preprocess_data():
     print("hospital_vent_df:\n", hospital_vent_df)
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
-  predict_hospital_occupation(hospital_vent_df)
 
-  # if model_county.lower() == 'all':
-  #   cdf = pd.DataFrame(indiana_counties_raw).copy()
-  #   del cdf['location_id']
-  #   for i in cdf['county_name']:
-  #     predict_cases(
-  #       county_level_test_case_death_trends_df,
-  #       county=i,
-  #       y='covid_count',
-  #     )
-  # else:
-  #   predict_cases(
-  #     county_level_test_case_death_trends_df,
-  #     county=model_county,
-  #     y='covid_count',
-  #   )
+  if model_county.lower() == 'all':
+    cdf = pd.DataFrame(indiana_counties_raw).copy()
+    del cdf['location_id']
+    for i in cdf['county_name']:
+      predict_cases(
+        county_level_test_case_death_trends_df,
+        county=i,
+        y='covid_count',
+      )
+  else:
+    predict_cases(
+      county_level_test_case_death_trends_df,
+      county=model_county,
+      y='covid_count',
+    )
+  predict_hospital_occupation(hospital_vent_df)
 
 def predict_hospital_occupation(df: pd.DataFrame):
   fcols = []
@@ -378,13 +378,15 @@ def predict_hospital_occupation(df: pd.DataFrame):
       l1_regularization_strength=0.0,
     )
   )
-  plt.plot(
-    df.index,
-    df['beds_available_icu_beds_total'],
-    label="bed data"
-  )
-  df = df.reset_index(drop=True)
-  train_x, test_x, train_y, test_y = model_selection.train_test_split(df, df['beds_available_icu_beds_total'])
+  if should_plot:
+    plt.plot(
+      df.index,
+      df['beds_available_icu_beds_total'],
+      label="bed data"
+    )
+  dft = df.copy()
+  dft.reset_index(drop=True, inplace=True)
+  train_x, test_x, train_y, test_y = model_selection.train_test_split(dft, dft['beds_available_icu_beds_total'])
   if is_verbose:
     print('train_x:', train_x)
     print('train_y:', train_y)
@@ -410,6 +412,7 @@ def predict_hospital_occupation(df: pd.DataFrame):
   print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
   predictions = None
+  datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   for pred in pred_generator:
     for key, val in pred.items():
       predictions = val
@@ -418,7 +421,6 @@ def predict_hospital_occupation(df: pd.DataFrame):
       print('shape:', val.shape)
     break
   if should_plot:
-    datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
     if is_verbose:
       print('predictions:',predictions.flatten())
     plt.plot(
@@ -426,7 +428,32 @@ def predict_hospital_occupation(df: pd.DataFrame):
       predictions.flatten(),
       label="bed predictions"
     )
-  plt.show()
+    plt.show()
+  if len(output_dir) > 0:
+    pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions.flatten()})
+    pred_df.set_index('date', inplace=True, drop=True)
+    print(pred_df)
+    polynomial_data = df.resample('5D', kind='timestamp').mean()
+    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
+    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
+    polynomial_pred = pred_df.resample('2D', kind='timestamp').mean()
+    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
+    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
+    output = dict({
+      'x_data': dft.index.values.tolist(),
+      'y_data': dft['beds_available_icu_beds_total'].values.tolist(),
+      'x_pred': datelist.tolist(),
+      'y_pred': predictions.flatten().tolist(),
+      'x_data_polynomial': polynomial_data.index.values.tolist(),
+      'y_data_polynomial': polynomial_data.values.tolist(),
+      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
+      'y_pred_polynomial': polynomial_data.values.tolist()
+    })
+
+    filename = output_dir + 'model_prediction_hospital_occupation.json'
+    with open(filename, 'w') as outfile:
+      json.dump(output, outfile)
+
 
 def predict_cases(df: pd.DataFrame, county: str, y: str):
   print(df.loc[df['county_name'] == county, y])
