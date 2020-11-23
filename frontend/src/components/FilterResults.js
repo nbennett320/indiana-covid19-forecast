@@ -12,6 +12,11 @@ import counties from '../data/indiana_counties.json'
 
 const FilterResults = props => {
   const classes = useStyles()
+  const handleSelect = (e, el) => {
+    props.handleClose(e)
+    props.handleChangeCounty(el)
+  }
+
   return (
     <Popper
       open={props.isOpen}
@@ -45,7 +50,7 @@ const FilterResults = props => {
                     .filter(el => el.toLowerCase().includes(props.query.toLowerCase()))
                     .map(el => (
                       <MenuItem 
-                        onClick={props.handleClose}
+                        onClick={e => handleSelect(e, el)}
                         key={el}
                       >
                         { el } {el.includes('Indiana') ? '(all counties)' : 'County'}

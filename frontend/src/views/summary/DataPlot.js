@@ -114,8 +114,11 @@ const DataPlot = props => {
           yaxis: {
             title: props.format.yLab,
           },
-          paper_bgcolor: '#fafafa',
-          plot_bgcolor: '#fafafa',
+          autosize: true,
+          width: 1000,
+          height: 700,
+          paper_bgcolor: '#fcfcfc',
+          plot_bgcolor: '#fcfcfc',
         }}
       />
     </div>

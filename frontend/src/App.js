@@ -6,13 +6,19 @@ import { Map, Summary, About } from './views'
 import './assets/css/App.css'
 
 const App = () => {
+  const [county, setCounty] = React.useState('Indiana')
+
   return (
     <div style={styles}>
-      <Header />
+      <Header 
+        handleChangeCounty={(val) => setCounty(val)}
+      />
       <Router>
         <Switch>
           <Route path='/'>
-            <Summary />
+            <Summary 
+              county={county}
+            />
           </Route>
           <Route path='/map'>
             <Map />

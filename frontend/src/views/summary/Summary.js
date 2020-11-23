@@ -5,10 +5,10 @@ const Summary = props => {
   return (
     <div style={styles}>
       <Plot
-        county="Porter"
+        county={props.county}
         plotData="covid_count"
         format={{
-          title: "Indiana County Covid-19 Forecast",
+          title: `${props.county} County Covid-19 Forecast`,
           xLab: "Date",
           yLab: "Cases per day"
         }}
@@ -20,8 +20,8 @@ const Summary = props => {
 const styles = {
   width: '100%',
   height: '100%',
-  backgroundColor: '#fafafa',
-  paddingTop: 'calc(32px + 4px)'
+  backgroundColor: '#fcfcfc',
+  paddingTop: '64px',
 }
 
 export default Summary

@@ -11,14 +11,14 @@ const PlotContainer = props => {
   return (
     <div className={classes.main}>
       <div className={classes.rowContainer}>
-        <PlotOptions 
+        {/* <PlotOptions 
           showData={showData}
           showSmooth={showSmooth}
           smoothType={smoothType}
           toggleShowData={() => setShowData(!showData)}
           toggleShowSmooth={() => setShowSmooth(!showSmooth)}
           changeSmoothType={val => setSmoothType(val)}
-        />
+        /> */}
         <DataPlot 
           {...props}
           showData={showData}
@@ -34,7 +34,7 @@ const useStyles = makeStyles(() => ({
   main: {
     width: 'auto',
     height: 'auto',
-    backgroundColor: '#fafafa',
+    backgroundColor: '#fcfcfc',
     display: 'flex',
     flexDirection: 'column',
     paddingTop: '12px',

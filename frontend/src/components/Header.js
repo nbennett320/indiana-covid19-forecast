@@ -103,6 +103,7 @@ const Header = props => {
         anchorEl={anchorRef.current}
         isOpen={menuIsOpen}
         handleClose={handleClose}
+        handleChangeCounty={props.handleChangeCounty}
       />
     </div>
   )
@@ -113,7 +114,8 @@ const useStyles = makeStyles(theme => ({
     flexGrow: 1,
     position: 'fixed',
     zIndex: '100',
-    width: '100%'
+    width: '100%',
+    backgroundColor: theme.palette.primary.main
   },
   menuButton: {
     marginRight: theme.spacing(2),
