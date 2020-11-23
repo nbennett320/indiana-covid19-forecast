@@ -367,9 +367,6 @@ def preprocess_data():
   #   )
 
 def predict_hospital_occupation(df: pd.DataFrame):
-  print(df)
-  print(df.index)
-  print(df.columns)
   fcols = []
   for col in df.columns:
     fcols.append(tf.feature_column.numeric_column(col))
@@ -388,10 +385,11 @@ def predict_hospital_occupation(df: pd.DataFrame):
   )
   df = df.reset_index(drop=True)
   train_x, test_x, train_y, test_y = model_selection.train_test_split(df, df['beds_available_icu_beds_total'])
-  print('train_x:', train_x)
-  print('train_y:', train_y)
-  print('test_x:', test_x)
-  print('test_y:', test_y)
+  if is_verbose:
+    print('train_x:', train_x)
+    print('train_y:', train_y)
+    print('test_x:', test_x)
+    print('test_y:', test_y)
   train_fn = tfest.inputs.pandas_input_fn(
     x=train_x,
     y=train_y,
@@ -406,7 +404,7 @@ def predict_hospital_occupation(df: pd.DataFrame):
     batch_size=14
   )
   model = estimator.train(input_fn=train_fn, steps=5000)
-  result = model.evaluate(input_fn=train_fn, steps=10)
+  result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
     print(key, ':', val)
   print_separator()
@@ -421,7 +419,8 @@ def predict_hospital_occupation(df: pd.DataFrame):
     break
   if should_plot:
     datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
-    print('predictions:',predictions.flatten())
+    if is_verbose:
+      print('predictions:',predictions.flatten())
     plt.plot(
       datelist,
       predictions.flatten(),
