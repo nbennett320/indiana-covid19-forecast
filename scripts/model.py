@@ -370,8 +370,16 @@ def preprocess_data():
         county_level_test_case_death_trends_df, 
         county=i
       )
+      predict_covid_deaths(
+        county_level_test_case_death_trends_df, 
+        county=i
+      )
   else:
     predict_covid_count(
+      county_level_test_case_death_trends_df, 
+      county=model_county
+    )
+    predict_covid_deaths(
       county_level_test_case_death_trends_df, 
       county=model_county
     )
@@ -471,6 +479,110 @@ def predict_hospital_occupation(df: pd.DataFrame):
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
 
+def predict_covid_deaths(df: pd.DataFrame, county: str):
+  df = df.loc[df['county_name'] == county, :]
+  df.pop('county_name')
+  fcols = []
+  for col in df.columns:
+    fcols.append(tf.feature_column.numeric_column(col))
+  estimator = tf.estimator.LinearRegressor(
+    feature_columns=fcols,
+    model_dir=model_dir + '/covid_deaths/',
+    optimizer=tf.optimizers.Ftrl(
+      learning_rate=0.05,
+      l1_regularization_strength=0.0,
+    )
+  )
+  if should_plot:
+    plt.plot(
+      df.index,
+      df['covid_deaths'],
+      label="covid_deaths"
+    )
+  dft = df.copy()
+  dft.reset_index(drop=True, inplace=True)
+  train_x, test_x, train_y, test_y = model_selection.train_test_split(dft, dft['covid_deaths'])
+  if is_verbose:
+    print('train_x:', train_x)
+    print('train_y:', train_y)
+    print('test_x:', test_x)
+    print('test_y:', test_y)
+  train_fn = tfest.inputs.pandas_input_fn(
+    x=train_x,
+    y=train_y,
+    shuffle=True,
+    num_epochs=100,
+    batch_size=14
+  )
+  test_fn = tfest.inputs.pandas_input_fn(
+    x=test_x,
+    y=test_y,
+    shuffle=False,
+    batch_size=14
+  )
+  model = estimator.train(input_fn=train_fn, steps=5000)
+  result = model.evaluate(input_fn=test_fn, steps=10)
+  for key, val in result.items():
+    print(key, ':', val)
+  print_separator()
+  pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
+  predictions = None
+  datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
+  for pred in pred_generator:
+    for key, val in pred.items():
+      predictions = val
+      print(key, ':', val)
+      print('len:', len(val))
+      print('shape:', val.shape)
+    break
+  normalized_pred = [*map(lambda x: x + df['covid_deaths'][-14:].mean(), predictions.flatten())]
+
+  # handle plotting
+  if should_plot:
+    if is_verbose:
+      print('predictions:',predictions.flatten())
+    plt.plot(
+      datelist,
+      normalized_pred,
+      label="covid predictions"
+    )
+    plt.show()
+  
+  # handle exporting data
+  if len(output_dir) > 0:
+    if is_verbose:
+      print('output', output_dir)
+
+    # prepare prediction df
+    df_pred = pd.DataFrame({
+      'date': datelist,
+      'covid_deaths': normalized_pred[len(normalized_pred)-n_days:]
+    }).set_index('date')
+
+    # calculate smoothed data
+    polynomial_data = df['covid_deaths'].resample('5D', kind='timestamp').mean()
+    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
+    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
+    polynomial_pred = df_pred['covid_deaths'].resample('2D', kind='timestamp').mean()
+    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
+    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
+    output = dict({
+      'county': county,
+      'prediction_key': 'covid_deaths',
+      'x_data': df['covid_deaths'].index.values.tolist(),
+      'y_data': df['covid_deaths'].values.tolist(),
+      'x_pred': datelist.tolist(),
+      'y_pred': df_pred[len(df_pred)-n_days:].values.tolist(),
+      'x_data_polynomial': polynomial_data.index.values.tolist(),
+      'y_data_polynomial': polynomial_data.values.tolist(),
+      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
+      'y_pred_polynomial': polynomial_data.values.tolist(),
+    })
+
+    filename = output_dir + 'model_prediction_' + county + '_' + 'covid_deaths' + '.json'
+    with open(filename, 'w') as outfile:
+      json.dump(output, outfile)
+
 def predict_covid_count(df: pd.DataFrame, county: str):
   df = df.loc[df['county_name'] == county, :]
   df.pop('county_name')
@@ -527,7 +639,7 @@ def predict_covid_count(df: pd.DataFrame, county: str):
       print('len:', len(val))
       print('shape:', val.shape)
     break
-  normalized_pred = [*map(lambda x: x + df['covid_count'].iloc[-14:].mean(), predictions.flatten())]
+  normalized_pred = [*map(lambda x: x + df['covid_count'][-14:].mean(), predictions.flatten())]
 
   # handle plotting
   if should_plot:
