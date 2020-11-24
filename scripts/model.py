@@ -362,19 +362,19 @@ def preprocess_data():
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
 
-  # if model_county.lower() == 'all':
-  #   cdf = pd.DataFrame(indiana_counties_raw).copy()
-  #   del cdf['location_id']
-  #   for i in cdf['county_name']:
-  #     predict_covid_count(
-  #       county_level_test_case_death_trends_df, 
-  #       county=i
-  #     )
-  # else:
-  #   predict_covid_count(
-  #     county_level_test_case_death_trends_df, 
-  #     county=model_county
-  #   )
+  if model_county.lower() == 'all':
+    cdf = pd.DataFrame(indiana_counties_raw).copy()
+    del cdf['location_id']
+    for i in cdf['county_name']:
+      predict_covid_count(
+        county_level_test_case_death_trends_df, 
+        county=i
+      )
+  else:
+    predict_covid_count(
+      county_level_test_case_death_trends_df, 
+      county=model_county
+    )
   predict_hospital_occupation(hospital_vent_df)
 
 def predict_hospital_occupation(df: pd.DataFrame):
@@ -527,7 +527,7 @@ def predict_covid_count(df: pd.DataFrame, county: str):
       print('len:', len(val))
       print('shape:', val.shape)
     break
-  normalized_pred = [*map(lambda x: x + df['covid_count'].iat[-1], predictions.flatten())]
+  normalized_pred = [*map(lambda x: x + df['covid_count'].iloc[-14:].mean(), predictions.flatten())]
 
   # handle plotting
   if should_plot:
