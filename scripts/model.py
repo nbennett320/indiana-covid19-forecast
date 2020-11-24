@@ -353,19 +353,16 @@ def preprocess_data():
     cdf = pd.DataFrame(indiana_counties_raw).copy()
     del cdf['location_id']
     for i in cdf['county_name']:
-      predict_cases(
-        county_level_test_case_death_trends_df,
-        county=i,
-        y='covid_count',
+      predict_count(
+        county_level_test_case_death_trends_df, 
+        county=i
       )
   else:
-    predict_cases(
-      county_level_test_case_death_trends_df,
-      county=model_county,
-      y='covid_count',
+    predict_count(
+      county_level_test_case_death_trends_df, 
+      county=model_county
     )
   # predict_hospital_occupation(hospital_vent_df)
-  predict_count(county_level_test_case_death_trends_df, county=model_county)
 
 def predict_hospital_occupation(df: pd.DataFrame):
   fcols = []
@@ -536,7 +533,7 @@ def predict_count(df: pd.DataFrame, county: str):
     }).set_index('date')
 
     # calculate smoothed data
-    polynomial_data = df.loc[df['county_name'] == county, y].resample('5D', kind='timestamp').mean()
+    polynomial_data = df['covid_count'].resample('5D', kind='timestamp').mean()
     polynomial_data = polynomial_data.resample('4H', kind='timestamp')
     polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
     polynomial_pred = df_pred['covid_count'].resample('2D', kind='timestamp').mean()
@@ -545,10 +542,10 @@ def predict_count(df: pd.DataFrame, county: str):
     output = dict({
       'county': county,
       'prediction_key': 'covid_count',
-      'x_data': df.loc[df['county_name'] == county, y].index.values.tolist(),
-      'y_data': df.loc[df['county_name'] == county, y].values.tolist(),
+      'x_data': df['covid_count'].index.values.tolist(),
+      'y_data': df['covid_count'].values.tolist(),
       'x_pred': datelist.tolist(),
-      'y_pred': df_pred[len(df_pred)-n_days:].tolist(),
+      'y_pred': df_pred[len(df_pred)-n_days:].values.tolist(),
       'x_data_polynomial': polynomial_data.index.values.tolist(),
       'y_data_polynomial': polynomial_data.values.tolist(),
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
