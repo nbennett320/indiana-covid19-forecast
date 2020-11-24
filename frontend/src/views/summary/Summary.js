@@ -17,6 +17,17 @@ const Summary = props => {
       />
       <Plot
         county={props.county}
+        plotData="covid_deaths"
+        isCountyLevelData={true}
+        format={{
+          title: `${props.county} ${props.county === 'Indiana' ? '' : 'County'} Covid-19 deaths per day`,
+          xLab: "Date",
+          yLab: "Deaths per day",
+          dataLab: "Deaths"
+        }}
+      />
+      <Plot
+        county={props.county}
         plotData="hospital_occupation"
         isCountyLevelData={false}
         format={{

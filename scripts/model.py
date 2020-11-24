@@ -366,6 +366,9 @@ def preprocess_data():
     cdf = pd.DataFrame(indiana_counties_raw).copy()
     del cdf['location_id']
     for i in cdf['county_name']:
+      print_separator()
+      print(f'calculating for {i} county...')
+      print_separator()
       predict_covid_count(
         county_level_test_case_death_trends_df, 
         county=i
