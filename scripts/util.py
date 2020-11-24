@@ -167,3 +167,13 @@ def assign_school_type(string):
     return 5
   else:
     return 0
+
+def format_date(date):
+  p = re.compile('([0-9]?[0-9])\/([0-9]?[0-9])\/([0-9][0-9])')
+  m = p.match(date)
+  month = '0' + m.group(1) if len(m.group(1)) < 2 else m.group(1)
+  day =  '0' + m.group(2) if len(m.group(2)) < 2 else m.group(2)
+  year = m.group(3)
+  year = year + '20'
+  f = year + '-' + month + '-' + day
+  return f

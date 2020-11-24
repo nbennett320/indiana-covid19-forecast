@@ -20,7 +20,7 @@ from scipy import interpolate
 from datetime import datetime
 from argparse import ArgumentParser
 from functools import reduce
-from util import print_separator, update_dataset, assign_school_type
+from util import print_separator, update_dataset, assign_school_type, format_date
 tf = tf.compat.v2
 tf.enable_v2_behavior()
 tfb = tfp.bijectors
@@ -102,6 +102,7 @@ indiana_county_level_test_case_death_trends_raw = pd.read_excel(indiana_county_l
 indiana_covid_demographics_by_county_raw = pd.read_excel(indiana_covid_demographics_by_county_filename)
 indiana_hospital_vent_data_raw = pd.read_excel(indiana_hospital_vent_data_filename)
 indiana_covid_cases_by_school_raw = pd.read_excel(indiana_covid_cases_by_school_filename)
+jh_cases_raw = pd.read_csv(jh_cases_filename)
 
 def format_apple_mobility_data():
   df = pd.DataFrame(apple_vehicle_mobility_report_raw).copy()
@@ -206,7 +207,6 @@ def format_county_level_test_case_death_trends():
   print(df)
   print(df.loc[df['county_name'] == 'Indiana'])
   df.insert(5, 'covid_count_state_cumulative', df['covid_count'].cumsum())
-  print('df--\n', df)
   top = df.pop('county_name')
   df.insert(0, top.name, top)
   df = df.fillna(0)
@@ -229,10 +229,24 @@ def format_covid_demographics_by_county():
 
 def format_hospital_vent_data():
   df = pd.DataFrame(indiana_hospital_vent_data_raw).copy()
+  jdf = pd.DataFrame(jh_cases_raw).copy()
+  jdf = jdf.drop(labels=['UID', 'iso2', 'iso3', 'code3', 'FIPS', 'Combined_Key', 'Country_Region', 'Lat', 'Long_'], axis=1)
+  jdf = jdf.loc[jdf['Province_State'] == 'Indiana', :]
+  jdf = jdf.loc[jdf['Admin2'] != 'Out of IN', :]
+  jdf = jdf.loc[jdf['Admin2'] != 'Unassigned', :]
+  jdf = jdf.drop(labels=['Province_State', 'Admin2'], axis=1)
+  jdf = jdf.reset_index()
+  jdf = jdf.T
+  jdf = jdf.drop(labels=['index'], axis=0)
+  jdf = jdf.reset_index(drop=False)
+  jdf.iloc[:, 0] = jdf.iloc[:, 0].apply(lambda x: format_date(x))
+  jdf = jdf.set_index('index')
+  jdf['cases_sum'] = jdf.sum(axis=1)
   for col in df.columns:
     df[col.lower()] = df[col]
     del df[col]
   df = df.set_index('date')
+  df = df.join(jdf['cases_sum'])
   df = df.fillna(0)
   df.index = pd.to_datetime(df.index)
   return df
@@ -349,20 +363,20 @@ def preprocess_data():
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
 
-  if model_county.lower() == 'all':
-    cdf = pd.DataFrame(indiana_counties_raw).copy()
-    del cdf['location_id']
-    for i in cdf['county_name']:
-      predict_count(
-        county_level_test_case_death_trends_df, 
-        county=i
-      )
-  else:
-    predict_count(
-      county_level_test_case_death_trends_df, 
-      county=model_county
-    )
-  # predict_hospital_occupation(hospital_vent_df)
+  # if model_county.lower() == 'all':
+  #   cdf = pd.DataFrame(indiana_counties_raw).copy()
+  #   del cdf['location_id']
+  #   for i in cdf['county_name']:
+  #     predict_covid_count(
+  #       county_level_test_case_death_trends_df, 
+  #       county=i
+  #     )
+  # else:
+  #   predict_covid_count(
+  #     county_level_test_case_death_trends_df, 
+  #     county=model_county
+  #   )
+  predict_hospital_occupation(hospital_vent_df)
 
 def predict_hospital_occupation(df: pd.DataFrame):
   fcols = []
@@ -370,9 +384,9 @@ def predict_hospital_occupation(df: pd.DataFrame):
     fcols.append(tf.feature_column.numeric_column(col))
   estimator = tf.estimator.LinearRegressor(
     feature_columns=fcols,
-    model_dir=model_dir,
+    model_dir=model_dir + '/hospital_occupation/',
     optimizer=tf.optimizers.Ftrl(
-      learning_rate=0.05,
+      learning_rate=0.025,
       l1_regularization_strength=0.0,
     )
   )
@@ -438,7 +452,7 @@ def predict_hospital_occupation(df: pd.DataFrame):
     polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
     polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
-      'x_data': dft.index.values.tolist(),
+      'x_data': df.index.values.tolist(),
       'y_data': dft['beds_available_icu_beds_total'].values.tolist(),
       'x_pred': datelist.tolist(),
       'y_pred': predictions.flatten().tolist(),
@@ -452,7 +466,7 @@ def predict_hospital_occupation(df: pd.DataFrame):
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
 
-def predict_count(df: pd.DataFrame, county: str):
+def predict_covid_count(df: pd.DataFrame, county: str):
   df = df.loc[df['county_name'] == county, :]
   df.pop('county_name')
   fcols = []
