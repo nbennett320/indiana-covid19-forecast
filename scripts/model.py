@@ -5,7 +5,6 @@ import collections, sys, os, math, json, logging
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from pandas import tseries
 import tensorflow as tf
 import tensorflow_probability as tfp
 from tensorflow import keras
@@ -15,11 +14,11 @@ from tensorflow_estimator import estimator as tfest
 from tensorflow_probability.python.internal import prefer_static as ps
 from tensorflow_probability.python.mcmc.internal import util as mcmc_util
 from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import MinMaxScaler
 from sklearn import model_selection
 from scipy import interpolate
 from datetime import datetime
 from argparse import ArgumentParser
-from functools import reduce
 from util import print_separator, update_dataset, assign_school_type, format_date
 tf = tf.compat.v2
 tf.enable_v2_behavior()
@@ -386,8 +385,10 @@ def predict_hospital_occupation(df: pd.DataFrame):
     feature_columns=fcols,
     model_dir=model_dir + '/hospital_occupation/',
     optimizer=tf.optimizers.Ftrl(
-      learning_rate=0.025,
+      learning_rate=0.99999,
       l1_regularization_strength=0.0,
+      l2_regularization_strength=0.0,
+      l2_shrinkage_regularization_strength=0.0
     )
   )
   if should_plot:
@@ -432,17 +433,21 @@ def predict_hospital_occupation(df: pd.DataFrame):
       print('len:', len(val))
       print('shape:', val.shape)
     break
+  scaler = MinMaxScaler()
+  predictions = scaler.fit_transform(predictions)
+  predictions = np.array([*map(lambda x: x*df['beds_available_icu_beds_total'][-1], predictions.flatten())])
+  predictions[predictions < 1] = np.mean(predictions[predictions > 0])
   if should_plot:
     if is_verbose:
-      print('predictions:',predictions.flatten())
+      print('predictions:',predictions)
     plt.plot(
       datelist,
-      predictions.flatten(),
+      predictions,
       label="bed predictions"
     )
     plt.show()
   if len(output_dir) > 0:
-    pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions.flatten()})
+    pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions})
     pred_df.set_index('date', inplace=True, drop=True)
     print(pred_df)
     polynomial_data = df.resample('5D', kind='timestamp').mean()
@@ -455,7 +460,7 @@ def predict_hospital_occupation(df: pd.DataFrame):
       'x_data': df.index.values.tolist(),
       'y_data': dft['beds_available_icu_beds_total'].values.tolist(),
       'x_pred': datelist.tolist(),
-      'y_pred': predictions.flatten().tolist(),
+      'y_pred': predictions.tolist(),
       'x_data_polynomial': polynomial_data.index.values.tolist(),
       'y_data_polynomial': polynomial_data.values.tolist(),
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
