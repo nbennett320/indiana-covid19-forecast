@@ -34,6 +34,7 @@ ElevationScroll.propTypes = {
 }
 
 const Header = props => {
+  const [input, setInput] = useState('')
   const [query, setQuery] = useState('')
   const [menuIsOpen, setMenuIsOpen] = useState(false)
   const anchorRef = React.useRef(null)
@@ -48,6 +49,11 @@ const Header = props => {
     if(anchorRef.current && anchorRef.current.contains(e.target))
       return
     setMenuIsOpen(false)
+  }
+  const handleSelect = (e, el) => {
+    setInput(el)
+    handleClose(e)
+    props.handleChangeCounty(el)
   }
 
   return (
@@ -86,8 +92,10 @@ const Header = props => {
                 <SearchIcon />
               </div>
               <InputBase
+                value={input}
+                onChange={e => setInput(e.target.value)}
                 onKeyUp={handleQuery}
-                placeholder="Filter"
+                placeholder="Filter by county"
                 classes={{
                   root: classes.inputRoot,
                   input: classes.inputInput,
@@ -103,6 +111,7 @@ const Header = props => {
         anchorEl={anchorRef.current}
         isOpen={menuIsOpen}
         handleClose={handleClose}
+        handleSelect={handleSelect}
         handleChangeCounty={props.handleChangeCounty}
       />
     </div>
@@ -130,9 +139,9 @@ const useStyles = makeStyles(theme => ({
   search: {
     position: 'relative',
     borderRadius: theme.shape.borderRadius,
-    backgroundColor: fade(theme.palette.primary.dark, 0.25),
+    backgroundColor: fade(theme.palette.primary.main, 0.5),
     '&:hover': {
-      backgroundColor: fade(theme.palette.primary.dark, 0.35),
+      backgroundColor: fade(theme.palette.primary.main, 0.6),
     },
     marginLeft: 0,
     width: '100%',
@@ -159,7 +168,7 @@ const useStyles = makeStyles(theme => ({
     transition: theme.transitions.create('width'),
     width: '100%',
     [theme.breakpoints.up('sm')]: {
-      width: '12ch',
+      width: '14ch',
       '&:focus': {
         width: '20ch',
       },

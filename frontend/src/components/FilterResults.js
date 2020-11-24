@@ -7,16 +7,14 @@ import {
   Collapse,
   Paper,
 } from '@material-ui/core'
-import { makeStyles } from '@material-ui/core/styles'
+import { 
+  fade, 
+  makeStyles 
+} from '@material-ui/core/styles'
 import counties from '../data/indiana_counties.json'
 
 const FilterResults = props => {
   const classes = useStyles()
-  const handleSelect = (e, el) => {
-    props.handleClose(e)
-    props.handleChangeCounty(el)
-  }
-
   return (
     <Popper
       open={props.isOpen}
@@ -50,8 +48,9 @@ const FilterResults = props => {
                     .filter(el => el.toLowerCase().includes(props.query.toLowerCase()))
                     .map(el => (
                       <MenuItem 
-                        onClick={e => handleSelect(e, el)}
+                        onClick={e => props.handleSelect(e, el)}
                         key={el}
+                        className={classes.menuItem}
                       >
                         { el } {el.includes('Indiana') ? '(all counties)' : 'County'}
                       </MenuItem>
@@ -74,6 +73,12 @@ const FilterResults = props => {
 const useStyles = makeStyles(theme =>({
   main: {
     width: '234px'
+  },
+  menuItem :{
+    '&:hover': {
+      color: theme.palette.primary.contrastText,
+      backgroundColor: fade(theme.palette.primary.main, 0.4)
+    }
   }
 }))
 

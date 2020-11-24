@@ -2,7 +2,9 @@ import React from 'react'
 import Plot from 'react-plotly.js'
 
 const getRenderedData = props => {
-  const rawData = require(`../../data/model_prediction_${props.county}_${props.plotData}.json`)
+  const rawData = props.isCountyLevelData 
+    ? require(`../../data/model_prediction_${props.county}_${props.plotData}.json`)
+    : require(`../../data/model_prediction_${props.plotData}.json`)
   const {
     x_data,
     y_data,
@@ -17,7 +19,7 @@ const getRenderedData = props => {
     {
       x: x_data.map(t => new Date(t / Math.pow(10, 6))),
       y: y_data,
-      name: 'Cases',
+      name: props.format.dataLab,
       showlegend: true,
       type: 'line',
       mode: 'lines',
@@ -101,7 +103,6 @@ const getRenderedData = props => {
 
 const DataPlot = props => {
   const data = getRenderedData({...props})
-  console.log(data)
   return (
     <div style={styles}>
       <Plot
