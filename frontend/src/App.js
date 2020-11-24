@@ -1,17 +1,23 @@
 import React from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
-import { Route, Switch } from 'react-router'
-import { Header } from './components/'
+import { Route, Switch, Redirect } from 'react-router'
+import { Header, Sidebar } from './components/'
 import { Map, Summary, About } from './views'
 import './assets/css/App.css'
 
 const App = () => {
+  const [sidebarIsOpen, setSidebarIsOpen] = React.useState(false)
   const [county, setCounty] = React.useState('Indiana')
-
   return (
     <div style={styles}>
       <Header 
         handleChangeCounty={(val) => setCounty(val)}
+        sidebarIsOpen={sidebarIsOpen}
+        toggleSidebar={() => setSidebarIsOpen(!sidebarIsOpen)}
+      />
+      <Sidebar
+        isOpen={sidebarIsOpen}
+        toggleSidebar={() => setSidebarIsOpen(!sidebarIsOpen)}
       />
       <Router>
         <Switch>
@@ -26,6 +32,10 @@ const App = () => {
           <Route path='/about'>
             <About />
           </Route>
+          <Redirect 
+            from='/*'
+            to='/'
+          />
         </Switch>
       </Router>
     </div>

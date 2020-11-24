@@ -55,7 +55,6 @@ const Header = props => {
     handleClose(e)
     props.handleChangeCounty(el)
   }
-
   return (
     <div className={classes.root}>
       <ElevationScroll {...props}>
@@ -65,8 +64,9 @@ const Header = props => {
         >
           <Toolbar>
             <IconButton
-              edge="start"
+              onClick={props.toggleSidebar}
               className={classes.menuButton}
+              edge="start"
               aria-label="open drawer"
             >
               <MenuIcon />
