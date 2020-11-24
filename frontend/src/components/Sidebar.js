@@ -1,5 +1,4 @@
 import React from 'react'
-import { useHistory } from 'react-router-dom'
 import {
   Drawer,
   List,
@@ -16,12 +15,7 @@ import MapIcon from '@material-ui/icons/Map'
 import InfoIcon from '@material-ui/icons/Info'
 
 const Sidebar = props => {
-  const history = useHistory()
   const classes = useStyles()
-  const goTo = route => {
-    props.toggleSidebar()
-    history.push(route)
-  }
   return (
     <Drawer
       open={props.isOpen}
@@ -36,7 +30,6 @@ const Sidebar = props => {
       <Divider />
       <List className={classes.listContainer}>
         <ListItem 
-          onClick={() => goTo('/')}
           button
         >
           <ListItemIcon>
@@ -47,7 +40,6 @@ const Sidebar = props => {
           </ListItemText>
         </ListItem>
         <ListItem 
-          onClick={() => goTo('/map')}
           button
         >
           <ListItemIcon>
@@ -58,7 +50,6 @@ const Sidebar = props => {
           </ListItemText>
         </ListItem>
         <ListItem 
-          onClick={() => goTo('/about')}
           button
         >
           <ListItemIcon>

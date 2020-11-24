@@ -21,15 +21,15 @@ const App = () => {
       />
       <Router>
         <Switch>
-          <Route path='/'>
+          <Route path='/' exact>
             <Summary 
               county={county}
             />
           </Route>
-          <Route path='/map'>
+          <Route path='/map' exact>
             <Map />
           </Route>
-          <Route path='/about'>
+          <Route path='/about' exact>
             <About />
           </Route>
           <Redirect 
