@@ -1,6 +1,11 @@
 update-model:
-	rm -r ._temp_ -v
-	python3 scripts/update_dataset.py
+	python3 scripts/model.py --county All --days 14 --train-dir ./train/ --output-dir ./frontend/src/data --verbose --update-datasets
+	python3 scripts/model.py --county Indiana --days 14 --train-dir ./train/ --output-dir ./frontend/src/data --verbose --update-datasets
+	cd ./frontend
+	yarn deploy
+	cd ../
+	rm -r ./public
+	mv ./frontend/build ./public
 install-model-dependencies:
 	pip3 install numpy pandas tensorflow requests bs4 selenium chromedriver-install
 clean:
