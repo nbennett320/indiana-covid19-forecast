@@ -1,6 +1,6 @@
 update-model:
-	python3 scripts/model.py --county All --days 14 --train-dir ./train/ --output-dir ./frontend/src/data --verbose --update-datasets
-	python3 scripts/model.py --county Indiana --days 14 --train-dir ./train/ --output-dir ./frontend/src/data --verbose --update-datasets
+	python3 scripts/model.py --county All --days 14 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
+	python3 scripts/model.py --county Indiana --days 14 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
 	cd ./frontend
 	yarn deploy
 	cd ../
