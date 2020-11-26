@@ -279,6 +279,8 @@ LB,Lebanon,,,,,,2020-11-17,-46,-2,-26,-35,-43,9
 LB,Lebanon,,,,,,2020-11-18,-45,1,-21,-36,-40,9
 LB,Lebanon,,,,,,2020-11-19,-43,3,-20,-32,-41,8
 LB,Lebanon,,,,,,2020-11-20,-49,0,-31,-35,-41,11
+LB,Lebanon,,,,,,2020-11-21,-49,2,-25,-45,-33,7
+LB,Lebanon,,,,,,2020-11-22,-68,-42,-43,-55,-39,11
 LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-02-15,10,2,,,1,
 LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-02-16,5,,,,4,
 LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-02-17,,,,,4,
@@ -534,6 +536,8 @@ LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-11-17,,,,,-42,-1
 LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-11-18,,,,,-41,-1
 LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-11-19,,,,,-42,-1
 LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-11-20,-6,,,,-37,1
+LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-11-21,-3,,,,-33,-1
+LB,Lebanon,Akkar Governorate,,,LB-AK,,2020-11-22,-8,,,,-31,
 LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-02-15,11,1,,,1,0
 LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-02-16,5,-3,,,9,0
 LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-02-17,7,0,,,6,-1
@@ -813,6 +817,8 @@ LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-11-17,-3,21,,,-42,0
 LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-11-18,-3,18,,,-38,0
 LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-11-19,-2,18,,,-42,-1
 LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-11-20,-6,12,,,-37,2
+LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-11-21,-3,23,,,-32,0
+LB,Lebanon,Akkar Governorate,Aakkar,,,,2020-11-22,-12,6,,,-28,0
 LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-02-15,,4,,,5,
 LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-02-16,,-3,,,2,
 LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-02-17,,-2,,,1,
@@ -1068,6 +1074,8 @@ LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-11-17,,30,-42,,-44,0
 LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-11-18,,34,-46,,-43,-1
 LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-11-19,,43,-38,,-41,-1
 LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-11-20,,,,,-36,1
+LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-11-21,,40,-33,,-27,-1
+LB,Lebanon,Baalbek-Hermel Governorate,,,LB-BH,,2020-11-22,,36,-44,,-31,
 LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-02-15,,6,23,,2,-1
 LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-02-16,,-2,0,,0,0
 LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-02-17,,0,-2,,2,1
@@ -1348,6 +1356,8 @@ LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-11-17,,33,-44,,-42,0
 LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-11-18,,39,-45,,-42,0
 LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-11-19,,41,-43,,-40,-1
 LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-11-20,,45,-39,,-34,1
+LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-11-21,-7,43,-31,,-26,0
+LB,Lebanon,Baalbek-Hermel Governorate,Baalbek,,,,2020-11-22,-20,35,-45,,-31,0
 LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-02-15,1,-2,4,,-1,-1
 LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-02-16,1,5,13,,0,0
 LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-02-17,2,-1,3,,0,-1
@@ -1628,6 +1638,8 @@ LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-11-17,-62,1,-50,,-50,14
 LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-11-18,-62,4,-48,,-48,14
 LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-11-19,-62,4,-52,,-48,13
 LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-11-20,-66,1,-57,,-49,16
+LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-11-21,-69,-1,-59,,-46,11
+LB,Lebanon,Beirut Governorate,,,LB-BA,,2020-11-22,-84,-40,-75,,-55,18
 LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-02-15,15,-1,9,,2,-1
 LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-02-16,7,2,-3,,3,0
 LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-02-17,-4,-1,-2,,1,0
@@ -1907,6 +1919,8 @@ LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-11-17,-30,9,3,,-41,4
 LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-11-18,-25,15,7,,-38,3
 LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-11-19,-25,17,14,,-40,3
 LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-11-20,-31,15,7,,-36,4
+LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-11-21,-33,10,12,,-32,3
+LB,Lebanon,Beqaa Governorate,,,LB-BI,,2020-11-22,-49,-15,0,,-29,4
 LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-05-14,,,,,-59,
 LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-06-08,,,,,-18,
 LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-06-09,,,,,-10,
@@ -2030,6 +2044,7 @@ LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-11-17,,,,,-55,
 LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-11-18,,,,,-46,
 LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-11-19,,,,,-53,
 LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-11-20,,,,,-48,
+LB,Lebanon,Beqaa Governorate,Rachaiya,,,,2020-11-21,,,,,-44,
 LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-02-15,,0,,,-3,
 LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-02-16,,9,,,-1,
 LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-02-17,,-2,,,7,
@@ -2285,6 +2300,8 @@ LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-11-17,,23,,,-41,1
 LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-11-18,,14,,,-36,0
 LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-11-19,,27,,,-37,1
 LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-11-20,,15,,,-30,1
+LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-11-21,,17,,,-32,1
+LB,Lebanon,Beqaa Governorate,West Bekaa,,,,2020-11-22,,-4,,,-27,
 LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-02-15,17,-1,10,,3,-1
 LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-02-16,7,-1,1,,2,1
 LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-02-17,-3,-1,2,,4,0
@@ -2565,6 +2582,8 @@ LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-11-17,-32,6,5,,-40,6
 LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-11-18,-27,14,6,,-40,5
 LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-11-19,-28,13,19,,-41,5
 LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-11-20,-36,13,10,,-41,6
+LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-11-21,-37,8,15,,-34,4
+LB,Lebanon,Beqaa Governorate,Zahlé,,,,2020-11-22,-55,-19,5,,-35,6
 LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-02-15,6,-3,23,4,-1,-2
 LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-02-16,1,0,6,16,1,-1
 LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-02-17,-1,-2,0,9,1,-1
@@ -2845,6 +2864,8 @@ LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-11-17,-48,-14,-13,-32,-44,12
 LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-11-18,-46,-10,-10,-34,-42,12
 LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-11-19,-45,-9,-12,-30,-43,11
 LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-11-20,-51,-11,-28,-33,-42,14
+LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-11-21,-52,-7,-22,-43,-34,8
+LB,Lebanon,Mount Lebanon Governorate,,,LB-JL,,2020-11-22,-75,-59,-47,-56,-45,15
 LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-02-15,7,-2,16,5,0,-2
 LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-02-16,4,-4,27,17,2,0
 LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-02-17,-1,-2,6,9,1,-1
@@ -3125,6 +3146,8 @@ LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-11-17,-32,-15,28,-32,-38,11
 LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-11-18,-29,-8,25,-34,-38,11
 LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-11-19,-29,-8,35,-30,-37,10
 LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-11-20,-33,-6,24,-34,-38,12
+LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-11-21,-35,-2,26,-44,-31,9
+LB,Lebanon,Mount Lebanon Governorate,Aalay,,,,2020-11-22,-66,-43,0,-55,-40,13
 LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-02-15,0,-7,-4,18,-1,-2
 LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-02-16,3,0,-9,,1,-1
 LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-02-17,0,-3,-2,,1,-2
@@ -3405,6 +3428,8 @@ LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-11-17,-46,0,17,,-44,12
 LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-11-18,-46,0,6,,-42,12
 LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-11-19,-46,2,5,,-44,12
 LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-11-20,-50,-6,-10,,-44,14
+LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-11-21,-52,-15,-24,,-38,9
+LB,Lebanon,Mount Lebanon Governorate,Baabda,,,,2020-11-22,-74,-63,-47,,-45,15
 LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-02-15,6,2,18,,4,-2
 LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-02-16,7,0,13,,3,0
 LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-02-17,-3,1,-1,,2,-1
@@ -3685,6 +3710,8 @@ LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-11-17,-21,5,-4,,-35,8
 LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-11-18,-25,5,6,,-34,6
 LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-11-19,-17,10,2,,-33,6
 LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-11-20,-24,6,-13,,-32,9
+LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-11-21,-21,17,-6,,-26,6
+LB,Lebanon,Mount Lebanon Governorate,Chouf,,,,2020-11-22,-51,-16,-24,,-30,9
 LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-02-15,16,3,59,,-1,-1
 LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-02-16,3,-4,32,,1,
 LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-02-17,3,1,-6,,2,-1
@@ -3962,6 +3989,8 @@ LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-11-17,-48,-27,-47,,-45,11
 LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-11-18,-47,-24,-37,,-40,10
 LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-11-19,-42,-16,-46,,-42,10
 LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-11-20,-52,-24,-58,,-42,15
+LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-11-21,-55,-13,-57,,-34,7
+LB,Lebanon,Mount Lebanon Governorate,Jbeil,,,,2020-11-22,-74,-62,-73,,-40,14
 LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-02-15,12,-2,13,,-1,-2
 LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-02-16,5,3,-9,,1,-1
 LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-02-17,3,2,-3,,2,-1
@@ -4242,6 +4271,8 @@ LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-11-17,-48,-17,-11,,-39,14
 LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-11-18,-47,-17,-11,,-36,12
 LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-11-19,-45,-13,-24,,-38,13
 LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-11-20,-55,-18,-40,,-40,17
+LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-11-21,-54,-9,-34,,-30,9
+LB,Lebanon,Mount Lebanon Governorate,Kesrouane,,,,2020-11-22,-77,-64,-65,,-42,17
 LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-02-15,2,-3,14,,-2,-1
 LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-02-16,1,0,-4,,0,0
 LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-02-17,-1,-1,0,,1,-1
@@ -4522,6 +4553,8 @@ LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-11-17,-57,-16,-29,,-48,16
 LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-11-18,-55,-12,-21,,-47,16
 LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-11-19,-55,-10,-22,,-46,15
 LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-11-20,-62,-12,-37,,-48,18
+LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-11-21,-64,-4,-20,,-39,11
+LB,Lebanon,Mount Lebanon Governorate,Matn,,,,2020-11-22,-83,-70,-50,,-54,19
 LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-02-15,14,10,25,,4,-1
 LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-02-16,1,6,10,,0,-1
 LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-02-17,6,2,5,,1,-1
@@ -4801,6 +4834,8 @@ LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-11-17,-14,18,5,,-41,3
 LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-11-18,-14,23,5,,-39,1
 LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-11-19,-14,25,15,,-40,2
 LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-11-20,-17,21,2,,-37,4
+LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-11-21,-21,16,-6,,-26,2
+LB,Lebanon,Nabatiyeh Governorate,,,LB-NA,,2020-11-22,-40,-3,-1,,-32,3
 LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-02-15,,10,,,2,
 LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-02-17,,,,,2,
 LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-02-18,,,,,1,
@@ -5044,6 +5079,8 @@ LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-11-17,,,,,-31,
 LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-11-18,,,,,-34,
 LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-11-19,,,,,-34,
 LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-11-20,,,,,-29,
+LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-11-21,,,,,-21,
+LB,Lebanon,Nabatiyeh Governorate,Bint Jbeil,,,,2020-11-22,,,,,-19,
 LB,Lebanon,Nabatiyeh Governorate,Hasbaiyya,,,,2020-06-08,,,,,4,
 LB,Lebanon,Nabatiyeh Governorate,Hasbaiyya,,,,2020-06-09,,,,,15,
 LB,Lebanon,Nabatiyeh Governorate,Hasbaiyya,,,,2020-06-10,,,,,14,
@@ -5361,6 +5398,8 @@ LB,Lebanon,Nabatiyeh Governorate,Marjaayoun,,,,2020-11-17,,,,,-41,
 LB,Lebanon,Nabatiyeh Governorate,Marjaayoun,,,,2020-11-18,,,,,-41,
 LB,Lebanon,Nabatiyeh Governorate,Marjaayoun,,,,2020-11-19,,,,,-39,
 LB,Lebanon,Nabatiyeh Governorate,Marjaayoun,,,,2020-11-20,,,,,-44,
+LB,Lebanon,Nabatiyeh Governorate,Marjaayoun,,,,2020-11-21,,,,,-24,
+LB,Lebanon,Nabatiyeh Governorate,Marjaayoun,,,,2020-11-22,,,,,-31,
 LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-02-15,18,10,29,,3,-1
 LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-02-16,0,5,17,,2,-1
 LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-02-17,7,1,-1,,1,0
@@ -5639,6 +5678,8 @@ LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-11-17,-24,13,13,,-44,7
 LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-11-18,-22,17,23,,-40,4
 LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-11-19,-23,17,21,,-41,5
 LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-11-20,-25,13,11,,-40,8
+LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-11-21,-26,10,13,,-29,5
+LB,Lebanon,Nabatiyeh Governorate,Nabatiyeh,,,,2020-11-22,-53,-11,3,,-40,6
 LB,Lebanon,North Governorate,,,LB-AS,,2020-02-15,6,-1,4,,2,0
 LB,Lebanon,North Governorate,,,LB-AS,,2020-02-16,3,3,10,,2,0
 LB,Lebanon,North Governorate,,,LB-AS,,2020-02-17,-5,-4,2,,2,0
@@ -5919,6 +5960,8 @@ LB,Lebanon,North Governorate,,,LB-AS,,2020-11-17,-34,11,-15,-80,-41,8
 LB,Lebanon,North Governorate,,,LB-AS,,2020-11-18,-31,17,-8,,-38,7
 LB,Lebanon,North Governorate,,,LB-AS,,2020-11-19,-31,18,-14,-76,-39,6
 LB,Lebanon,North Governorate,,,LB-AS,,2020-11-20,-41,6,-27,-77,-39,7
+LB,Lebanon,North Governorate,,,LB-AS,,2020-11-21,-38,15,-16,-78,-33,6
+LB,Lebanon,North Governorate,,,LB-AS,,2020-11-22,-53,-20,-30,,-33,7
 LB,Lebanon,North Governorate,Batroun,,,,2020-02-15,18,-2,27,,9,
 LB,Lebanon,North Governorate,Batroun,,,,2020-02-16,6,,16,,,
 LB,Lebanon,North Governorate,Batroun,,,,2020-02-17,-2,-6,13,,4,
@@ -6174,6 +6217,8 @@ LB,Lebanon,North Governorate,Batroun,,,,2020-11-17,-41,,-30,,-40,9
 LB,Lebanon,North Governorate,Batroun,,,,2020-11-18,-40,-3,-27,,-40,9
 LB,Lebanon,North Governorate,Batroun,,,,2020-11-19,-33,5,-28,,-40,7
 LB,Lebanon,North Governorate,Batroun,,,,2020-11-20,-54,-4,-55,,-40,12
+LB,Lebanon,North Governorate,Batroun,,,,2020-11-21,-51,16,-28,,-27,
+LB,Lebanon,North Governorate,Batroun,,,,2020-11-22,-69,,-54,,-43,
 LB,Lebanon,North Governorate,Koura,,,,2020-02-15,6,2,,,6,
 LB,Lebanon,North Governorate,Koura,,,,2020-02-16,-1,,,,4,
 LB,Lebanon,North Governorate,Koura,,,,2020-02-17,-2,-1,,,2,1
@@ -6443,6 +6488,8 @@ LB,Lebanon,North Governorate,Koura,,,,2020-11-17,,-14,,,-50,8
 LB,Lebanon,North Governorate,Koura,,,,2020-11-18,,-3,,,-45,6
 LB,Lebanon,North Governorate,Koura,,,,2020-11-19,,-3,,,-45,7
 LB,Lebanon,North Governorate,Koura,,,,2020-11-20,-61,-12,,,-46,10
+LB,Lebanon,North Governorate,Koura,,,,2020-11-21,-57,-9,,,-36,5
+LB,Lebanon,North Governorate,Koura,,,,2020-11-22,-74,,,,-39,
 LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-02-15,,,,,6,0
 LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-02-16,,,,,-4,
 LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-02-17,,,,,4,0
@@ -6718,6 +6765,8 @@ LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-11-17,,,,,-30,3
 LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-11-18,,,,,-28,3
 LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-11-19,,,,,-28,2
 LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-11-20,,,,,-29,3
+LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-11-21,,,,,-26,3
+LB,Lebanon,North Governorate,Minieh - Danniyeh,,,,2020-11-22,,,,,-27,3
 LB,Lebanon,North Governorate,Tripoli,,,,2020-02-15,4,0,0,-23,1,0
 LB,Lebanon,North Governorate,Tripoli,,,,2020-02-16,4,6,13,,-3,0
 LB,Lebanon,North Governorate,Tripoli,,,,2020-02-17,-5,2,3,-1,2,0
@@ -6998,6 +7047,8 @@ LB,Lebanon,North Governorate,Tripoli,,,,2020-11-17,-37,12,-22,,-48,10
 LB,Lebanon,North Governorate,Tripoli,,,,2020-11-18,-36,22,-19,-76,-46,9
 LB,Lebanon,North Governorate,Tripoli,,,,2020-11-19,-34,22,-18,,-47,9
 LB,Lebanon,North Governorate,Tripoli,,,,2020-11-20,-42,6,-34,-75,-46,9
+LB,Lebanon,North Governorate,Tripoli,,,,2020-11-21,-38,19,-23,-80,-44,9
+LB,Lebanon,North Governorate,Tripoli,,,,2020-11-22,-53,-11,-39,,-44,9
 LB,Lebanon,North Governorate,Zgharta,,,,2020-02-15,6,2,2,,1,
 LB,Lebanon,North Governorate,Zgharta,,,,2020-02-16,-3,,-4,,5,
 LB,Lebanon,North Governorate,Zgharta,,,,2020-02-17,-11,-9,-5,,5,0
@@ -7254,6 +7305,8 @@ LB,Lebanon,North Governorate,Zgharta,,,,2020-11-17,-16,-8,43,,-39,5
 LB,Lebanon,North Governorate,Zgharta,,,,2020-11-18,-14,-1,,,-37,6
 LB,Lebanon,North Governorate,Zgharta,,,,2020-11-19,-14,0,46,,-38,5
 LB,Lebanon,North Governorate,Zgharta,,,,2020-11-20,-27,-11,34,,-35,8
+LB,Lebanon,North Governorate,Zgharta,,,,2020-11-21,-30,-2,29,,-24,5
+LB,Lebanon,North Governorate,Zgharta,,,,2020-11-22,-48,,20,,-21,
 LB,Lebanon,South Governorate,,,LB-JA,,2020-02-15,9,3,20,,3,-1
 LB,Lebanon,South Governorate,,,LB-JA,,2020-02-16,12,6,21,,3,-1
 LB,Lebanon,South Governorate,,,LB-JA,,2020-02-17,2,-2,3,,3,0
@@ -7534,6 +7587,8 @@ LB,Lebanon,South Governorate,,,LB-JA,,2020-11-17,-36,5,-40,,-36,6
 LB,Lebanon,South Governorate,,,LB-JA,,2020-11-18,-35,6,-32,,-35,5
 LB,Lebanon,South Governorate,,,LB-JA,,2020-11-19,-32,12,-35,,-36,5
 LB,Lebanon,South Governorate,,,LB-JA,,2020-11-20,-37,6,-37,,-34,7
+LB,Lebanon,South Governorate,,,LB-JA,,2020-11-21,-41,9,-46,,-30,6
+LB,Lebanon,South Governorate,,,LB-JA,,2020-11-22,-63,-30,-62,,-41,9
 LB,Lebanon,South Governorate,Jezzine,,,,2020-03-19,,,,,-65,
 LB,Lebanon,South Governorate,Jezzine,,,,2020-03-23,,,,,-68,
 LB,Lebanon,South Governorate,Jezzine,,,,2020-03-24,,,,,-59,
@@ -7653,6 +7708,7 @@ LB,Lebanon,South Governorate,Jezzine,,,,2020-11-17,,,,,-24,
 LB,Lebanon,South Governorate,Jezzine,,,,2020-11-18,,,,,-25,
 LB,Lebanon,South Governorate,Jezzine,,,,2020-11-19,,,,,-25,
 LB,Lebanon,South Governorate,Jezzine,,,,2020-11-20,,,,,-24,
+LB,Lebanon,South Governorate,Jezzine,,,,2020-11-21,,,,,-13,
 LB,Lebanon,South Governorate,Saida,,,,2020-02-15,14,0,8,,2,-1
 LB,Lebanon,South Governorate,Saida,,,,2020-02-16,14,4,7,,2,-1
 LB,Lebanon,South Governorate,Saida,,,,2020-02-17,3,-7,-2,,3,-1
@@ -7933,6 +7989,8 @@ LB,Lebanon,South Governorate,Saida,,,,2020-11-17,-44,3,-49,,-42,8
 LB,Lebanon,South Governorate,Saida,,,,2020-11-18,-41,5,-40,,-39,8
 LB,Lebanon,South Governorate,Saida,,,,2020-11-19,-39,6,-35,,-41,8
 LB,Lebanon,South Governorate,Saida,,,,2020-11-20,-45,-2,-33,,-39,8
+LB,Lebanon,South Governorate,Saida,,,,2020-11-21,-46,3,-41,,-36,8
+LB,Lebanon,South Governorate,Saida,,,,2020-11-22,-71,-40,-68,,-51,11
 LB,Lebanon,South Governorate,Tyre,,,,2020-02-15,2,7,15,,5,-1
 LB,Lebanon,South Governorate,Tyre,,,,2020-02-16,13,10,47,,7,-2
 LB,Lebanon,South Governorate,Tyre,,,,2020-02-17,1,4,9,,5,0
@@ -8213,3 +8271,5 @@ LB,Lebanon,South Governorate,Tyre,,,,2020-11-17,-30,6,-46,,-32,4
 LB,Lebanon,South Governorate,Tyre,,,,2020-11-18,-31,11,-42,,-34,3
 LB,Lebanon,South Governorate,Tyre,,,,2020-11-19,-25,23,-55,,-33,2
 LB,Lebanon,South Governorate,Tyre,,,,2020-11-20,-30,13,-56,,-31,5
+LB,Lebanon,South Governorate,Tyre,,,,2020-11-21,-36,19,-64,,-28,4
+LB,Lebanon,South Governorate,Tyre,,,,2020-11-22,-52,-15,-68,,-30,7

@@ -279,6 +279,8 @@ NG,Nigeria,,,,,,2020-11-17,-12,-4,-17,9,-16,10
 NG,Nigeria,,,,,,2020-11-18,-13,-4,-17,6,-15,10
 NG,Nigeria,,,,,,2020-11-19,-12,-1,-15,8,-14,9
 NG,Nigeria,,,,,,2020-11-20,-11,0,-14,10,-11,9
+NG,Nigeria,,,,,,2020-11-21,-10,-2,-14,11,-5,6
+NG,Nigeria,,,,,,2020-11-22,-14,-7,-13,6,-9,7
 NG,Nigeria,Abia,,,NG-AB,,2020-02-15,0,1,-11,2,11,0
 NG,Nigeria,Abia,,,NG-AB,,2020-02-16,-10,-1,-7,,7,
 NG,Nigeria,Abia,,,NG-AB,,2020-02-17,-3,-3,-13,-2,5,-1
@@ -556,6 +558,8 @@ NG,Nigeria,Abia,,,NG-AB,,2020-11-17,-8,-17,-25,-6,-11,3
 NG,Nigeria,Abia,,,NG-AB,,2020-11-18,-12,-13,-18,-4,-12,3
 NG,Nigeria,Abia,,,NG-AB,,2020-11-19,-22,-20,-26,3,-12,2
 NG,Nigeria,Abia,,,NG-AB,,2020-11-20,-20,-12,-18,20,-4,0
+NG,Nigeria,Abia,,,NG-AB,,2020-11-21,-13,-19,-35,13,0,-1
+NG,Nigeria,Abia,,,NG-AB,,2020-11-22,-19,-27,-24,-7,-20,1
 NG,Nigeria,Abia,Aba North,,,,2020-02-15,,-2,,,4,
 NG,Nigeria,Abia,Aba North,,,,2020-02-17,,2,,,7,
 NG,Nigeria,Abia,Aba North,,,,2020-02-18,,-2,,,4,
@@ -794,6 +798,8 @@ NG,Nigeria,Abia,Aba North,,,,2020-11-17,,3,,,1,
 NG,Nigeria,Abia,Aba North,,,,2020-11-18,,5,,,0,
 NG,Nigeria,Abia,Aba North,,,,2020-11-19,,1,,,1,
 NG,Nigeria,Abia,Aba North,,,,2020-11-20,,5,,,6,
+NG,Nigeria,Abia,Aba North,,,,2020-11-21,,-7,,,8,
+NG,Nigeria,Abia,Aba North,,,,2020-11-22,,,,,-11,
 NG,Nigeria,Abia,Aba South,,,,2020-02-15,13,,,12,5,
 NG,Nigeria,Abia,Aba South,,,,2020-02-16,,,,35,,
 NG,Nigeria,Abia,Aba South,,,,2020-02-17,4,,,-3,6,
@@ -1049,6 +1055,8 @@ NG,Nigeria,Abia,Aba South,,,,2020-11-17,28,,,3,1,
 NG,Nigeria,Abia,Aba South,,,,2020-11-18,14,,,6,2,
 NG,Nigeria,Abia,Aba South,,,,2020-11-19,-16,,,17,-2,
 NG,Nigeria,Abia,Aba South,,,,2020-11-20,-18,,,26,7,
+NG,Nigeria,Abia,Aba South,,,,2020-11-21,-8,,,27,2,
+NG,Nigeria,Abia,Aba South,,,,2020-11-22,,,,3,-17,
 NG,Nigeria,Abia,Obi Nwga,,,,2020-02-15,,,-13,,,
 NG,Nigeria,Abia,Obi Nwga,,,,2020-02-16,,,-8,,,
 NG,Nigeria,Abia,Obi Nwga,,,,2020-02-17,,,-14,,,
@@ -1304,6 +1312,8 @@ NG,Nigeria,Abia,Obi Nwga,,,,2020-11-17,,,-37,,9,
 NG,Nigeria,Abia,Obi Nwga,,,,2020-11-18,,,-30,,7,
 NG,Nigeria,Abia,Obi Nwga,,,,2020-11-19,,,-35,,10,
 NG,Nigeria,Abia,Obi Nwga,,,,2020-11-20,,,-34,,11,
+NG,Nigeria,Abia,Obi Nwga,,,,2020-11-21,,,-42,,8,
+NG,Nigeria,Abia,Obi Nwga,,,,2020-11-22,,,-39,,,
 NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-02-15,,,,,10,
 NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-02-17,,,,,6,
 NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-02-18,,,,,4,
@@ -1542,6 +1552,8 @@ NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-11-17,,,,,-6,
 NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-11-18,,,,,-5,
 NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-11-19,,,,,-8,
 NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-11-20,,,,,-3,
+NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-11-21,,,,,0,
+NG,Nigeria,Abia,Osisioma Ngwa,,,,2020-11-22,,,,,-6,
 NG,Nigeria,Abia,Umuahia North,,,,2020-02-15,,,,,2,
 NG,Nigeria,Abia,Umuahia North,,,,2020-02-17,,-10,,,6,
 NG,Nigeria,Abia,Umuahia North,,,,2020-02-18,,,,,1,
@@ -1780,6 +1792,8 @@ NG,Nigeria,Abia,Umuahia North,,,,2020-11-17,,,,,-4,
 NG,Nigeria,Abia,Umuahia North,,,,2020-11-18,,,,,-10,
 NG,Nigeria,Abia,Umuahia North,,,,2020-11-19,,,,,-11,
 NG,Nigeria,Abia,Umuahia North,,,,2020-11-20,,,,,-8,
+NG,Nigeria,Abia,Umuahia North,,,,2020-11-21,,,,,5,
+NG,Nigeria,Abia,Umuahia North,,,,2020-11-22,,,,,-14,
 NG,Nigeria,Abia,Umuahia South,,,,2020-02-18,,,,,0,
 NG,Nigeria,Abia,Umuahia South,,,,2020-03-03,,,,,0,
 NG,Nigeria,Abia,Umuahia South,,,,2020-03-10,,,,,2,
@@ -2202,6 +2216,8 @@ NG,Nigeria,Adamawa,,,NG-AD,,2020-11-17,-26,,,,-21,-5
 NG,Nigeria,Adamawa,,,NG-AD,,2020-11-18,-21,,,,-18,-6
 NG,Nigeria,Adamawa,,,NG-AD,,2020-11-19,-16,,,,-14,-5
 NG,Nigeria,Adamawa,,,NG-AD,,2020-11-20,-21,,,,-8,-6
+NG,Nigeria,Adamawa,,,NG-AD,,2020-11-21,-16,,,,-12,-5
+NG,Nigeria,Adamawa,,,NG-AD,,2020-11-22,-24,,,,-12,
 NG,Nigeria,Adamawa,Gombi,,,,2020-06-08,,,,,-10,
 NG,Nigeria,Adamawa,Gombi,,,,2020-06-09,,,,,-15,
 NG,Nigeria,Adamawa,Gombi,,,,2020-06-10,,,,,-11,
@@ -2334,6 +2350,8 @@ NG,Nigeria,Adamawa,Gombi,,,,2020-11-17,,,,,-21,
 NG,Nigeria,Adamawa,Gombi,,,,2020-11-18,,,,,-16,
 NG,Nigeria,Adamawa,Gombi,,,,2020-11-19,,,,,-13,
 NG,Nigeria,Adamawa,Gombi,,,,2020-11-20,,,,,-10,
+NG,Nigeria,Adamawa,Gombi,,,,2020-11-21,,,,,-9,
+NG,Nigeria,Adamawa,Gombi,,,,2020-11-22,,,,,-21,
 NG,Nigeria,Adamawa,Mubi North,,,,2020-04-01,,,,,-30,
 NG,Nigeria,Adamawa,Mubi North,,,,2020-04-02,,,,,-31,
 NG,Nigeria,Adamawa,Mubi North,,,,2020-04-06,,,,,-29,
@@ -2490,6 +2508,8 @@ NG,Nigeria,Adamawa,Mubi North,,,,2020-11-17,,,,,-28,
 NG,Nigeria,Adamawa,Mubi North,,,,2020-11-18,,,,,-25,
 NG,Nigeria,Adamawa,Mubi North,,,,2020-11-19,,,,,-24,
 NG,Nigeria,Adamawa,Mubi North,,,,2020-11-20,,,,,-20,
+NG,Nigeria,Adamawa,Mubi North,,,,2020-11-21,,,,,-23,
+NG,Nigeria,Adamawa,Mubi North,,,,2020-11-22,,,,,-23,
 NG,Nigeria,Adamawa,Yola North,,,,2020-02-17,,,,,15,
 NG,Nigeria,Adamawa,Yola North,,,,2020-02-18,,,,,12,
 NG,Nigeria,Adamawa,Yola North,,,,2020-02-19,,,,,12,
@@ -2710,6 +2730,8 @@ NG,Nigeria,Adamawa,Yola North,,,,2020-11-17,,,,,-10,
 NG,Nigeria,Adamawa,Yola North,,,,2020-11-18,,,,,-6,
 NG,Nigeria,Adamawa,Yola North,,,,2020-11-19,,,,,-8,
 NG,Nigeria,Adamawa,Yola North,,,,2020-11-20,,,,,2,
+NG,Nigeria,Adamawa,Yola North,,,,2020-11-21,,,,,0,
+NG,Nigeria,Adamawa,Yola North,,,,2020-11-22,,,,,-11,
 NG,Nigeria,Adamawa,Yola South,,,,2020-02-15,2,,,,14,
 NG,Nigeria,Adamawa,Yola South,,,,2020-02-16,2,,,,10,
 NG,Nigeria,Adamawa,Yola South,,,,2020-02-17,5,,,,8,
@@ -2965,6 +2987,8 @@ NG,Nigeria,Adamawa,Yola South,,,,2020-11-17,-26,,,,-11,
 NG,Nigeria,Adamawa,Yola South,,,,2020-11-18,-26,,,,-14,
 NG,Nigeria,Adamawa,Yola South,,,,2020-11-19,-25,,,,-6,
 NG,Nigeria,Adamawa,Yola South,,,,2020-11-20,-27,,,,-2,
+NG,Nigeria,Adamawa,Yola South,,,,2020-11-21,-20,,,,-2,
+NG,Nigeria,Adamawa,Yola South,,,,2020-11-22,-31,,,,-7,
 NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-02-15,3,-5,1,,2,-2
 NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-02-16,-1,-3,5,,4,
 NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-02-17,-8,-3,-4,,5,1
@@ -3242,6 +3266,8 @@ NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-11-17,-18,3,-62,,-19,7
 NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-11-18,-18,-1,-60,,-13,7
 NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-11-19,-22,-4,-64,,-17,7
 NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-11-20,-19,0,-62,-28,-17,5
+NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-11-21,-20,-11,-59,,-10,2
+NG,Nigeria,Akwa Ibom,,,NG-AK,,2020-11-22,-22,-25,-54,-40,-14,2
 NG,Nigeria,Akwa Ibom,Eket,,,,2020-02-17,,,,,9,
 NG,Nigeria,Akwa Ibom,Eket,,,,2020-02-18,,,,,0,
 NG,Nigeria,Akwa Ibom,Eket,,,,2020-02-19,,,,,1,
@@ -3452,6 +3478,8 @@ NG,Nigeria,Akwa Ibom,Eket,,,,2020-11-17,,,,,-16,
 NG,Nigeria,Akwa Ibom,Eket,,,,2020-11-18,,,,,-11,
 NG,Nigeria,Akwa Ibom,Eket,,,,2020-11-19,,,,,-15,
 NG,Nigeria,Akwa Ibom,Eket,,,,2020-11-20,,,,,-14,
+NG,Nigeria,Akwa Ibom,Eket,,,,2020-11-21,,,,,2,
+NG,Nigeria,Akwa Ibom,Eket,,,,2020-11-22,,,,,0,
 NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-03-30,,,,,-32,
 NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-03-31,,,,,-33,
 NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-04-01,,,,,-40,
@@ -3588,6 +3616,7 @@ NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-11-17,,,,,-5,
 NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-11-18,,,,,3,
 NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-11-19,,,,,0,
 NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-11-20,,,,,-2,
+NG,Nigeria,Akwa Ibom,Ibesikpo Asutan,,,,2020-11-21,,,,,-6,
 NG,Nigeria,Akwa Ibom,Ikot Ekpene,,,,2020-06-08,,,,,-28,
 NG,Nigeria,Akwa Ibom,Ikot Ekpene,,,,2020-06-09,,,,,-18,
 NG,Nigeria,Akwa Ibom,Ikot Ekpene,,,,2020-06-10,,,,,-13,
@@ -4067,6 +4096,8 @@ NG,Nigeria,Akwa Ibom,Uyo,,,,2020-11-17,-12,-5,-73,,-18,10
 NG,Nigeria,Akwa Ibom,Uyo,,,,2020-11-18,-14,3,-69,,-10,11
 NG,Nigeria,Akwa Ibom,Uyo,,,,2020-11-19,-22,-7,-72,,-16,9
 NG,Nigeria,Akwa Ibom,Uyo,,,,2020-11-20,-16,-3,-72,,-17,8
+NG,Nigeria,Akwa Ibom,Uyo,,,,2020-11-21,-17,-7,-69,,-13,6
+NG,Nigeria,Akwa Ibom,Uyo,,,,2020-11-22,-23,,-64,,-21,6
 NG,Nigeria,Anambra,,,NG-AN,,2020-02-15,-3,-3,8,-5,11,0
 NG,Nigeria,Anambra,,,NG-AN,,2020-02-16,-2,-1,11,-3,4,-1
 NG,Nigeria,Anambra,,,NG-AN,,2020-02-17,-7,-7,-2,-2,6,0
@@ -4347,6 +4378,8 @@ NG,Nigeria,Anambra,,,NG-AN,,2020-11-17,-32,1,-2,-33,-9,1
 NG,Nigeria,Anambra,,,NG-AN,,2020-11-18,-30,4,-1,-26,-8,1
 NG,Nigeria,Anambra,,,NG-AN,,2020-11-19,-25,1,0,-19,-9,1
 NG,Nigeria,Anambra,,,NG-AN,,2020-11-20,-22,3,-3,-31,-6,-1
+NG,Nigeria,Anambra,,,NG-AN,,2020-11-21,-24,3,0,-26,4,-1
+NG,Nigeria,Anambra,,,NG-AN,,2020-11-22,-28,-25,-16,-39,-21,0
 NG,Nigeria,Anambra,Aguata,,,,2020-02-15,,,2,,,
 NG,Nigeria,Anambra,Aguata,,,,2020-02-17,,,-9,,,
 NG,Nigeria,Anambra,Aguata,,,,2020-02-18,,,-9,,,
@@ -4581,6 +4614,7 @@ NG,Nigeria,Anambra,Aguata,,,,2020-11-17,,,-3,,-16,
 NG,Nigeria,Anambra,Aguata,,,,2020-11-18,,,2,,-8,
 NG,Nigeria,Anambra,Aguata,,,,2020-11-19,,,1,,-20,
 NG,Nigeria,Anambra,Aguata,,,,2020-11-20,,,9,,-6,
+NG,Nigeria,Anambra,Aguata,,,,2020-11-21,,,15,,,
 NG,Nigeria,Anambra,Anambra East,,,,2020-03-31,,,,,-60,
 NG,Nigeria,Anambra,Anambra East,,,,2020-04-02,,,,,-62,
 NG,Nigeria,Anambra,Anambra East,,,,2020-04-06,,,,,-57,
@@ -4844,6 +4878,7 @@ NG,Nigeria,Anambra,Awka North,,,,2020-11-16,,,,,-78,
 NG,Nigeria,Anambra,Awka North,,,,2020-11-18,,,,,-76,
 NG,Nigeria,Anambra,Awka North,,,,2020-11-19,,,,,-73,
 NG,Nigeria,Anambra,Awka North,,,,2020-11-20,,,,,-63,
+NG,Nigeria,Anambra,Awka North,,,,2020-11-21,,,,,-57,
 NG,Nigeria,Anambra,Awka South,,,,2020-02-15,4,2,16,,4,
 NG,Nigeria,Anambra,Awka South,,,,2020-02-16,3,,4,,1,
 NG,Nigeria,Anambra,Awka South,,,,2020-02-17,-7,-6,9,,4,2
@@ -5118,6 +5153,8 @@ NG,Nigeria,Anambra,Awka South,,,,2020-11-17,-28,,16,,-13,7
 NG,Nigeria,Anambra,Awka South,,,,2020-11-18,-28,,-1,,-10,5
 NG,Nigeria,Anambra,Awka South,,,,2020-11-19,-24,,8,,-12,5
 NG,Nigeria,Anambra,Awka South,,,,2020-11-20,-16,-6,-8,,-8,3
+NG,Nigeria,Anambra,Awka South,,,,2020-11-21,-20,3,5,,-3,2
+NG,Nigeria,Anambra,Awka South,,,,2020-11-22,-24,,-20,,-11,
 NG,Nigeria,Anambra,Idemili North,,,,2020-02-15,,,,,16,
 NG,Nigeria,Anambra,Idemili North,,,,2020-02-17,,-8,,,2,0
 NG,Nigeria,Anambra,Idemili North,,,,2020-02-18,,-9,,,3,2
@@ -5369,6 +5406,8 @@ NG,Nigeria,Anambra,Idemili North,,,,2020-11-17,,-6,,,-2,2
 NG,Nigeria,Anambra,Idemili North,,,,2020-11-18,,-15,,,-2,2
 NG,Nigeria,Anambra,Idemili North,,,,2020-11-19,,-10,,,-6,1
 NG,Nigeria,Anambra,Idemili North,,,,2020-11-20,,,,,-3,2
+NG,Nigeria,Anambra,Idemili North,,,,2020-11-21,,,,,6,
+NG,Nigeria,Anambra,Idemili North,,,,2020-11-22,,,,,-12,
 NG,Nigeria,Anambra,Idemili South,,,,2020-04-13,,,,,-68,
 NG,Nigeria,Anambra,Idemili South,,,,2020-04-14,,,,,-55,
 NG,Nigeria,Anambra,Idemili South,,,,2020-04-20,,,,,-51,
@@ -5717,6 +5756,8 @@ NG,Nigeria,Anambra,Nnewi North,,,,2020-11-17,,,,,-4,
 NG,Nigeria,Anambra,Nnewi North,,,,2020-11-18,,,,,-6,
 NG,Nigeria,Anambra,Nnewi North,,,,2020-11-19,,,,,-5,
 NG,Nigeria,Anambra,Nnewi North,,,,2020-11-20,,,,,-4,
+NG,Nigeria,Anambra,Nnewi North,,,,2020-11-21,,,,,1,
+NG,Nigeria,Anambra,Nnewi North,,,,2020-11-22,,,,,-21,
 NG,Nigeria,Anambra,Ogbaru,,,,2020-04-13,,,,,-72,
 NG,Nigeria,Anambra,Ogbaru,,,,2020-04-14,,,,,-70,
 NG,Nigeria,Anambra,Ogbaru,,,,2020-06-08,,,,,12,
@@ -6101,6 +6142,8 @@ NG,Nigeria,Anambra,Onitsha North,,,,2020-11-17,,-2,-29,-20,-2,3
 NG,Nigeria,Anambra,Onitsha North,,,,2020-11-18,,-2,-19,-19,-4,1
 NG,Nigeria,Anambra,Onitsha North,,,,2020-11-19,,-7,,-16,-2,3
 NG,Nigeria,Anambra,Onitsha North,,,,2020-11-20,,-1,-39,-12,-3,2
+NG,Nigeria,Anambra,Onitsha North,,,,2020-11-21,,1,-28,-25,3,0
+NG,Nigeria,Anambra,Onitsha North,,,,2020-11-22,,,-33,-34,-23,
 NG,Nigeria,Anambra,Onitsha South,,,,2020-02-15,,-5,,,,
 NG,Nigeria,Anambra,Onitsha South,,,,2020-02-17,,-5,,,10,
 NG,Nigeria,Anambra,Onitsha South,,,,2020-02-18,,-8,,,8,
@@ -6319,6 +6362,7 @@ NG,Nigeria,Anambra,Onitsha South,,,,2020-11-17,,9,,,12,
 NG,Nigeria,Anambra,Onitsha South,,,,2020-11-18,,10,,,17,
 NG,Nigeria,Anambra,Onitsha South,,,,2020-11-19,,8,,,20,
 NG,Nigeria,Anambra,Onitsha South,,,,2020-11-20,,8,,,19,
+NG,Nigeria,Anambra,Onitsha South,,,,2020-11-21,,15,,,30,
 NG,Nigeria,Bauchi,,,NG-BA,,2020-02-15,1,8,15,,14,
 NG,Nigeria,Bauchi,,,NG-BA,,2020-02-16,6,7,4,,15,
 NG,Nigeria,Bauchi,,,NG-BA,,2020-02-17,-2,0,4,,6,
@@ -6574,6 +6618,8 @@ NG,Nigeria,Bauchi,,,NG-BA,,2020-11-17,,-8,14,,-17,-5
 NG,Nigeria,Bauchi,,,NG-BA,,2020-11-18,,-2,26,,-13,-6
 NG,Nigeria,Bauchi,,,NG-BA,,2020-11-19,,-3,17,,-12,-6
 NG,Nigeria,Bauchi,,,NG-BA,,2020-11-20,,-5,21,,-3,-6
+NG,Nigeria,Bauchi,,,NG-BA,,2020-11-21,,,6,,-4,
+NG,Nigeria,Bauchi,,,NG-BA,,2020-11-22,,,3,,-5,
 NG,Nigeria,Bauchi,Bauchi,,,,2020-02-15,-4,10,-3,,18,
 NG,Nigeria,Bauchi,Bauchi,,,,2020-02-16,-4,5,-9,,13,
 NG,Nigeria,Bauchi,Bauchi,,,,2020-02-17,-7,-1,-6,,6,0
@@ -6848,6 +6894,8 @@ NG,Nigeria,Bauchi,Bauchi,,,,2020-11-17,7,-4,12,-27,-15,-4
 NG,Nigeria,Bauchi,Bauchi,,,,2020-11-18,9,,14,-23,-10,-3
 NG,Nigeria,Bauchi,Bauchi,,,,2020-11-19,5,5,22,,-10,-3
 NG,Nigeria,Bauchi,Bauchi,,,,2020-11-20,17,,8,-9,2,-4
+NG,Nigeria,Bauchi,Bauchi,,,,2020-11-21,6,,11,,-2,-4
+NG,Nigeria,Bauchi,Bauchi,,,,2020-11-22,-2,,4,,-7,-3
 NG,Nigeria,Bauchi,Toro,,,,2020-02-15,,,24,,,
 NG,Nigeria,Bauchi,Toro,,,,2020-02-16,,,6,,,
 NG,Nigeria,Bauchi,Toro,,,,2020-02-17,,,6,,,
@@ -7103,6 +7151,8 @@ NG,Nigeria,Bauchi,Toro,,,,2020-11-17,,,14,,,
 NG,Nigeria,Bauchi,Toro,,,,2020-11-18,,,32,,,
 NG,Nigeria,Bauchi,Toro,,,,2020-11-19,,,29,,,
 NG,Nigeria,Bauchi,Toro,,,,2020-11-20,,,27,,,
+NG,Nigeria,Bauchi,Toro,,,,2020-11-21,,,4,,,
+NG,Nigeria,Bauchi,Toro,,,,2020-11-22,,,3,,,
 NG,Nigeria,Bayelsa,,,NG-BY,,2020-02-15,-18,6,0,,5,
 NG,Nigeria,Bayelsa,,,NG-BY,,2020-02-16,-18,,7,,3,
 NG,Nigeria,Bayelsa,,,NG-BY,,2020-02-17,-14,-11,-3,,6,
@@ -7358,6 +7408,8 @@ NG,Nigeria,Bayelsa,,,NG-BY,,2020-11-17,,,-30,,-20,-1
 NG,Nigeria,Bayelsa,,,NG-BY,,2020-11-18,-16,,-32,,-18,-2
 NG,Nigeria,Bayelsa,,,NG-BY,,2020-11-19,,,-34,,-21,-3
 NG,Nigeria,Bayelsa,,,NG-BY,,2020-11-20,-7,,-29,,-18,-1
+NG,Nigeria,Bayelsa,,,NG-BY,,2020-11-21,-14,,-26,,-8,
+NG,Nigeria,Bayelsa,,,NG-BY,,2020-11-22,,,-26,,-16,
 NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-02-15,,,2,,,
 NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-02-16,,,3,,,
 NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-02-17,,,-6,,,
@@ -7613,6 +7665,8 @@ NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-11-17,,,-60,,,
 NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-11-18,,,-58,,,
 NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-11-19,,,-60,,,
 NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-11-20,,,-56,,,
+NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-11-21,,,-60,,,
+NG,Nigeria,Bayelsa,Kolokuma/Opokuma,,,,2020-11-22,,,-58,,,
 NG,Nigeria,Bayelsa,Yenegoa,,,,2020-02-15,-12,,,,8,
 NG,Nigeria,Bayelsa,Yenegoa,,,,2020-02-16,-17,,,,4,
 NG,Nigeria,Bayelsa,Yenegoa,,,,2020-02-17,-10,,,,4,2
@@ -7887,6 +7941,8 @@ NG,Nigeria,Bayelsa,Yenegoa,,,,2020-11-17,-1,,,-35,-3,4
 NG,Nigeria,Bayelsa,Yenegoa,,,,2020-11-18,-1,,,-49,-3,2
 NG,Nigeria,Bayelsa,Yenegoa,,,,2020-11-19,-2,,,-39,-6,4
 NG,Nigeria,Bayelsa,Yenegoa,,,,2020-11-20,2,,,,-2,3
+NG,Nigeria,Bayelsa,Yenegoa,,,,2020-11-21,-4,,,-36,3,1
+NG,Nigeria,Bayelsa,Yenegoa,,,,2020-11-22,-5,,,,0,
 NG,Nigeria,Benue,,,NG-BE,,2020-02-15,11,-6,,,2,
 NG,Nigeria,Benue,,,NG-BE,,2020-02-16,1,0,,,4,
 NG,Nigeria,Benue,,,NG-BE,,2020-02-17,1,-14,,,4,1
@@ -8161,6 +8217,8 @@ NG,Nigeria,Benue,,,NG-BE,,2020-11-17,-7,,-42,,-20,-4
 NG,Nigeria,Benue,,,NG-BE,,2020-11-18,-3,,-38,,-19,-3
 NG,Nigeria,Benue,,,NG-BE,,2020-11-19,1,,,,-17,-1
 NG,Nigeria,Benue,,,NG-BE,,2020-11-20,2,,-27,,-14,-4
+NG,Nigeria,Benue,,,NG-BE,,2020-11-21,5,,,,-10,-8
+NG,Nigeria,Benue,,,NG-BE,,2020-11-22,-8,,,,-18,
 NG,Nigeria,Benue,Gboko,,,,2020-03-31,,,,,-37,
 NG,Nigeria,Benue,Gboko,,,,2020-04-07,,,,,-37,
 NG,Nigeria,Benue,Gboko,,,,2020-04-08,,,,,-36,
@@ -8283,6 +8341,7 @@ NG,Nigeria,Benue,Gboko,,,,2020-11-17,,,,,-19,
 NG,Nigeria,Benue,Gboko,,,,2020-11-18,,,,,-23,
 NG,Nigeria,Benue,Gboko,,,,2020-11-19,,,,,-11,
 NG,Nigeria,Benue,Gboko,,,,2020-11-20,,,,,-1,
+NG,Nigeria,Benue,Gboko,,,,2020-11-21,,,,,2,
 NG,Nigeria,Benue,Markurdi,,,,2020-02-15,16,,29,0,3,
 NG,Nigeria,Benue,Markurdi,,,,2020-02-16,-3,,-5,-8,2,
 NG,Nigeria,Benue,Markurdi,,,,2020-02-17,-3,,-6,1,2,-1
@@ -8557,6 +8616,8 @@ NG,Nigeria,Benue,Markurdi,,,,2020-11-17,-15,,-45,-29,-16,2
 NG,Nigeria,Benue,Markurdi,,,,2020-11-18,-14,,-41,-28,-15,3
 NG,Nigeria,Benue,Markurdi,,,,2020-11-19,-6,,-38,-24,-14,3
 NG,Nigeria,Benue,Markurdi,,,,2020-11-20,-4,,-36,-29,-16,-1
+NG,Nigeria,Benue,Markurdi,,,,2020-11-21,-7,,-22,-16,-8,-2
+NG,Nigeria,Benue,Markurdi,,,,2020-11-22,-20,,-11,-26,-12,
 NG,Nigeria,Benue,Oturkpo,,,,2020-06-08,,,,,13,
 NG,Nigeria,Benue,Oturkpo,,,,2020-06-09,,,,,6,
 NG,Nigeria,Benue,Oturkpo,,,,2020-06-10,,,,,-1,
@@ -8908,6 +8969,8 @@ NG,Nigeria,Borno,,,NG-BO,,2020-11-17,-18,-2,-24,-28,-22,-3
 NG,Nigeria,Borno,,,NG-BO,,2020-11-18,-17,-1,-24,-24,-21,-4
 NG,Nigeria,Borno,,,NG-BO,,2020-11-19,-14,4,-17,-29,-22,-4
 NG,Nigeria,Borno,,,NG-BO,,2020-11-20,-14,0,-14,-23,-17,-5
+NG,Nigeria,Borno,,,NG-BO,,2020-11-21,-3,-7,-22,-29,-20,-6
+NG,Nigeria,Borno,,,NG-BO,,2020-11-22,-13,-10,-21,-17,-19,-5
 NG,Nigeria,Borno,Jere,,,,2020-02-15,,,-8,,9,
 NG,Nigeria,Borno,Jere,,,,2020-02-16,,,-8,,11,
 NG,Nigeria,Borno,Jere,,,,2020-02-17,,,-5,,9,
@@ -9163,6 +9226,8 @@ NG,Nigeria,Borno,Jere,,,,2020-11-17,,,7,,-44,
 NG,Nigeria,Borno,Jere,,,,2020-11-18,,,14,,-41,
 NG,Nigeria,Borno,Jere,,,,2020-11-19,,,19,,-40,
 NG,Nigeria,Borno,Jere,,,,2020-11-20,,,12,,-37,
+NG,Nigeria,Borno,Jere,,,,2020-11-21,,,5,,-40,
+NG,Nigeria,Borno,Jere,,,,2020-11-22,,,1,,-42,
 NG,Nigeria,Borno,Maiduguri,,,,2020-02-15,-4,0,-4,-11,15,0
 NG,Nigeria,Borno,Maiduguri,,,,2020-02-16,-10,-1,3,-1,5,2
 NG,Nigeria,Borno,Maiduguri,,,,2020-02-17,-6,4,-9,0,9,2
@@ -9443,6 +9508,8 @@ NG,Nigeria,Borno,Maiduguri,,,,2020-11-17,-7,2,-62,-22,-14,2
 NG,Nigeria,Borno,Maiduguri,,,,2020-11-18,-8,6,-63,-15,-14,2
 NG,Nigeria,Borno,Maiduguri,,,,2020-11-19,-6,8,-57,-22,-16,1
 NG,Nigeria,Borno,Maiduguri,,,,2020-11-20,-6,8,-50,-20,-11,0
+NG,Nigeria,Borno,Maiduguri,,,,2020-11-21,-1,-2,-58,-19,-15,-1
+NG,Nigeria,Borno,Maiduguri,,,,2020-11-22,-8,-4,-47,-17,-16,-1
 NG,Nigeria,Cross River,,,NG-CR,,2020-02-15,5,10,-16,-6,5,
 NG,Nigeria,Cross River,,,NG-CR,,2020-02-16,3,5,-14,6,2,
 NG,Nigeria,Cross River,,,NG-CR,,2020-02-17,2,7,-11,,7,0
@@ -9717,6 +9784,8 @@ NG,Nigeria,Cross River,,,NG-CR,,2020-11-17,6,-25,-39,26,-27,4
 NG,Nigeria,Cross River,,,NG-CR,,2020-11-18,-2,-28,-33,27,-23,5
 NG,Nigeria,Cross River,,,NG-CR,,2020-11-19,1,-24,-31,14,-23,5
 NG,Nigeria,Cross River,,,NG-CR,,2020-11-20,8,-28,-33,17,-20,1
+NG,Nigeria,Cross River,,,NG-CR,,2020-11-21,14,-18,-48,23,-11,-1
+NG,Nigeria,Cross River,,,NG-CR,,2020-11-22,4,-39,-44,14,-18,2
 NG,Nigeria,Cross River,Akamkpa,,,,2020-02-15,,,-2,,,
 NG,Nigeria,Cross River,Akamkpa,,,,2020-02-16,,,0,,,
 NG,Nigeria,Cross River,Akamkpa,,,,2020-02-17,,,-9,,,
@@ -9951,6 +10020,8 @@ NG,Nigeria,Cross River,Akamkpa,,,,2020-11-17,,,-78,,,
 NG,Nigeria,Cross River,Akamkpa,,,,2020-11-18,,,-72,,,
 NG,Nigeria,Cross River,Akamkpa,,,,2020-11-19,,,-76,,,
 NG,Nigeria,Cross River,Akamkpa,,,,2020-11-20,,,-72,,,
+NG,Nigeria,Cross River,Akamkpa,,,,2020-11-21,,,-75,,,
+NG,Nigeria,Cross River,Akamkpa,,,,2020-11-22,,,-69,,,
 NG,Nigeria,Cross River,Calabar Municipal,,,,2020-02-15,7,13,,-3,10,-2
 NG,Nigeria,Cross River,Calabar Municipal,,,,2020-02-16,3,10,,-5,1,
 NG,Nigeria,Cross River,Calabar Municipal,,,,2020-02-17,1,5,,7,8,0
@@ -10228,6 +10299,8 @@ NG,Nigeria,Cross River,Calabar Municipal,,,,2020-11-17,8,-36,,27,-28,9
 NG,Nigeria,Cross River,Calabar Municipal,,,,2020-11-18,0,-34,,36,-24,11
 NG,Nigeria,Cross River,Calabar Municipal,,,,2020-11-19,3,-34,,20,-25,9
 NG,Nigeria,Cross River,Calabar Municipal,,,,2020-11-20,10,-36,,21,-21,5
+NG,Nigeria,Cross River,Calabar Municipal,,,,2020-11-21,19,-29,,21,-13,4
+NG,Nigeria,Cross River,Calabar Municipal,,,,2020-11-22,6,-48,,12,-23,7
 NG,Nigeria,Cross River,Calabar South,,,,2020-02-17,,,,,9,
 NG,Nigeria,Cross River,Calabar South,,,,2020-02-18,,,,,7,
 NG,Nigeria,Cross River,Calabar South,,,,2020-02-19,,,,,1,
@@ -10445,6 +10518,8 @@ NG,Nigeria,Cross River,Calabar South,,,,2020-11-17,,,,,-18,
 NG,Nigeria,Cross River,Calabar South,,,,2020-11-18,,,,,-19,
 NG,Nigeria,Cross River,Calabar South,,,,2020-11-19,,,,,-15,
 NG,Nigeria,Cross River,Calabar South,,,,2020-11-20,,,,,-17,
+NG,Nigeria,Cross River,Calabar South,,,,2020-11-21,,,,,-10,
+NG,Nigeria,Cross River,Calabar South,,,,2020-11-22,,,,,-20,
 NG,Nigeria,Delta,,,NG-DE,,2020-02-15,-2,-2,5,0,2,0
 NG,Nigeria,Delta,,,NG-DE,,2020-02-16,0,-2,-1,0,1,0
 NG,Nigeria,Delta,,,NG-DE,,2020-02-17,-5,-5,-1,0,2,0
@@ -10725,6 +10800,8 @@ NG,Nigeria,Delta,,,NG-DE,,2020-11-17,-12,-4,-4,-21,-20,2
 NG,Nigeria,Delta,,,NG-DE,,2020-11-18,-13,-9,-19,-14,-17,2
 NG,Nigeria,Delta,,,NG-DE,,2020-11-19,-8,-6,-8,-15,-18,1
 NG,Nigeria,Delta,,,NG-DE,,2020-11-20,-10,-5,-19,-5,-15,1
+NG,Nigeria,Delta,,,NG-DE,,2020-11-21,-12,-6,-24,-3,-15,-1
+NG,Nigeria,Delta,,,NG-DE,,2020-11-22,-13,-14,-17,-14,-22,0
 NG,Nigeria,Delta,Ethiope East,,,,2020-06-08,,,,,-26,
 NG,Nigeria,Delta,Ethiope East,,,,2020-06-09,,,,,-34,
 NG,Nigeria,Delta,Ethiope East,,,,2020-06-10,,,,,-23,
@@ -10844,6 +10921,7 @@ NG,Nigeria,Delta,Ethiope East,,,,2020-11-17,,,,,-26,
 NG,Nigeria,Delta,Ethiope East,,,,2020-11-18,,,,,-9,
 NG,Nigeria,Delta,Ethiope East,,,,2020-11-19,,,,,-33,
 NG,Nigeria,Delta,Ethiope East,,,,2020-11-20,,,,,-8,
+NG,Nigeria,Delta,Ethiope East,,,,2020-11-21,,,,,-27,
 NG,Nigeria,Delta,Ethiope West,,,,2020-06-08,,,,,-24,
 NG,Nigeria,Delta,Ethiope West,,,,2020-06-09,,,,,-27,
 NG,Nigeria,Delta,Ethiope West,,,,2020-06-10,,,,,-26,
@@ -11058,6 +11136,7 @@ NG,Nigeria,Delta,Ika South,,,,2020-11-17,,,,,-11,
 NG,Nigeria,Delta,Ika South,,,,2020-11-18,,,,,-8,
 NG,Nigeria,Delta,Ika South,,,,2020-11-19,,,,,-9,
 NG,Nigeria,Delta,Ika South,,,,2020-11-20,,,,,-2,
+NG,Nigeria,Delta,Ika South,,,,2020-11-21,,,,,-6,
 NG,Nigeria,Delta,Okpe,,,,2020-03-24,,,,,-9,
 NG,Nigeria,Delta,Okpe,,,,2020-03-25,,,,,-15,
 NG,Nigeria,Delta,Okpe,,,,2020-03-26,,,,,-15,
@@ -11226,6 +11305,7 @@ NG,Nigeria,Delta,Okpe,,,,2020-11-17,,,,,-24,
 NG,Nigeria,Delta,Okpe,,,,2020-11-18,,,,,-22,
 NG,Nigeria,Delta,Okpe,,,,2020-11-19,,,,,-17,
 NG,Nigeria,Delta,Okpe,,,,2020-11-20,,,,,-22,
+NG,Nigeria,Delta,Okpe,,,,2020-11-21,,,,,-13,
 NG,Nigeria,Delta,Oshimili North,,,,2020-02-15,,,,,9,
 NG,Nigeria,Delta,Oshimili North,,,,2020-02-17,,,,,6,
 NG,Nigeria,Delta,Oshimili North,,,,2020-02-18,,,,,2,
@@ -11470,6 +11550,8 @@ NG,Nigeria,Delta,Oshimili North,,,,2020-11-17,,,,,-13,
 NG,Nigeria,Delta,Oshimili North,,,,2020-11-18,,,,,-12,
 NG,Nigeria,Delta,Oshimili North,,,,2020-11-19,,,,,-10,
 NG,Nigeria,Delta,Oshimili North,,,,2020-11-20,,,,,-9,
+NG,Nigeria,Delta,Oshimili North,,,,2020-11-21,,,,,-1,
+NG,Nigeria,Delta,Oshimili North,,,,2020-11-22,,,,,-12,
 NG,Nigeria,Delta,Oshimili South,,,,2020-02-15,-2,-5,,,3,
 NG,Nigeria,Delta,Oshimili South,,,,2020-02-16,-4,2,,,-2,
 NG,Nigeria,Delta,Oshimili South,,,,2020-02-17,-11,-17,,,4,-4
@@ -11744,6 +11826,8 @@ NG,Nigeria,Delta,Oshimili South,,,,2020-11-17,-40,-25,,,-15,6
 NG,Nigeria,Delta,Oshimili South,,,,2020-11-18,-39,-25,,,-11,8
 NG,Nigeria,Delta,Oshimili South,,,,2020-11-19,-34,-24,,,-17,8
 NG,Nigeria,Delta,Oshimili South,,,,2020-11-20,-33,-23,,,-6,5
+NG,Nigeria,Delta,Oshimili South,,,,2020-11-21,-36,-20,,,-11,2
+NG,Nigeria,Delta,Oshimili South,,,,2020-11-22,-42,-23,,,-22,
 NG,Nigeria,Delta,Sapele,,,,2020-02-15,,,,,1,
 NG,Nigeria,Delta,Sapele,,,,2020-02-17,,,,,4,
 NG,Nigeria,Delta,Sapele,,,,2020-02-18,,,,,1,
@@ -11982,6 +12066,8 @@ NG,Nigeria,Delta,Sapele,,,,2020-11-17,,,,,-13,
 NG,Nigeria,Delta,Sapele,,,,2020-11-18,,,,,-9,
 NG,Nigeria,Delta,Sapele,,,,2020-11-19,,,,,-13,
 NG,Nigeria,Delta,Sapele,,,,2020-11-20,,,,,-10,
+NG,Nigeria,Delta,Sapele,,,,2020-11-21,,,,,-11,
+NG,Nigeria,Delta,Sapele,,,,2020-11-22,,,,,-14,
 NG,Nigeria,Delta,Udu,,,,2020-02-15,,,,,-2,
 NG,Nigeria,Delta,Udu,,,,2020-02-17,,,,,5,
 NG,Nigeria,Delta,Udu,,,,2020-02-18,,,,,10,
@@ -12220,6 +12306,8 @@ NG,Nigeria,Delta,Udu,,,,2020-11-17,,,,,-13,
 NG,Nigeria,Delta,Udu,,,,2020-11-18,,,,,-15,
 NG,Nigeria,Delta,Udu,,,,2020-11-19,,,,,-10,
 NG,Nigeria,Delta,Udu,,,,2020-11-20,,,,,-9,
+NG,Nigeria,Delta,Udu,,,,2020-11-21,,,,,-20,
+NG,Nigeria,Delta,Udu,,,,2020-11-22,,,,,-26,
 NG,Nigeria,Delta,Ughelli North,,,,2020-02-15,,,,,-7,
 NG,Nigeria,Delta,Ughelli North,,,,2020-02-17,,,,,1,
 NG,Nigeria,Delta,Ughelli North,,,,2020-02-18,,,,,6,
@@ -12455,6 +12543,8 @@ NG,Nigeria,Delta,Ughelli North,,,,2020-11-17,,,,,-17,
 NG,Nigeria,Delta,Ughelli North,,,,2020-11-18,,,,,-19,
 NG,Nigeria,Delta,Ughelli North,,,,2020-11-19,,,,,-16,
 NG,Nigeria,Delta,Ughelli North,,,,2020-11-20,,,,,-17,
+NG,Nigeria,Delta,Ughelli North,,,,2020-11-21,,,,,-15,
+NG,Nigeria,Delta,Ughelli North,,,,2020-11-22,,,,,-7,
 NG,Nigeria,Delta,Uvwie,,,,2020-02-15,3,-1,-10,,0,-3
 NG,Nigeria,Delta,Uvwie,,,,2020-02-16,7,-2,,,-1,
 NG,Nigeria,Delta,Uvwie,,,,2020-02-17,3,-6,,,3,-1
@@ -12732,6 +12822,8 @@ NG,Nigeria,Delta,Uvwie,,,,2020-11-17,1,-8,,,-18,6
 NG,Nigeria,Delta,Uvwie,,,,2020-11-18,0,-24,,,-14,7
 NG,Nigeria,Delta,Uvwie,,,,2020-11-19,3,-17,,,-17,5
 NG,Nigeria,Delta,Uvwie,,,,2020-11-20,3,-22,-27,,-16,6
+NG,Nigeria,Delta,Uvwie,,,,2020-11-21,0,-24,-48,,-17,2
+NG,Nigeria,Delta,Uvwie,,,,2020-11-22,15,-37,,,-20,4
 NG,Nigeria,Delta,Warri South,,,,2020-02-15,-8,-2,,,-4,
 NG,Nigeria,Delta,Warri South,,,,2020-02-16,-3,6,,,-1,
 NG,Nigeria,Delta,Warri South,,,,2020-02-17,-7,7,,,1,0
@@ -13006,6 +13098,8 @@ NG,Nigeria,Delta,Warri South,,,,2020-11-17,-28,11,,,-16,5
 NG,Nigeria,Delta,Warri South,,,,2020-11-18,-24,4,,,-17,5
 NG,Nigeria,Delta,Warri South,,,,2020-11-19,-21,18,,,-17,3
 NG,Nigeria,Delta,Warri South,,,,2020-11-20,-28,28,,,-13,1
+NG,Nigeria,Delta,Warri South,,,,2020-11-21,-26,,,,-15,2
+NG,Nigeria,Delta,Warri South,,,,2020-11-22,-37,,,,-16,
 NG,Nigeria,Ebonyi,,,NG-EB,,2020-02-15,8,-5,,,4,
 NG,Nigeria,Ebonyi,,,NG-EB,,2020-02-16,-2,-4,,,7,
 NG,Nigeria,Ebonyi,,,NG-EB,,2020-02-17,-2,1,,,2,
@@ -13261,6 +13355,8 @@ NG,Nigeria,Ebonyi,,,NG-EB,,2020-11-17,,,,,-25,
 NG,Nigeria,Ebonyi,,,NG-EB,,2020-11-18,,,,,-20,
 NG,Nigeria,Ebonyi,,,NG-EB,,2020-11-19,,,,,-22,
 NG,Nigeria,Ebonyi,,,NG-EB,,2020-11-20,,,,,-22,
+NG,Nigeria,Ebonyi,,,NG-EB,,2020-11-21,,,,,-13,
+NG,Nigeria,Ebonyi,,,NG-EB,,2020-11-22,,,,,-20,
 NG,Nigeria,Ebonyi,Abakaliki,,,,2020-02-17,,,,,3,
 NG,Nigeria,Ebonyi,Abakaliki,,,,2020-02-18,,,,,1,
 NG,Nigeria,Ebonyi,Abakaliki,,,,2020-02-19,,,,,5,
@@ -13482,6 +13578,8 @@ NG,Nigeria,Ebonyi,Abakaliki,,,,2020-11-17,,,,,-18,
 NG,Nigeria,Ebonyi,Abakaliki,,,,2020-11-18,,,,,-12,
 NG,Nigeria,Ebonyi,Abakaliki,,,,2020-11-19,,,,,-15,
 NG,Nigeria,Ebonyi,Abakaliki,,,,2020-11-20,,,,,-14,
+NG,Nigeria,Ebonyi,Abakaliki,,,,2020-11-21,,,,,-6,
+NG,Nigeria,Ebonyi,Abakaliki,,,,2020-11-22,,,,,-15,
 NG,Nigeria,Ebonyi,Ebonyi,,,,2020-02-17,,,,,-1,
 NG,Nigeria,Ebonyi,Ebonyi,,,,2020-02-18,,,,,3,
 NG,Nigeria,Ebonyi,Ebonyi,,,,2020-02-19,,,,,0,
@@ -13689,6 +13787,8 @@ NG,Nigeria,Ebonyi,Ebonyi,,,,2020-11-17,,,,,-7,
 NG,Nigeria,Ebonyi,Ebonyi,,,,2020-11-18,,,,,-8,
 NG,Nigeria,Ebonyi,Ebonyi,,,,2020-11-19,,,,,-6,
 NG,Nigeria,Ebonyi,Ebonyi,,,,2020-11-20,,,,,-9,
+NG,Nigeria,Ebonyi,Ebonyi,,,,2020-11-21,,,,,0,
+NG,Nigeria,Ebonyi,Ebonyi,,,,2020-11-22,,,,,-3,
 NG,Nigeria,Edo,,,NG-ED,,2020-02-15,9,-1,6,40,4,0
 NG,Nigeria,Edo,,,NG-ED,,2020-02-16,8,-3,6,39,1,1
 NG,Nigeria,Edo,,,NG-ED,,2020-02-17,4,-4,2,48,4,-1
@@ -13969,6 +14069,8 @@ NG,Nigeria,Edo,,,NG-ED,,2020-11-17,-21,2,-14,35,-21,4
 NG,Nigeria,Edo,,,NG-ED,,2020-11-18,-22,-1,-22,34,-21,4
 NG,Nigeria,Edo,,,NG-ED,,2020-11-19,-15,2,-23,31,-20,4
 NG,Nigeria,Edo,,,NG-ED,,2020-11-20,-15,12,-14,36,-16,2
+NG,Nigeria,Edo,,,NG-ED,,2020-11-21,-10,3,-4,27,-16,1
+NG,Nigeria,Edo,,,NG-ED,,2020-11-22,-16,-10,-14,11,-24,1
 NG,Nigeria,Edo,Egor,,,,2020-02-15,43,,,124,6,0
 NG,Nigeria,Edo,Egor,,,,2020-02-16,,,,106,1,
 NG,Nigeria,Edo,Egor,,,,2020-02-17,12,,,143,3,-1
@@ -14243,6 +14345,8 @@ NG,Nigeria,Edo,Egor,,,,2020-11-17,-57,,,-27,-25,9
 NG,Nigeria,Edo,Egor,,,,2020-11-18,-60,,,-29,-25,6
 NG,Nigeria,Edo,Egor,,,,2020-11-19,-55,,,-29,-22,6
 NG,Nigeria,Edo,Egor,,,,2020-11-20,-54,,,-21,-17,6
+NG,Nigeria,Edo,Egor,,,,2020-11-21,-32,,,-20,-21,4
+NG,Nigeria,Edo,Egor,,,,2020-11-22,-36,,,-26,-31,3
 NG,Nigeria,Edo,Esan West,,,,2020-02-17,,,,,7,
 NG,Nigeria,Edo,Esan West,,,,2020-02-18,,,,,1,
 NG,Nigeria,Edo,Esan West,,,,2020-02-19,,,,,8,
@@ -14462,6 +14566,8 @@ NG,Nigeria,Edo,Esan West,,,,2020-11-17,,,,,-48,
 NG,Nigeria,Edo,Esan West,,,,2020-11-18,,,,,-49,
 NG,Nigeria,Edo,Esan West,,,,2020-11-19,,,,,-49,
 NG,Nigeria,Edo,Esan West,,,,2020-11-20,,,,,-46,
+NG,Nigeria,Edo,Esan West,,,,2020-11-21,,,,,-38,
+NG,Nigeria,Edo,Esan West,,,,2020-11-22,,,,,-59,
 NG,Nigeria,Edo,Etsako West,,,,2020-02-17,,,,,1,
 NG,Nigeria,Edo,Etsako West,,,,2020-02-18,,,,,12,
 NG,Nigeria,Edo,Etsako West,,,,2020-02-19,,,,,4,
@@ -14697,6 +14803,8 @@ NG,Nigeria,Edo,Etsako West,,,,2020-11-17,,,,,-41,
 NG,Nigeria,Edo,Etsako West,,,,2020-11-18,,,,,-36,
 NG,Nigeria,Edo,Etsako West,,,,2020-11-19,,,,,-38,
 NG,Nigeria,Edo,Etsako West,,,,2020-11-20,,,,,-35,
+NG,Nigeria,Edo,Etsako West,,,,2020-11-21,,,,,-33,
+NG,Nigeria,Edo,Etsako West,,,,2020-11-22,,,,,-34,
 NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-02-15,,2,,,1,-1
 NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-02-16,,5,,,1,
 NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-02-17,,5,,,6,-1
@@ -14974,6 +15082,8 @@ NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-11-17,,14,,,-11,3
 NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-11-18,,5,,,-10,3
 NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-11-19,,9,,,-9,4
 NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-11-20,,15,,,-6,2
+NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-11-21,,13,,,-7,1
+NG,Nigeria,Edo,Ikpoba-Okha,,,,2020-11-22,,,,,-9,-1
 NG,Nigeria,Edo,Oredo,,,,2020-02-15,1,-4,,15,6,-1
 NG,Nigeria,Edo,Oredo,,,,2020-02-16,-1,-1,,12,6,
 NG,Nigeria,Edo,Oredo,,,,2020-02-17,-3,-4,,11,4,1
@@ -15251,6 +15361,8 @@ NG,Nigeria,Edo,Oredo,,,,2020-11-17,-17,46,,102,-17,10
 NG,Nigeria,Edo,Oredo,,,,2020-11-18,-16,44,,112,-11,11
 NG,Nigeria,Edo,Oredo,,,,2020-11-19,-12,58,,93,-12,12
 NG,Nigeria,Edo,Oredo,,,,2020-11-20,-7,63,,100,-9,10
+NG,Nigeria,Edo,Oredo,,,,2020-11-21,-12,35,,77,-5,8
+NG,Nigeria,Edo,Oredo,,,,2020-11-22,-20,10,,61,-8,9
 NG,Nigeria,Edo,Ovia North-East,,,,2020-02-15,,,,-13,5,
 NG,Nigeria,Edo,Ovia North-East,,,,2020-02-16,,,,-5,,
 NG,Nigeria,Edo,Ovia North-East,,,,2020-02-17,,,,-16,7,
@@ -15506,6 +15618,8 @@ NG,Nigeria,Edo,Ovia North-East,,,,2020-11-17,,,,4,-25,
 NG,Nigeria,Edo,Ovia North-East,,,,2020-11-18,,,,29,-27,
 NG,Nigeria,Edo,Ovia North-East,,,,2020-11-19,,,,26,-27,
 NG,Nigeria,Edo,Ovia North-East,,,,2020-11-20,,,,-2,-23,
+NG,Nigeria,Edo,Ovia North-East,,,,2020-11-21,,,,8,-17,
+NG,Nigeria,Edo,Ovia North-East,,,,2020-11-22,,,,-7,-21,
 NG,Nigeria,Edo,Uhunmwonde,,,,2020-06-08,,,,,-11,
 NG,Nigeria,Edo,Uhunmwonde,,,,2020-06-09,,,,,-11,
 NG,Nigeria,Edo,Uhunmwonde,,,,2020-06-10,,,,,-4,
@@ -15883,6 +15997,8 @@ NG,Nigeria,Ekiti,,,NG-EK,,2020-11-17,,,,,-26,-5
 NG,Nigeria,Ekiti,,,NG-EK,,2020-11-18,,,,,-25,-2
 NG,Nigeria,Ekiti,,,NG-EK,,2020-11-19,5,,,,-26,-4
 NG,Nigeria,Ekiti,,,NG-EK,,2020-11-20,,,,,-26,-4
+NG,Nigeria,Ekiti,,,NG-EK,,2020-11-21,,,,,-17,-6
+NG,Nigeria,Ekiti,,,NG-EK,,2020-11-22,,,,,-23,
 NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-02-15,,,,,6,
 NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-02-16,,,,,2,
 NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-02-17,10,,,,5,0
@@ -16157,6 +16273,8 @@ NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-11-17,,,-13,,-10,1
 NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-11-18,,,-13,,-9,1
 NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-11-19,,,-9,,-9,1
 NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-11-20,,,,,-11,2
+NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-11-21,,,,,3,-3
+NG,Nigeria,Ekiti,Ado-Ekiti,,,,2020-11-22,,,-68,,-5,
 NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-03-31,,,,,-51,
 NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-04-01,,,,,-44,
 NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-04-08,,,,,-48,
@@ -16298,6 +16416,8 @@ NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-11-17,,,,,-68,
 NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-11-18,,,,,-68,
 NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-11-19,,,,,-68,
 NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-11-20,,,,,-62,
+NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-11-21,,,,,-60,
+NG,Nigeria,Ekiti,Irepodun/Ifelodun,,,,2020-11-22,,,,,-56,
 NG,Nigeria,Enugu,,,NG-EN,,2020-02-15,-3,0,-13,-6,3,1
 NG,Nigeria,Enugu,,,NG-EN,,2020-02-16,2,-3,-7,-12,2,1
 NG,Nigeria,Enugu,,,NG-EN,,2020-02-17,-8,-3,-11,-7,2,1
@@ -16578,6 +16698,8 @@ NG,Nigeria,Enugu,,,NG-EN,,2020-11-17,-15,-19,-5,-13,-25,9
 NG,Nigeria,Enugu,,,NG-EN,,2020-11-18,-17,-16,-2,-3,-23,8
 NG,Nigeria,Enugu,,,NG-EN,,2020-11-19,-12,-12,-5,-11,-22,7
 NG,Nigeria,Enugu,,,NG-EN,,2020-11-20,-12,-12,-2,-5,-21,6
+NG,Nigeria,Enugu,,,NG-EN,,2020-11-21,-10,-17,7,-17,-22,5
+NG,Nigeria,Enugu,,,NG-EN,,2020-11-22,-17,-20,5,-10,-29,6
 NG,Nigeria,Enugu,Enugu East,,,,2020-02-15,,,,-8,3,
 NG,Nigeria,Enugu,Enugu East,,,,2020-02-16,,,,-8,3,
 NG,Nigeria,Enugu,Enugu East,,,,2020-02-17,,,,-15,-1,2
@@ -16852,6 +16974,8 @@ NG,Nigeria,Enugu,Enugu East,,,,2020-11-17,,,,49,-19,10
 NG,Nigeria,Enugu,Enugu East,,,,2020-11-18,,,,69,-21,10
 NG,Nigeria,Enugu,Enugu East,,,,2020-11-19,,,,64,-20,8
 NG,Nigeria,Enugu,Enugu East,,,,2020-11-20,,,,83,-16,8
+NG,Nigeria,Enugu,Enugu East,,,,2020-11-21,,,,74,-16,8
+NG,Nigeria,Enugu,Enugu East,,,,2020-11-22,,,,63,-17,
 NG,Nigeria,Enugu,Enugu North,,,,2020-02-15,3,4,,-7,4,1
 NG,Nigeria,Enugu,Enugu North,,,,2020-02-16,1,0,,-16,-2,
 NG,Nigeria,Enugu,Enugu North,,,,2020-02-17,-8,-6,,-9,3,1
@@ -17126,6 +17250,8 @@ NG,Nigeria,Enugu,Enugu North,,,,2020-11-17,-14,-23,,-14,-19,15
 NG,Nigeria,Enugu,Enugu North,,,,2020-11-18,-16,-20,,3,-21,14
 NG,Nigeria,Enugu,Enugu North,,,,2020-11-19,-16,-16,,-11,-17,13
 NG,Nigeria,Enugu,Enugu North,,,,2020-11-20,-19,-15,,-12,-18,11
+NG,Nigeria,Enugu,Enugu North,,,,2020-11-21,-9,-19,,-23,-16,10
+NG,Nigeria,Enugu,Enugu North,,,,2020-11-22,-21,-23,,-24,-19,13
 NG,Nigeria,Enugu,Enugu South,,,,2020-02-15,,,,-5,-1,
 NG,Nigeria,Enugu,Enugu South,,,,2020-02-16,,,,9,5,
 NG,Nigeria,Enugu,Enugu South,,,,2020-02-17,,,,21,5,2
@@ -17400,6 +17526,8 @@ NG,Nigeria,Enugu,Enugu South,,,,2020-11-17,,,,-31,-15,12
 NG,Nigeria,Enugu,Enugu South,,,,2020-11-18,,,,-28,-14,9
 NG,Nigeria,Enugu,Enugu South,,,,2020-11-19,,,,-27,-10,9
 NG,Nigeria,Enugu,Enugu South,,,,2020-11-20,,,,-17,-11,8
+NG,Nigeria,Enugu,Enugu South,,,,2020-11-21,,,,-36,-9,5
+NG,Nigeria,Enugu,Enugu South,,,,2020-11-22,,,,-35,-16,
 NG,Nigeria,Enugu,Nsukka,,,,2020-02-15,,,,7,10,
 NG,Nigeria,Enugu,Nsukka,,,,2020-02-16,,,,-1,10,
 NG,Nigeria,Enugu,Nsukka,,,,2020-02-17,,,,2,9,
@@ -17655,6 +17783,8 @@ NG,Nigeria,Enugu,Nsukka,,,,2020-11-17,,,,-24,-42,
 NG,Nigeria,Enugu,Nsukka,,,,2020-11-18,,,,-31,-41,
 NG,Nigeria,Enugu,Nsukka,,,,2020-11-19,,,,-24,-44,
 NG,Nigeria,Enugu,Nsukka,,,,2020-11-20,,,,-18,-42,
+NG,Nigeria,Enugu,Nsukka,,,,2020-11-21,,,,-33,-44,
+NG,Nigeria,Enugu,Nsukka,,,,2020-11-22,,,,7,-52,
 NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-02-15,4,5,9,7,4,-1
 NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-02-16,2,2,10,13,4,2
 NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-02-17,2,2,0,12,7,1
@@ -17935,6 +18065,8 @@ NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-11-17,-2,9,3,-15,-3,10
 NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-11-18,-4,7,-1,-15,0,10
 NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-11-19,-1,10,-2,-13,0,11
 NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-11-20,-1,9,-1,-5,5,10
+NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-11-21,1,11,3,-6,9,7
+NG,Nigeria,Federal Capital Territory,,,NG-FC,,2020-11-22,0,10,-3,-10,1,9
 NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-02-15,4,4,7,7,4,0
 NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-02-16,2,0,7,15,3,2
 NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-02-17,3,0,0,13,7,1
@@ -18215,6 +18347,8 @@ NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-11-17,
 NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-11-18,-2,7,0,-14,0,11
 NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-11-19,-1,9,-3,-12,0,12
 NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-11-20,-1,9,2,-7,5,11
+NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-11-21,1,10,-1,-10,8,7
+NG,Nigeria,Federal Capital Territory,Abuja Municipal Area Council,,,,2020-11-22,0,11,-4,-14,9,10
 NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-02-15,,,,7,8,
 NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-02-16,,,,9,9,
 NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-02-17,,,,7,7,0
@@ -18489,6 +18623,8 @@ NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-11-17,,,,34,-1,6
 NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-11-18,,,,39,5,6
 NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-11-19,,,,55,4,8
 NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-11-20,,,,66,7,8
+NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-11-21,,,,51,9,4
+NG,Nigeria,Federal Capital Territory,Bwari,,,,2020-11-22,,,,37,-6,
 NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-02-15,,,,,7,
 NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-02-16,,,,,10,
 NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-02-17,,,,,5,-2
@@ -18744,6 +18880,8 @@ NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-11-17,,,,,-10,7
 NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-11-18,,,,,-12,5
 NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-11-19,,,,,-14,3
 NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-11-20,,,,,-11,2
+NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-11-21,,,,,-7,
+NG,Nigeria,Federal Capital Territory,Gwagwalada,,,,2020-11-22,,,,,-24,
 NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-02-17,,,,,2,
 NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-02-18,,,,,10,
 NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-02-19,,,,,-2,
@@ -18945,6 +19083,7 @@ NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-11-17,,,,,1,
 NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-11-18,,,,,-7,
 NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-11-19,,,,,1,
 NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-11-20,,,,,-1,
+NG,Nigeria,Federal Capital Territory,Kuje,,,,2020-11-21,,,,,-10,
 NG,Nigeria,Gombe,,,NG-GO,,2020-02-15,-17,1,,,4,
 NG,Nigeria,Gombe,,,NG-GO,,2020-02-16,-15,-9,,,5,
 NG,Nigeria,Gombe,,,NG-GO,,2020-02-17,-17,-2,,,1,
@@ -19200,6 +19339,8 @@ NG,Nigeria,Gombe,,,NG-GO,,2020-11-17,,,,,-23,-8
 NG,Nigeria,Gombe,,,NG-GO,,2020-11-18,,,,,-21,-5
 NG,Nigeria,Gombe,,,NG-GO,,2020-11-19,,,,,-19,
 NG,Nigeria,Gombe,,,NG-GO,,2020-11-20,,,,,-10,
+NG,Nigeria,Gombe,,,NG-GO,,2020-11-21,,,,,-11,
+NG,Nigeria,Gombe,,,NG-GO,,2020-11-22,,,,,-11,
 NG,Nigeria,Gombe,Akko,,,,2020-02-17,,,,,-3,
 NG,Nigeria,Gombe,Akko,,,,2020-02-18,,,,,9,
 NG,Nigeria,Gombe,Akko,,,,2020-02-19,,,,,7,
@@ -19416,6 +19557,8 @@ NG,Nigeria,Gombe,Akko,,,,2020-11-17,,,,,-28,
 NG,Nigeria,Gombe,Akko,,,,2020-11-18,,,,,-31,
 NG,Nigeria,Gombe,Akko,,,,2020-11-19,,,,,-27,
 NG,Nigeria,Gombe,Akko,,,,2020-11-20,,,,,-22,
+NG,Nigeria,Gombe,Akko,,,,2020-11-21,,,,,-34,
+NG,Nigeria,Gombe,Akko,,,,2020-11-22,,,,,-35,
 NG,Nigeria,Gombe,Gombe,,,,2020-02-15,-14,1,,,2,
 NG,Nigeria,Gombe,Gombe,,,,2020-02-16,-18,-11,,,1,
 NG,Nigeria,Gombe,Gombe,,,,2020-02-17,,-12,,,3,-1
@@ -19671,6 +19814,8 @@ NG,Nigeria,Gombe,Gombe,,,,2020-11-17,,,,,-17,2
 NG,Nigeria,Gombe,Gombe,,,,2020-11-18,,9,,,-16,2
 NG,Nigeria,Gombe,Gombe,,,,2020-11-19,,,,,-12,2
 NG,Nigeria,Gombe,Gombe,,,,2020-11-20,,13,,,-7,3
+NG,Nigeria,Gombe,Gombe,,,,2020-11-21,,,,,-4,
+NG,Nigeria,Gombe,Gombe,,,,2020-11-22,-11,,,,-2,
 NG,Nigeria,Imo,,,NG-IM,,2020-02-15,2,-5,,-9,9,0
 NG,Nigeria,Imo,,,NG-IM,,2020-02-16,-1,-6,,-7,5,1
 NG,Nigeria,Imo,,,NG-IM,,2020-02-17,-10,-8,,-6,7,0
@@ -19950,6 +20095,8 @@ NG,Nigeria,Imo,,,NG-IM,,2020-11-17,-5,-28,-19,-10,-25,-1
 NG,Nigeria,Imo,,,NG-IM,,2020-11-18,-7,-25,,-11,-22,-1
 NG,Nigeria,Imo,,,NG-IM,,2020-11-19,1,-22,-23,-12,-25,-2
 NG,Nigeria,Imo,,,NG-IM,,2020-11-20,-1,-24,,-3,-20,-2
+NG,Nigeria,Imo,,,NG-IM,,2020-11-21,-6,-23,,-6,-21,-5
+NG,Nigeria,Imo,,,NG-IM,,2020-11-22,-12,-32,,-3,-29,-3
 NG,Nigeria,Imo,Owerri Municipal,,,,2020-02-15,-5,-5,,-13,9,
 NG,Nigeria,Imo,Owerri Municipal,,,,2020-02-16,-6,1,,-8,8,
 NG,Nigeria,Imo,Owerri Municipal,,,,2020-02-17,-12,-6,,-10,9,0
@@ -20224,6 +20371,8 @@ NG,Nigeria,Imo,Owerri Municipal,,,,2020-11-17,-3,-9,,5,-5,5
 NG,Nigeria,Imo,Owerri Municipal,,,,2020-11-18,0,-13,,16,-2,3
 NG,Nigeria,Imo,Owerri Municipal,,,,2020-11-19,0,-10,,9,-7,3
 NG,Nigeria,Imo,Owerri Municipal,,,,2020-11-20,-4,-10,,13,-2,3
+NG,Nigeria,Imo,Owerri Municipal,,,,2020-11-21,-9,-8,,6,4,-1
+NG,Nigeria,Imo,Owerri Municipal,,,,2020-11-22,-21,-14,,26,-6,
 NG,Nigeria,Imo,Owerri North,,,,2020-02-15,,,,,13,
 NG,Nigeria,Imo,Owerri North,,,,2020-02-16,,,,,10,
 NG,Nigeria,Imo,Owerri North,,,,2020-02-17,,,,-21,12,2
@@ -20479,6 +20628,8 @@ NG,Nigeria,Imo,Owerri North,,,,2020-11-17,,,-52,,-17,0
 NG,Nigeria,Imo,Owerri North,,,,2020-11-18,,,-43,,-14,1
 NG,Nigeria,Imo,Owerri North,,,,2020-11-19,,,-50,,-13,-2
 NG,Nigeria,Imo,Owerri North,,,,2020-11-20,,,-41,,-12,-4
+NG,Nigeria,Imo,Owerri North,,,,2020-11-21,,,,,-10,
+NG,Nigeria,Imo,Owerri North,,,,2020-11-22,,,,,-20,
 NG,Nigeria,Imo,Owerri West,,,,2020-02-15,,,,,8,
 NG,Nigeria,Imo,Owerri West,,,,2020-02-17,,,,,3,
 NG,Nigeria,Imo,Owerri West,,,,2020-02-18,,,,,8,
@@ -20717,6 +20868,8 @@ NG,Nigeria,Imo,Owerri West,,,,2020-11-17,,,,-56,-24,
 NG,Nigeria,Imo,Owerri West,,,,2020-11-18,,,,,-20,
 NG,Nigeria,Imo,Owerri West,,,,2020-11-19,,,,,-24,
 NG,Nigeria,Imo,Owerri West,,,,2020-11-20,,,,,-21,
+NG,Nigeria,Imo,Owerri West,,,,2020-11-21,,,,,-27,
+NG,Nigeria,Imo,Owerri West,,,,2020-11-22,,,,,-33,
 NG,Nigeria,Jigawa,,,NG-JI,,2020-02-15,4,,,,11,
 NG,Nigeria,Jigawa,,,NG-JI,,2020-02-16,-2,,,,14,
 NG,Nigeria,Jigawa,,,NG-JI,,2020-02-17,-8,,,,12,
@@ -20972,6 +21125,8 @@ NG,Nigeria,Jigawa,,,NG-JI,,2020-11-17,,,,,-34,
 NG,Nigeria,Jigawa,,,NG-JI,,2020-11-18,,,,,-29,
 NG,Nigeria,Jigawa,,,NG-JI,,2020-11-19,,,,,-28,
 NG,Nigeria,Jigawa,,,NG-JI,,2020-11-20,,,,,-25,
+NG,Nigeria,Jigawa,,,NG-JI,,2020-11-21,,,,,-24,
+NG,Nigeria,Jigawa,,,NG-JI,,2020-11-22,,,,,-20,
 NG,Nigeria,Jigawa,Dutse,,,,2020-03-02,,,,,-1,
 NG,Nigeria,Jigawa,Dutse,,,,2020-03-09,,,,,0,
 NG,Nigeria,Jigawa,Dutse,,,,2020-03-16,,,,,0,
@@ -21381,6 +21536,8 @@ NG,Nigeria,Jigawa,Jahun,,,,2020-11-17,,,-29,,,
 NG,Nigeria,Jigawa,Jahun,,,,2020-11-18,,,-30,,,
 NG,Nigeria,Jigawa,Jahun,,,,2020-11-19,,,-23,,,
 NG,Nigeria,Jigawa,Jahun,,,,2020-11-20,,,-32,,,
+NG,Nigeria,Jigawa,Jahun,,,,2020-11-21,,,-42,,,
+NG,Nigeria,Jigawa,Jahun,,,,2020-11-22,,,-29,,,
 NG,Nigeria,Kaduna,,,NG-KD,,2020-02-15,1,0,21,-1,19,0
 NG,Nigeria,Kaduna,,,NG-KD,,2020-02-16,-5,-2,25,-2,14,1
 NG,Nigeria,Kaduna,,,NG-KD,,2020-02-17,-4,0,31,-3,12,1
@@ -21661,6 +21818,8 @@ NG,Nigeria,Kaduna,,,NG-KD,,2020-11-17,-7,3,-42,25,-18,4
 NG,Nigeria,Kaduna,,,NG-KD,,2020-11-18,-12,3,-42,11,-18,3
 NG,Nigeria,Kaduna,,,NG-KD,,2020-11-19,-8,3,-40,34,-16,3
 NG,Nigeria,Kaduna,,,NG-KD,,2020-11-20,-10,2,-32,17,-8,1
+NG,Nigeria,Kaduna,,,NG-KD,,2020-11-21,-11,0,-34,5,-8,2
+NG,Nigeria,Kaduna,,,NG-KD,,2020-11-22,-11,-7,-28,30,-14,1
 NG,Nigeria,Kaduna,Chikun,,,,2020-02-15,6,,-12,,13,1
 NG,Nigeria,Kaduna,Chikun,,,,2020-02-16,1,,2,,9,
 NG,Nigeria,Kaduna,Chikun,,,,2020-02-17,3,,-8,,8,-2
@@ -21938,6 +22097,8 @@ NG,Nigeria,Kaduna,Chikun,,,,2020-11-17,10,,-5,,-10,4
 NG,Nigeria,Kaduna,Chikun,,,,2020-11-18,8,,-8,,-11,4
 NG,Nigeria,Kaduna,Chikun,,,,2020-11-19,17,,-3,,-11,5
 NG,Nigeria,Kaduna,Chikun,,,,2020-11-20,14,,5,,-4,2
+NG,Nigeria,Kaduna,Chikun,,,,2020-11-21,9,,-11,,2,3
+NG,Nigeria,Kaduna,Chikun,,,,2020-11-22,2,,-7,,-10,3
 NG,Nigeria,Kaduna,Igabi,,,,2020-02-15,,,,1,15,
 NG,Nigeria,Kaduna,Igabi,,,,2020-02-16,,,,1,6,
 NG,Nigeria,Kaduna,Igabi,,,,2020-02-17,,,,-7,14,-1
@@ -22193,6 +22354,8 @@ NG,Nigeria,Kaduna,Igabi,,,,2020-11-17,,,,,-5,10
 NG,Nigeria,Kaduna,Igabi,,,,2020-11-18,,,,-8,-1,8
 NG,Nigeria,Kaduna,Igabi,,,,2020-11-19,,,,,1,9
 NG,Nigeria,Kaduna,Igabi,,,,2020-11-20,,,,15,3,6
+NG,Nigeria,Kaduna,Igabi,,,,2020-11-21,,,,8,1,
+NG,Nigeria,Kaduna,Igabi,,,,2020-11-22,,,,42,-4,
 NG,Nigeria,Kaduna,Kaduna North,,,,2020-02-15,-4,-10,-14,19,20,0
 NG,Nigeria,Kaduna,Kaduna North,,,,2020-02-16,-8,-3,-9,-10,10,1
 NG,Nigeria,Kaduna,Kaduna North,,,,2020-02-17,-8,-3,-20,-8,13,1
@@ -22473,6 +22636,8 @@ NG,Nigeria,Kaduna,Kaduna North,,,,2020-11-17,-11,27,-27,23,-16,8
 NG,Nigeria,Kaduna,Kaduna North,,,,2020-11-18,-14,30,-26,16,-16,7
 NG,Nigeria,Kaduna,Kaduna North,,,,2020-11-19,-17,35,-23,,-14,7
 NG,Nigeria,Kaduna,Kaduna North,,,,2020-11-20,-16,21,-24,20,-6,4
+NG,Nigeria,Kaduna,Kaduna North,,,,2020-11-21,-21,10,-28,17,-4,6
+NG,Nigeria,Kaduna,Kaduna North,,,,2020-11-22,-13,14,-7,,-13,4
 NG,Nigeria,Kaduna,kaduna South,,,,2020-02-15,,,-3,,12,
 NG,Nigeria,Kaduna,kaduna South,,,,2020-02-16,,,-5,,13,
 NG,Nigeria,Kaduna,kaduna South,,,,2020-02-17,,,,,14,-1
@@ -22747,6 +22912,8 @@ NG,Nigeria,Kaduna,kaduna South,,,,2020-11-17,,,,,-6,5
 NG,Nigeria,Kaduna,kaduna South,,,,2020-11-18,,,,,-8,6
 NG,Nigeria,Kaduna,kaduna South,,,,2020-11-19,,,,,-6,6
 NG,Nigeria,Kaduna,kaduna South,,,,2020-11-20,,,,,3,3
+NG,Nigeria,Kaduna,kaduna South,,,,2020-11-21,,,,,2,4
+NG,Nigeria,Kaduna,kaduna South,,,,2020-11-22,,,-77,,-5,2
 NG,Nigeria,Kaduna,Sabon Gari,,,,2020-02-15,,,,,41,
 NG,Nigeria,Kaduna,Sabon Gari,,,,2020-02-16,,,,,32,
 NG,Nigeria,Kaduna,Sabon Gari,,,,2020-02-17,13,,,,19,2
@@ -23017,6 +23184,8 @@ NG,Nigeria,Kaduna,Sabon Gari,,,,2020-11-17,-35,,-87,,-41,11
 NG,Nigeria,Kaduna,Sabon Gari,,,,2020-11-18,-44,,-88,,-43,8
 NG,Nigeria,Kaduna,Sabon Gari,,,,2020-11-19,-38,,-88,,-41,6
 NG,Nigeria,Kaduna,Sabon Gari,,,,2020-11-20,-28,,-75,,-30,7
+NG,Nigeria,Kaduna,Sabon Gari,,,,2020-11-21,-26,,-55,,-32,
+NG,Nigeria,Kaduna,Sabon Gari,,,,2020-11-22,-34,,-58,,-32,
 NG,Nigeria,Kaduna,Zaria,,,,2020-02-15,,,,,19,
 NG,Nigeria,Kaduna,Zaria,,,,2020-02-16,,,0,,16,
 NG,Nigeria,Kaduna,Zaria,,,,2020-02-17,,,,,13,
@@ -23272,6 +23441,8 @@ NG,Nigeria,Kaduna,Zaria,,,,2020-11-17,,,-33,,-28,
 NG,Nigeria,Kaduna,Zaria,,,,2020-11-18,,,,,-30,
 NG,Nigeria,Kaduna,Zaria,,,,2020-11-19,,,-24,,-30,
 NG,Nigeria,Kaduna,Zaria,,,,2020-11-20,,,-37,,-22,
+NG,Nigeria,Kaduna,Zaria,,,,2020-11-21,,,-27,,-26,
+NG,Nigeria,Kaduna,Zaria,,,,2020-11-22,,,-27,,-21,
 NG,Nigeria,Kano,,,NG-KN,,2020-02-15,-3,-7,-5,-1,7,0
 NG,Nigeria,Kano,,,NG-KN,,2020-02-16,-2,-5,-15,-2,4,1
 NG,Nigeria,Kano,,,NG-KN,,2020-02-17,-6,-4,-8,-4,5,0
@@ -23552,6 +23723,8 @@ NG,Nigeria,Kano,,,NG-KN,,2020-11-17,13,-6,27,-11,-4,2
 NG,Nigeria,Kano,,,NG-KN,,2020-11-18,11,-11,27,-10,-2,1
 NG,Nigeria,Kano,,,NG-KN,,2020-11-19,14,-12,35,-8,-5,1
 NG,Nigeria,Kano,,,NG-KN,,2020-11-20,12,-12,15,-9,-1,1
+NG,Nigeria,Kano,,,NG-KN,,2020-11-21,10,-12,34,-12,4,2
+NG,Nigeria,Kano,,,NG-KN,,2020-11-22,13,-13,19,-14,-2,1
 NG,Nigeria,Kano,Dala,,,,2020-02-15,,,1,4,5,
 NG,Nigeria,Kano,Dala,,,,2020-02-16,,,-7,-6,6,
 NG,Nigeria,Kano,Dala,,,,2020-02-17,,,-6,-4,4,0
@@ -23818,6 +23991,8 @@ NG,Nigeria,Kano,Dala,,,,2020-11-17,,,11,18,-1,4
 NG,Nigeria,Kano,Dala,,,,2020-11-18,,,15,13,5,5
 NG,Nigeria,Kano,Dala,,,,2020-11-19,,,13,10,0,5
 NG,Nigeria,Kano,Dala,,,,2020-11-20,,,1,13,3,5
+NG,Nigeria,Kano,Dala,,,,2020-11-21,,,17,17,9,6
+NG,Nigeria,Kano,Dala,,,,2020-11-22,,,11,19,5,5
 NG,Nigeria,Kano,Fagge,,,,2020-02-15,-2,-4,,0,3,
 NG,Nigeria,Kano,Fagge,,,,2020-02-16,-1,-2,,-9,5,
 NG,Nigeria,Kano,Fagge,,,,2020-02-17,-3,0,,-9,4,0
@@ -24084,6 +24259,8 @@ NG,Nigeria,Kano,Fagge,,,,2020-11-17,-7,-21,,21,-8,2
 NG,Nigeria,Kano,Fagge,,,,2020-11-18,-4,-22,,26,-6,3
 NG,Nigeria,Kano,Fagge,,,,2020-11-19,0,-22,,31,-9,1
 NG,Nigeria,Kano,Fagge,,,,2020-11-20,-4,-19,,25,-6,3
+NG,Nigeria,Kano,Fagge,,,,2020-11-21,-8,-22,,1,-4,2
+NG,Nigeria,Kano,Fagge,,,,2020-11-22,-2,-24,,-13,-12,
 NG,Nigeria,Kano,Gwale,,,,2020-02-15,,,,-1,5,
 NG,Nigeria,Kano,Gwale,,,,2020-02-16,,,,-1,8,
 NG,Nigeria,Kano,Gwale,,,,2020-02-17,,,,3,5,
@@ -24339,6 +24516,8 @@ NG,Nigeria,Kano,Gwale,,,,2020-11-17,,,,-41,-2,
 NG,Nigeria,Kano,Gwale,,,,2020-11-18,,,,-45,2,
 NG,Nigeria,Kano,Gwale,,,,2020-11-19,,,,-45,-3,
 NG,Nigeria,Kano,Gwale,,,,2020-11-20,,,,-43,-1,
+NG,Nigeria,Kano,Gwale,,,,2020-11-21,,,,-48,4,
+NG,Nigeria,Kano,Gwale,,,,2020-11-22,,,,-42,4,
 NG,Nigeria,Kano,Kano Municipal,,,,2020-02-15,,,,,9,
 NG,Nigeria,Kano,Kano Municipal,,,,2020-02-17,,,,,1,
 NG,Nigeria,Kano,Kano Municipal,,,,2020-02-18,,,,,7,
@@ -24588,6 +24767,8 @@ NG,Nigeria,Kano,Kano Municipal,,,,2020-11-17,,,,,3,
 NG,Nigeria,Kano,Kano Municipal,,,,2020-11-18,,,,,6,
 NG,Nigeria,Kano,Kano Municipal,,,,2020-11-19,,,,,-1,
 NG,Nigeria,Kano,Kano Municipal,,,,2020-11-20,,,,,4,
+NG,Nigeria,Kano,Kano Municipal,,,,2020-11-21,,,,,7,
+NG,Nigeria,Kano,Kano Municipal,,,,2020-11-22,,,,,-4,
 NG,Nigeria,Kano,Kumbotso,,,,2020-02-15,,,,,5,
 NG,Nigeria,Kano,Kumbotso,,,,2020-02-16,,,,,1,
 NG,Nigeria,Kano,Kumbotso,,,,2020-02-17,,,,,5,0
@@ -24850,6 +25031,8 @@ NG,Nigeria,Kano,Kumbotso,,,,2020-11-17,,,,,0,-2
 NG,Nigeria,Kano,Kumbotso,,,,2020-11-18,,,,,3,-1
 NG,Nigeria,Kano,Kumbotso,,,,2020-11-19,,,,,0,-2
 NG,Nigeria,Kano,Kumbotso,,,,2020-11-20,,,,,7,1
+NG,Nigeria,Kano,Kumbotso,,,,2020-11-21,,,,,6,2
+NG,Nigeria,Kano,Kumbotso,,,,2020-11-22,,,,,5,
 NG,Nigeria,Kano,Nassarawa,,,,2020-02-15,-7,,,-10,3,
 NG,Nigeria,Kano,Nassarawa,,,,2020-02-16,-3,,,-8,-2,
 NG,Nigeria,Kano,Nassarawa,,,,2020-02-17,-9,,,,5,0
@@ -25124,6 +25307,8 @@ NG,Nigeria,Kano,Nassarawa,,,,2020-11-17,,,,,-5,2
 NG,Nigeria,Kano,Nassarawa,,,,2020-11-18,,,,,-6,3
 NG,Nigeria,Kano,Nassarawa,,,,2020-11-19,8,,,,-5,3
 NG,Nigeria,Kano,Nassarawa,,,,2020-11-20,6,,,,-4,2
+NG,Nigeria,Kano,Nassarawa,,,,2020-11-21,-1,,,-3,8,1
+NG,Nigeria,Kano,Nassarawa,,,,2020-11-22,-1,,,-4,-3,3
 NG,Nigeria,Kano,Tarauni,,,,2020-02-15,-6,-7,,,2,
 NG,Nigeria,Kano,Tarauni,,,,2020-02-16,7,-9,,,2,
 NG,Nigeria,Kano,Tarauni,,,,2020-02-17,-9,-9,,,3,-1
@@ -25397,6 +25582,8 @@ NG,Nigeria,Kano,Tarauni,,,,2020-11-17,42,-31,,,-5,1
 NG,Nigeria,Kano,Tarauni,,,,2020-11-18,31,-30,,,-3,4
 NG,Nigeria,Kano,Tarauni,,,,2020-11-19,38,-29,,,-3,5
 NG,Nigeria,Kano,Tarauni,,,,2020-11-20,33,-31,,,-1,3
+NG,Nigeria,Kano,Tarauni,,,,2020-11-21,41,-28,,,2,2
+NG,Nigeria,Kano,Tarauni,,,,2020-11-22,49,-34,,,-1,1
 NG,Nigeria,Kano,Ungongo,,,,2020-02-15,,-3,,-1,12,-1
 NG,Nigeria,Kano,Ungongo,,,,2020-02-16,,1,,-13,8,0
 NG,Nigeria,Kano,Ungongo,,,,2020-02-17,,3,,-9,6,-2
@@ -25677,6 +25864,8 @@ NG,Nigeria,Kano,Ungongo,,,,2020-11-17,,-5,,-23,4,5
 NG,Nigeria,Kano,Ungongo,,,,2020-11-18,,-7,,-18,2,4
 NG,Nigeria,Kano,Ungongo,,,,2020-11-19,,-14,,-14,4,1
 NG,Nigeria,Kano,Ungongo,,,,2020-11-20,,-7,,-13,8,2
+NG,Nigeria,Kano,Ungongo,,,,2020-11-21,,10,,-10,11,7
+NG,Nigeria,Kano,Ungongo,,,,2020-11-22,,2,,-21,2,5
 NG,Nigeria,Katsina,,,NG-KT,,2020-02-15,-6,7,,,8,
 NG,Nigeria,Katsina,,,NG-KT,,2020-02-16,-4,-4,0,,6,
 NG,Nigeria,Katsina,,,NG-KT,,2020-02-17,-6,-1,,,12,
@@ -25932,6 +26121,8 @@ NG,Nigeria,Katsina,,,NG-KT,,2020-11-17,,-21,,,-16,-4
 NG,Nigeria,Katsina,,,NG-KT,,2020-11-18,,-18,,,-18,-4
 NG,Nigeria,Katsina,,,NG-KT,,2020-11-19,,-11,,,-17,-5
 NG,Nigeria,Katsina,,,NG-KT,,2020-11-20,,-1,,,-12,-5
+NG,Nigeria,Katsina,,,NG-KT,,2020-11-21,-2,9,,2,-14,
+NG,Nigeria,Katsina,,,NG-KT,,2020-11-22,,2,6,2,-20,
 NG,Nigeria,Katsina,Katsina,,,,2020-02-15,-4,7,-2,9,6,
 NG,Nigeria,Katsina,Katsina,,,,2020-02-16,-7,1,-1,-1,5,
 NG,Nigeria,Katsina,Katsina,,,,2020-02-17,,4,1,18,14,
@@ -26187,6 +26378,8 @@ NG,Nigeria,Katsina,Katsina,,,,2020-11-17,-8,,5,-7,-9,1
 NG,Nigeria,Katsina,Katsina,,,,2020-11-18,-9,,5,7,-11,1
 NG,Nigeria,Katsina,Katsina,,,,2020-11-19,-6,,10,-7,-9,-2
 NG,Nigeria,Katsina,Katsina,,,,2020-11-20,-1,2,2,7,-8,
+NG,Nigeria,Katsina,Katsina,,,,2020-11-21,-3,13,15,11,-12,
+NG,Nigeria,Katsina,Katsina,,,,2020-11-22,-12,9,3,-14,-25,
 NG,Nigeria,Kebbi,,,NG-KE,,2020-02-15,11,,,,20,
 NG,Nigeria,Kebbi,,,NG-KE,,2020-02-16,0,,,,13,
 NG,Nigeria,Kebbi,,,NG-KE,,2020-02-17,0,,,,10,
@@ -26442,6 +26635,8 @@ NG,Nigeria,Kebbi,,,NG-KE,,2020-11-17,,,,,-34,
 NG,Nigeria,Kebbi,,,NG-KE,,2020-11-18,,,,,-32,
 NG,Nigeria,Kebbi,,,NG-KE,,2020-11-19,,,,,-29,
 NG,Nigeria,Kebbi,,,NG-KE,,2020-11-20,,,,,-19,
+NG,Nigeria,Kebbi,,,NG-KE,,2020-11-21,,,,,-20,
+NG,Nigeria,Kebbi,,,NG-KE,,2020-11-22,,,,,-18,
 NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-02-17,,,,,11,
 NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-02-18,,,,,8,
 NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-02-19,,,,,7,
@@ -26663,6 +26858,8 @@ NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-11-17,,,,,-25,
 NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-11-18,,,,,-25,
 NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-11-19,,,,,-21,
 NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-11-20,,,,,-12,
+NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-11-21,,,,,-18,
+NG,Nigeria,Kebbi,Birnin Kebbi,,,,2020-11-22,,,,,-22,
 NG,Nigeria,Kogi,,,NG-KO,,2020-02-15,5,-3,,,10,
 NG,Nigeria,Kogi,,,NG-KO,,2020-02-16,6,2,,,7,
 NG,Nigeria,Kogi,,,NG-KO,,2020-02-17,-8,10,,,11,-1
@@ -26924,6 +27121,8 @@ NG,Nigeria,Kogi,,,NG-KO,,2020-11-17,,,,,-22,-7
 NG,Nigeria,Kogi,,,NG-KO,,2020-11-18,,,,,-20,-5
 NG,Nigeria,Kogi,,,NG-KO,,2020-11-19,,,,,-20,-8
 NG,Nigeria,Kogi,,,NG-KO,,2020-11-20,,,,,-18,-8
+NG,Nigeria,Kogi,,,NG-KO,,2020-11-21,,,,,-16,-11
+NG,Nigeria,Kogi,,,NG-KO,,2020-11-22,,,,,-21,
 NG,Nigeria,Kogi,Adavi,,,,2020-06-08,,,,,10,
 NG,Nigeria,Kogi,Adavi,,,,2020-06-09,,,,,-5,
 NG,Nigeria,Kogi,Adavi,,,,2020-06-10,,,,,-1,
@@ -27410,6 +27609,8 @@ NG,Nigeria,Kogi,Lokoja,,,,2020-11-17,,,-45,,-17,0
 NG,Nigeria,Kogi,Lokoja,,,,2020-11-18,,,-41,,-16,0
 NG,Nigeria,Kogi,Lokoja,,,,2020-11-19,,,-33,,-16,0
 NG,Nigeria,Kogi,Lokoja,,,,2020-11-20,,,-44,,-13,
+NG,Nigeria,Kogi,Lokoja,,,,2020-11-21,,,-41,,-8,
+NG,Nigeria,Kogi,Lokoja,,,,2020-11-22,,,,,-16,
 NG,Nigeria,Kwara,,,NG-KW,,2020-02-15,-7,-7,,1,5,2
 NG,Nigeria,Kwara,,,NG-KW,,2020-02-16,-4,-10,,2,4,1
 NG,Nigeria,Kwara,,,NG-KW,,2020-02-17,-7,-3,,0,1,1
@@ -27690,6 +27891,8 @@ NG,Nigeria,Kwara,,,NG-KW,,2020-11-17,-22,-20,,-11,-30,0
 NG,Nigeria,Kwara,,,NG-KW,,2020-11-18,-23,-19,,-15,-29,0
 NG,Nigeria,Kwara,,,NG-KW,,2020-11-19,-23,-13,,-10,-29,0
 NG,Nigeria,Kwara,,,NG-KW,,2020-11-20,-23,-23,,-13,-30,-1
+NG,Nigeria,Kwara,,,NG-KW,,2020-11-21,-20,-22,,-16,-23,-1
+NG,Nigeria,Kwara,,,NG-KW,,2020-11-22,-26,-35,,-17,-29,-1
 NG,Nigeria,Kwara,Asa,,,,2020-06-08,,,,,-9,
 NG,Nigeria,Kwara,Asa,,,,2020-06-09,,,,,-15,
 NG,Nigeria,Kwara,Asa,,,,2020-06-10,,,,,-12,
@@ -28063,6 +28266,8 @@ NG,Nigeria,Kwara,Ilorin East,,,,2020-11-17,-26,17,,-31,-30,4
 NG,Nigeria,Kwara,Ilorin East,,,,2020-11-18,-22,15,,-32,-27,3
 NG,Nigeria,Kwara,Ilorin East,,,,2020-11-19,-26,24,,-23,-27,6
 NG,Nigeria,Kwara,Ilorin East,,,,2020-11-20,-26,14,,-28,-29,3
+NG,Nigeria,Kwara,Ilorin East,,,,2020-11-21,-23,17,,-32,-20,4
+NG,Nigeria,Kwara,Ilorin East,,,,2020-11-22,-29,5,53,-40,-24,3
 NG,Nigeria,Kwara,Ilorin South,,,,2020-02-15,,,,30,2,
 NG,Nigeria,Kwara,Ilorin South,,,,2020-02-16,,,,40,8,
 NG,Nigeria,Kwara,Ilorin South,,,,2020-02-17,-14,,,31,-8,0
@@ -28318,6 +28523,8 @@ NG,Nigeria,Kwara,Ilorin South,,,,2020-11-17,-46,,,-67,-50,8
 NG,Nigeria,Kwara,Ilorin South,,,,2020-11-18,-47,,,-66,-48,7
 NG,Nigeria,Kwara,Ilorin South,,,,2020-11-19,-43,,,-60,-48,7
 NG,Nigeria,Kwara,Ilorin South,,,,2020-11-20,-42,,,-67,-50,
+NG,Nigeria,Kwara,Ilorin South,,,,2020-11-21,-27,,,-61,-45,
+NG,Nigeria,Kwara,Ilorin South,,,,2020-11-22,,,,-67,-49,
 NG,Nigeria,Kwara,Ilorin West,,,,2020-02-15,,-7,,,4,
 NG,Nigeria,Kwara,Ilorin West,,,,2020-02-16,,,,,0,
 NG,Nigeria,Kwara,Ilorin West,,,,2020-02-17,,,,,-1,0
@@ -28590,6 +28797,8 @@ NG,Nigeria,Kwara,Ilorin West,,,,2020-11-17,,,,,-21,4
 NG,Nigeria,Kwara,Ilorin West,,,,2020-11-18,,,,,-22,7
 NG,Nigeria,Kwara,Ilorin West,,,,2020-11-19,,,,,-18,6
 NG,Nigeria,Kwara,Ilorin West,,,,2020-11-20,,,,,-18,3
+NG,Nigeria,Kwara,Ilorin West,,,,2020-11-21,,,,,-12,
+NG,Nigeria,Kwara,Ilorin West,,,,2020-11-22,,,,,-17,
 NG,Nigeria,Kwara,Offa,,,,2020-06-08,,,,,-7,
 NG,Nigeria,Kwara,Offa,,,,2020-06-09,,,,,-15,
 NG,Nigeria,Kwara,Offa,,,,2020-06-10,,,,,-11,
@@ -28971,6 +29180,8 @@ NG,Nigeria,Lagos,,,NG-LA,,2020-11-17,-17,-4,-20,15,-17,15
 NG,Nigeria,Lagos,,,NG-LA,,2020-11-18,-20,-5,-22,13,-16,15
 NG,Nigeria,Lagos,,,NG-LA,,2020-11-19,-17,-2,-13,15,-17,14
 NG,Nigeria,Lagos,,,NG-LA,,2020-11-20,-18,-1,-19,16,-14,14
+NG,Nigeria,Lagos,,,NG-LA,,2020-11-21,-18,-3,-13,18,-4,10
+NG,Nigeria,Lagos,,,NG-LA,,2020-11-22,-20,-8,-10,16,-2,10
 NG,Nigeria,Lagos,Agege,,,,2020-02-15,-8,,100,-4,0,0
 NG,Nigeria,Lagos,Agege,,,,2020-02-16,,,25,6,3,
 NG,Nigeria,Lagos,Agege,,,,2020-02-17,,,90,2,-1,0
@@ -29248,6 +29459,8 @@ NG,Nigeria,Lagos,Agege,,,,2020-11-17,-6,,,76,-11,12
 NG,Nigeria,Lagos,Agege,,,,2020-11-18,-10,,,68,-10,13
 NG,Nigeria,Lagos,Agege,,,,2020-11-19,1,,,68,-12,12
 NG,Nigeria,Lagos,Agege,,,,2020-11-20,-9,,,75,-12,12
+NG,Nigeria,Lagos,Agege,,,,2020-11-21,3,,,67,-6,10
+NG,Nigeria,Lagos,Agege,,,,2020-11-22,-13,,,58,-6,12
 NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-02-15,,,2,2,7,-2
 NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-02-16,,,-6,-1,1,
 NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-02-17,,,-51,6,4,-1
@@ -29528,6 +29741,8 @@ NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-11-17,,,-72,30,-11,12
 NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-11-18,,,-74,26,-10,11
 NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-11-19,,,-71,26,-13,9
 NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-11-20,,,-71,25,-8,9
+NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-11-21,,,-61,21,-2,8
+NG,Nigeria,Lagos,Ajeromi/Ifelodun,,,,2020-11-22,,,-77,23,-10,10
 NG,Nigeria,Lagos,Alimosho,,,,2020-02-15,0,0,-1,-6,2,0
 NG,Nigeria,Lagos,Alimosho,,,,2020-02-16,3,-6,9,-7,1,1
 NG,Nigeria,Lagos,Alimosho,,,,2020-02-17,-1,-5,-5,-6,2,0
@@ -29808,6 +30023,8 @@ NG,Nigeria,Lagos,Alimosho,,,,2020-11-17,-7,33,-62,23,-9,13
 NG,Nigeria,Lagos,Alimosho,,,,2020-11-18,-8,26,-60,28,-9,13
 NG,Nigeria,Lagos,Alimosho,,,,2020-11-19,-4,20,-58,27,-9,13
 NG,Nigeria,Lagos,Alimosho,,,,2020-11-20,-7,30,-61,28,-7,13
+NG,Nigeria,Lagos,Alimosho,,,,2020-11-21,2,24,-61,24,-1,9
+NG,Nigeria,Lagos,Alimosho,,,,2020-11-22,1,39,-39,26,-2,10
 NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-02-15,1,4,9,5,2,-2
 NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-02-16,10,0,7,4,3,0
 NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-02-17,-3,-4,10,-1,3,-1
@@ -30088,6 +30305,8 @@ NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-11-17,-3,-2,33,42,-7,14
 NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-11-18,4,2,32,42,-10,14
 NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-11-19,2,6,24,32,-8,13
 NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-11-20,13,6,22,42,-5,12
+NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-11-21,2,-2,15,39,-1,9
+NG,Nigeria,Lagos,Amuwo Odofin,,,,2020-11-22,-11,-15,13,14,-2,10
 NG,Nigeria,Lagos,Apapa,,,,2020-02-15,4,,,9,3,
 NG,Nigeria,Lagos,Apapa,,,,2020-02-16,,,,4,-5,
 NG,Nigeria,Lagos,Apapa,,,,2020-02-17,-5,,,-2,6,2
@@ -30361,6 +30580,8 @@ NG,Nigeria,Lagos,Apapa,,,,2020-11-17,-51,,,47,-8,10
 NG,Nigeria,Lagos,Apapa,,,,2020-11-18,-53,,,37,-8,8
 NG,Nigeria,Lagos,Apapa,,,,2020-11-19,-53,,,44,-10,9
 NG,Nigeria,Lagos,Apapa,,,,2020-11-20,-48,,,48,-6,8
+NG,Nigeria,Lagos,Apapa,,,,2020-11-21,,,,33,-5,7
+NG,Nigeria,Lagos,Apapa,,,,2020-11-22,,,,9,-6,
 NG,Nigeria,Lagos,Badagry,,,,2020-02-15,,,,11,9,
 NG,Nigeria,Lagos,Badagry,,,,2020-02-16,,,,7,7,
 NG,Nigeria,Lagos,Badagry,,,,2020-02-17,,,,10,8,
@@ -30616,6 +30837,8 @@ NG,Nigeria,Lagos,Badagry,,,,2020-11-17,,,,11,-17,7
 NG,Nigeria,Lagos,Badagry,,,,2020-11-18,,,,14,-16,2
 NG,Nigeria,Lagos,Badagry,,,,2020-11-19,,,,7,-17,5
 NG,Nigeria,Lagos,Badagry,,,,2020-11-20,,,,14,-12,3
+NG,Nigeria,Lagos,Badagry,,,,2020-11-21,,,,22,-7,
+NG,Nigeria,Lagos,Badagry,,,,2020-11-22,,,,18,-8,
 NG,Nigeria,Lagos,Epe,,,,2020-02-17,,,,,0,
 NG,Nigeria,Lagos,Epe,,,,2020-02-18,,,,,10,
 NG,Nigeria,Lagos,Epe,,,,2020-02-19,,,,,-2,
@@ -30830,6 +31053,8 @@ NG,Nigeria,Lagos,Epe,,,,2020-11-17,,,,,-11,
 NG,Nigeria,Lagos,Epe,,,,2020-11-18,,,,,-16,
 NG,Nigeria,Lagos,Epe,,,,2020-11-19,,,,,-14,
 NG,Nigeria,Lagos,Epe,,,,2020-11-20,,,,,-4,
+NG,Nigeria,Lagos,Epe,,,,2020-11-21,,,,,-12,
+NG,Nigeria,Lagos,Epe,,,,2020-11-22,,,,,-8,
 NG,Nigeria,Lagos,Eti Osa,,,,2020-02-15,5,1,14,16,3,1
 NG,Nigeria,Lagos,Eti Osa,,,,2020-02-16,6,-1,0,12,2,1
 NG,Nigeria,Lagos,Eti Osa,,,,2020-02-17,1,-1,-2,-4,2,2
@@ -31110,6 +31335,8 @@ NG,Nigeria,Lagos,Eti Osa,,,,2020-11-17,-28,-12,-1,8,-30,18
 NG,Nigeria,Lagos,Eti Osa,,,,2020-11-18,-30,-11,5,10,-28,18
 NG,Nigeria,Lagos,Eti Osa,,,,2020-11-19,-25,-8,11,6,-29,17
 NG,Nigeria,Lagos,Eti Osa,,,,2020-11-20,-26,-7,-2,5,-25,18
+NG,Nigeria,Lagos,Eti Osa,,,,2020-11-21,-26,-10,12,-15,-5,10
+NG,Nigeria,Lagos,Eti Osa,,,,2020-11-22,-22,-15,4,-22,-5,11
 NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-02-15,5,-1,,-2,2,0
 NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-02-16,0,10,,7,1,1
 NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-02-17,9,2,,3,2,0
@@ -31390,6 +31617,8 @@ NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-11-17,-21,-16,,42,-13,15
 NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-11-18,-26,-20,,45,-16,15
 NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-11-19,-26,-16,,54,-16,14
 NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-11-20,-23,-7,,46,-12,16
+NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-11-21,-19,-1,,35,-6,10
+NG,Nigeria,Lagos,Ifako/Ijaye,,,,2020-11-22,-27,-16,,30,-5,12
 NG,Nigeria,Lagos,Ikeja,,,,2020-02-15,11,1,-27,-2,2,0
 NG,Nigeria,Lagos,Ikeja,,,,2020-02-16,10,2,-21,3,1,1
 NG,Nigeria,Lagos,Ikeja,,,,2020-02-17,1,-7,-42,-3,3,1
@@ -31670,6 +31899,8 @@ NG,Nigeria,Lagos,Ikeja,,,,2020-11-17,-15,-20,-76,-2,-18,16
 NG,Nigeria,Lagos,Ikeja,,,,2020-11-18,-14,-21,-72,2,-17,16
 NG,Nigeria,Lagos,Ikeja,,,,2020-11-19,-21,-25,-78,-5,-18,15
 NG,Nigeria,Lagos,Ikeja,,,,2020-11-20,-16,-23,-80,0,-14,16
+NG,Nigeria,Lagos,Ikeja,,,,2020-11-21,-13,-20,-73,2,-11,11
+NG,Nigeria,Lagos,Ikeja,,,,2020-11-22,-20,-20,-69,-5,-11,11
 NG,Nigeria,Lagos,Ikorodu,,,,2020-02-15,0,-2,,-1,3,-1
 NG,Nigeria,Lagos,Ikorodu,,,,2020-02-16,-6,-3,,-17,1,1
 NG,Nigeria,Lagos,Ikorodu,,,,2020-02-17,-7,-4,,-3,2,0
@@ -31950,6 +32181,8 @@ NG,Nigeria,Lagos,Ikorodu,,,,2020-11-17,-27,5,,45,-19,11
 NG,Nigeria,Lagos,Ikorodu,,,,2020-11-18,-32,6,,41,-14,12
 NG,Nigeria,Lagos,Ikorodu,,,,2020-11-19,-29,24,,43,-16,11
 NG,Nigeria,Lagos,Ikorodu,,,,2020-11-20,-33,23,,39,-17,10
+NG,Nigeria,Lagos,Ikorodu,,,,2020-11-21,-23,19,,59,-2,7
+NG,Nigeria,Lagos,Ikorodu,,,,2020-11-22,-25,-7,,23,-7,8
 NG,Nigeria,Lagos,Kosofe,,,,2020-02-15,-3,2,21,1,5,0
 NG,Nigeria,Lagos,Kosofe,,,,2020-02-16,-1,-10,20,-3,4,1
 NG,Nigeria,Lagos,Kosofe,,,,2020-02-17,-6,-7,91,1,3,0
@@ -32230,6 +32463,8 @@ NG,Nigeria,Lagos,Kosofe,,,,2020-11-17,-13,0,34,6,-23,20
 NG,Nigeria,Lagos,Kosofe,,,,2020-11-18,-14,2,26,0,-24,20
 NG,Nigeria,Lagos,Kosofe,,,,2020-11-19,-12,3,36,17,-24,19
 NG,Nigeria,Lagos,Kosofe,,,,2020-11-20,-10,11,17,17,-21,19
+NG,Nigeria,Lagos,Kosofe,,,,2020-11-21,-9,-1,16,11,-7,12
+NG,Nigeria,Lagos,Kosofe,,,,2020-11-22,-4,-5,12,5,-6,14
 NG,Nigeria,Lagos,Lagos Island,,,,2020-02-15,-3,-3,-3,-4,4,-1
 NG,Nigeria,Lagos,Lagos Island,,,,2020-02-16,0,,3,-8,5,
 NG,Nigeria,Lagos,Lagos Island,,,,2020-02-17,4,1,-6,9,2,0
@@ -32507,6 +32742,8 @@ NG,Nigeria,Lagos,Lagos Island,,,,2020-11-17,50,3,25,-1,-11,13
 NG,Nigeria,Lagos,Lagos Island,,,,2020-11-18,38,4,22,-6,-11,13
 NG,Nigeria,Lagos,Lagos Island,,,,2020-11-19,60,4,28,26,-8,12
 NG,Nigeria,Lagos,Lagos Island,,,,2020-11-20,46,1,22,12,-6,13
+NG,Nigeria,Lagos,Lagos Island,,,,2020-11-21,28,-5,17,6,-2,10
+NG,Nigeria,Lagos,Lagos Island,,,,2020-11-22,9,,22,-21,-6,
 NG,Nigeria,Lagos,Lagos Mainland,,,,2020-02-15,16,8,57,17,2,-2
 NG,Nigeria,Lagos,Lagos Mainland,,,,2020-02-16,-4,11,48,28,2,0
 NG,Nigeria,Lagos,Lagos Mainland,,,,2020-02-17,12,0,35,9,4,1
@@ -32784,6 +33021,8 @@ NG,Nigeria,Lagos,Lagos Mainland,,,,2020-11-17,-49,15,-54,-17,-22,21
 NG,Nigeria,Lagos,Lagos Mainland,,,,2020-11-18,-49,13,-59,-21,-20,20
 NG,Nigeria,Lagos,Lagos Mainland,,,,2020-11-19,-33,26,-33,-12,-24,17
 NG,Nigeria,Lagos,Lagos Mainland,,,,2020-11-20,-35,18,-28,7,-19,20
+NG,Nigeria,Lagos,Lagos Mainland,,,,2020-11-21,-35,29,18,-11,-6,12
+NG,Nigeria,Lagos,Lagos Mainland,,,,2020-11-22,-41,50,-21,24,-11,13
 NG,Nigeria,Lagos,Mushin,,,,2020-02-15,-8,6,71,7,4,0
 NG,Nigeria,Lagos,Mushin,,,,2020-02-16,-4,-1,40,4,1,0
 NG,Nigeria,Lagos,Mushin,,,,2020-02-17,-4,8,31,-3,3,0
@@ -33064,6 +33303,8 @@ NG,Nigeria,Lagos,Mushin,,,,2020-11-17,-25,-2,-3,4,-17,16
 NG,Nigeria,Lagos,Mushin,,,,2020-11-18,-31,-5,-12,3,-12,15
 NG,Nigeria,Lagos,Mushin,,,,2020-11-19,-29,-3,-11,5,-14,14
 NG,Nigeria,Lagos,Mushin,,,,2020-11-20,-24,-2,23,12,-15,13
+NG,Nigeria,Lagos,Mushin,,,,2020-11-21,-27,-3,1,11,-5,11
+NG,Nigeria,Lagos,Mushin,,,,2020-11-22,-18,-14,-15,13,-6,10
 NG,Nigeria,Lagos,Ojo,,,,2020-02-15,,2,,9,6,-1
 NG,Nigeria,Lagos,Ojo,,,,2020-02-16,,,,8,-2,0
 NG,Nigeria,Lagos,Ojo,,,,2020-02-17,,2,-6,9,4,0
@@ -33344,6 +33585,8 @@ NG,Nigeria,Lagos,Ojo,,,,2020-11-17,,49,-41,31,-9,7
 NG,Nigeria,Lagos,Ojo,,,,2020-11-18,,65,-36,31,-6,7
 NG,Nigeria,Lagos,Ojo,,,,2020-11-19,,57,-22,28,-6,7
 NG,Nigeria,Lagos,Ojo,,,,2020-11-20,,59,-24,36,0,7
+NG,Nigeria,Lagos,Ojo,,,,2020-11-21,,43,,27,-2,6
+NG,Nigeria,Lagos,Ojo,,,,2020-11-22,,,,33,-13,7
 NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-02-15,19,1,66,-2,3,0
 NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-02-16,13,0,55,-3,2,1
 NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-02-17,8,-3,,-1,3,0
@@ -33624,6 +33867,8 @@ NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-11-17,-4,6,,32,-15,16
 NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-11-18,-9,-2,,18,-13,15
 NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-11-19,-9,-4,53,19,-15,16
 NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-11-20,-8,-4,69,23,-11,16
+NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-11-21,5,-8,,28,2,10
+NG,Nigeria,Lagos,Oshodi/Isolo,,,,2020-11-22,0,-6,61,13,-5,12
 NG,Nigeria,Lagos,Shomolu,,,,2020-02-15,8,12,10,9,2,-1
 NG,Nigeria,Lagos,Shomolu,,,,2020-02-16,-7,11,14,2,-1,1
 NG,Nigeria,Lagos,Shomolu,,,,2020-02-17,-1,9,-3,6,2,0
@@ -33904,6 +34149,8 @@ NG,Nigeria,Lagos,Shomolu,,,,2020-11-17,,-7,,32,-16,20
 NG,Nigeria,Lagos,Shomolu,,,,2020-11-18,,-2,,23,-15,20
 NG,Nigeria,Lagos,Shomolu,,,,2020-11-19,,-2,,29,-17,18
 NG,Nigeria,Lagos,Shomolu,,,,2020-11-20,,-4,,32,-14,18
+NG,Nigeria,Lagos,Shomolu,,,,2020-11-21,18,-3,,26,-2,12
+NG,Nigeria,Lagos,Shomolu,,,,2020-11-22,7,-4,,27,1,13
 NG,Nigeria,Lagos,Surulere,,,,2020-02-15,13,2,35,3,2,-2
 NG,Nigeria,Lagos,Surulere,,,,2020-02-16,9,3,49,1,3,0
 NG,Nigeria,Lagos,Surulere,,,,2020-02-17,8,-4,28,1,4,-1
@@ -34184,6 +34431,8 @@ NG,Nigeria,Lagos,Surulere,,,,2020-11-17,-12,-13,-18,-4,-22,18
 NG,Nigeria,Lagos,Surulere,,,,2020-11-18,-14,-11,-16,-9,-20,18
 NG,Nigeria,Lagos,Surulere,,,,2020-11-19,-3,1,22,12,-22,17
 NG,Nigeria,Lagos,Surulere,,,,2020-11-20,-10,-9,-12,-4,-16,16
+NG,Nigeria,Lagos,Surulere,,,,2020-11-21,-14,-9,16,-3,-8,11
+NG,Nigeria,Lagos,Surulere,,,,2020-11-22,-14,8,53,2,-8,11
 NG,Nigeria,Nasarawa,,,NG-NA,,2020-02-15,1,-4,,,7,-1
 NG,Nigeria,Nasarawa,,,NG-NA,,2020-02-16,-4,-5,,,8,
 NG,Nigeria,Nasarawa,,,NG-NA,,2020-02-17,3,-5,,,5,-2
@@ -34461,6 +34710,8 @@ NG,Nigeria,Nasarawa,,,NG-NA,,2020-11-17,6,-14,,,-16,-3
 NG,Nigeria,Nasarawa,,,NG-NA,,2020-11-18,3,-10,,,-16,-2
 NG,Nigeria,Nasarawa,,,NG-NA,,2020-11-19,1,-9,,,-13,-3
 NG,Nigeria,Nasarawa,,,NG-NA,,2020-11-20,3,-9,,,-7,-3
+NG,Nigeria,Nasarawa,,,NG-NA,,2020-11-21,11,-7,,,-11,-5
+NG,Nigeria,Nasarawa,,,NG-NA,,2020-11-22,8,-20,,,-17,-3
 NG,Nigeria,Nasarawa,Karu,,,,2020-02-15,,-5,,,4,0
 NG,Nigeria,Nasarawa,Karu,,,,2020-02-16,,-3,,,6,
 NG,Nigeria,Nasarawa,Karu,,,,2020-02-17,,-5,,,4,-2
@@ -34738,6 +34989,8 @@ NG,Nigeria,Nasarawa,Karu,,,,2020-11-17,,-8,,,-6,3
 NG,Nigeria,Nasarawa,Karu,,,,2020-11-18,,-3,,,-7,4
 NG,Nigeria,Nasarawa,Karu,,,,2020-11-19,,-7,,,-4,3
 NG,Nigeria,Nasarawa,Karu,,,,2020-11-20,,-6,,,1,3
+NG,Nigeria,Nasarawa,Karu,,,,2020-11-21,,-10,,,-2,1
+NG,Nigeria,Nasarawa,Karu,,,,2020-11-22,,-23,,,-7,4
 NG,Nigeria,Nasarawa,Keffi,,,,2020-02-17,,,,,6,
 NG,Nigeria,Nasarawa,Keffi,,,,2020-02-18,,,,,4,
 NG,Nigeria,Nasarawa,Keffi,,,,2020-02-19,,,,,9,
@@ -34957,6 +35210,8 @@ NG,Nigeria,Nasarawa,Keffi,,,,2020-11-17,,,,,-35,
 NG,Nigeria,Nasarawa,Keffi,,,,2020-11-18,,,,,-28,
 NG,Nigeria,Nasarawa,Keffi,,,,2020-11-19,,,,,-22,
 NG,Nigeria,Nasarawa,Keffi,,,,2020-11-20,,,,,-20,
+NG,Nigeria,Nasarawa,Keffi,,,,2020-11-21,,,,,-35,
+NG,Nigeria,Nasarawa,Keffi,,,,2020-11-22,,,,,-34,
 NG,Nigeria,Nasarawa,Lafia,,,,2020-02-17,,,,,1,
 NG,Nigeria,Nasarawa,Lafia,,,,2020-02-18,,,,,10,
 NG,Nigeria,Nasarawa,Lafia,,,,2020-02-19,,,,,4,
@@ -35179,6 +35434,8 @@ NG,Nigeria,Nasarawa,Lafia,,,,2020-11-17,,,,,-14,
 NG,Nigeria,Nasarawa,Lafia,,,,2020-11-18,,,,,-12,
 NG,Nigeria,Nasarawa,Lafia,,,,2020-11-19,,,,,-16,
 NG,Nigeria,Nasarawa,Lafia,,,,2020-11-20,,,,,-8,
+NG,Nigeria,Nasarawa,Lafia,,,,2020-11-21,,,,,-7,
+NG,Nigeria,Nasarawa,Lafia,,,,2020-11-22,,,,,-17,
 NG,Nigeria,Niger,,,NG-NI,,2020-02-15,4,-5,,,9,1
 NG,Nigeria,Niger,,,NG-NI,,2020-02-16,-3,-3,,,10,
 NG,Nigeria,Niger,,,NG-NI,,2020-02-17,-1,-7,,,7,1
@@ -35456,6 +35713,8 @@ NG,Nigeria,Niger,,,NG-NI,,2020-11-17,-4,-10,-17,,-25,-3
 NG,Nigeria,Niger,,,NG-NI,,2020-11-18,-2,-8,,,-23,-6
 NG,Nigeria,Niger,,,NG-NI,,2020-11-19,7,-5,,,-22,-6
 NG,Nigeria,Niger,,,NG-NI,,2020-11-20,5,-2,,,-18,-6
+NG,Nigeria,Niger,,,NG-NI,,2020-11-21,7,2,,,-17,-6
+NG,Nigeria,Niger,,,NG-NI,,2020-11-22,-1,-5,,,-26,-4
 NG,Nigeria,Niger,Bida,,,,2020-06-08,,,,,-2,
 NG,Nigeria,Niger,Bida,,,,2020-06-09,,,,,-1,
 NG,Nigeria,Niger,Bida,,,,2020-06-10,,,,,-3,
@@ -35561,6 +35820,7 @@ NG,Nigeria,Niger,Bida,,,,2020-11-17,,,,,-17,
 NG,Nigeria,Niger,Bida,,,,2020-11-18,,,,,-25,
 NG,Nigeria,Niger,Bida,,,,2020-11-19,,,,,-15,
 NG,Nigeria,Niger,Bida,,,,2020-11-20,,,,,-10,
+NG,Nigeria,Niger,Bida,,,,2020-11-21,,,,,-18,
 NG,Nigeria,Niger,Bosso,,,,2020-02-17,,,,,8,
 NG,Nigeria,Niger,Bosso,,,,2020-02-18,,,,,13,
 NG,Nigeria,Niger,Bosso,,,,2020-02-24,,,,,12,
@@ -35764,6 +36024,8 @@ NG,Nigeria,Niger,Bosso,,,,2020-11-17,,,,,-21,
 NG,Nigeria,Niger,Bosso,,,,2020-11-18,,,,,-19,
 NG,Nigeria,Niger,Bosso,,,,2020-11-19,,,,,-18,
 NG,Nigeria,Niger,Bosso,,,,2020-11-20,,,,,-15,
+NG,Nigeria,Niger,Bosso,,,,2020-11-21,,,,,-14,
+NG,Nigeria,Niger,Bosso,,,,2020-11-22,,,,,-30,
 NG,Nigeria,Niger,Chanchaga,,,,2020-02-15,0,-12,,,5,
 NG,Nigeria,Niger,Chanchaga,,,,2020-02-16,-11,-13,,,7,
 NG,Nigeria,Niger,Chanchaga,,,,2020-02-17,-14,-13,,,3,3
@@ -36019,6 +36281,8 @@ NG,Nigeria,Niger,Chanchaga,,,,2020-11-17,-1,,,-27,-19,1
 NG,Nigeria,Niger,Chanchaga,,,,2020-11-18,-1,,,,-15,1
 NG,Nigeria,Niger,Chanchaga,,,,2020-11-19,9,,,,-19,-1
 NG,Nigeria,Niger,Chanchaga,,,,2020-11-20,7,,,,-16,-3
+NG,Nigeria,Niger,Chanchaga,,,,2020-11-21,9,,,,-14,
+NG,Nigeria,Niger,Chanchaga,,,,2020-11-22,-1,,,,-23,
 NG,Nigeria,Niger,Suleja,,,,2020-02-15,,,,,6,
 NG,Nigeria,Niger,Suleja,,,,2020-02-16,,,,,5,
 NG,Nigeria,Niger,Suleja,,,,2020-02-17,,,,,5,3
@@ -36288,6 +36552,8 @@ NG,Nigeria,Niger,Suleja,,,,2020-11-17,,,,,-10,2
 NG,Nigeria,Niger,Suleja,,,,2020-11-18,,,,,-9,-3
 NG,Nigeria,Niger,Suleja,,,,2020-11-19,,,,,-9,1
 NG,Nigeria,Niger,Suleja,,,,2020-11-20,,,,,-5,1
+NG,Nigeria,Niger,Suleja,,,,2020-11-21,,,,,-3,
+NG,Nigeria,Niger,Suleja,,,,2020-11-22,,,,,-11,
 NG,Nigeria,Ogun State,,,NG-OG,,2020-02-15,-2,3,-2,3,3,-1
 NG,Nigeria,Ogun State,,,NG-OG,,2020-02-16,-5,0,-2,3,1,1
 NG,Nigeria,Ogun State,,,NG-OG,,2020-02-17,-6,0,-4,-2,2,0
@@ -36568,6 +36834,8 @@ NG,Nigeria,Ogun State,,,NG-OG,,2020-11-17,-13,8,-5,21,-10,7
 NG,Nigeria,Ogun State,,,NG-OG,,2020-11-18,-13,8,1,23,-10,6
 NG,Nigeria,Ogun State,,,NG-OG,,2020-11-19,-10,12,4,25,-10,6
 NG,Nigeria,Ogun State,,,NG-OG,,2020-11-20,-9,11,8,23,-8,6
+NG,Nigeria,Ogun State,,,NG-OG,,2020-11-21,-1,13,2,20,-4,4
+NG,Nigeria,Ogun State,,,NG-OG,,2020-11-22,-14,7,3,17,-10,5
 NG,Nigeria,Ogun State,Abeokuta North,,,,2020-02-17,,,,,2,
 NG,Nigeria,Ogun State,Abeokuta North,,,,2020-02-18,,,,,-1,
 NG,Nigeria,Ogun State,Abeokuta North,,,,2020-02-19,,,,,-3,
@@ -36792,6 +37060,8 @@ NG,Nigeria,Ogun State,Abeokuta North,,,,2020-11-17,,,,,-14,
 NG,Nigeria,Ogun State,Abeokuta North,,,,2020-11-18,,,,,-14,
 NG,Nigeria,Ogun State,Abeokuta North,,,,2020-11-19,,,,,-6,
 NG,Nigeria,Ogun State,Abeokuta North,,,,2020-11-20,,,,,-7,
+NG,Nigeria,Ogun State,Abeokuta North,,,,2020-11-21,,,,,-12,
+NG,Nigeria,Ogun State,Abeokuta North,,,,2020-11-22,,,,,-28,
 NG,Nigeria,Ogun State,Abeokuta South,,,,2020-02-15,2,11,-11,6,3,-3
 NG,Nigeria,Ogun State,Abeokuta South,,,,2020-02-16,-1,1,-16,10,1,
 NG,Nigeria,Ogun State,Abeokuta South,,,,2020-02-17,5,3,-19,7,4,0
@@ -37069,6 +37339,8 @@ NG,Nigeria,Ogun State,Abeokuta South,,,,2020-11-17,12,-12,-2,10,-11,7
 NG,Nigeria,Ogun State,Abeokuta South,,,,2020-11-18,10,-12,-4,10,-10,9
 NG,Nigeria,Ogun State,Abeokuta South,,,,2020-11-19,8,-4,6,2,-6,8
 NG,Nigeria,Ogun State,Abeokuta South,,,,2020-11-20,8,-8,15,6,-8,7
+NG,Nigeria,Ogun State,Abeokuta South,,,,2020-11-21,25,4,52,8,-7,4
+NG,Nigeria,Ogun State,Abeokuta South,,,,2020-11-22,3,3,-5,1,-15,5
 NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-02-15,2,-3,,11,5,-1
 NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-02-16,-7,-4,,1,2,1
 NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-02-17,-3,-10,,2,2,0
@@ -37349,6 +37621,8 @@ NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-11-17,1,23,,26,0,5
 NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-11-18,-4,22,,19,-4,3
 NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-11-19,-2,29,,28,-3,5
 NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-11-20,-5,21,,38,-1,4
+NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-11-21,-1,21,,27,2,4
+NG,Nigeria,Ogun State,Ado Odo/Ota,,,,2020-11-22,-11,6,,1,-3,5
 NG,Nigeria,Ogun State,Egbado South,,,,2020-02-17,,,,,-1,
 NG,Nigeria,Ogun State,Egbado South,,,,2020-02-18,,,,,-14,
 NG,Nigeria,Ogun State,Egbado South,,,,2020-02-19,,,,,-16,
@@ -37562,6 +37836,8 @@ NG,Nigeria,Ogun State,Egbado South,,,,2020-11-17,,,,,-22,
 NG,Nigeria,Ogun State,Egbado South,,,,2020-11-18,,,,,-16,
 NG,Nigeria,Ogun State,Egbado South,,,,2020-11-19,,,,,-25,
 NG,Nigeria,Ogun State,Egbado South,,,,2020-11-20,,,,,-15,
+NG,Nigeria,Ogun State,Egbado South,,,,2020-11-21,,,,,-12,
+NG,Nigeria,Ogun State,Egbado South,,,,2020-11-22,,,,,-21,
 NG,Nigeria,Ogun State,Ewekoro,,,,2020-06-08,,,,,-15,
 NG,Nigeria,Ogun State,Ewekoro,,,,2020-06-09,,,,,-13,
 NG,Nigeria,Ogun State,Ewekoro,,,,2020-06-10,,,,,-19,
@@ -37943,6 +38219,8 @@ NG,Nigeria,Ogun State,Ifo,,,,2020-11-17,-2,30,12,-32,-14,14
 NG,Nigeria,Ogun State,Ifo,,,,2020-11-18,-3,23,26,-35,-10,13
 NG,Nigeria,Ogun State,Ifo,,,,2020-11-19,-4,24,,-28,-8,13
 NG,Nigeria,Ogun State,Ifo,,,,2020-11-20,0,30,,-29,-14,13
+NG,Nigeria,Ogun State,Ifo,,,,2020-11-21,3,29,40,-21,-2,8
+NG,Nigeria,Ogun State,Ifo,,,,2020-11-22,-7,20,,-12,-1,11
 NG,Nigeria,Ogun State,Ijebu North,,,,2020-04-30,,,,,-48,
 NG,Nigeria,Ogun State,Ijebu North,,,,2020-05-25,,,,,-44,
 NG,Nigeria,Ogun State,Ijebu North,,,,2020-06-08,,,,,-30,
@@ -38086,6 +38364,8 @@ NG,Nigeria,Ogun State,Ijebu North,,,,2020-11-17,,,,,-40,
 NG,Nigeria,Ogun State,Ijebu North,,,,2020-11-18,,,,,-42,
 NG,Nigeria,Ogun State,Ijebu North,,,,2020-11-19,,,,,-40,
 NG,Nigeria,Ogun State,Ijebu North,,,,2020-11-20,,,,,-45,
+NG,Nigeria,Ogun State,Ijebu North,,,,2020-11-21,,,,,-43,
+NG,Nigeria,Ogun State,Ijebu North,,,,2020-11-22,,,,,-51,
 NG,Nigeria,Ogun State,Ijebu ode,,,,2020-02-15,,,,,3,
 NG,Nigeria,Ogun State,Ijebu ode,,,,2020-02-17,,,,,5,
 NG,Nigeria,Ogun State,Ijebu ode,,,,2020-02-18,,,,,3,
@@ -38324,6 +38604,8 @@ NG,Nigeria,Ogun State,Ijebu ode,,,,2020-11-17,,,,,-6,
 NG,Nigeria,Ogun State,Ijebu ode,,,,2020-11-18,,,,,-4,
 NG,Nigeria,Ogun State,Ijebu ode,,,,2020-11-19,,,,,-2,
 NG,Nigeria,Ogun State,Ijebu ode,,,,2020-11-20,,,,,-9,
+NG,Nigeria,Ogun State,Ijebu ode,,,,2020-11-21,,,,,-7,
+NG,Nigeria,Ogun State,Ijebu ode,,,,2020-11-22,,,,,-19,
 NG,Nigeria,Ogun State,Ikenne,,,,2020-02-17,-20,,,,7,
 NG,Nigeria,Ogun State,Ikenne,,,,2020-02-18,-34,,,,3,
 NG,Nigeria,Ogun State,Ikenne,,,,2020-02-19,-27,,,,-2,
@@ -38545,6 +38827,8 @@ NG,Nigeria,Ogun State,Ikenne,,,,2020-11-17,-61,,,,-30,
 NG,Nigeria,Ogun State,Ikenne,,,,2020-11-18,-55,,,,-30,
 NG,Nigeria,Ogun State,Ikenne,,,,2020-11-19,-55,,,,-25,
 NG,Nigeria,Ogun State,Ikenne,,,,2020-11-20,,,,,-23,
+NG,Nigeria,Ogun State,Ikenne,,,,2020-11-21,,,,,-31,
+NG,Nigeria,Ogun State,Ikenne,,,,2020-11-22,-62,,,,-30,
 NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-02-15,3,-6,-9,10,6,-1
 NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-02-16,3,-10,-3,3,2,-1
 NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-02-17,15,-7,-10,-7,3,0
@@ -38825,6 +39109,8 @@ NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-11-17,10,16,5,52,-13,16
 NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-11-18,6,13,12,69,-11,14
 NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-11-19,14,9,14,56,-12,14
 NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-11-20,18,21,9,44,-11,13
+NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-11-21,17,2,-6,61,-4,9
+NG,Nigeria,Ogun State,Obafemi Owode,,,,2020-11-22,8,6,3,69,1,10
 NG,Nigeria,Ogun State,Odeda,,,,2020-02-15,,,,-10,,
 NG,Nigeria,Ogun State,Odeda,,,,2020-02-16,,,,-15,,
 NG,Nigeria,Ogun State,Odeda,,,,2020-02-17,,,,-12,1,
@@ -39072,6 +39358,8 @@ NG,Nigeria,Ogun State,Odeda,,,,2020-11-17,-57,,,-61,-26,
 NG,Nigeria,Ogun State,Odeda,,,,2020-11-18,-54,,,-58,-26,
 NG,Nigeria,Ogun State,Odeda,,,,2020-11-19,,,,-57,-22,
 NG,Nigeria,Ogun State,Odeda,,,,2020-11-20,,,,-59,-23,
+NG,Nigeria,Ogun State,Odeda,,,,2020-11-21,,,,-63,-21,
+NG,Nigeria,Ogun State,Odeda,,,,2020-11-22,,,,-74,-33,
 NG,Nigeria,Ogun State,Odogbolu,,,,2020-02-17,,,,,-4,
 NG,Nigeria,Ogun State,Odogbolu,,,,2020-02-18,,,,,-4,
 NG,Nigeria,Ogun State,Odogbolu,,,,2020-02-19,,,,,-3,
@@ -39297,6 +39585,8 @@ NG,Nigeria,Ogun State,Odogbolu,,,,2020-11-17,,,,,-38,
 NG,Nigeria,Ogun State,Odogbolu,,,,2020-11-18,,,,,-39,
 NG,Nigeria,Ogun State,Odogbolu,,,,2020-11-19,,,,,-29,
 NG,Nigeria,Ogun State,Odogbolu,,,,2020-11-20,,,,,-32,
+NG,Nigeria,Ogun State,Odogbolu,,,,2020-11-21,,,,,-38,
+NG,Nigeria,Ogun State,Odogbolu,,,,2020-11-22,,,,,-40,
 NG,Nigeria,Ogun State,Shagamu,,,,2020-02-15,4,,,,2,1
 NG,Nigeria,Ogun State,Shagamu,,,,2020-02-16,-4,,,,-1,
 NG,Nigeria,Ogun State,Shagamu,,,,2020-02-17,-5,,,,6,2
@@ -39574,6 +39864,8 @@ NG,Nigeria,Ogun State,Shagamu,,,,2020-11-17,-4,,,,-5,5
 NG,Nigeria,Ogun State,Shagamu,,,,2020-11-18,9,,,,-7,6
 NG,Nigeria,Ogun State,Shagamu,,,,2020-11-19,11,,,,-6,5
 NG,Nigeria,Ogun State,Shagamu,,,,2020-11-20,11,,,,-4,5
+NG,Nigeria,Ogun State,Shagamu,,,,2020-11-21,13,,,,0,6
+NG,Nigeria,Ogun State,Shagamu,,,,2020-11-22,2,,,,-5,6
 NG,Nigeria,Ondo,,,NG-ON,,2020-02-15,23,-1,,-6,9,1
 NG,Nigeria,Ondo,,,NG-ON,,2020-02-16,19,-3,,-10,10,1
 NG,Nigeria,Ondo,,,NG-ON,,2020-02-17,17,-12,,-14,2,2
@@ -39854,6 +40146,8 @@ NG,Nigeria,Ondo,,,NG-ON,,2020-11-17,5,-20,,-18,-19,-4
 NG,Nigeria,Ondo,,,NG-ON,,2020-11-18,3,-23,,-11,-20,-4
 NG,Nigeria,Ondo,,,NG-ON,,2020-11-19,6,-21,,-4,-20,-4
 NG,Nigeria,Ondo,,,NG-ON,,2020-11-20,7,-20,,-24,-18,-4
+NG,Nigeria,Ondo,,,NG-ON,,2020-11-21,11,-24,2,-12,-12,-5
+NG,Nigeria,Ondo,,,NG-ON,,2020-11-22,-3,-24,,-20,-18,-5
 NG,Nigeria,Ondo,Akure North,,,,2020-02-15,,,,,4,
 NG,Nigeria,Ondo,Akure North,,,,2020-02-17,,,,,0,
 NG,Nigeria,Ondo,Akure North,,,,2020-02-18,,,,,3,
@@ -40089,6 +40383,8 @@ NG,Nigeria,Ondo,Akure North,,,,2020-11-17,,,,,-11,
 NG,Nigeria,Ondo,Akure North,,,,2020-11-18,,,,,-13,
 NG,Nigeria,Ondo,Akure North,,,,2020-11-19,,,,,-13,
 NG,Nigeria,Ondo,Akure North,,,,2020-11-20,,,,,-9,
+NG,Nigeria,Ondo,Akure North,,,,2020-11-21,,,,,-8,
+NG,Nigeria,Ondo,Akure North,,,,2020-11-22,,,,,-12,
 NG,Nigeria,Ondo,Akure South,,,,2020-02-15,38,3,29,-9,6,-3
 NG,Nigeria,Ondo,Akure South,,,,2020-02-16,33,0,9,-10,9,
 NG,Nigeria,Ondo,Akure South,,,,2020-02-17,23,-8,-3,-14,6,4
@@ -40366,6 +40662,8 @@ NG,Nigeria,Ondo,Akure South,,,,2020-11-17,10,-33,-15,-20,-17,3
 NG,Nigeria,Ondo,Akure South,,,,2020-11-18,11,-36,-4,-15,-15,5
 NG,Nigeria,Ondo,Akure South,,,,2020-11-19,14,-34,-8,-13,-16,4
 NG,Nigeria,Ondo,Akure South,,,,2020-11-20,17,-35,-7,-26,-15,4
+NG,Nigeria,Ondo,Akure South,,,,2020-11-21,18,-40,-17,-16,-9,0
+NG,Nigeria,Ondo,Akure South,,,,2020-11-22,1,-38,-11,-22,-14,3
 NG,Nigeria,Ondo,Ondo West,,,,2020-02-17,,,,,2,
 NG,Nigeria,Ondo,Ondo West,,,,2020-02-18,,,,,-4,
 NG,Nigeria,Ondo,Ondo West,,,,2020-02-19,,,,,0,
@@ -40592,6 +40890,8 @@ NG,Nigeria,Ondo,Ondo West,,,,2020-11-17,,,,,-21,
 NG,Nigeria,Ondo,Ondo West,,,,2020-11-18,,,,,-22,
 NG,Nigeria,Ondo,Ondo West,,,,2020-11-19,,,,,-22,
 NG,Nigeria,Ondo,Ondo West,,,,2020-11-20,,,,,-19,
+NG,Nigeria,Ondo,Ondo West,,,,2020-11-21,,,,,-16,
+NG,Nigeria,Ondo,Ondo West,,,,2020-11-22,,,,,-15,
 NG,Nigeria,Ondo,Owo,,,,2020-06-08,,,,,-5,
 NG,Nigeria,Ondo,Owo,,,,2020-06-09,,,,,-19,
 NG,Nigeria,Ondo,Owo,,,,2020-06-10,,,,,-20,
@@ -40974,6 +41274,8 @@ NG,Nigeria,Osun,,,NG-OS,,2020-11-17,-9,5,-13,-17,-21,-4
 NG,Nigeria,Osun,,,NG-OS,,2020-11-18,-10,1,-12,-15,-20,-5
 NG,Nigeria,Osun,,,NG-OS,,2020-11-19,-8,2,-8,-7,-18,-6
 NG,Nigeria,Osun,,,NG-OS,,2020-11-20,-10,7,-5,-12,-16,-6
+NG,Nigeria,Osun,,,NG-OS,,2020-11-21,-8,2,-7,-9,-14,-6
+NG,Nigeria,Osun,,,NG-OS,,2020-11-22,-13,1,-13,-10,-23,-5
 NG,Nigeria,Osun,Aiyedade,,,,2020-02-15,,,-3,,,
 NG,Nigeria,Osun,Aiyedade,,,,2020-02-16,,,-5,,,
 NG,Nigeria,Osun,Aiyedade,,,,2020-02-17,,,-11,,,
@@ -41229,6 +41531,8 @@ NG,Nigeria,Osun,Aiyedade,,,,2020-11-17,,,-15,,,
 NG,Nigeria,Osun,Aiyedade,,,,2020-11-18,,,-9,,,
 NG,Nigeria,Osun,Aiyedade,,,,2020-11-19,,,-3,,,
 NG,Nigeria,Osun,Aiyedade,,,,2020-11-20,,,-5,,,
+NG,Nigeria,Osun,Aiyedade,,,,2020-11-21,,,-9,,,
+NG,Nigeria,Osun,Aiyedade,,,,2020-11-22,,,-12,,,
 NG,Nigeria,Osun,Ede North,,,,2020-02-17,,,,,5,
 NG,Nigeria,Osun,Ede North,,,,2020-02-18,,,,,4,
 NG,Nigeria,Osun,Ede North,,,,2020-02-19,,,,,-5,
@@ -41455,6 +41759,8 @@ NG,Nigeria,Osun,Ede North,,,,2020-11-17,,,,,-22,
 NG,Nigeria,Osun,Ede North,,,,2020-11-18,,,,,-27,
 NG,Nigeria,Osun,Ede North,,,,2020-11-19,,,,,-24,
 NG,Nigeria,Osun,Ede North,,,,2020-11-20,,,,,-15,
+NG,Nigeria,Osun,Ede North,,,,2020-11-21,,,,,-17,
+NG,Nigeria,Osun,Ede North,,,,2020-11-22,,,,,-28,
 NG,Nigeria,Osun,Egbedore,,,,2020-02-17,,,,,3,
 NG,Nigeria,Osun,Egbedore,,,,2020-02-18,,,,,2,
 NG,Nigeria,Osun,Egbedore,,,,2020-02-19,,,,,1,
@@ -41662,6 +41968,8 @@ NG,Nigeria,Osun,Egbedore,,,,2020-11-17,,,,,-6,
 NG,Nigeria,Osun,Egbedore,,,,2020-11-18,,,,,-6,
 NG,Nigeria,Osun,Egbedore,,,,2020-11-19,,,,,1,
 NG,Nigeria,Osun,Egbedore,,,,2020-11-20,,,,,5,
+NG,Nigeria,Osun,Egbedore,,,,2020-11-21,,,,,6,
+NG,Nigeria,Osun,Egbedore,,,,2020-11-22,,,,,-12,
 NG,Nigeria,Osun,Ife Central,,,,2020-02-17,,,,,-2,
 NG,Nigeria,Osun,Ife Central,,,,2020-02-18,,,,,0,
 NG,Nigeria,Osun,Ife Central,,,,2020-02-19,,,,,0,
@@ -41904,6 +42212,8 @@ NG,Nigeria,Osun,Ife Central,,,,2020-11-17,,,,6,-21,
 NG,Nigeria,Osun,Ife Central,,,,2020-11-18,,,,6,-20,
 NG,Nigeria,Osun,Ife Central,,,,2020-11-19,,,,0,-19,
 NG,Nigeria,Osun,Ife Central,,,,2020-11-20,,,,-3,-21,
+NG,Nigeria,Osun,Ife Central,,,,2020-11-21,,,,2,-11,
+NG,Nigeria,Osun,Ife Central,,,,2020-11-22,,,,,-7,
 NG,Nigeria,Osun,Ife East,,,,2020-06-08,,,,,-5,
 NG,Nigeria,Osun,Ife East,,,,2020-06-09,,,,,-7,
 NG,Nigeria,Osun,Ife East,,,,2020-06-10,,,,,-4,
@@ -42215,6 +42525,8 @@ NG,Nigeria,Osun,Ife North,,,,2020-11-17,,,,-46,-31,
 NG,Nigeria,Osun,Ife North,,,,2020-11-18,,,,-53,-39,
 NG,Nigeria,Osun,Ife North,,,,2020-11-19,,,,-42,-33,
 NG,Nigeria,Osun,Ife North,,,,2020-11-20,,,,-46,-37,
+NG,Nigeria,Osun,Ife North,,,,2020-11-21,,,,-34,-28,
+NG,Nigeria,Osun,Ife North,,,,2020-11-22,,,,,-36,
 NG,Nigeria,Osun,Ilesha West,,,,2020-03-28,,,,-40,,
 NG,Nigeria,Osun,Ilesha West,,,,2020-04-06,,,,-62,,
 NG,Nigeria,Osun,Ilesha West,,,,2020-04-10,,,,-63,,
@@ -42335,6 +42647,7 @@ NG,Nigeria,Osun,Ilesha West,,,,2020-11-17,,,,,-10,
 NG,Nigeria,Osun,Ilesha West,,,,2020-11-18,,,,,-14,
 NG,Nigeria,Osun,Ilesha West,,,,2020-11-19,,,,,-14,
 NG,Nigeria,Osun,Ilesha West,,,,2020-11-20,,,,-41,-10,
+NG,Nigeria,Osun,Ilesha West,,,,2020-11-21,,,,-44,,
 NG,Nigeria,Osun,Iwo,,,,2020-06-08,,,,,-15,
 NG,Nigeria,Osun,Iwo,,,,2020-06-09,,,,,-22,
 NG,Nigeria,Osun,Iwo,,,,2020-06-10,,,,,-14,
@@ -42677,6 +42990,8 @@ NG,Nigeria,Osun,Olorunda,,,,2020-11-17,,,-8,,-9,
 NG,Nigeria,Osun,Olorunda,,,,2020-11-18,,,-8,,-2,
 NG,Nigeria,Osun,Olorunda,,,,2020-11-19,,,-15,,-6,
 NG,Nigeria,Osun,Olorunda,,,,2020-11-20,,,-16,,2,
+NG,Nigeria,Osun,Olorunda,,,,2020-11-21,,,-20,,5,
+NG,Nigeria,Osun,Olorunda,,,,2020-11-22,,,,,4,
 NG,Nigeria,Osun,Osogbo,,,,2020-02-17,,,,,4,
 NG,Nigeria,Osun,Osogbo,,,,2020-02-18,,,,,0,
 NG,Nigeria,Osun,Osogbo,,,,2020-02-19,,,,,1,
@@ -42908,6 +43223,8 @@ NG,Nigeria,Osun,Osogbo,,,,2020-11-17,,,,,-13,
 NG,Nigeria,Osun,Osogbo,,,,2020-11-18,,,,,-5,
 NG,Nigeria,Osun,Osogbo,,,,2020-11-19,,,,,-6,
 NG,Nigeria,Osun,Osogbo,,,,2020-11-20,,,,,-3,
+NG,Nigeria,Osun,Osogbo,,,,2020-11-21,,,,,17,
+NG,Nigeria,Osun,Osogbo,,,,2020-11-22,,,,,-1,
 NG,Nigeria,Oyo,,,NG-OY,,2020-02-15,3,-5,10,-5,1,0
 NG,Nigeria,Oyo,,,NG-OY,,2020-02-16,1,-3,2,-14,1,0
 NG,Nigeria,Oyo,,,NG-OY,,2020-02-17,-7,-8,6,-3,0,1
@@ -43188,6 +43505,8 @@ NG,Nigeria,Oyo,,,NG-OY,,2020-11-17,-9,6,4,-12,-18,4
 NG,Nigeria,Oyo,,,NG-OY,,2020-11-18,-13,6,7,-13,-14,4
 NG,Nigeria,Oyo,,,NG-OY,,2020-11-19,-9,7,8,-11,-12,3
 NG,Nigeria,Oyo,,,NG-OY,,2020-11-20,-9,4,7,-9,-13,4
+NG,Nigeria,Oyo,,,NG-OY,,2020-11-21,-4,6,18,-4,-9,1
+NG,Nigeria,Oyo,,,NG-OY,,2020-11-22,-9,-3,3,-22,-15,2
 NG,Nigeria,Oyo,Akinyele,,,,2020-02-15,-5,8,15,-9,-1,0
 NG,Nigeria,Oyo,Akinyele,,,,2020-02-16,4,1,-3,-22,0,0
 NG,Nigeria,Oyo,Akinyele,,,,2020-02-17,-10,-2,1,-14,-5,2
@@ -43468,6 +43787,8 @@ NG,Nigeria,Oyo,Akinyele,,,,2020-11-17,-36,17,-7,-36,-22,11
 NG,Nigeria,Oyo,Akinyele,,,,2020-11-18,-25,10,-8,-33,-21,9
 NG,Nigeria,Oyo,Akinyele,,,,2020-11-19,-27,13,0,-35,-21,9
 NG,Nigeria,Oyo,Akinyele,,,,2020-11-20,-28,6,2,-34,-21,10
+NG,Nigeria,Oyo,Akinyele,,,,2020-11-21,-31,13,-5,-41,-19,7
+NG,Nigeria,Oyo,Akinyele,,,,2020-11-22,-34,3,-16,-42,-26,7
 NG,Nigeria,Oyo,Egbeda,,,,2020-02-15,,,,9,0,
 NG,Nigeria,Oyo,Egbeda,,,,2020-02-16,,,,-1,-4,
 NG,Nigeria,Oyo,Egbeda,,,,2020-02-17,,,,6,2,
@@ -43723,6 +44044,8 @@ NG,Nigeria,Oyo,Egbeda,,,,2020-11-17,,,,-3,-12,
 NG,Nigeria,Oyo,Egbeda,,,,2020-11-18,,,,-14,-9,
 NG,Nigeria,Oyo,Egbeda,,,,2020-11-19,,,,-3,-5,
 NG,Nigeria,Oyo,Egbeda,,,,2020-11-20,,,,-16,-4,
+NG,Nigeria,Oyo,Egbeda,,,,2020-11-21,,,,-2,-4,
+NG,Nigeria,Oyo,Egbeda,,,,2020-11-22,,,,-24,-10,
 NG,Nigeria,Oyo,Ibadan North,,,,2020-02-15,-1,2,,-3,0,
 NG,Nigeria,Oyo,Ibadan North,,,,2020-02-16,1,0,,-8,-1,
 NG,Nigeria,Oyo,Ibadan North,,,,2020-02-17,-12,-7,,-2,-4,2
@@ -43997,6 +44320,8 @@ NG,Nigeria,Oyo,Ibadan North,,,,2020-11-17,-31,-13,,-9,-18,12
 NG,Nigeria,Oyo,Ibadan North,,,,2020-11-18,-32,-9,,-10,-15,11
 NG,Nigeria,Oyo,Ibadan North,,,,2020-11-19,-27,-11,,-9,-12,10
 NG,Nigeria,Oyo,Ibadan North,,,,2020-11-20,-21,-4,,0,-10,11
+NG,Nigeria,Oyo,Ibadan North,,,,2020-11-21,-26,8,,22,-11,7
+NG,Nigeria,Oyo,Ibadan North,,,,2020-11-22,-28,-6,,-25,-10,
 NG,Nigeria,Oyo,Ibadan North East,,,,2020-04-13,,,,,-54,
 NG,Nigeria,Oyo,Ibadan North East,,,,2020-06-08,,,,,-4,
 NG,Nigeria,Oyo,Ibadan North East,,,,2020-06-09,,,,,-4,
@@ -44103,6 +44428,7 @@ NG,Nigeria,Oyo,Ibadan North East,,,,2020-11-17,,,,,-9,
 NG,Nigeria,Oyo,Ibadan North East,,,,2020-11-18,,,,,-13,
 NG,Nigeria,Oyo,Ibadan North East,,,,2020-11-19,,,,,1,
 NG,Nigeria,Oyo,Ibadan North East,,,,2020-11-20,,,,,-3,
+NG,Nigeria,Oyo,Ibadan North East,,,,2020-11-21,,,,,-8,
 NG,Nigeria,Oyo,Ibadan North West,,,,2020-02-15,4,-11,,-24,-4,
 NG,Nigeria,Oyo,Ibadan North West,,,,2020-02-16,8,-5,,-25,,
 NG,Nigeria,Oyo,Ibadan North West,,,,2020-02-17,2,-12,,-18,0,
@@ -44358,6 +44684,8 @@ NG,Nigeria,Oyo,Ibadan North West,,,,2020-11-17,12,20,,-22,-17,
 NG,Nigeria,Oyo,Ibadan North West,,,,2020-11-18,7,21,,-22,-13,
 NG,Nigeria,Oyo,Ibadan North West,,,,2020-11-19,13,12,,-12,-12,
 NG,Nigeria,Oyo,Ibadan North West,,,,2020-11-20,8,7,,-20,-10,
+NG,Nigeria,Oyo,Ibadan North West,,,,2020-11-21,23,12,,-29,-10,
+NG,Nigeria,Oyo,Ibadan North West,,,,2020-11-22,13,-14,,-27,-7,
 NG,Nigeria,Oyo,Ibadan South East,,,,2020-02-20,,,,,-17,
 NG,Nigeria,Oyo,Ibadan South East,,,,2020-02-24,,,,,-7,
 NG,Nigeria,Oyo,Ibadan South East,,,,2020-02-27,,,,,-10,
@@ -44531,6 +44859,7 @@ NG,Nigeria,Oyo,Ibadan South East,,,,2020-11-17,,,,,-13,
 NG,Nigeria,Oyo,Ibadan South East,,,,2020-11-18,,,,,-10,
 NG,Nigeria,Oyo,Ibadan South East,,,,2020-11-19,,,,,-21,
 NG,Nigeria,Oyo,Ibadan South East,,,,2020-11-20,,,,,-13,
+NG,Nigeria,Oyo,Ibadan South East,,,,2020-11-21,,,,,-12,
 NG,Nigeria,Oyo,Ibadan South West,,,,2020-02-15,6,-2,27,-4,-2,1
 NG,Nigeria,Oyo,Ibadan South West,,,,2020-02-16,2,0,23,-2,-5,
 NG,Nigeria,Oyo,Ibadan South West,,,,2020-02-17,-11,-6,27,-4,0,2
@@ -44808,6 +45137,8 @@ NG,Nigeria,Oyo,Ibadan South West,,,,2020-11-17,-22,-11,18,-8,-18,9
 NG,Nigeria,Oyo,Ibadan South West,,,,2020-11-18,-20,-9,22,-9,-20,9
 NG,Nigeria,Oyo,Ibadan South West,,,,2020-11-19,-10,-5,20,-10,-16,9
 NG,Nigeria,Oyo,Ibadan South West,,,,2020-11-20,-12,-8,18,-11,-18,9
+NG,Nigeria,Oyo,Ibadan South West,,,,2020-11-21,-14,10,-5,-10,-13,9
+NG,Nigeria,Oyo,Ibadan South West,,,,2020-11-22,-11,-16,-7,-31,-19,10
 NG,Nigeria,Oyo,Ido,,,,2020-02-15,10,-6,,-12,3,-1
 NG,Nigeria,Oyo,Ido,,,,2020-02-16,0,,,-8,1,
 NG,Nigeria,Oyo,Ido,,,,2020-02-17,,-6,,4,2,1
@@ -45085,6 +45416,8 @@ NG,Nigeria,Oyo,Ido,,,,2020-11-17,,18,,15,-4,9
 NG,Nigeria,Oyo,Ido,,,,2020-11-18,,24,,-1,-3,7
 NG,Nigeria,Oyo,Ido,,,,2020-11-19,,17,,2,-2,7
 NG,Nigeria,Oyo,Ido,,,,2020-11-20,,19,,5,-7,7
+NG,Nigeria,Oyo,Ido,,,,2020-11-21,,23,,-16,-5,4
+NG,Nigeria,Oyo,Ido,,,,2020-11-22,,,,-11,0,7
 NG,Nigeria,Oyo,Lagelu,,,,2020-02-15,2,,-13,-5,-3,
 NG,Nigeria,Oyo,Lagelu,,,,2020-02-16,,,-13,-17,2,
 NG,Nigeria,Oyo,Lagelu,,,,2020-02-17,2,,-12,4,0,0
@@ -45359,6 +45692,8 @@ NG,Nigeria,Oyo,Lagelu,,,,2020-11-17,,,-6,-11,-14,9
 NG,Nigeria,Oyo,Lagelu,,,,2020-11-18,,,-3,-7,-8,10
 NG,Nigeria,Oyo,Lagelu,,,,2020-11-19,6,,6,-2,-6,8
 NG,Nigeria,Oyo,Lagelu,,,,2020-11-20,11,,9,2,-7,7
+NG,Nigeria,Oyo,Lagelu,,,,2020-11-21,31,,49,14,-6,
+NG,Nigeria,Oyo,Lagelu,,,,2020-11-22,,,-17,-1,-5,
 NG,Nigeria,Oyo,Ogbomosho North,,,,2020-02-15,,,,,15,
 NG,Nigeria,Oyo,Ogbomosho North,,,,2020-02-16,,,,,8,
 NG,Nigeria,Oyo,Ogbomosho North,,,,2020-02-17,,,,,3,
@@ -45614,6 +45949,8 @@ NG,Nigeria,Oyo,Ogbomosho North,,,,2020-11-17,,,,,-39,
 NG,Nigeria,Oyo,Ogbomosho North,,,,2020-11-18,,,,,-33,
 NG,Nigeria,Oyo,Ogbomosho North,,,,2020-11-19,,,,,-33,
 NG,Nigeria,Oyo,Ogbomosho North,,,,2020-11-20,,,,,-26,
+NG,Nigeria,Oyo,Ogbomosho North,,,,2020-11-21,,,,,-23,
+NG,Nigeria,Oyo,Ogbomosho North,,,,2020-11-22,,,,,-34,
 NG,Nigeria,Oyo,Oluyole,,,,2020-03-30,,,,,-43,
 NG,Nigeria,Oyo,Oluyole,,,,2020-03-31,,,,,-44,
 NG,Nigeria,Oyo,Oluyole,,,,2020-04-01,,,,,-43,
@@ -45994,6 +46331,8 @@ NG,Nigeria,Oyo,Ona ara,,,,2020-11-17,,,,8,-8,
 NG,Nigeria,Oyo,Ona ara,,,,2020-11-18,,,,-6,3,
 NG,Nigeria,Oyo,Ona ara,,,,2020-11-19,,,,15,7,
 NG,Nigeria,Oyo,Ona ara,,,,2020-11-20,,,,5,-1,
+NG,Nigeria,Oyo,Ona ara,,,,2020-11-21,,,,18,,
+NG,Nigeria,Oyo,Ona ara,,,,2020-11-22,,,,9,,
 NG,Nigeria,Oyo,Oyo West,,,,2020-02-17,,,,,2,
 NG,Nigeria,Oyo,Oyo West,,,,2020-02-18,,,,,-4,
 NG,Nigeria,Oyo,Oyo West,,,,2020-02-19,,,,,-3,
@@ -46200,6 +46539,8 @@ NG,Nigeria,Oyo,Oyo West,,,,2020-11-17,,,,,-21,
 NG,Nigeria,Oyo,Oyo West,,,,2020-11-18,,,,,-23,
 NG,Nigeria,Oyo,Oyo West,,,,2020-11-19,,,,,-16,
 NG,Nigeria,Oyo,Oyo West,,,,2020-11-20,,,,,-14,
+NG,Nigeria,Oyo,Oyo West,,,,2020-11-21,,,,,-4,
+NG,Nigeria,Oyo,Oyo West,,,,2020-11-22,,,,,-18,
 NG,Nigeria,Plateau,,,NG-PL,,2020-02-15,5,-2,,-6,6,-1
 NG,Nigeria,Plateau,,,NG-PL,,2020-02-16,-3,-3,-12,-15,3,
 NG,Nigeria,Plateau,,,NG-PL,,2020-02-17,1,-3,,-12,3,0
@@ -46477,6 +46818,8 @@ NG,Nigeria,Plateau,,,NG-PL,,2020-11-17,-5,-30,,-11,-19,1
 NG,Nigeria,Plateau,,,NG-PL,,2020-11-18,-8,-29,,-11,-20,1
 NG,Nigeria,Plateau,,,NG-PL,,2020-11-19,-8,-24,,-7,-18,0
 NG,Nigeria,Plateau,,,NG-PL,,2020-11-20,-2,-9,-23,-11,-14,-1
+NG,Nigeria,Plateau,,,NG-PL,,2020-11-21,4,-23,-15,-7,-14,-4
+NG,Nigeria,Plateau,,,NG-PL,,2020-11-22,-12,,-16,-13,-21,-3
 NG,Nigeria,Plateau,Jos North,,,,2020-02-15,9,-1,-10,-3,5,0
 NG,Nigeria,Plateau,Jos North,,,,2020-02-16,1,-5,-2,-13,4,0
 NG,Nigeria,Plateau,Jos North,,,,2020-02-17,-1,0,,-12,4,0
@@ -46757,6 +47100,8 @@ NG,Nigeria,Plateau,Jos North,,,,2020-11-17,-6,,,-15,-21,4
 NG,Nigeria,Plateau,Jos North,,,,2020-11-18,-10,,-26,-14,-20,4
 NG,Nigeria,Plateau,Jos North,,,,2020-11-19,-7,,-18,-9,-19,4
 NG,Nigeria,Plateau,Jos North,,,,2020-11-20,-2,,-28,-11,-16,3
+NG,Nigeria,Plateau,Jos North,,,,2020-11-21,10,-16,-14,-9,-16,0
+NG,Nigeria,Plateau,Jos North,,,,2020-11-22,-11,,-10,-13,-25,1
 NG,Nigeria,Plateau,Jos South,,,,2020-02-15,3,,,-19,5,
 NG,Nigeria,Plateau,Jos South,,,,2020-02-16,-3,,-11,,11,
 NG,Nigeria,Plateau,Jos South,,,,2020-02-17,,,,-21,5,0
@@ -47012,6 +47357,8 @@ NG,Nigeria,Plateau,Jos South,,,,2020-11-17,-16,,,,-16,4
 NG,Nigeria,Plateau,Jos South,,,,2020-11-18,,,,,-18,4
 NG,Nigeria,Plateau,Jos South,,,,2020-11-19,-14,,,,-16,3
 NG,Nigeria,Plateau,Jos South,,,,2020-11-20,-18,,,,-13,0
+NG,Nigeria,Plateau,Jos South,,,,2020-11-21,-9,,-34,-1,-12,
+NG,Nigeria,Plateau,Jos South,,,,2020-11-22,-14,,-26,,-14,
 NG,Nigeria,Rivers,,,NG-RI,,2020-02-15,1,-1,10,2,5,-1
 NG,Nigeria,Rivers,,,NG-RI,,2020-02-16,2,2,3,1,1,1
 NG,Nigeria,Rivers,,,NG-RI,,2020-02-17,0,-4,-2,-1,-1,3
@@ -47292,6 +47639,8 @@ NG,Nigeria,Rivers,,,NG-RI,,2020-11-17,-9,22,-28,15,-12,10
 NG,Nigeria,Rivers,,,NG-RI,,2020-11-18,-9,19,-24,18,-9,9
 NG,Nigeria,Rivers,,,NG-RI,,2020-11-19,-9,20,-24,20,-13,9
 NG,Nigeria,Rivers,,,NG-RI,,2020-11-20,-7,20,-23,30,-10,8
+NG,Nigeria,Rivers,,,NG-RI,,2020-11-21,-1,20,-19,31,3,3
+NG,Nigeria,Rivers,,,NG-RI,,2020-11-22,-5,13,-22,11,-3,4
 NG,Nigeria,Rivers,Abua/Odual,,,,2020-02-15,,,12,,,
 NG,Nigeria,Rivers,Abua/Odual,,,,2020-02-16,,,3,,,
 NG,Nigeria,Rivers,Abua/Odual,,,,2020-02-17,,,1,,,
@@ -47547,6 +47896,8 @@ NG,Nigeria,Rivers,Abua/Odual,,,,2020-11-17,,,-78,,,
 NG,Nigeria,Rivers,Abua/Odual,,,,2020-11-18,,,-77,,,
 NG,Nigeria,Rivers,Abua/Odual,,,,2020-11-19,,,-77,,,
 NG,Nigeria,Rivers,Abua/Odual,,,,2020-11-20,,,-75,,,
+NG,Nigeria,Rivers,Abua/Odual,,,,2020-11-21,,,-77,,,
+NG,Nigeria,Rivers,Abua/Odual,,,,2020-11-22,,,-77,,,
 NG,Nigeria,Rivers,Bonny,,,,2020-02-15,,,11,,,
 NG,Nigeria,Rivers,Bonny,,,,2020-02-16,,,8,,,
 NG,Nigeria,Rivers,Bonny,,,,2020-02-17,,,-2,,2,
@@ -47802,6 +48153,8 @@ NG,Nigeria,Rivers,Bonny,,,,2020-11-17,,,7,,-33,
 NG,Nigeria,Rivers,Bonny,,,,2020-11-18,,,11,,-30,
 NG,Nigeria,Rivers,Bonny,,,,2020-11-19,,,7,,-30,
 NG,Nigeria,Rivers,Bonny,,,,2020-11-20,,,10,,-33,
+NG,Nigeria,Rivers,Bonny,,,,2020-11-21,,,-1,,-1,
+NG,Nigeria,Rivers,Bonny,,,,2020-11-22,,,-2,,-4,
 NG,Nigeria,Rivers,Eleme,,,,2020-02-17,,,,,5,
 NG,Nigeria,Rivers,Eleme,,,,2020-02-18,,,,,7,
 NG,Nigeria,Rivers,Eleme,,,,2020-02-19,,,,,8,
@@ -48024,6 +48377,8 @@ NG,Nigeria,Rivers,Eleme,,,,2020-11-17,,,,,-4,
 NG,Nigeria,Rivers,Eleme,,,,2020-11-18,,,,,-3,
 NG,Nigeria,Rivers,Eleme,,,,2020-11-19,,,,,-4,
 NG,Nigeria,Rivers,Eleme,,,,2020-11-20,,,,,-6,
+NG,Nigeria,Rivers,Eleme,,,,2020-11-21,,,,,3,
+NG,Nigeria,Rivers,Eleme,,,,2020-11-22,,,,,7,
 NG,Nigeria,Rivers,Ikwerre,,,,2020-02-15,,,,-4,,
 NG,Nigeria,Rivers,Ikwerre,,,,2020-02-16,,,,1,,
 NG,Nigeria,Rivers,Ikwerre,,,,2020-02-17,,,,6,3,
@@ -48259,6 +48614,8 @@ NG,Nigeria,Rivers,Ikwerre,,,,2020-11-17,,,,14,-21,
 NG,Nigeria,Rivers,Ikwerre,,,,2020-11-18,,,,-3,-20,
 NG,Nigeria,Rivers,Ikwerre,,,,2020-11-19,,,,3,-21,
 NG,Nigeria,Rivers,Ikwerre,,,,2020-11-20,,,,-2,-15,
+NG,Nigeria,Rivers,Ikwerre,,,,2020-11-21,,,,-10,-10,
+NG,Nigeria,Rivers,Ikwerre,,,,2020-11-22,,,,-9,-18,
 NG,Nigeria,Rivers,Obio/Akpor,,,,2020-02-15,-1,6,10,21,5,-1
 NG,Nigeria,Rivers,Obio/Akpor,,,,2020-02-16,3,4,-2,5,2,1
 NG,Nigeria,Rivers,Obio/Akpor,,,,2020-02-17,-1,4,-6,7,-1,3
@@ -48539,6 +48896,8 @@ NG,Nigeria,Rivers,Obio/Akpor,,,,2020-11-17,-12,32,11,5,-13,11
 NG,Nigeria,Rivers,Obio/Akpor,,,,2020-11-18,-12,32,15,5,-9,11
 NG,Nigeria,Rivers,Obio/Akpor,,,,2020-11-19,-11,31,29,4,-12,10
 NG,Nigeria,Rivers,Obio/Akpor,,,,2020-11-20,-8,35,18,17,-12,10
+NG,Nigeria,Rivers,Obio/Akpor,,,,2020-11-21,-6,31,34,30,4,4
+NG,Nigeria,Rivers,Obio/Akpor,,,,2020-11-22,-8,20,,5,-1,5
 NG,Nigeria,Rivers,Oyigbo,,,,2020-03-31,,,,-24,,
 NG,Nigeria,Rivers,Oyigbo,,,,2020-04-10,,,,-31,,
 NG,Nigeria,Rivers,Oyigbo,,,,2020-04-14,,,,-22,,
@@ -48654,6 +49013,7 @@ NG,Nigeria,Rivers,Oyigbo,,,,2020-11-17,,,,-41,-14,
 NG,Nigeria,Rivers,Oyigbo,,,,2020-11-18,,,,-38,-16,
 NG,Nigeria,Rivers,Oyigbo,,,,2020-11-19,,,,-41,-12,
 NG,Nigeria,Rivers,Oyigbo,,,,2020-11-20,,,,-42,-19,
+NG,Nigeria,Rivers,Oyigbo,,,,2020-11-21,,,,,-21,
 NG,Nigeria,Rivers,Port-Harcourt,,,,2020-02-15,5,-10,11,-7,4,-1
 NG,Nigeria,Rivers,Port-Harcourt,,,,2020-02-16,4,1,-3,0,2,2
 NG,Nigeria,Rivers,Port-Harcourt,,,,2020-02-17,2,-14,-3,-12,-1,3
@@ -48934,6 +49294,8 @@ NG,Nigeria,Rivers,Port-Harcourt,,,,2020-11-17,-7,13,-10,56,-9,13
 NG,Nigeria,Rivers,Port-Harcourt,,,,2020-11-18,-7,13,-7,67,-5,12
 NG,Nigeria,Rivers,Port-Harcourt,,,,2020-11-19,-10,15,-13,78,-10,11
 NG,Nigeria,Rivers,Port-Harcourt,,,,2020-11-20,-6,15,-2,82,-9,11
+NG,Nigeria,Rivers,Port-Harcourt,,,,2020-11-21,3,13,7,81,-1,5
+NG,Nigeria,Rivers,Port-Harcourt,,,,2020-11-22,-3,9,-5,65,-2,8
 NG,Nigeria,Sokoto,,,NG-SO,,2020-02-15,12,19,,,23,
 NG,Nigeria,Sokoto,,,NG-SO,,2020-02-16,18,13,,,13,
 NG,Nigeria,Sokoto,,,NG-SO,,2020-02-17,19,30,,,18,
@@ -49189,6 +49551,8 @@ NG,Nigeria,Sokoto,,,NG-SO,,2020-11-17,,,,,-16,-7
 NG,Nigeria,Sokoto,,,NG-SO,,2020-11-18,,,,,-16,-4
 NG,Nigeria,Sokoto,,,NG-SO,,2020-11-19,,,,,-10,
 NG,Nigeria,Sokoto,,,NG-SO,,2020-11-20,,,,,-6,
+NG,Nigeria,Sokoto,,,NG-SO,,2020-11-21,,,,,-5,
+NG,Nigeria,Sokoto,,,NG-SO,,2020-11-22,,,,,-5,
 NG,Nigeria,Sokoto,Sokoto North,,,,2020-02-17,,,,,16,
 NG,Nigeria,Sokoto,Sokoto North,,,,2020-02-18,,,,,13,
 NG,Nigeria,Sokoto,Sokoto North,,,,2020-02-19,,,,,11,
@@ -49425,6 +49789,8 @@ NG,Nigeria,Sokoto,Sokoto North,,,,2020-11-17,,,,,-14,
 NG,Nigeria,Sokoto,Sokoto North,,,,2020-11-18,,,,,-8,
 NG,Nigeria,Sokoto,Sokoto North,,,,2020-11-19,,,,,-9,
 NG,Nigeria,Sokoto,Sokoto North,,,,2020-11-20,,,,,-4,
+NG,Nigeria,Sokoto,Sokoto North,,,,2020-11-21,,,,,-2,
+NG,Nigeria,Sokoto,Sokoto North,,,,2020-11-22,,,,,4,
 NG,Nigeria,Sokoto,Sokoto South,,,,2020-02-15,,,,,14,
 NG,Nigeria,Sokoto,Sokoto South,,,,2020-02-16,,,,,11,
 NG,Nigeria,Sokoto,Sokoto South,,,,2020-02-17,,,,,18,
@@ -49680,6 +50046,8 @@ NG,Nigeria,Sokoto,Sokoto South,,,,2020-11-17,,,,,-9,
 NG,Nigeria,Sokoto,Sokoto South,,,,2020-11-18,,,,,-6,
 NG,Nigeria,Sokoto,Sokoto South,,,,2020-11-19,,,,,0,
 NG,Nigeria,Sokoto,Sokoto South,,,,2020-11-20,,,,,4,
+NG,Nigeria,Sokoto,Sokoto South,,,,2020-11-21,,,,,4,
+NG,Nigeria,Sokoto,Sokoto South,,,,2020-11-22,,,,,0,
 NG,Nigeria,Sokoto,Wamako,,,,2020-06-08,,,,,-21,
 NG,Nigeria,Sokoto,Wamako,,,,2020-06-09,,,,,-21,
 NG,Nigeria,Sokoto,Wamako,,,,2020-06-10,,,,,-25,
@@ -50036,6 +50404,8 @@ NG,Nigeria,Taraba,,,NG-TA,,2020-11-17,,,,,-22,
 NG,Nigeria,Taraba,,,NG-TA,,2020-11-18,,,,,-24,
 NG,Nigeria,Taraba,,,NG-TA,,2020-11-19,,,,,-24,
 NG,Nigeria,Taraba,,,NG-TA,,2020-11-20,,,,,-14,
+NG,Nigeria,Taraba,,,NG-TA,,2020-11-21,,,,,-17,
+NG,Nigeria,Taraba,,,NG-TA,,2020-11-22,,,,,-15,
 NG,Nigeria,Taraba,Jalingo,,,,2020-02-17,,,,,3,
 NG,Nigeria,Taraba,Jalingo,,,,2020-02-18,,,,,4,
 NG,Nigeria,Taraba,Jalingo,,,,2020-02-19,,,,,3,
@@ -50269,6 +50639,8 @@ NG,Nigeria,Taraba,Jalingo,,,,2020-11-17,,,,,-10,
 NG,Nigeria,Taraba,Jalingo,,,,2020-11-18,,,,,-9,
 NG,Nigeria,Taraba,Jalingo,,,,2020-11-19,,,,,-15,
 NG,Nigeria,Taraba,Jalingo,,,,2020-11-20,,,,,3,
+NG,Nigeria,Taraba,Jalingo,,,,2020-11-21,,,,,-6,
+NG,Nigeria,Taraba,Jalingo,,,,2020-11-22,,,,,-4,
 NG,Nigeria,Taraba,Yorro,,,,2020-06-08,,,,,-14,
 NG,Nigeria,Taraba,Yorro,,,,2020-06-09,,,,,-9,
 NG,Nigeria,Taraba,Yorro,,,,2020-06-10,,,,,-15,
@@ -50625,6 +50997,8 @@ NG,Nigeria,Yobe,,,NG-YO,,2020-11-17,,,,,-16,
 NG,Nigeria,Yobe,,,NG-YO,,2020-11-18,,,,,-15,
 NG,Nigeria,Yobe,,,NG-YO,,2020-11-19,,,,,-11,
 NG,Nigeria,Yobe,,,NG-YO,,2020-11-20,,,,,1,
+NG,Nigeria,Yobe,,,NG-YO,,2020-11-21,,,,,0,
+NG,Nigeria,Yobe,,,NG-YO,,2020-11-22,,,,,0,
 NG,Nigeria,Yobe,Borsari,,,,2020-02-15,,,9,,,
 NG,Nigeria,Yobe,Borsari,,,,2020-02-16,,,17,,,
 NG,Nigeria,Yobe,Borsari,,,,2020-02-17,,,20,,,
@@ -50880,6 +51254,8 @@ NG,Nigeria,Yobe,Borsari,,,,2020-11-17,,,-18,,,
 NG,Nigeria,Yobe,Borsari,,,,2020-11-18,,,-11,,,
 NG,Nigeria,Yobe,Borsari,,,,2020-11-19,,,-16,,,
 NG,Nigeria,Yobe,Borsari,,,,2020-11-20,,,-17,,,
+NG,Nigeria,Yobe,Borsari,,,,2020-11-21,,,-15,,,
+NG,Nigeria,Yobe,Borsari,,,,2020-11-22,,,-14,,,
 NG,Nigeria,Yobe,Damaturu,,,,2020-02-17,,,,,9,
 NG,Nigeria,Yobe,Damaturu,,,,2020-02-18,,,,,11,
 NG,Nigeria,Yobe,Damaturu,,,,2020-02-19,,,,,8,
@@ -51101,6 +51477,8 @@ NG,Nigeria,Yobe,Damaturu,,,,2020-11-17,,,,,-17,
 NG,Nigeria,Yobe,Damaturu,,,,2020-11-18,,,,,-20,
 NG,Nigeria,Yobe,Damaturu,,,,2020-11-19,,,,,-18,
 NG,Nigeria,Yobe,Damaturu,,,,2020-11-20,,,,,-11,
+NG,Nigeria,Yobe,Damaturu,,,,2020-11-21,,,,,-16,
+NG,Nigeria,Yobe,Damaturu,,,,2020-11-22,,,,,-17,
 NG,Nigeria,Yobe,Potiskum,,,,2020-06-08,,,,,8,
 NG,Nigeria,Yobe,Potiskum,,,,2020-06-09,,,,,16,
 NG,Nigeria,Yobe,Potiskum,,,,2020-06-10,,,,,5,
@@ -51242,6 +51620,8 @@ NG,Nigeria,Yobe,Potiskum,,,,2020-11-17,,,,,2,
 NG,Nigeria,Yobe,Potiskum,,,,2020-11-18,,,,,1,
 NG,Nigeria,Yobe,Potiskum,,,,2020-11-19,,,,,9,
 NG,Nigeria,Yobe,Potiskum,,,,2020-11-20,,,,,44,
+NG,Nigeria,Yobe,Potiskum,,,,2020-11-21,,,,,35,
+NG,Nigeria,Yobe,Potiskum,,,,2020-11-22,,,,,28,
 NG,Nigeria,Zamfara,,,NG-ZA,,2020-02-15,0,-23,3,,12,
 NG,Nigeria,Zamfara,,,NG-ZA,,2020-02-16,3,-33,2,,12,
 NG,Nigeria,Zamfara,,,NG-ZA,,2020-02-17,7,-22,3,,15,
@@ -51497,6 +51877,8 @@ NG,Nigeria,Zamfara,,,NG-ZA,,2020-11-17,,,-34,,-8,
 NG,Nigeria,Zamfara,,,NG-ZA,,2020-11-18,,,-38,,-9,
 NG,Nigeria,Zamfara,,,NG-ZA,,2020-11-19,,,-36,,-7,
 NG,Nigeria,Zamfara,,,NG-ZA,,2020-11-20,,,-35,,-3,
+NG,Nigeria,Zamfara,,,NG-ZA,,2020-11-21,,,-38,,2,
+NG,Nigeria,Zamfara,,,NG-ZA,,2020-11-22,,,-35,,-4,
 NG,Nigeria,Zamfara,Bungudu,,,,2020-06-08,,,,,-4,
 NG,Nigeria,Zamfara,Bungudu,,,,2020-06-09,,,,,4,
 NG,Nigeria,Zamfara,Bungudu,,,,2020-06-10,,,,,8,
@@ -51847,6 +52229,8 @@ NG,Nigeria,Zamfara,Gummi,,,,2020-11-17,,,-35,,,
 NG,Nigeria,Zamfara,Gummi,,,,2020-11-18,,,-39,,,
 NG,Nigeria,Zamfara,Gummi,,,,2020-11-19,,,-35,,,
 NG,Nigeria,Zamfara,Gummi,,,,2020-11-20,,,-33,,,
+NG,Nigeria,Zamfara,Gummi,,,,2020-11-21,,,-39,,,
+NG,Nigeria,Zamfara,Gummi,,,,2020-11-22,,,-36,,,
 NG,Nigeria,Zamfara,Gusau,,,,2020-02-15,,-45,,,,
 NG,Nigeria,Zamfara,Gusau,,,,2020-02-17,,-48,,,13,
 NG,Nigeria,Zamfara,Gusau,,,,2020-02-18,,-48,,,10,
@@ -52080,3 +52464,5 @@ NG,Nigeria,Zamfara,Gusau,,,,2020-11-17,,,,,-2,
 NG,Nigeria,Zamfara,Gusau,,,,2020-11-18,,,,,-5,
 NG,Nigeria,Zamfara,Gusau,,,,2020-11-19,,-55,,,6,
 NG,Nigeria,Zamfara,Gusau,,,,2020-11-20,,-42,,,6,
+NG,Nigeria,Zamfara,Gusau,,,,2020-11-21,,-39,,,9,
+NG,Nigeria,Zamfara,Gusau,,,,2020-11-22,,,,,7,
