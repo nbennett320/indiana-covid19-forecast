@@ -281,6 +281,8 @@ EG,Egypt,,,,,,2020-11-19,-20,32,-10,-7,-2,2
 EG,Egypt,,,,,,2020-11-20,-21,29,-4,-11,-8,5
 EG,Egypt,,,,,,2020-11-21,-18,32,-6,-7,-4,3
 EG,Egypt,,,,,,2020-11-22,-18,34,-3,-1,-3,2
+EG,Egypt,,,,,,2020-11-23,-20,30,-8,-5,0,2
+EG,Egypt,,,,,,2020-11-24,-18,33,-7,-3,-2,2
 EG,Egypt,,,Alexandria Metropolitan Area,,,2020-02-15,6,9,10,13,8,0
 EG,Egypt,,,Alexandria Metropolitan Area,,,2020-02-16,-3,0,7,1,10,-1
 EG,Egypt,,,Alexandria Metropolitan Area,,,2020-02-17,-1,1,6,5,15,0
@@ -563,6 +565,8 @@ EG,Egypt,,,Alexandria Metropolitan Area,,,2020-11-19,-21,26,2,-10,2,4
 EG,Egypt,,,Alexandria Metropolitan Area,,,2020-11-20,-34,5,-11,-32,-16,9
 EG,Egypt,,,Alexandria Metropolitan Area,,,2020-11-21,-21,25,-5,-20,-8,8
 EG,Egypt,,,Alexandria Metropolitan Area,,,2020-11-22,-16,23,14,-12,-2,4
+EG,Egypt,,,Alexandria Metropolitan Area,,,2020-11-23,-19,27,6,-15,1,4
+EG,Egypt,,,Alexandria Metropolitan Area,,,2020-11-24,-17,35,11,-14,-2,4
 EG,Egypt,,,Cairo Metropolitan Area,,,2020-02-15,3,5,10,7,3,0
 EG,Egypt,,,Cairo Metropolitan Area,,,2020-02-16,0,6,6,8,9,-1
 EG,Egypt,,,Cairo Metropolitan Area,,,2020-02-17,-2,3,7,5,13,-1
@@ -845,6 +849,8 @@ EG,Egypt,,,Cairo Metropolitan Area,,,2020-11-19,-18,24,-14,-2,-4,3
 EG,Egypt,,,Cairo Metropolitan Area,,,2020-11-20,-22,15,-12,-8,-7,5
 EG,Egypt,,,Cairo Metropolitan Area,,,2020-11-21,-16,22,-13,1,-5,3
 EG,Egypt,,,Cairo Metropolitan Area,,,2020-11-22,-16,27,-7,6,-5,3
+EG,Egypt,,,Cairo Metropolitan Area,,,2020-11-23,-20,23,-15,1,-1,3
+EG,Egypt,,,Cairo Metropolitan Area,,,2020-11-24,-17,25,-13,3,-3,3
 EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-02-15,3,6,-7,15,4,0
 EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-02-16,1,6,-4,14,11,-2
 EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-02-17,1,2,-5,12,15,-1
@@ -1127,6 +1133,8 @@ EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-11-19,-12,50,46,33,3,1
 EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-11-20,-13,48,108,34,1,4
 EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-11-21,-11,51,64,36,1,2
 EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-11-22,-10,51,73,34,4,1
+EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-11-23,-12,52,62,41,7,1
+EG,Egypt,Al Qalyubia Governorate,,,EG-KB,,2020-11-24,-12,52,64,39,5,1
 EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-02-15,6,13,9,14,8,0
 EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-02-16,-3,5,7,1,9,-1
 EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-02-17,-1,6,5,5,15,0
@@ -1409,6 +1417,8 @@ EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-11-19,-22,26,3,-16,1,4
 EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-11-20,-35,0,-12,-32,-17,9
 EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-11-21,-21,24,-3,-26,-8,8
 EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-11-22,-17,27,16,-19,-1,4
+EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-11-23,-20,25,12,-13,-1,5
+EG,Egypt,Alexandria Governorate,,,EG-ALX,,2020-11-24,-17,30,13,-13,-1,4
 EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-02-15,4,6,3,10,2,0
 EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-02-16,-1,3,0,10,12,-1
 EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-02-17,-1,1,1,11,15,-2
@@ -1691,6 +1701,8 @@ EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-11-19,-13,38,9,4,5,-1
 EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-11-20,-14,35,13,0,-6,3
 EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-11-21,-12,40,14,0,0,0
 EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-11-22,-14,38,17,5,6,0
+EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-11-23,-17,39,14,5,8,-1
+EG,Egypt,Ash Sharqia Governorate,,,EG-SHR,,2020-11-24,-13,41,19,4,6,-1
 EG,Egypt,Assiut Governorate,,,EG-AST,,2020-02-15,6,1,,8,12,-1
 EG,Egypt,Assiut Governorate,,,EG-AST,,2020-02-16,10,-2,2,10,14,-1
 EG,Egypt,Assiut Governorate,,,EG-AST,,2020-02-17,4,3,,4,19,-1
@@ -1973,6 +1985,8 @@ EG,Egypt,Assiut Governorate,,,EG-AST,,2020-11-19,-5,54,-14,37,-2,-2
 EG,Egypt,Assiut Governorate,,,EG-AST,,2020-11-20,-3,69,,24,-11,1
 EG,Egypt,Assiut Governorate,,,EG-AST,,2020-11-21,-4,63,-4,38,-3,-1
 EG,Egypt,Assiut Governorate,,,EG-AST,,2020-11-22,-4,61,-3,45,-5,-1
+EG,Egypt,Assiut Governorate,,,EG-AST,,2020-11-23,-9,60,,35,-5,-1
+EG,Egypt,Assiut Governorate,,,EG-AST,,2020-11-24,-7,59,,46,-5,-2
 EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-02-15,13,16,5,14,2,1
 EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-02-16,12,12,3,4,11,-1
 EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-02-17,2,8,-3,7,13,0
@@ -2255,6 +2269,8 @@ EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-11-19,-35,-8,-54,-11,-9,-2
 EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-11-20,-30,4,-49,-5,-17,0
 EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-11-21,-29,6,-50,-6,-11,-1
 EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-11-22,-26,8,-49,2,-8,-1
+EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-11-23,-33,-2,-53,-14,-9,-2
+EG,Egypt,Aswan Governorate,,,EG-ASN,,2020-11-24,-30,8,-53,-3,-9,-2
 EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-02-15,7,11,,12,2,0
 EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-02-16,6,9,,28,12,-2
 EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-02-17,7,8,,22,17,-2
@@ -2537,6 +2553,8 @@ EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-11-19,-4,53,,-25,-1,-2
 EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-11-20,-8,62,,-13,-12,0
 EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-11-21,-5,56,,-29,-6,-1
 EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-11-22,-1,58,,-12,-1,-2
+EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-11-23,-5,60,,-20,-2,-2
+EG,Egypt,Beni Suef Governorate,,,EG-BNS,,2020-11-24,-6,62,,-24,-5,-3
 EG,Egypt,Cairo Governorate,,,EG-C,,2020-02-15,3,6,14,7,3,0
 EG,Egypt,Cairo Governorate,,,EG-C,,2020-02-16,-1,5,6,8,9,-1
 EG,Egypt,Cairo Governorate,,,EG-C,,2020-02-17,-2,3,9,4,14,-1
@@ -2819,6 +2837,8 @@ EG,Egypt,Cairo Governorate,,,EG-C,,2020-11-19,-19,19,-21,-6,-6,4
 EG,Egypt,Cairo Governorate,,,EG-C,,2020-11-20,-26,5,-20,-13,-8,6
 EG,Egypt,Cairo Governorate,,,EG-C,,2020-11-21,-18,16,-17,-3,-7,4
 EG,Egypt,Cairo Governorate,,,EG-C,,2020-11-22,-19,21,-13,0,-7,4
+EG,Egypt,Cairo Governorate,,,EG-C,,2020-11-23,-22,16,-20,-4,-3,4
+EG,Egypt,Cairo Governorate,,,EG-C,,2020-11-24,-20,19,-19,-1,-5,4
 EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-02-15,7,7,11,11,6,0
 EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-02-16,1,-1,6,9,10,-1
 EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-02-17,-1,0,6,6,14,-1
@@ -3101,6 +3121,8 @@ EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-11-19,-19,49,21,0,-5,0
 EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-11-20,-10,69,28,-5,-7,2
 EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-11-21,-17,50,17,-3,-4,1
 EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-11-22,-20,44,12,-4,-8,0
+EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-11-23,-23,43,20,-6,-4,0
+EG,Egypt,Dakahlia Governorate,,,EG-DK,,2020-11-24,-18,51,21,-1,-4,-1
 EG,Egypt,Damietta Governorate,,,EG-DT,,2020-02-15,5,4,-32,,7,0
 EG,Egypt,Damietta Governorate,,,EG-DT,,2020-02-16,4,3,-40,,13,-2
 EG,Egypt,Damietta Governorate,,,EG-DT,,2020-02-17,1,4,-41,,18,-1
@@ -3383,6 +3405,8 @@ EG,Egypt,Damietta Governorate,,,EG-DT,,2020-11-19,-12,39,-2,,-4,0
 EG,Egypt,Damietta Governorate,,,EG-DT,,2020-11-20,-6,50,9,,-13,3
 EG,Egypt,Damietta Governorate,,,EG-DT,,2020-11-21,-8,40,5,,-4,1
 EG,Egypt,Damietta Governorate,,,EG-DT,,2020-11-22,-7,33,5,,-4,1
+EG,Egypt,Damietta Governorate,,,EG-DT,,2020-11-23,-11,41,0,,0,0
+EG,Egypt,Damietta Governorate,,,EG-DT,,2020-11-24,-9,47,7,,-1,-1
 EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-02-15,8,11,11,20,11,-1
 EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-02-16,3,1,7,6,13,-1
 EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-02-17,4,3,1,7,17,-1
@@ -3665,6 +3689,8 @@ EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-11-19,-22,56,26,18,5,0
 EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-11-20,-22,50,18,29,-5,3
 EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-11-21,-17,59,25,28,2,2
 EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-11-22,-16,54,29,29,9,0
+EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-11-23,-19,59,20,23,6,0
+EG,Egypt,El Beheira Governorate,,,EG-BH,,2020-11-24,-16,66,23,17,8,-1
 EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-02-15,4,6,-1,,-1,1
 EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-02-16,1,-1,-8,,12,-1
 EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-02-17,-1,3,-9,,18,-2
@@ -3947,6 +3973,8 @@ EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-11-19,-16,51,-25,,6,-2
 EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-11-20,-12,57,-14,,-4,1
 EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-11-21,-12,52,-23,,0,0
 EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-11-22,-14,48,-26,,5,0
+EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-11-23,-15,47,-33,,7,-1
+EG,Egypt,Faiyum Governorate,,,EG-FYM,,2020-11-24,-14,47,-22,,6,-2
 EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-02-15,8,8,11,5,6,-1
 EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-02-16,0,3,12,3,12,-1
 EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-02-17,-1,1,8,1,17,-1
@@ -4229,6 +4257,8 @@ EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-11-19,-17,38,-13,-13,-1,1
 EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-11-20,-8,50,8,-10,-5,3
 EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-11-21,-17,42,-8,-12,0,2
 EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-11-22,-17,36,-1,-7,1,1
+EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-11-23,-21,34,-11,-12,3,1
+EG,Egypt,Gharbia Governorate,,,EG-GH,,2020-11-24,-18,44,-6,-8,2,0
 EG,Egypt,Giza Governorate,,,EG-GZ,,2020-02-15,4,9,6,14,5,0
 EG,Egypt,Giza Governorate,,,EG-GZ,,2020-02-16,1,6,6,10,11,-1
 EG,Egypt,Giza Governorate,,,EG-GZ,,2020-02-17,0,4,-4,6,13,-1
@@ -4511,6 +4541,8 @@ EG,Egypt,Giza Governorate,,,EG-GZ,,2020-11-19,-17,29,-4,3,-3,3
 EG,Egypt,Giza Governorate,,,EG-GZ,,2020-11-20,-18,24,-8,5,-6,5
 EG,Egypt,Giza Governorate,,,EG-GZ,,2020-11-21,-14,28,-7,13,-4,3
 EG,Egypt,Giza Governorate,,,EG-GZ,,2020-11-22,-14,32,-5,12,-3,3
+EG,Egypt,Giza Governorate,,,EG-GZ,,2020-11-23,-17,25,-9,11,0,4
+EG,Egypt,Giza Governorate,,,EG-GZ,,2020-11-24,-13,31,-8,12,-2,3
 EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-02-15,4,8,4,22,2,0
 EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-02-16,4,2,-2,15,10,-1
 EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-02-17,2,4,0,14,12,-2
@@ -4793,6 +4825,8 @@ EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-11-19,-18,45,-29,-12,-3,1
 EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-11-20,-26,33,-30,-1,-15,4
 EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-11-21,-18,46,-34,-14,-8,2
 EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-11-22,-16,47,-30,-8,-4,1
+EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-11-23,-19,42,-34,-5,-2,1
+EG,Egypt,Ismailia Governorate,,,EG-IS,,2020-11-24,-20,47,-34,-7,-2,0
 EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-02-15,11,6,5,5,11,-1
 EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-02-16,8,3,3,7,16,-1
 EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-02-17,9,3,5,8,18,-1
@@ -5075,6 +5109,8 @@ EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-11-19,-1,52,-1,39,7,0
 EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-11-20,16,69,24,,-2,2
 EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-11-21,4,56,2,40,6,1
 EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-11-22,4,58,8,36,8,0
+EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-11-23,2,52,2,32,9,-1
+EG,Egypt,Kafr El Sheikh Governorate,,,EG-KFS,,2020-11-24,4,61,3,45,8,-1
 EG,Egypt,Luxor Governorate,,,EG-LX,,2020-02-15,8,-2,3,-22,6,0
 EG,Egypt,Luxor Governorate,,,EG-LX,,2020-02-16,3,-3,6,-29,11,-1
 EG,Egypt,Luxor Governorate,,,EG-LX,,2020-02-17,12,-1,4,-14,16,-1
@@ -5354,6 +5390,8 @@ EG,Egypt,Luxor Governorate,,,EG-LX,,2020-11-19,-37,14,-68,-65,-8,1
 EG,Egypt,Luxor Governorate,,,EG-LX,,2020-11-20,-35,18,-59,-63,-12,1
 EG,Egypt,Luxor Governorate,,,EG-LX,,2020-11-21,-29,21,-62,-72,-6,0
 EG,Egypt,Luxor Governorate,,,EG-LX,,2020-11-22,-36,17,-60,-66,-5,1
+EG,Egypt,Luxor Governorate,,,EG-LX,,2020-11-23,-35,20,-64,-70,-7,0
+EG,Egypt,Luxor Governorate,,,EG-LX,,2020-11-24,-36,30,-60,-59,-9,0
 EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-02-15,7,2,3,,3,
 EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-02-16,4,5,6,,8,1
 EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-02-17,7,3,14,,12,-1
@@ -5633,6 +5671,8 @@ EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-11-19,-7,33,-17,,6,0
 EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-11-20,-2,40,2,,8,2
 EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-11-21,1,36,-16,,5,3
 EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-11-22,-6,40,-14,,9,2
+EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-11-23,-3,32,-14,,8,-1
+EG,Egypt,Matrouh Governorate,,,EG-MT,,2020-11-24,4,48,-16,,7,-1
 EG,Egypt,Menia Governorate,,,EG-MN,,2020-02-15,5,0,10,25,0,1
 EG,Egypt,Menia Governorate,,,EG-MN,,2020-02-16,-2,-5,1,14,13,-1
 EG,Egypt,Menia Governorate,,,EG-MN,,2020-02-17,6,0,-1,14,22,-1
@@ -5915,6 +5955,8 @@ EG,Egypt,Menia Governorate,,,EG-MN,,2020-11-19,4,109,10,4,2,-2
 EG,Egypt,Menia Governorate,,,EG-MN,,2020-11-20,12,107,,-1,-12,0
 EG,Egypt,Menia Governorate,,,EG-MN,,2020-11-21,7,109,23,11,-5,-1
 EG,Egypt,Menia Governorate,,,EG-MN,,2020-11-22,2,98,16,9,1,-2
+EG,Egypt,Menia Governorate,,,EG-MN,,2020-11-23,5,101,8,8,5,-2
+EG,Egypt,Menia Governorate,,,EG-MN,,2020-11-24,1,102,3,13,1,-3
 EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-02-15,5,9,6,3,6,0
 EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-02-16,1,7,8,1,11,-2
 EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-02-17,3,5,,-2,17,-2
@@ -6197,6 +6239,8 @@ EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-11-19,-20,74,,16,6,-1
 EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-11-20,-8,85,,14,-7,2
 EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-11-21,-16,80,,10,4,0
 EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-11-22,-17,81,,15,-1,0
+EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-11-23,-20,75,,14,0,-1
+EG,Egypt,Menofia Governorate,,,EG-MNF,,2020-11-24,-17,84,,17,1,-1
 EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-02-15,9,,,,4,
 EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-02-16,16,,,,10,
 EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-02-17,5,,,,19,
@@ -6454,6 +6498,8 @@ EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-11-19,,,,,-1,
 EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-11-20,,,,,-7,
 EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-11-21,,,,,2,
 EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-11-22,,,,,0,
+EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-11-23,,,,,2,
+EG,Egypt,New Valley Governorate,,,EG-WAD,,2020-11-24,,,,,2,
 EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-02-15,25,,,,-2,
 EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-02-16,5,,,,10,
 EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-02-17,14,,,,12,
@@ -6711,6 +6757,8 @@ EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-11-19,,,,,2,
 EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-11-20,,,,,-10,
 EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-11-21,,,,,-3,
 EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-11-22,,,,,2,
+EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-11-23,,,,,1,
+EG,Egypt,North Sinai Governorate,,,EG-SIN,,2020-11-24,,,,,6,
 EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-02-15,5,7,3,-10,3,0
 EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-02-16,1,3,-4,-13,10,-1
 EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-02-17,-2,2,-7,-17,13,-1
@@ -6993,6 +7041,8 @@ EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-11-19,-22,15,-17,-24,-2,3
 EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-11-20,-11,22,-1,-27,-10,5
 EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-11-21,-16,24,-11,-18,-7,4
 EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-11-22,-18,20,-13,-16,-5,3
+EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-11-23,-23,14,-17,-28,-1,3
+EG,Egypt,Port Said Governorate,,,EG-PTS,,2020-11-24,-17,17,-7,-16,1,3
 EG,Egypt,Qena Governorate,,,EG-KN,,2020-02-15,8,2,,8,2,0
 EG,Egypt,Qena Governorate,,,EG-KN,,2020-02-16,5,7,,3,11,-1
 EG,Egypt,Qena Governorate,,,EG-KN,,2020-02-17,10,-1,,-1,13,0
@@ -7275,6 +7325,8 @@ EG,Egypt,Qena Governorate,,,EG-KN,,2020-11-19,-18,41,,-16,-1,-2
 EG,Egypt,Qena Governorate,,,EG-KN,,2020-11-20,-15,48,,-13,-14,-1
 EG,Egypt,Qena Governorate,,,EG-KN,,2020-11-21,-18,43,,-17,-6,-2
 EG,Egypt,Qena Governorate,,,EG-KN,,2020-11-22,-16,53,,-13,0,-2
+EG,Egypt,Qena Governorate,,,EG-KN,,2020-11-23,-16,45,,-20,-4,-3
+EG,Egypt,Qena Governorate,,,EG-KN,,2020-11-24,-16,46,,-14,-3,-4
 EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-02-15,-5,2,-4,-1,-1,1
 EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-02-16,-6,2,-6,1,5,1
 EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-02-17,-1,-1,-3,2,6,0
@@ -7557,6 +7609,8 @@ EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-11-19,-43,-7,-44,-58,-21,5
 EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-11-20,-46,-9,-47,-59,-29,6
 EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-11-21,-48,-8,-53,-62,-26,6
 EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-11-22,-47,-10,-52,-60,-21,6
+EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-11-23,-47,-14,-57,-58,-20,5
+EG,Egypt,Red Sea Governorate,,,EG-BA,,2020-11-24,-47,-15,-54,-57,-20,5
 EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-02-15,6,0,21,-3,5,0
 EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-02-16,-2,-1,5,-5,9,-1
 EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-02-17,1,4,16,-4,16,0
@@ -7839,6 +7893,8 @@ EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-11-19,-8,90,-24,-21,-6,-2
 EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-11-20,-4,91,-5,-15,-14,0
 EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-11-21,-4,91,-6,-18,-6,-1
 EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-11-22,-6,94,-12,-16,-4,-2
+EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-11-23,-9,87,-14,-17,-5,-2
+EG,Egypt,Sohag Governorate,,,EG-SHG,,2020-11-24,-9,91,-14,-13,-6,-3
 EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-02-15,-8,0,-1,-5,4,0
 EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-02-16,-8,-3,0,2,6,0
 EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-02-17,-2,3,6,-9,8,0
@@ -8108,6 +8164,8 @@ EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-11-19,-55,-25,-49,-47,-20,4
 EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-11-20,-54,-27,-26,-55,-26,5
 EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-11-21,-60,-34,-58,-57,-24,4
 EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-11-22,-57,-30,-55,-47,-20,5
+EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-11-23,-59,-30,-54,-62,-21,5
+EG,Egypt,South Sinai Governorate,,,EG-JS,,2020-11-24,-56,-35,-48,-58,-20,3
 EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-02-15,7,6,10,,4,0
 EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-02-16,2,6,5,,8,-1
 EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-02-17,-3,2,0,,16,-1
@@ -8390,3 +8448,5 @@ EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-11-19,-19,69,-4,,-3,1
 EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-11-20,-9,68,26,,-6,3
 EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-11-21,-15,62,21,,-1,1
 EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-11-22,-18,67,17,,-5,2
+EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-11-23,-20,65,11,,2,1
+EG,Egypt,Suez Governorate,,,EG-SUZ,,2020-11-24,-16,69,8,,0,1

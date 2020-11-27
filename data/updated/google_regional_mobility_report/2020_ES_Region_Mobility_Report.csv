@@ -281,6 +281,8 @@ ES,Spain,,,,,,2020-11-19,-37,-2,-11,-27,-21,9
 ES,Spain,,,,,,2020-11-20,-40,0,-13,-27,-20,10
 ES,Spain,,,,,,2020-11-21,-44,-5,-12,-32,-19,10
 ES,Spain,,,,,,2020-11-22,-48,-7,-13,-36,-21,9
+ES,Spain,,,,,,2020-11-23,-32,-6,-9,-27,-20,8
+ES,Spain,,,,,,2020-11-24,-33,-4,-12,-26,-19,8
 ES,Spain,Andalusia,,,ES-AN,,2020-02-15,5,-1,33,15,0,-2
 ES,Spain,Andalusia,,,ES-AN,,2020-02-16,6,4,17,10,1,-4
 ES,Spain,Andalusia,,,ES-AN,,2020-02-17,0,0,10,8,4,-1
@@ -563,6 +565,8 @@ ES,Spain,Andalusia,,,ES-AN,,2020-11-19,-38,-8,-22,-30,-19,9
 ES,Spain,Andalusia,,,ES-AN,,2020-11-20,-41,-5,-21,-30,-18,10
 ES,Spain,Andalusia,,,ES-AN,,2020-11-21,-45,-9,-28,-38,-18,11
 ES,Spain,Andalusia,,,ES-AN,,2020-11-22,-47,,-29,-42,-18,9
+ES,Spain,Andalusia,,,ES-AN,,2020-11-23,-36,-10,-25,-30,-18,8
+ES,Spain,Andalusia,,,ES-AN,,2020-11-24,-35,-6,-23,-28,-18,8
 ES,Spain,Andalusia,Almería,,ES-AL,,2020-02-15,5,-3,40,10,1,-2
 ES,Spain,Andalusia,Almería,,ES-AL,,2020-02-16,-2,0,-2,1,1,-1
 ES,Spain,Andalusia,Almería,,ES-AL,,2020-02-17,0,-2,3,5,3,-1
@@ -845,6 +849,8 @@ ES,Spain,Andalusia,Almería,,ES-AL,,2020-11-19,-33,-12,-18,-7,-14,9
 ES,Spain,Andalusia,Almería,,ES-AL,,2020-11-20,-36,-9,-17,-5,-14,10
 ES,Spain,Andalusia,Almería,,ES-AL,,2020-11-21,-40,-13,-19,-17,-13,11
 ES,Spain,Andalusia,Almería,,ES-AL,,2020-11-22,-45,-14,-29,-31,-11,11
+ES,Spain,Andalusia,Almería,,ES-AL,,2020-11-23,-31,-14,-21,-5,-13,8
+ES,Spain,Andalusia,Almería,,ES-AL,,2020-11-24,-31,-12,-17,-5,-12,8
 ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-02-15,5,-3,38,11,2,-2
 ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-02-16,13,6,23,14,1,-3
 ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-02-17,-1,-1,2,5,4,0
@@ -1127,6 +1133,8 @@ ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-11-19,-33,-5,-24,-35,-17,9
 ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-11-20,-36,-5,-19,-41,-15,10
 ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-11-21,-40,-8,-31,-48,-14,11
 ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-11-22,-45,0,-39,-51,-15,10
+ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-11-23,-30,-7,-26,-35,-16,9
+ES,Spain,Andalusia,Cádiz,,ES-CA,,2020-11-24,-28,-4,-23,-35,-16,8
 ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-02-15,7,0,29,10,2,-3
 ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-02-16,14,8,5,18,2,-4
 ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-02-17,1,-1,14,7,4,-1
@@ -1409,6 +1417,8 @@ ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-11-19,-36,-6,-22,-24,-15,7
 ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-11-20,-40,0,-20,-18,-16,9
 ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-11-21,-40,-4,-20,-18,-15,9
 ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-11-22,-38,3,-30,-30,-16,7
+ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-11-23,-33,-10,-23,-19,-14,6
+ES,Spain,Andalusia,Córdoba,,ES-CO,,2020-11-24,-33,-6,-23,-21,-14,6
 ES,Spain,Andalusia,Granada,,ES-GR,,2020-02-15,9,-3,35,19,0,-3
 ES,Spain,Andalusia,Granada,,ES-GR,,2020-02-16,7,5,26,12,2,-4
 ES,Spain,Andalusia,Granada,,ES-GR,,2020-02-17,-1,-1,7,8,6,-1
@@ -1691,6 +1701,8 @@ ES,Spain,Andalusia,Granada,,ES-GR,,2020-11-19,-63,-15,-34,-31,-29,13
 ES,Spain,Andalusia,Granada,,ES-GR,,2020-11-20,-66,-11,-34,-29,-29,15
 ES,Spain,Andalusia,Granada,,ES-GR,,2020-11-21,-73,-18,-44,-41,-35,15
 ES,Spain,Andalusia,Granada,,ES-GR,,2020-11-22,-77,-18,-41,-45,-34,12
+ES,Spain,Andalusia,Granada,,ES-GR,,2020-11-23,-61,-18,-38,-26,-28,12
+ES,Spain,Andalusia,Granada,,ES-GR,,2020-11-24,-58,-13,-34,-28,-26,11
 ES,Spain,Andalusia,Huelva,,ES-H,,2020-02-15,7,-5,34,45,4,-3
 ES,Spain,Andalusia,Huelva,,ES-H,,2020-02-16,5,1,22,18,4,-3
 ES,Spain,Andalusia,Huelva,,ES-H,,2020-02-17,0,1,13,16,5,-1
@@ -1973,6 +1985,8 @@ ES,Spain,Andalusia,Huelva,,ES-H,,2020-11-19,-33,0,-6,-4,-15,8
 ES,Spain,Andalusia,Huelva,,ES-H,,2020-11-20,-38,0,-11,9,-13,10
 ES,Spain,Andalusia,Huelva,,ES-H,,2020-11-21,-42,-5,-20,-13,-15,11
 ES,Spain,Andalusia,Huelva,,ES-H,,2020-11-22,-45,2,-18,-23,-15,11
+ES,Spain,Andalusia,Huelva,,ES-H,,2020-11-23,-32,3,-7,6,-13,8
+ES,Spain,Andalusia,Huelva,,ES-H,,2020-11-24,-32,3,-15,-1,-15,8
 ES,Spain,Andalusia,Jaén,,ES-J,,2020-02-15,10,-6,22,9,3,-2
 ES,Spain,Andalusia,Jaén,,ES-J,,2020-02-16,16,7,28,21,3,-3
 ES,Spain,Andalusia,Jaén,,ES-J,,2020-02-17,-1,-2,5,1,8,-1
@@ -2255,6 +2269,8 @@ ES,Spain,Andalusia,Jaén,,ES-J,,2020-11-19,-40,1,-12,-23,-14,8
 ES,Spain,Andalusia,Jaén,,ES-J,,2020-11-20,-45,3,-15,-27,-15,10
 ES,Spain,Andalusia,Jaén,,ES-J,,2020-11-21,-46,-4,-11,-33,-16,10
 ES,Spain,Andalusia,Jaén,,ES-J,,2020-11-22,-48,5,-10,-29,-18,8
+ES,Spain,Andalusia,Jaén,,ES-J,,2020-11-23,-38,-4,-19,-24,-14,7
+ES,Spain,Andalusia,Jaén,,ES-J,,2020-11-24,-36,2,-13,-24,-15,7
 ES,Spain,Andalusia,Málaga,,ES-MA,,2020-02-15,5,0,29,15,0,-2
 ES,Spain,Andalusia,Málaga,,ES-MA,,2020-02-16,2,4,16,8,-1,-2
 ES,Spain,Andalusia,Málaga,,ES-MA,,2020-02-17,2,1,14,9,2,-1
@@ -2537,6 +2553,8 @@ ES,Spain,Andalusia,Málaga,,ES-MA,,2020-11-19,-36,-9,-23,-37,-21,10
 ES,Spain,Andalusia,Málaga,,ES-MA,,2020-11-20,-38,-5,-24,-37,-19,11
 ES,Spain,Andalusia,Málaga,,ES-MA,,2020-11-21,-44,-9,-42,-48,-19,12
 ES,Spain,Andalusia,Málaga,,ES-MA,,2020-11-22,-44,-11,-32,-49,-18,9
+ES,Spain,Andalusia,Málaga,,ES-MA,,2020-11-23,-34,-13,-32,-38,-20,9
+ES,Spain,Andalusia,Málaga,,ES-MA,,2020-11-24,-31,-9,-25,-33,-20,9
 ES,Spain,Andalusia,Seville,,ES-SE,,2020-02-15,1,-5,34,10,-2,-3
 ES,Spain,Andalusia,Seville,,ES-SE,,2020-02-16,5,1,15,8,0,-4
 ES,Spain,Andalusia,Seville,,ES-SE,,2020-02-17,0,0,14,8,3,-1
@@ -2819,6 +2837,8 @@ ES,Spain,Andalusia,Seville,,ES-SE,,2020-11-19,-37,-5,-21,-35,-20,10
 ES,Spain,Andalusia,Seville,,ES-SE,,2020-11-20,-39,0,-19,-34,-19,11
 ES,Spain,Andalusia,Seville,,ES-SE,,2020-11-21,-40,-4,-21,-41,-15,11
 ES,Spain,Andalusia,Seville,,ES-SE,,2020-11-22,-45,-11,-28,-44,-17,9
+ES,Spain,Andalusia,Seville,,ES-SE,,2020-11-23,-34,-8,-23,-32,-20,9
+ES,Spain,Andalusia,Seville,,ES-SE,,2020-11-24,-33,-4,-25,-32,-19,9
 ES,Spain,Aragon,,,ES-AR,,2020-02-15,3,7,42,10,1,-3
 ES,Spain,Aragon,,,ES-AR,,2020-02-16,-2,14,20,8,-3,-4
 ES,Spain,Aragon,,,ES-AR,,2020-02-17,-1,8,14,7,4,-1
@@ -3101,6 +3121,8 @@ ES,Spain,Aragon,,,ES-AR,,2020-11-19,-37,-3,2,-27,-20,8
 ES,Spain,Aragon,,,ES-AR,,2020-11-20,-41,1,-4,-32,-19,10
 ES,Spain,Aragon,,,ES-AR,,2020-11-21,-44,-1,2,-40,-21,10
 ES,Spain,Aragon,,,ES-AR,,2020-11-22,-50,-9,-4,-37,-24,8
+ES,Spain,Aragon,,,ES-AR,,2020-11-23,-33,-1,14,-21,-17,7
+ES,Spain,Aragon,,,ES-AR,,2020-11-24,-34,-6,11,-30,-17,8
 ES,Spain,Aragon,Huesca,,ES-HU,,2020-02-15,10,4,47,12,-2,-3
 ES,Spain,Aragon,Huesca,,ES-HU,,2020-02-16,4,32,39,9,1,-5
 ES,Spain,Aragon,Huesca,,ES-HU,,2020-02-17,0,4,7,-6,4,-1
@@ -3383,6 +3405,8 @@ ES,Spain,Aragon,Huesca,,ES-HU,,2020-11-19,-37,0,-10,-44,-18,8
 ES,Spain,Aragon,Huesca,,ES-HU,,2020-11-20,-44,0,-9,-46,-17,9
 ES,Spain,Aragon,Huesca,,ES-HU,,2020-11-21,-54,-7,-28,-57,-23,10
 ES,Spain,Aragon,Huesca,,ES-HU,,2020-11-22,-56,-9,-23,-55,-24,8
+ES,Spain,Aragon,Huesca,,ES-HU,,2020-11-23,-36,-1,-1,-44,-15,7
+ES,Spain,Aragon,Huesca,,ES-HU,,2020-11-24,-36,2,-11,-45,-15,7
 ES,Spain,Aragon,Teruel,,ES-TE,,2020-02-15,7,2,40,32,3,-3
 ES,Spain,Aragon,Teruel,,ES-TE,,2020-02-16,-7,1,-4,42,0,-4
 ES,Spain,Aragon,Teruel,,ES-TE,,2020-02-17,-3,4,13,1,4,-1
@@ -3665,6 +3689,8 @@ ES,Spain,Aragon,Teruel,,ES-TE,,2020-11-19,-32,-2,-14,-43,-18,8
 ES,Spain,Aragon,Teruel,,ES-TE,,2020-11-20,-38,0,-19,-54,-14,9
 ES,Spain,Aragon,Teruel,,ES-TE,,2020-11-21,-46,-4,-33,-67,-19,10
 ES,Spain,Aragon,Teruel,,ES-TE,,2020-11-22,-57,-17,-52,-60,-23,8
+ES,Spain,Aragon,Teruel,,ES-TE,,2020-11-23,-30,-4,-16,-43,-15,6
+ES,Spain,Aragon,Teruel,,ES-TE,,2020-11-24,-31,-4,-16,-45,-16,7
 ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-02-15,-1,4,33,3,1,-3
 ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-02-16,-2,2,21,4,-2,-3
 ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-02-17,-1,6,22,4,4,-1
@@ -3947,6 +3973,8 @@ ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-11-19,-36,-3,3,-25,-19,9
 ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-11-20,-42,2,-8,-32,-20,11
 ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-11-21,-43,0,7,-39,-20,10
 ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-11-22,-50,-9,11,-33,-23,8
+ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-11-23,-31,0,25,-22,-18,8
+ES,Spain,Aragon,Zaragoza,,ES-Z,,2020-11-24,-32,-5,11,-27,-17,9
 ES,Spain,Asturias,,,ES-AS,,2020-02-15,0,-1,20,8,0,-1
 ES,Spain,Asturias,,,ES-AS,,2020-02-16,2,1,11,6,0,-2
 ES,Spain,Asturias,,,ES-AS,,2020-02-17,-2,0,-13,3,4,-1
@@ -4229,6 +4257,8 @@ ES,Spain,Asturias,,,ES-AS,,2020-11-19,-60,-2,-1,-30,-29,13
 ES,Spain,Asturias,,,ES-AS,,2020-11-20,-59,8,20,-21,-27,13
 ES,Spain,Asturias,,,ES-AS,,2020-11-21,-67,-2,13,-33,-34,15
 ES,Spain,Asturias,,,ES-AS,,2020-11-22,-68,,3,-30,-37,13
+ES,Spain,Asturias,,,ES-AS,,2020-11-23,-54,-3,30,-20,-25,10
+ES,Spain,Asturias,,,ES-AS,,2020-11-24,-56,-1,32,-21,-25,10
 ES,Spain,Balearic Islands,,,ES-IB,,2020-02-15,5,-2,11,9,2,0
 ES,Spain,Balearic Islands,,,ES-IB,,2020-02-16,1,5,4,8,0,-1
 ES,Spain,Balearic Islands,,,ES-IB,,2020-02-17,3,3,15,14,4,0
@@ -4511,6 +4541,8 @@ ES,Spain,Balearic Islands,,,ES-IB,,2020-11-19,-22,-10,-1,-33,-17,7
 ES,Spain,Balearic Islands,,,ES-IB,,2020-11-20,-23,-8,-22,-33,-17,7
 ES,Spain,Balearic Islands,,,ES-IB,,2020-11-21,-25,-13,-15,-40,-12,7
 ES,Spain,Balearic Islands,,,ES-IB,,2020-11-22,-31,-7,-10,-44,-11,5
+ES,Spain,Balearic Islands,,,ES-IB,,2020-11-23,-21,-10,-1,-32,-16,7
+ES,Spain,Balearic Islands,,,ES-IB,,2020-11-24,-21,-11,-6,-30,-16,7
 ES,Spain,Basque Country,,,ES-PV,,2020-02-15,-3,-3,39,9,0,-3
 ES,Spain,Basque Country,,,ES-PV,,2020-02-16,4,2,7,8,1,-2
 ES,Spain,Basque Country,,,ES-PV,,2020-02-17,-8,-1,-30,-1,2,0
@@ -4793,6 +4825,8 @@ ES,Spain,Basque Country,,,ES-PV,,2020-11-19,-54,6,-30,-21,-20,11
 ES,Spain,Basque Country,,,ES-PV,,2020-11-20,-51,17,7,-14,-21,11
 ES,Spain,Basque Country,,,ES-PV,,2020-11-21,-58,9,11,-27,-29,13
 ES,Spain,Basque Country,,,ES-PV,,2020-11-22,-63,16,-2,-27,-34,12
+ES,Spain,Basque Country,,,ES-PV,,2020-11-23,-46,5,-5,-15,-18,8
+ES,Spain,Basque Country,,,ES-PV,,2020-11-24,-46,8,16,-15,-18,8
 ES,Spain,Basque Country,Álava,,ES-VI,,2020-02-15,-3,-6,31,15,1,-3
 ES,Spain,Basque Country,Álava,,ES-VI,,2020-02-16,0,0,18,8,2,-2
 ES,Spain,Basque Country,Álava,,ES-VI,,2020-02-17,-2,-1,-9,-2,2,0
@@ -5075,6 +5109,8 @@ ES,Spain,Basque Country,Álava,,ES-VI,,2020-11-19,-52,14,-17,-13,-16,10
 ES,Spain,Basque Country,Álava,,ES-VI,,2020-11-20,-50,18,-8,-11,-17,12
 ES,Spain,Basque Country,Álava,,ES-VI,,2020-11-21,-57,17,6,-27,-22,13
 ES,Spain,Basque Country,Álava,,ES-VI,,2020-11-22,-63,21,11,-20,-29,10
+ES,Spain,Basque Country,Álava,,ES-VI,,2020-11-23,-42,9,7,-12,-15,8
+ES,Spain,Basque Country,Álava,,ES-VI,,2020-11-24,-45,12,12,-11,-15,8
 ES,Spain,Basque Country,Biscay,,ES-BI,,2020-02-15,-3,-5,31,1,0,-3
 ES,Spain,Basque Country,Biscay,,ES-BI,,2020-02-16,6,-1,-3,9,1,-2
 ES,Spain,Basque Country,Biscay,,ES-BI,,2020-02-17,-4,1,-13,0,2,0
@@ -5357,6 +5393,8 @@ ES,Spain,Basque Country,Biscay,,ES-BI,,2020-11-19,-56,11,-28,-28,-22,11
 ES,Spain,Basque Country,Biscay,,ES-BI,,2020-11-20,-53,21,16,-21,-21,12
 ES,Spain,Basque Country,Biscay,,ES-BI,,2020-11-21,-58,14,13,-35,-30,13
 ES,Spain,Basque Country,Biscay,,ES-BI,,2020-11-22,-63,16,-3,-34,-36,12
+ES,Spain,Basque Country,Biscay,,ES-BI,,2020-11-23,-45,11,18,-21,-19,8
+ES,Spain,Basque Country,Biscay,,ES-BI,,2020-11-24,-48,11,23,-21,-19,9
 ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-02-15,3,-5,51,16,0,-3
 ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-02-16,-1,4,21,6,-1,-2
 ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-02-17,-9,-2,-43,-6,2,0
@@ -5639,6 +5677,8 @@ ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-11-19,-52,0,-38,-15,-20,11
 ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-11-20,-48,11,1,-4,-20,11
 ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-11-21,-55,1,6,-13,-31,13
 ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-11-22,-63,1,-8,-19,-35,12
+ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-11-23,-45,-1,-15,-5,-17,8
+ES,Spain,Basque Country,Gipuzkoa,,ES-SS,,2020-11-24,-43,4,12,-3,-17,9
 ES,Spain,Canary Islands,,,ES-CN,,2020-02-15,-4,-2,5,0,-2,0
 ES,Spain,Canary Islands,,,ES-CN,,2020-02-16,-3,-2,5,2,-2,0
 ES,Spain,Canary Islands,,,ES-CN,,2020-02-17,-3,-2,-2,1,2,0
@@ -5921,6 +5961,8 @@ ES,Spain,Canary Islands,,,ES-CN,,2020-11-19,-31,-12,-42,-30,-17,9
 ES,Spain,Canary Islands,,,ES-CN,,2020-11-20,-31,-11,-38,-28,-17,9
 ES,Spain,Canary Islands,,,ES-CN,,2020-11-21,-33,-14,-34,-37,-22,10
 ES,Spain,Canary Islands,,,ES-CN,,2020-11-22,-40,-20,-36,-40,-26,9
+ES,Spain,Canary Islands,,,ES-CN,,2020-11-23,-31,-14,-38,-29,-17,8
+ES,Spain,Canary Islands,,,ES-CN,,2020-11-24,-30,-11,-36,-29,-17,8
 ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-02-15,-6,-4,10,0,-3,0
 ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-02-16,-7,-6,6,1,-2,0
 ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-02-17,-5,-4,-3,-1,1,0
@@ -6203,6 +6245,8 @@ ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-11-19,-33,-12,-42,-32,-18,10
 ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-11-20,-31,-10,-37,-27,-17,10
 ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-11-21,-34,-16,-36,-39,-23,10
 ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-11-22,-42,-20,-36,-41,-25,8
+ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-11-23,-32,-16,-38,-31,-18,9
+ES,Spain,Canary Islands,Las Palmas,,ES-GC,,2020-11-24,-31,-12,-39,-31,-18,9
 ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-02-15,-3,-1,2,0,-2,0
 ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-02-16,-1,-3,3,1,-2,0
 ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-02-17,-3,0,-2,2,2,0
@@ -6485,6 +6529,8 @@ ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-11-19,-29,-11,-40,-2
 ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-11-20,-29,-10,-37,-26,-16,10
 ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-11-21,-31,-12,-32,-33,-21,11
 ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-11-22,-39,-22,-32,-38,-25,9
+ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-11-23,-29,-11,-38,-25,-15,10
+ES,Spain,Canary Islands,Santa Cruz de Tenerife,,ES-TF,,2020-11-24,-27,-7,-32,-26,-16,8
 ES,Spain,Cantabria,,,ES-CB,,2020-02-15,6,4,53,4,-1,-2
 ES,Spain,Cantabria,,,ES-CB,,2020-02-16,14,6,12,0,-1,-1
 ES,Spain,Cantabria,,,ES-CB,,2020-02-17,-4,-1,-16,-5,2,1
@@ -6767,6 +6813,8 @@ ES,Spain,Cantabria,,,ES-CB,,2020-11-19,-38,-4,-11,-20,-16,10
 ES,Spain,Cantabria,,,ES-CB,,2020-11-20,-37,1,3,-17,-14,11
 ES,Spain,Cantabria,,,ES-CB,,2020-11-21,-48,-9,-17,-39,-19,13
 ES,Spain,Cantabria,,,ES-CB,,2020-11-22,-46,4,-23,-40,-17,12
+ES,Spain,Cantabria,,,ES-CB,,2020-11-23,-29,-5,16,-16,-14,8
+ES,Spain,Cantabria,,,ES-CB,,2020-11-24,-30,0,25,-8,-15,7
 ES,Spain,Castile and León,,,ES-CL,,2020-02-15,5,2,28,15,1,-3
 ES,Spain,Castile and León,,,ES-CL,,2020-02-16,10,9,37,16,-1,-3
 ES,Spain,Castile and León,,,ES-CL,,2020-02-17,1,4,11,7,4,-1
@@ -7049,6 +7097,8 @@ ES,Spain,Castile and León,,,ES-CL,,2020-11-19,-49,3,12,-16,-15,7
 ES,Spain,Castile and León,,,ES-CL,,2020-11-20,-53,5,1,-20,-16,9
 ES,Spain,Castile and León,,,ES-CL,,2020-11-21,-58,0,-5,-26,-22,8
 ES,Spain,Castile and León,,,ES-CL,,2020-11-22,-66,-1,4,-33,-24,7
+ES,Spain,Castile and León,,,ES-CL,,2020-11-23,-45,3,14,-14,-13,6
+ES,Spain,Castile and León,,,ES-CL,,2020-11-24,-46,0,15,-15,-14,6
 ES,Spain,Castile and León,Ávila,,ES-AV,,2020-02-15,14,8,70,25,2,-2
 ES,Spain,Castile and León,Ávila,,ES-AV,,2020-02-16,14,-4,39,21,1,-2
 ES,Spain,Castile and León,Ávila,,ES-AV,,2020-02-17,-3,5,7,5,4,-1
@@ -7331,6 +7381,8 @@ ES,Spain,Castile and León,Ávila,,ES-AV,,2020-11-19,-48,8,17,-11,-10,7
 ES,Spain,Castile and León,Ávila,,ES-AV,,2020-11-20,-55,2,7,-14,-10,9
 ES,Spain,Castile and León,Ávila,,ES-AV,,2020-11-21,-63,-4,-13,-22,-15,9
 ES,Spain,Castile and León,Ávila,,ES-AV,,2020-11-22,-68,-6,-11,-23,-18,8
+ES,Spain,Castile and León,Ávila,,ES-AV,,2020-11-23,-45,7,19,-17,-10,7
+ES,Spain,Castile and León,Ávila,,ES-AV,,2020-11-24,-44,4,17,-15,-9,7
 ES,Spain,Castile and León,Burgos,,ES-BU,,2020-02-15,4,0,36,12,0,-3
 ES,Spain,Castile and León,Burgos,,ES-BU,,2020-02-16,7,0,26,12,0,-3
 ES,Spain,Castile and León,Burgos,,ES-BU,,2020-02-17,1,4,-3,2,4,-1
@@ -7613,6 +7665,8 @@ ES,Spain,Castile and León,Burgos,,ES-BU,,2020-11-19,-50,0,18,-21,-15,9
 ES,Spain,Castile and León,Burgos,,ES-BU,,2020-11-20,-54,6,10,-30,-15,10
 ES,Spain,Castile and León,Burgos,,ES-BU,,2020-11-21,-56,-1,10,-36,-22,11
 ES,Spain,Castile and León,Burgos,,ES-BU,,2020-11-22,-65,-4,22,-38,-22,8
+ES,Spain,Castile and León,Burgos,,ES-BU,,2020-11-23,-42,7,23,-20,-12,6
+ES,Spain,Castile and León,Burgos,,ES-BU,,2020-11-24,-44,2,30,-18,-12,7
 ES,Spain,Castile and León,León,,ES-LE,,2020-02-15,2,-3,21,10,-1,-2
 ES,Spain,Castile and León,León,,ES-LE,,2020-02-16,18,14,60,23,1,-3
 ES,Spain,Castile and León,León,,ES-LE,,2020-02-17,2,3,18,10,5,-1
@@ -7895,6 +7949,8 @@ ES,Spain,Castile and León,León,,ES-LE,,2020-11-19,-50,1,32,-17,-16,8
 ES,Spain,Castile and León,León,,ES-LE,,2020-11-20,-54,6,23,-24,-17,10
 ES,Spain,Castile and León,León,,ES-LE,,2020-11-21,-58,0,15,-25,-20,9
 ES,Spain,Castile and León,León,,ES-LE,,2020-11-22,-65,3,23,-37,-24,7
+ES,Spain,Castile and León,León,,ES-LE,,2020-11-23,-47,0,31,-13,-15,7
+ES,Spain,Castile and León,León,,ES-LE,,2020-11-24,-47,1,27,-17,-16,7
 ES,Spain,Castile and León,Palencia,,ES-P,,2020-02-15,8,2,27,0,2,-2
 ES,Spain,Castile and León,Palencia,,ES-P,,2020-02-16,5,-20,20,3,1,-2
 ES,Spain,Castile and León,Palencia,,ES-P,,2020-02-17,11,11,17,9,5,-3
@@ -8177,6 +8233,8 @@ ES,Spain,Castile and León,Palencia,,ES-P,,2020-11-19,-47,11,27,-23,-13,7
 ES,Spain,Castile and León,Palencia,,ES-P,,2020-11-20,-49,13,11,-34,-13,9
 ES,Spain,Castile and León,Palencia,,ES-P,,2020-11-21,-53,11,36,-41,-24,9
 ES,Spain,Castile and León,Palencia,,ES-P,,2020-11-22,-64,-2,28,-42,-25,6
+ES,Spain,Castile and León,Palencia,,ES-P,,2020-11-23,-38,15,44,-10,-10,4
+ES,Spain,Castile and León,Palencia,,ES-P,,2020-11-24,-45,0,30,-24,-12,6
 ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-02-15,6,0,58,21,0,-2
 ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-02-16,8,-4,28,13,-4,-2
 ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-02-17,-2,1,4,13,6,-1
@@ -8459,6 +8517,8 @@ ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-11-19,-51,1,4,-2,-17,8
 ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-11-20,-55,5,-9,-11,-16,10
 ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-11-21,-59,-1,1,-23,-27,9
 ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-11-22,-68,-6,-4,-27,-29,7
+ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-11-23,-48,-2,-4,-2,-13,7
+ES,Spain,Castile and León,Salamanca,,ES-SA,,2020-11-24,-49,-3,1,-7,-14,7
 ES,Spain,Castile and León,Segovia,,ES-SG,,2020-02-15,15,2,44,24,1,-3
 ES,Spain,Castile and León,Segovia,,ES-SG,,2020-02-16,15,9,22,24,1,-3
 ES,Spain,Castile and León,Segovia,,ES-SG,,2020-02-17,-5,2,-5,-2,4,-1
@@ -8741,6 +8801,8 @@ ES,Spain,Castile and León,Segovia,,ES-SG,,2020-11-19,-49,20,-7,-26,-11,7
 ES,Spain,Castile and León,Segovia,,ES-SG,,2020-11-20,-56,24,-12,-32,-12,9
 ES,Spain,Castile and León,Segovia,,ES-SG,,2020-11-21,-64,13,-27,-45,-18,10
 ES,Spain,Castile and León,Segovia,,ES-SG,,2020-11-22,-71,26,-38,-43,-18,7
+ES,Spain,Castile and León,Segovia,,ES-SG,,2020-11-23,-45,16,-14,-30,-10,7
+ES,Spain,Castile and León,Segovia,,ES-SG,,2020-11-24,-46,15,-3,-29,-10,6
 ES,Spain,Castile and León,Soria,,ES-SO,,2020-02-15,17,12,61,12,3,-4
 ES,Spain,Castile and León,Soria,,ES-SO,,2020-02-16,19,,29,23,5,-3
 ES,Spain,Castile and León,Soria,,ES-SO,,2020-02-17,0,6,4,-9,4,-1
@@ -9023,6 +9085,8 @@ ES,Spain,Castile and León,Soria,,ES-SO,,2020-11-19,-47,-1,8,-21,-9,7
 ES,Spain,Castile and León,Soria,,ES-SO,,2020-11-20,-54,7,1,-29,-9,9
 ES,Spain,Castile and León,Soria,,ES-SO,,2020-11-21,-63,9,12,-35,-24,9
 ES,Spain,Castile and León,Soria,,ES-SO,,2020-11-22,-69,-22,-8,-40,-24,7
+ES,Spain,Castile and León,Soria,,ES-SO,,2020-11-23,-44,3,14,-26,-8,6
+ES,Spain,Castile and León,Soria,,ES-SO,,2020-11-24,-45,0,20,-16,-9,6
 ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-02-15,-3,-4,0,2,1,-3
 ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-02-16,1,-3,53,11,-2,-3
 ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-02-17,2,2,20,10,3,-1
@@ -9305,6 +9369,8 @@ ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-11-19,-48,2,10,-18,-19,9
 ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-11-20,-52,6,3,-22,-18,10
 ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-11-21,-58,1,-8,-38,-23,9
 ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-11-22,-64,0,21,-36,-26,8
+ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-11-23,-43,0,20,-16,-18,7
+ES,Spain,Castile and León,Valladolid,,ES-VA,,2020-11-24,-44,-3,19,-19,-18,7
 ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-02-15,6,4,15,6,-1,-2
 ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-02-16,11,-1,17,12,1,-2
 ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-02-17,2,3,19,19,5,-2
@@ -9587,6 +9653,8 @@ ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-11-19,-48,0,0,-25,-10,6
 ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-11-20,-51,4,-9,-13,-10,8
 ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-11-21,-57,5,-1,-21,-18,9
 ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-11-22,-65,3,2,-30,-20,6
+ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-11-23,-44,-1,12,-5,-9,5
+ES,Spain,Castile and León,Zamora,,ES-ZA,,2020-11-24,-46,1,8,-23,-10,5
 ES,Spain,Castile-La Mancha,,,ES-CM,,2020-02-15,9,0,36,13,0,-2
 ES,Spain,Castile-La Mancha,,,ES-CM,,2020-02-16,10,6,40,11,0,-3
 ES,Spain,Castile-La Mancha,,,ES-CM,,2020-02-17,-1,2,8,6,5,-1
@@ -9869,6 +9937,8 @@ ES,Spain,Castile-La Mancha,,,ES-CM,,2020-11-19,-27,-2,-13,-11,-12,6
 ES,Spain,Castile-La Mancha,,,ES-CM,,2020-11-20,-31,-1,-14,-15,-11,6
 ES,Spain,Castile-La Mancha,,,ES-CM,,2020-11-21,-33,-3,-17,-15,-12,7
 ES,Spain,Castile-La Mancha,,,ES-CM,,2020-11-22,-41,,-13,-29,-15,6
+ES,Spain,Castile-La Mancha,,,ES-CM,,2020-11-23,-27,-2,-15,-12,-11,5
+ES,Spain,Castile-La Mancha,,,ES-CM,,2020-11-24,-27,-2,-16,-13,-11,5
 ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-02-15,3,-5,35,13,1,-3
 ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-02-16,5,1,40,18,0,-4
 ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-02-17,-2,3,7,20,5,-1
@@ -10151,6 +10221,8 @@ ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-11-19,-24,-2,-5,5,-9,6
 ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-11-20,-28,1,4,1,-8,6
 ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-11-21,-31,-5,-6,-29,-17,7
 ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-11-22,-42,-5,-11,-16,-14,5
+ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-11-23,-24,2,-6,2,-6,5
+ES,Spain,Castile-La Mancha,Albacete,,ES-AB,,2020-11-24,-24,-1,-8,-11,-6,5
 ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-02-15,10,-6,24,-3,1,-2
 ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-02-16,12,5,37,11,2,-3
 ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-02-17,-1,-2,7,5,5,-1
@@ -10433,6 +10505,8 @@ ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-11-19,-27,-1,-6,-39,-11,5
 ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-11-20,-32,0,-8,-39,-12,6
 ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-11-21,-33,-4,-20,-43,-11,6
 ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-11-22,-42,11,-14,-41,-20,5
+ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-11-23,-28,-5,-4,-37,-10,5
+ES,Spain,Castile-La Mancha,Ciudad Real,,ES-CR,,2020-11-24,-28,-1,-8,-36,-10,4
 ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-02-15,12,1,55,8,2,-3
 ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-02-16,14,0,51,21,0,-4
 ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-02-17,-1,-3,18,4,6,-2
@@ -10715,6 +10789,8 @@ ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-11-19,-31,-9,-12,-5,-11,5
 ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-11-20,-35,-7,-20,-13,-10,7
 ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-11-21,-40,-13,-16,-19,-17,7
 ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-11-22,-43,-10,-7,-17,-17,6
+ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-11-23,-29,-10,-7,-1,-9,4
+ES,Spain,Castile-La Mancha,Cuenca,,ES-CU,,2020-11-24,-28,-8,-12,-2,-10,5
 ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-02-15,4,-2,31,21,1,-2
 ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-02-16,6,7,38,10,-1,-2
 ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-02-17,0,7,2,15,3,-1
@@ -10997,6 +11073,8 @@ ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-11-19,-23,1,-2,-10,-13,8
 ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-11-20,-26,4,-3,-13,-12,9
 ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-11-21,-28,8,-1,-16,-4,8
 ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-11-22,-36,18,7,-24,-6,6
+ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-11-23,-20,5,2,-4,-13,6
+ES,Spain,Castile-La Mancha,Guadalajara,,ES-GU,,2020-11-24,-21,-1,-2,-9,-13,7
 ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-02-15,9,-2,39,4,0,-2
 ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-02-16,9,6,40,5,0,-2
 ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-02-17,-2,1,4,-1,4,-1
@@ -11279,6 +11357,8 @@ ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-11-19,-29,-1,-28,-14,-14,7
 ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-11-20,-32,0,-28,-12,-13,8
 ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-11-21,-35,-3,-29,-1,-11,8
 ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-11-22,-41,9,-25,-35,-14,7
+ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-11-23,-28,-3,-28,-16,-14,6
+ES,Spain,Castile-La Mancha,Toledo,,ES-TO,,2020-11-24,-28,-1,-27,-15,-14,7
 ES,Spain,Catalonia,,,ES-CT,,2020-02-15,2,-1,17,8,0,-1
 ES,Spain,Catalonia,,,ES-CT,,2020-02-16,-6,2,4,4,-2,-1
 ES,Spain,Catalonia,,,ES-CT,,2020-02-17,0,1,10,4,2,0
@@ -11561,6 +11641,8 @@ ES,Spain,Catalonia,,,ES-CT,,2020-11-19,-45,2,-7,-26,-27,11
 ES,Spain,Catalonia,,,ES-CT,,2020-11-20,-52,1,-20,-33,-28,15
 ES,Spain,Catalonia,,,ES-CT,,2020-11-21,-59,-6,-21,-39,-27,15
 ES,Spain,Catalonia,,,ES-CT,,2020-11-22,-67,-15,-15,-42,-31,13
+ES,Spain,Catalonia,,,ES-CT,,2020-11-23,-29,-5,-10,-27,-24,8
+ES,Spain,Catalonia,,,ES-CT,,2020-11-24,-30,-2,-11,-26,-24,9
 ES,Spain,Catalonia,Barcelona,,ES-B,,2020-02-15,1,-3,14,7,-1,-1
 ES,Spain,Catalonia,Barcelona,,ES-B,,2020-02-16,-7,-8,2,4,-3,-1
 ES,Spain,Catalonia,Barcelona,,ES-B,,2020-02-17,0,1,11,4,2,0
@@ -11843,6 +11925,8 @@ ES,Spain,Catalonia,Barcelona,,ES-B,,2020-11-19,-47,1,-13,-27,-30,12
 ES,Spain,Catalonia,Barcelona,,ES-B,,2020-11-20,-53,0,-22,-34,-31,16
 ES,Spain,Catalonia,Barcelona,,ES-B,,2020-11-21,-59,-6,-22,-39,-28,15
 ES,Spain,Catalonia,Barcelona,,ES-B,,2020-11-22,-67,-19,-14,-41,-33,13
+ES,Spain,Catalonia,Barcelona,,ES-B,,2020-11-23,-31,-7,-16,-28,-27,9
+ES,Spain,Catalonia,Barcelona,,ES-B,,2020-11-24,-32,-4,-18,-27,-27,10
 ES,Spain,Catalonia,Girona,,ES-GI,,2020-02-15,8,2,15,10,2,-1
 ES,Spain,Catalonia,Girona,,ES-GI,,2020-02-16,6,7,15,18,0,-2
 ES,Spain,Catalonia,Girona,,ES-GI,,2020-02-17,3,2,15,2,4,0
@@ -12125,6 +12209,8 @@ ES,Spain,Catalonia,Girona,,ES-GI,,2020-11-19,-38,9,6,-16,-18,8
 ES,Spain,Catalonia,Girona,,ES-GI,,2020-11-20,-50,1,-25,-31,-20,14
 ES,Spain,Catalonia,Girona,,ES-GI,,2020-11-21,-61,-13,-41,-46,-25,16
 ES,Spain,Catalonia,Girona,,ES-GI,,2020-11-22,-66,-20,-34,-46,-29,14
+ES,Spain,Catalonia,Girona,,ES-GI,,2020-11-23,-20,1,5,-19,-13,6
+ES,Spain,Catalonia,Girona,,ES-GI,,2020-11-24,-22,3,-3,-18,-13,7
 ES,Spain,Catalonia,Lleida,,ES-L,,2020-02-15,3,1,31,12,0,-2
 ES,Spain,Catalonia,Lleida,,ES-L,,2020-02-16,5,7,27,14,-2,-2
 ES,Spain,Catalonia,Lleida,,ES-L,,2020-02-17,2,3,19,9,4,-1
@@ -12407,6 +12493,8 @@ ES,Spain,Catalonia,Lleida,,ES-L,,2020-11-19,-46,4,6,-2,-19,8
 ES,Spain,Catalonia,Lleida,,ES-L,,2020-11-20,-50,1,-12,-9,-19,11
 ES,Spain,Catalonia,Lleida,,ES-L,,2020-11-21,-60,-8,-24,-30,-25,13
 ES,Spain,Catalonia,Lleida,,ES-L,,2020-11-22,-69,-23,-17,-35,-29,11
+ES,Spain,Catalonia,Lleida,,ES-L,,2020-11-23,-30,-6,19,4,-14,5
+ES,Spain,Catalonia,Lleida,,ES-L,,2020-11-24,-30,0,9,-2,-15,6
 ES,Spain,Catalonia,Tarragona,,ES-T,,2020-02-15,4,-2,24,6,0,-1
 ES,Spain,Catalonia,Tarragona,,ES-T,,2020-02-16,0,-3,-2,0,-3,-1
 ES,Spain,Catalonia,Tarragona,,ES-T,,2020-02-17,1,0,6,5,5,0
@@ -12689,6 +12777,8 @@ ES,Spain,Catalonia,Tarragona,,ES-T,,2020-11-19,-39,8,2,-19,-20,8
 ES,Spain,Catalonia,Tarragona,,ES-T,,2020-11-20,-49,5,-13,-29,-20,13
 ES,Spain,Catalonia,Tarragona,,ES-T,,2020-11-21,-59,-9,-19,-47,-24,14
 ES,Spain,Catalonia,Tarragona,,ES-T,,2020-11-22,-66,-6,-26,-52,-27,13
+ES,Spain,Catalonia,Tarragona,,ES-T,,2020-11-23,-20,0,2,-20,-15,6
+ES,Spain,Catalonia,Tarragona,,ES-T,,2020-11-24,-22,4,0,-18,-16,6
 ES,Spain,Ceuta,,,ES-CE,,2020-02-15,-3,-6,3,,-1,
 ES,Spain,Ceuta,,,ES-CE,,2020-02-16,3,-4,10,,1,
 ES,Spain,Ceuta,,,ES-CE,,2020-02-17,-3,0,8,,3,-1
@@ -12964,6 +13054,8 @@ ES,Spain,Ceuta,,,ES-CE,,2020-11-19,-29,-14,-31,,-15,9
 ES,Spain,Ceuta,,,ES-CE,,2020-11-20,-36,-15,-30,,-14,11
 ES,Spain,Ceuta,,,ES-CE,,2020-11-21,-33,-11,-27,,-23,12
 ES,Spain,Ceuta,,,ES-CE,,2020-11-22,-32,-8,-27,,-19,
+ES,Spain,Ceuta,,,ES-CE,,2020-11-23,-20,-12,-29,,-15,8
+ES,Spain,Ceuta,,,ES-CE,,2020-11-24,-27,-14,-24,,-13,7
 ES,Spain,Community of Madrid,,,ES-MD,,2020-02-15,-1,-2,31,7,-1,-2
 ES,Spain,Community of Madrid,,,ES-MD,,2020-02-16,3,4,34,4,0,-2
 ES,Spain,Community of Madrid,,,ES-MD,,2020-02-17,1,3,10,4,4,-1
@@ -13246,6 +13338,8 @@ ES,Spain,Community of Madrid,,,ES-MD,,2020-11-19,-32,-6,-11,-35,-29,12
 ES,Spain,Community of Madrid,,,ES-MD,,2020-11-20,-32,-4,-13,-32,-28,11
 ES,Spain,Community of Madrid,,,ES-MD,,2020-11-21,-34,-8,-1,-31,-14,6
 ES,Spain,Community of Madrid,,,ES-MD,,2020-11-22,-32,-8,0,-37,-12,7
+ES,Spain,Community of Madrid,,,ES-MD,,2020-11-23,-28,-7,-12,-34,-29,10
+ES,Spain,Community of Madrid,,,ES-MD,,2020-11-24,-30,-7,-18,-34,-29,11
 ES,Spain,Extremadura,,,ES-EX,,2020-02-15,4,-3,32,11,0,-2
 ES,Spain,Extremadura,,,ES-EX,,2020-02-16,5,6,21,11,0,-3
 ES,Spain,Extremadura,,,ES-EX,,2020-02-17,-2,2,5,1,5,-2
@@ -13528,6 +13622,8 @@ ES,Spain,Extremadura,,,ES-EX,,2020-11-19,-27,-2,-12,-1,-8,4
 ES,Spain,Extremadura,,,ES-EX,,2020-11-20,-29,-2,-10,2,-7,4
 ES,Spain,Extremadura,,,ES-EX,,2020-11-21,-31,-6,-3,-9,-10,5
 ES,Spain,Extremadura,,,ES-EX,,2020-11-22,-37,4,-10,-17,-14,5
+ES,Spain,Extremadura,,,ES-EX,,2020-11-23,-28,-2,-11,-2,-9,3
+ES,Spain,Extremadura,,,ES-EX,,2020-11-24,-27,-3,-12,-1,-8,3
 ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-02-15,1,-5,29,8,1,-2
 ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-02-16,1,6,21,9,0,-3
 ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-02-17,-4,3,5,0,5,-2
@@ -13810,6 +13906,8 @@ ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-11-19,-29,-2,-18,-4,-10,5
 ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-11-20,-29,-1,-15,0,-8,5
 ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-11-21,-33,-4,-9,2,-11,6
 ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-11-22,-39,7,-16,-19,-15,5
+ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-11-23,-29,-2,-17,-4,-11,3
+ES,Spain,Extremadura,Badajoz,,ES-BA,,2020-11-24,-28,-3,-14,-3,-9,4
 ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-02-15,8,-3,35,21,-1,-2
 ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-02-16,11,11,22,16,1,-2
 ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-02-17,0,4,3,4,6,-2
@@ -14092,6 +14190,8 @@ ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-11-19,-25,-5,-1,2,-5,4
 ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-11-20,-26,1,1,-1,-5,5
 ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-11-21,-27,-6,8,-7,-8,5
 ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-11-22,-36,9,-6,-14,-12,5
+ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-11-23,-26,-1,0,0,0,3
+ES,Spain,Extremadura,Cáceres,,ES-CC,,2020-11-24,-25,-2,-1,-3,-2,4
 ES,Spain,Galicia,,,ES-GA,,2020-02-15,0,-2,-16,-2,-1,0
 ES,Spain,Galicia,,,ES-GA,,2020-02-16,-11,-17,-31,1,-3,1
 ES,Spain,Galicia,,,ES-GA,,2020-02-17,1,3,19,9,5,-1
@@ -14374,6 +14474,8 @@ ES,Spain,Galicia,,,ES-GA,,2020-11-19,-41,4,18,-24,-15,7
 ES,Spain,Galicia,,,ES-GA,,2020-11-20,-43,8,-3,-24,-15,10
 ES,Spain,Galicia,,,ES-GA,,2020-11-21,-50,2,-7,-39,-19,12
 ES,Spain,Galicia,,,ES-GA,,2020-11-22,-57,,2,-30,-24,11
+ES,Spain,Galicia,,,ES-GA,,2020-11-23,-39,4,19,-23,-15,7
+ES,Spain,Galicia,,,ES-GA,,2020-11-24,-40,1,-2,-31,-15,8
 ES,Spain,Galicia,A Coruña,,ES-C,,2020-02-15,-4,-2,-15,-4,-1,0
 ES,Spain,Galicia,A Coruña,,ES-C,,2020-02-16,-13,-19,-27,4,-4,1
 ES,Spain,Galicia,A Coruña,,ES-C,,2020-02-17,-2,4,28,11,5,-1
@@ -14656,6 +14758,8 @@ ES,Spain,Galicia,A Coruña,,ES-C,,2020-11-19,-42,4,24,-24,-15,9
 ES,Spain,Galicia,A Coruña,,ES-C,,2020-11-20,-44,7,2,-20,-15,11
 ES,Spain,Galicia,A Coruña,,ES-C,,2020-11-21,-50,3,4,-36,-19,12
 ES,Spain,Galicia,A Coruña,,ES-C,,2020-11-22,-55,-10,15,-26,-22,10
+ES,Spain,Galicia,A Coruña,,ES-C,,2020-11-23,-40,3,38,-18,-14,8
+ES,Spain,Galicia,A Coruña,,ES-C,,2020-11-24,-40,2,-4,-29,-15,8
 ES,Spain,Galicia,Lugo,,ES-LU,,2020-02-15,2,1,3,-2,-1,-1
 ES,Spain,Galicia,Lugo,,ES-LU,,2020-02-16,-6,-11,-11,-1,-3,0
 ES,Spain,Galicia,Lugo,,ES-LU,,2020-02-17,3,3,9,3,5,-1
@@ -14938,6 +15042,8 @@ ES,Spain,Galicia,Lugo,,ES-LU,,2020-11-19,-39,4,-6,-27,-10,7
 ES,Spain,Galicia,Lugo,,ES-LU,,2020-11-20,-41,7,-9,-30,-11,9
 ES,Spain,Galicia,Lugo,,ES-LU,,2020-11-21,-49,1,-12,-35,-16,12
 ES,Spain,Galicia,Lugo,,ES-LU,,2020-11-22,-56,1,-3,-9,-19,10
+ES,Spain,Galicia,Lugo,,ES-LU,,2020-11-23,-34,2,0,-27,-10,6
+ES,Spain,Galicia,Lugo,,ES-LU,,2020-11-24,-36,3,-1,-25,-9,6
 ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-02-15,1,-1,-20,-5,-2,0
 ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-02-16,-12,-14,-53,-7,-2,2
 ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-02-17,1,2,9,5,4,-1
@@ -15220,6 +15326,8 @@ ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-11-19,-39,7,26,-29,-16,8
 ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-11-20,-43,10,2,-31,-17,11
 ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-11-21,-49,4,-5,-52,-22,14
 ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-11-22,-58,4,-6,-45,-30,12
+ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-11-23,-39,4,10,-29,-17,8
+ES,Spain,Galicia,Pontevedra,,ES-PO,,2020-11-24,-42,2,-11,-36,-16,9
 ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-02-15,4,2,6,0,1,-1
 ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-02-16,2,-3,-2,10,-1,-1
 ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-02-17,-1,4,17,1,4,-1
@@ -15502,6 +15610,8 @@ ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-11-19,-39,2,-4,-32,-14,7
 ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-11-20,-43,5,-14,-34,-15,10
 ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-11-21,-48,-1,-20,-47,-21,12
 ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-11-22,-57,-19,-26,-37,-28,11
+ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-11-23,-37,0,-5,-32,-13,7
+ES,Spain,Galicia,Province of Ourense,,ES-OR,,2020-11-24,-38,-2,-11,-38,-14,7
 ES,Spain,La Rioja,,,ES-RI,,2020-02-15,0,0,27,7,0,-2
 ES,Spain,La Rioja,,,ES-RI,,2020-02-16,4,4,14,17,0,-2
 ES,Spain,La Rioja,,,ES-RI,,2020-02-17,-2,1,-6,-1,3,0
@@ -15784,6 +15894,8 @@ ES,Spain,La Rioja,,,ES-RI,,2020-11-19,-37,1,-3,-36,-14,7
 ES,Spain,La Rioja,,,ES-RI,,2020-11-20,-39,4,-14,-35,-14,9
 ES,Spain,La Rioja,,,ES-RI,,2020-11-21,-50,-7,-14,-51,-21,11
 ES,Spain,La Rioja,,,ES-RI,,2020-11-22,-50,-1,-14,-47,-24,10
+ES,Spain,La Rioja,,,ES-RI,,2020-11-23,-33,-4,4,-33,-14,6
+ES,Spain,La Rioja,,,ES-RI,,2020-11-24,-35,1,-7,-36,-11,6
 ES,Spain,Melilla,,,ES-ML,,2020-02-15,-4,-2,6,,1,
 ES,Spain,Melilla,,,ES-ML,,2020-02-16,1,-13,-2,,-2,
 ES,Spain,Melilla,,,ES-ML,,2020-02-17,-1,-3,-2,-2,3,-1
@@ -16060,6 +16172,8 @@ ES,Spain,Melilla,,,ES-ML,,2020-11-19,-43,-12,-30,-23,-15,10
 ES,Spain,Melilla,,,ES-ML,,2020-11-20,-44,-8,-35,-37,-14,12
 ES,Spain,Melilla,,,ES-ML,,2020-11-21,-40,-16,-37,,-17,13
 ES,Spain,Melilla,,,ES-ML,,2020-11-22,-33,,-35,,-20,
+ES,Spain,Melilla,,,ES-ML,,2020-11-23,-30,-13,-27,-38,-10,9
+ES,Spain,Melilla,,,ES-ML,,2020-11-24,-30,-15,-29,-24,-12,9
 ES,Spain,Navarre,,,ES-NC,,2020-02-15,1,-2,34,-29,0,-2
 ES,Spain,Navarre,,,ES-NC,,2020-02-16,6,0,28,-25,0,-3
 ES,Spain,Navarre,,,ES-NC,,2020-02-17,0,3,2,-40,3,-1
@@ -16342,6 +16456,8 @@ ES,Spain,Navarre,,,ES-NC,,2020-11-19,-42,11,-8,-17,-12,7
 ES,Spain,Navarre,,,ES-NC,,2020-11-20,-45,19,-9,-18,-15,9
 ES,Spain,Navarre,,,ES-NC,,2020-11-21,-49,15,8,-26,-25,10
 ES,Spain,Navarre,,,ES-NC,,2020-11-22,-58,9,4,-29,-29,8
+ES,Spain,Navarre,,,ES-NC,,2020-11-23,-35,8,10,-18,-13,6
+ES,Spain,Navarre,,,ES-NC,,2020-11-24,-38,8,1,-18,-10,6
 ES,Spain,Region of Murcia,,,ES-MC,,2020-02-15,2,-2,28,6,1,-2
 ES,Spain,Region of Murcia,,,ES-MC,,2020-02-16,-2,0,1,7,-1,-1
 ES,Spain,Region of Murcia,,,ES-MC,,2020-02-17,-1,1,2,6,13,-2
@@ -16624,6 +16740,8 @@ ES,Spain,Region of Murcia,,,ES-MC,,2020-11-19,-46,-2,-19,-27,-20,9
 ES,Spain,Region of Murcia,,,ES-MC,,2020-11-20,-49,0,-23,-24,-18,10
 ES,Spain,Region of Murcia,,,ES-MC,,2020-11-21,-52,-2,-20,-38,-18,11
 ES,Spain,Region of Murcia,,,ES-MC,,2020-11-22,-58,,-27,-38,-23,11
+ES,Spain,Region of Murcia,,,ES-MC,,2020-11-23,-42,-10,-25,-24,-13,7
+ES,Spain,Region of Murcia,,,ES-MC,,2020-11-24,-40,-3,-17,-26,-19,8
 ES,Spain,Valencian Community,,,ES-VC,,2020-02-15,2,0,33,0,-1,-1
 ES,Spain,Valencian Community,,,ES-VC,,2020-02-16,-3,0,8,1,-2,-2
 ES,Spain,Valencian Community,,,ES-VC,,2020-02-17,-2,2,9,4,3,0
@@ -16906,6 +17024,8 @@ ES,Spain,Valencian Community,,,ES-VC,,2020-11-19,-23,-7,-13,-25,-15,6
 ES,Spain,Valencian Community,,,ES-VC,,2020-11-20,-24,-4,-16,-27,-14,6
 ES,Spain,Valencian Community,,,ES-VC,,2020-11-21,-28,-7,-9,-34,-11,6
 ES,Spain,Valencian Community,,,ES-VC,,2020-11-22,-33,,-23,-39,-9,5
+ES,Spain,Valencian Community,,,ES-VC,,2020-11-23,-23,-8,-18,-26,-14,6
+ES,Spain,Valencian Community,,,ES-VC,,2020-11-24,-22,-5,-14,-26,-14,5
 ES,Spain,Valencian Community,Alicante,,ES-A,,2020-02-15,3,-1,34,7,0,-1
 ES,Spain,Valencian Community,Alicante,,ES-A,,2020-02-16,-2,1,8,5,-2,-1
 ES,Spain,Valencian Community,Alicante,,ES-A,,2020-02-17,0,2,9,7,3,0
@@ -17188,6 +17308,8 @@ ES,Spain,Valencian Community,Alicante,,ES-A,,2020-11-19,-23,-6,-15,-28,-14,7
 ES,Spain,Valencian Community,Alicante,,ES-A,,2020-11-20,-24,-4,-17,-32,-13,7
 ES,Spain,Valencian Community,Alicante,,ES-A,,2020-11-21,-27,-8,-9,-32,-10,7
 ES,Spain,Valencian Community,Alicante,,ES-A,,2020-11-22,-32,1,-19,-39,-8,6
+ES,Spain,Valencian Community,Alicante,,ES-A,,2020-11-23,-23,-10,-18,-30,-13,7
+ES,Spain,Valencian Community,Alicante,,ES-A,,2020-11-24,-22,-7,-15,-32,-13,7
 ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-02-15,4,5,40,1,-2,-1
 ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-02-16,-2,-1,14,8,-4,-1
 ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-02-17,-2,5,9,5,4,0
@@ -17470,6 +17592,8 @@ ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-11-19,-19,-1,-4,-31,-9,6
 ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-11-20,-23,1,-12,-29,-7,7
 ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-11-21,-25,-4,-7,-42,-3,7
 ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-11-22,-33,-15,-25,-47,-2,6
+ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-11-23,-19,-2,-14,-30,-7,5
+ES,Spain,Valencian Community,Castellón,,ES-CS,,2020-11-24,-18,0,-8,-30,-8,5
 ES,Spain,Valencian Community,Valencia,,ES-V,,2020-02-15,-1,-2,25,-2,-2,-1
 ES,Spain,Valencian Community,Valencia,,ES-V,,2020-02-16,-3,-5,6,-1,-2,-2
 ES,Spain,Valencian Community,Valencia,,ES-V,,2020-02-17,-2,0,8,4,3,0
@@ -17752,3 +17876,5 @@ ES,Spain,Valencian Community,Valencia,,ES-V,,2020-11-19,-24,-6,-14,-24,-16,7
 ES,Spain,Valencian Community,Valencia,,ES-V,,2020-11-20,-25,-3,-16,-24,-15,7
 ES,Spain,Valencian Community,Valencia,,ES-V,,2020-11-21,-30,-6,-14,-34,-13,7
 ES,Spain,Valencian Community,Valencia,,ES-V,,2020-11-22,-34,-3,-25,-38,-12,5
+ES,Spain,Valencian Community,Valencia,,ES-V,,2020-11-23,-23,-8,-18,-23,-16,6
+ES,Spain,Valencian Community,Valencia,,ES-V,,2020-11-24,-22,-5,-13,-22,-15,6

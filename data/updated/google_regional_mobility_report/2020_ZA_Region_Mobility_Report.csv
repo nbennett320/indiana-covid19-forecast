@@ -281,6 +281,8 @@ ZA,South Africa,,,,,,2020-11-19,-18,-4,-32,-31,-20,13
 ZA,South Africa,,,,,,2020-11-20,-14,1,-30,-25,-19,11
 ZA,South Africa,,,,,,2020-11-21,-15,-2,-36,-29,-3,9
 ZA,South Africa,,,,,,2020-11-22,-23,-7,-34,-38,-5,9
+ZA,South Africa,,,,,,2020-11-23,-23,-13,-37,-34,-20,13
+ZA,South Africa,,,,,,2020-11-24,-20,-7,-37,-31,-20,13
 ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-15,-8,-5,-10,-10,-1,-3
 ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-16,-6,-3,-2,-8,-1,-3
 ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-17,-15,-10,-12,-5,1,2
@@ -563,6 +565,8 @@ ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-11-19,-17,-7,-24,-33,-18,13
 ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-11-20,-15,-1,-24,-25,-17,10
 ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-11-21,-23,-6,-28,-24,-6,7
 ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-11-22,-27,-14,-29,-37,-10,8
+ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-11-23,-22,-10,-26,-32,-17,11
+ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-11-24,-19,-7,-30,-32,-17,11
 ZA,South Africa,Free State,,,ZA-FS,,2020-02-15,4,3,3,-8,-1,-1
 ZA,South Africa,Free State,,,ZA-FS,,2020-02-16,-1,0,-3,-7,-3,-1
 ZA,South Africa,Free State,,,ZA-FS,,2020-02-17,-11,-10,-10,2,7,1
@@ -845,6 +849,8 @@ ZA,South Africa,Free State,,,ZA-FS,,2020-11-19,-19,-2,-38,-25,-15,9
 ZA,South Africa,Free State,,,ZA-FS,,2020-11-20,-10,4,-38,-12,-15,8
 ZA,South Africa,Free State,,,ZA-FS,,2020-11-21,-19,-2,-37,-9,-6,8
 ZA,South Africa,Free State,,,ZA-FS,,2020-11-22,-23,-7,-34,-26,-12,7
+ZA,South Africa,Free State,,,ZA-FS,,2020-11-23,-25,-9,-45,-21,-16,10
+ZA,South Africa,Free State,,,ZA-FS,,2020-11-24,-15,-3,-39,-4,-14,9
 ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-15,8,0,25,1,2,-3
 ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-16,2,-1,10,-6,0,0
 ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-17,-8,-8,0,3,5,1
@@ -1127,6 +1133,8 @@ ZA,South Africa,Gauteng,,,ZA-GT,,2020-11-19,-15,-2,-29,-28,-23,15
 ZA,South Africa,Gauteng,,,ZA-GT,,2020-11-20,-13,0,-30,-25,-22,14
 ZA,South Africa,Gauteng,,,ZA-GT,,2020-11-21,-13,-1,-36,-27,-1,8
 ZA,South Africa,Gauteng,,,ZA-GT,,2020-11-22,-21,-8,-31,-37,-3,11
+ZA,South Africa,Gauteng,,,ZA-GT,,2020-11-23,-21,-10,-31,-33,-24,15
+ZA,South Africa,Gauteng,,,ZA-GT,,2020-11-24,-17,-6,-28,-29,-23,14
 ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-15,-4,-2,-5,-8,-1,-1
 ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-16,-4,-3,-7,-6,-2,-1
 ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-17,-9,-6,-8,3,4,1
@@ -1409,6 +1417,8 @@ ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-11-19,-14,-2,-32,-32,-13,11
 ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-11-20,-14,-2,-30,-31,-12,10
 ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-11-21,-18,-3,-32,-38,-2,9
 ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-11-22,-18,-6,-28,-43,-5,9
+ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-11-23,-20,-9,-26,-34,-14,11
+ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-11-24,-17,-7,-30,-31,-13,11
 ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-15,-5,-8,1,51,2,-2
 ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-16,-6,-8,-3,50,2,-1
 ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-17,-13,-13,-8,42,5,1
@@ -1691,6 +1701,8 @@ ZA,South Africa,Limpopo,,,ZA-LP,,2020-11-19,-13,-8,-25,-27,-5,11
 ZA,South Africa,Limpopo,,,ZA-LP,,2020-11-20,-9,0,-18,-21,-3,9
 ZA,South Africa,Limpopo,,,ZA-LP,,2020-11-21,-13,-8,-23,-28,4,9
 ZA,South Africa,Limpopo,,,ZA-LP,,2020-11-22,-15,-8,-25,-32,0,11
+ZA,South Africa,Limpopo,,,ZA-LP,,2020-11-23,-22,-17,-26,-30,-2,12
+ZA,South Africa,Limpopo,,,ZA-LP,,2020-11-24,-16,-12,-23,-22,-4,10
 ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-15,-8,-1,-6,5,-2,-2
 ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-16,-9,-3,-9,-4,-1,0
 ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-17,-12,-11,-6,8,3,1
@@ -1973,6 +1985,8 @@ ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-11-19,-17,-1,-21,-7,-14,11
 ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-11-20,-17,4,-20,-1,-14,9
 ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-11-21,-19,4,-20,-4,-6,9
 ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-11-22,-27,-5,-23,-13,-12,12
+ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-11-23,-21,-7,-20,-12,-12,9
+ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-11-24,-19,-2,-23,-11,-12,10
 ZA,South Africa,North West,,,ZA-NW,,2020-02-15,5,-1,4,-23,-3,-2
 ZA,South Africa,North West,,,ZA-NW,,2020-02-16,-5,-1,-5,-25,-4,1
 ZA,South Africa,North West,,,ZA-NW,,2020-02-17,-12,-11,-9,-22,2,1
@@ -2255,6 +2269,8 @@ ZA,South Africa,North West,,,ZA-NW,,2020-11-19,-14,-10,-24,-4,-7,10
 ZA,South Africa,North West,,,ZA-NW,,2020-11-20,-14,-8,-28,-2,-6,9
 ZA,South Africa,North West,,,ZA-NW,,2020-11-21,-14,-11,-34,-18,0,10
 ZA,South Africa,North West,,,ZA-NW,,2020-11-22,-23,-16,-35,-16,-7,11
+ZA,South Africa,North West,,,ZA-NW,,2020-11-23,-26,-20,-28,-20,-10,11
+ZA,South Africa,North West,,,ZA-NW,,2020-11-24,-16,-14,-24,-8,-8,9
 ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-15,-6,-9,-9,,-1,0
 ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-16,-7,-7,-5,,-2,-1
 ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-17,-15,-14,-5,-6,2,1
@@ -2537,6 +2553,8 @@ ZA,South Africa,Northern Cape,,,ZA-NC,,2020-11-19,-14,-5,-31,-29,-10,7
 ZA,South Africa,Northern Cape,,,ZA-NC,,2020-11-20,-10,-1,-38,-14,-6,4
 ZA,South Africa,Northern Cape,,,ZA-NC,,2020-11-21,-22,-14,-49,,-9,7
 ZA,South Africa,Northern Cape,,,ZA-NC,,2020-11-22,-23,-12,-36,,-12,6
+ZA,South Africa,Northern Cape,,,ZA-NC,,2020-11-23,-18,-9,-38,-29,-10,7
+ZA,South Africa,Northern Cape,,,ZA-NC,,2020-11-24,-12,-5,-39,-34,-10,7
 ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-15,-2,-1,4,-3,0,-1
 ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-16,-9,-2,-25,-7,-2,-1
 ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-17,-10,-9,-15,5,4,0
@@ -2819,3 +2837,5 @@ ZA,South Africa,Western Cape,,,ZA-WC,,2020-11-19,-24,-9,-45,-40,-26,12
 ZA,South Africa,Western Cape,,,ZA-WC,,2020-11-20,-22,-6,-40,-39,-24,9
 ZA,South Africa,Western Cape,,,ZA-WC,,2020-11-21,-24,-8,-38,-38,-8,8
 ZA,South Africa,Western Cape,,,ZA-WC,,2020-11-22,-30,-13,-48,-50,-11,6
+ZA,South Africa,Western Cape,,,ZA-WC,,2020-11-23,-29,-17,-48,-42,-25,12
+ZA,South Africa,Western Cape,,,ZA-WC,,2020-11-24,-28,-14,-53,-44,-25,13

@@ -281,6 +281,8 @@ NI,Nicaragua,,,,,,2020-11-19,-13,3,-18,-13,-6,5
 NI,Nicaragua,,,,,,2020-11-20,-6,10,-17,-8,-3,4
 NI,Nicaragua,,,,,,2020-11-21,-4,10,-15,-10,-5,4
 NI,Nicaragua,,,,,,2020-11-22,-8,5,-15,-18,-7,5
+NI,Nicaragua,,,,,,2020-11-23,-8,7,-15,-10,-3,4
+NI,Nicaragua,,,,,,2020-11-24,-7,7,-14,-8,-4,4
 NI,Nicaragua,,,Managua Metropolitan Area,,,2020-02-15,9,7,-1,1,2,-1
 NI,Nicaragua,,,Managua Metropolitan Area,,,2020-02-16,7,9,2,3,-1,0
 NI,Nicaragua,,,Managua Metropolitan Area,,,2020-02-17,4,5,-3,1,10,-1
@@ -563,6 +565,8 @@ NI,Nicaragua,,,Managua Metropolitan Area,,,2020-11-19,-5,10,-17,-6,-6,6
 NI,Nicaragua,,,Managua Metropolitan Area,,,2020-11-20,3,18,-12,-7,-3,5
 NI,Nicaragua,,,Managua Metropolitan Area,,,2020-11-21,8,17,-12,-4,0,3
 NI,Nicaragua,,,Managua Metropolitan Area,,,2020-11-22,5,12,-15,-14,2,4
+NI,Nicaragua,,,Managua Metropolitan Area,,,2020-11-23,0,14,-10,-7,-2,4
+NI,Nicaragua,,,Managua Metropolitan Area,,,2020-11-24,1,13,-6,-3,-3,4
 NI,Nicaragua,Boaco,,,NI-BO,,2020-02-15,,,,,9,
 NI,Nicaragua,Boaco,,,NI-BO,,2020-02-17,,,,,20,
 NI,Nicaragua,Boaco,,,NI-BO,,2020-02-18,,,,,11,
@@ -809,6 +813,8 @@ NI,Nicaragua,Boaco,,,NI-BO,,2020-11-19,,,,,-17,
 NI,Nicaragua,Boaco,,,NI-BO,,2020-11-20,,,,,-16,
 NI,Nicaragua,Boaco,,,NI-BO,,2020-11-21,,,,,-19,
 NI,Nicaragua,Boaco,,,NI-BO,,2020-11-22,,,,,-32,
+NI,Nicaragua,Boaco,,,NI-BO,,2020-11-23,,,,,-12,
+NI,Nicaragua,Boaco,,,NI-BO,,2020-11-24,,,,,-20,
 NI,Nicaragua,Carazo,,,NI-CA,,2020-02-15,4,,-9,-19,6,
 NI,Nicaragua,Carazo,,,NI-CA,,2020-02-16,,,-16,,1,
 NI,Nicaragua,Carazo,,,NI-CA,,2020-02-17,,,-2,,21,
@@ -1066,6 +1072,8 @@ NI,Nicaragua,Carazo,,,NI-CA,,2020-11-19,,,-21,-43,-10,
 NI,Nicaragua,Carazo,,,NI-CA,,2020-11-20,,,-20,-36,-1,
 NI,Nicaragua,Carazo,,,NI-CA,,2020-11-21,-2,,-18,-31,-11,
 NI,Nicaragua,Carazo,,,NI-CA,,2020-11-22,,,-28,,-5,
+NI,Nicaragua,Carazo,,,NI-CA,,2020-11-23,,,-21,-40,0,
+NI,Nicaragua,Carazo,,,NI-CA,,2020-11-24,,,-19,-38,-5,
 NI,Nicaragua,Chinandega,,,NI-CI,,2020-02-15,8,3,-7,16,5,-1
 NI,Nicaragua,Chinandega,,,NI-CI,,2020-02-16,5,5,-6,6,0,
 NI,Nicaragua,Chinandega,,,NI-CI,,2020-02-17,4,2,-4,6,14,-1
@@ -1342,6 +1350,8 @@ NI,Nicaragua,Chinandega,,,NI-CI,,2020-11-19,-11,10,-11,-7,-3,4
 NI,Nicaragua,Chinandega,,,NI-CI,,2020-11-20,-4,14,-1,8,2,3
 NI,Nicaragua,Chinandega,,,NI-CI,,2020-11-21,-4,19,-2,8,-10,4
 NI,Nicaragua,Chinandega,,,NI-CI,,2020-11-22,-4,13,2,-11,-13,6
+NI,Nicaragua,Chinandega,,,NI-CI,,2020-11-23,-8,10,-3,-4,0,3
+NI,Nicaragua,Chinandega,,,NI-CI,,2020-11-24,-7,11,-9,-7,-1,3
 NI,Nicaragua,Chontales,,,NI-CO,,2020-02-15,,3,5,,2,
 NI,Nicaragua,Chontales,,,NI-CO,,2020-02-16,,,-7,,2,
 NI,Nicaragua,Chontales,,,NI-CO,,2020-02-17,,,6,,12,
@@ -1599,6 +1609,8 @@ NI,Nicaragua,Chontales,,,NI-CO,,2020-11-19,,,-31,,-14,
 NI,Nicaragua,Chontales,,,NI-CO,,2020-11-20,,,-25,,-10,
 NI,Nicaragua,Chontales,,,NI-CO,,2020-11-21,,13,-33,,-20,
 NI,Nicaragua,Chontales,,,NI-CO,,2020-11-22,,,-30,,-17,
+NI,Nicaragua,Chontales,,,NI-CO,,2020-11-23,,,-26,,-5,
+NI,Nicaragua,Chontales,,,NI-CO,,2020-11-24,,,-31,,-9,
 NI,Nicaragua,Esteli,,,NI-ES,,2020-02-15,3,3,15,,1,
 NI,Nicaragua,Esteli,,,NI-ES,,2020-02-16,-3,2,11,,-1,
 NI,Nicaragua,Esteli,,,NI-ES,,2020-02-17,-1,-3,14,,14,-1
@@ -1858,6 +1870,8 @@ NI,Nicaragua,Esteli,,,NI-ES,,2020-11-19,-14,-4,-13,,-1,4
 NI,Nicaragua,Esteli,,,NI-ES,,2020-11-20,-11,-6,-14,,2,4
 NI,Nicaragua,Esteli,,,NI-ES,,2020-11-21,-9,-3,-9,,-7,3
 NI,Nicaragua,Esteli,,,NI-ES,,2020-11-22,-10,-2,-8,,-13,
+NI,Nicaragua,Esteli,,,NI-ES,,2020-11-23,-7,-8,-11,,2,2
+NI,Nicaragua,Esteli,,,NI-ES,,2020-11-24,-10,-8,-9,,2,2
 NI,Nicaragua,Granada,,,NI-GR,,2020-02-15,11,1,-13,,2,
 NI,Nicaragua,Granada,,,NI-GR,,2020-02-16,9,,-13,,1,
 NI,Nicaragua,Granada,,,NI-GR,,2020-02-17,,11,,,15,
@@ -2115,6 +2129,8 @@ NI,Nicaragua,Granada,,,NI-GR,,2020-11-19,-36,6,-5,,-10,
 NI,Nicaragua,Granada,,,NI-GR,,2020-11-20,-28,10,-10,,-5,
 NI,Nicaragua,Granada,,,NI-GR,,2020-11-21,-27,6,-5,,-14,
 NI,Nicaragua,Granada,,,NI-GR,,2020-11-22,-29,,-12,,-14,
+NI,Nicaragua,Granada,,,NI-GR,,2020-11-23,-28,10,,,-8,
+NI,Nicaragua,Granada,,,NI-GR,,2020-11-24,,7,,,-4,
 NI,Nicaragua,Jinotega,,,NI-JI,,2020-02-15,,,,,7,
 NI,Nicaragua,Jinotega,,,NI-JI,,2020-02-16,,,,,5,
 NI,Nicaragua,Jinotega,,,NI-JI,,2020-02-17,,,,,19,
@@ -2372,6 +2388,8 @@ NI,Nicaragua,Jinotega,,,NI-JI,,2020-11-19,,,,,-9,
 NI,Nicaragua,Jinotega,,,NI-JI,,2020-11-20,,,,,-5,
 NI,Nicaragua,Jinotega,,,NI-JI,,2020-11-21,,,-26,,-3,
 NI,Nicaragua,Jinotega,,,NI-JI,,2020-11-22,,,-24,,-16,
+NI,Nicaragua,Jinotega,,,NI-JI,,2020-11-23,,,,,-3,
+NI,Nicaragua,Jinotega,,,NI-JI,,2020-11-24,,,,,-3,
 NI,Nicaragua,Leon,,,NI-LE,,2020-02-15,2,6,6,2,2,0
 NI,Nicaragua,Leon,,,NI-LE,,2020-02-16,3,4,0,-7,-3,
 NI,Nicaragua,Leon,,,NI-LE,,2020-02-17,-5,6,13,0,16,-1
@@ -2649,6 +2667,8 @@ NI,Nicaragua,Leon,,,NI-LE,,2020-11-19,-13,10,-4,-3,2,5
 NI,Nicaragua,Leon,,,NI-LE,,2020-11-20,-5,19,-2,4,0,3
 NI,Nicaragua,Leon,,,NI-LE,,2020-11-21,-5,24,-9,1,-11,4
 NI,Nicaragua,Leon,,,NI-LE,,2020-11-22,-9,10,-13,-21,-9,4
+NI,Nicaragua,Leon,,,NI-LE,,2020-11-23,-11,16,-9,4,0,4
+NI,Nicaragua,Leon,,,NI-LE,,2020-11-24,-7,15,-2,-3,2,3
 NI,Nicaragua,Madriz,,,NI-MD,,2020-02-18,,,,,7,
 NI,Nicaragua,Madriz,,,NI-MD,,2020-02-20,,,,,4,
 NI,Nicaragua,Madriz,,,NI-MD,,2020-03-23,,,,,0,
@@ -2772,6 +2792,8 @@ NI,Nicaragua,Madriz,,,NI-MD,,2020-11-16,,,,,-6,
 NI,Nicaragua,Madriz,,,NI-MD,,2020-11-17,,,,,-23,
 NI,Nicaragua,Madriz,,,NI-MD,,2020-11-18,,,,,-12,
 NI,Nicaragua,Madriz,,,NI-MD,,2020-11-19,,,,,-5,
+NI,Nicaragua,Madriz,,,NI-MD,,2020-11-23,,,,,1,
+NI,Nicaragua,Madriz,,,NI-MD,,2020-11-24,,,,,0,
 NI,Nicaragua,Managua,,,NI-MN,,2020-02-15,9,7,2,2,3,-1
 NI,Nicaragua,Managua,,,NI-MN,,2020-02-16,7,9,7,2,0,0
 NI,Nicaragua,Managua,,,NI-MN,,2020-02-17,3,5,-1,2,10,-1
@@ -3054,6 +3076,8 @@ NI,Nicaragua,Managua,,,NI-MN,,2020-11-19,-5,5,-16,-5,-5,6
 NI,Nicaragua,Managua,,,NI-MN,,2020-11-20,2,14,-17,-6,-3,5
 NI,Nicaragua,Managua,,,NI-MN,,2020-11-21,8,15,-14,-10,5,3
 NI,Nicaragua,Managua,,,NI-MN,,2020-11-22,4,9,-12,-15,2,4
+NI,Nicaragua,Managua,,,NI-MN,,2020-11-23,-2,10,-10,-8,0,4
+NI,Nicaragua,Managua,,,NI-MN,,2020-11-24,1,13,-8,-3,-4,5
 NI,Nicaragua,Masaya,,,NI-MS,,2020-02-15,2,5,-3,11,2,
 NI,Nicaragua,Masaya,,,NI-MS,,2020-02-16,4,2,1,11,7,
 NI,Nicaragua,Masaya,,,NI-MS,,2020-02-17,-3,5,-1,11,14,-2
@@ -3330,6 +3354,8 @@ NI,Nicaragua,Masaya,,,NI-MS,,2020-11-19,-17,-26,-3,-12,-6,5
 NI,Nicaragua,Masaya,,,NI-MS,,2020-11-20,-11,-26,-3,2,-3,4
 NI,Nicaragua,Masaya,,,NI-MS,,2020-11-21,-9,-24,2,6,-7,4
 NI,Nicaragua,Masaya,,,NI-MS,,2020-11-22,-10,-23,3,9,-5,
+NI,Nicaragua,Masaya,,,NI-MS,,2020-11-23,-8,-25,1,-2,-1,5
+NI,Nicaragua,Masaya,,,NI-MS,,2020-11-24,-12,-25,4,2,-4,6
 NI,Nicaragua,Matagalpa,,,NI-MT,,2020-02-15,-5,4,8,3,2,
 NI,Nicaragua,Matagalpa,,,NI-MT,,2020-02-16,0,4,22,10,12,
 NI,Nicaragua,Matagalpa,,,NI-MT,,2020-02-17,-7,6,2,3,11,-1
@@ -3587,6 +3613,8 @@ NI,Nicaragua,Matagalpa,,,NI-MT,,2020-11-19,-14,-4,-28,-15,-4,3
 NI,Nicaragua,Matagalpa,,,NI-MT,,2020-11-20,-11,3,-28,-4,2,3
 NI,Nicaragua,Matagalpa,,,NI-MT,,2020-11-21,-7,7,-21,-12,-10,4
 NI,Nicaragua,Matagalpa,,,NI-MT,,2020-11-22,-16,0,-25,-14,-11,
+NI,Nicaragua,Matagalpa,,,NI-MT,,2020-11-23,-11,-3,-25,-12,0,2
+NI,Nicaragua,Matagalpa,,,NI-MT,,2020-11-24,-7,4,-24,3,0,2
 NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-02-15,,,,,8,
 NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-02-16,,,,,4,
 NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-02-17,,,,,14,
@@ -3842,6 +3870,8 @@ NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-11-19,,,-47,,
 NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-11-20,,,-54,,-41,
 NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-11-21,,,,,-37,
 NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-11-22,,,-41,,-31,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-11-23,,,,,-31,
+NI,Nicaragua,North Caribbean Coast Autonomous Region,,,NI-AN,,2020-11-24,,,,,-29,
 NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-02-15,,,-2,,6,
 NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-02-16,,,-13,,2,
 NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-02-17,,,-10,,17,
@@ -4099,6 +4129,8 @@ NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-11-19,,,-43,,-12,
 NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-11-20,,,-44,,-8,
 NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-11-21,,,-39,,-21,
 NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-11-22,,,-40,,-32,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-11-23,,,-33,,-6,
+NI,Nicaragua,Nueva Segovia,,,NI-NS,,2020-11-24,,,-43,,-12,
 NI,Nicaragua,Rivas,,,NI-RI,,2020-02-15,5,,3,,5,
 NI,Nicaragua,Rivas,,,NI-RI,,2020-02-16,0,,-1,,6,
 NI,Nicaragua,Rivas,,,NI-RI,,2020-02-17,,,3,,13,
@@ -4356,6 +4388,8 @@ NI,Nicaragua,Rivas,,,NI-RI,,2020-11-19,-34,,-47,,-22,
 NI,Nicaragua,Rivas,,,NI-RI,,2020-11-20,-32,,-45,,-21,
 NI,Nicaragua,Rivas,,,NI-RI,,2020-11-21,-34,,-47,,-27,
 NI,Nicaragua,Rivas,,,NI-RI,,2020-11-22,-40,,-46,,-34,
+NI,Nicaragua,Rivas,,,NI-RI,,2020-11-23,-31,,-45,,-24,
+NI,Nicaragua,Rivas,,,NI-RI,,2020-11-24,-30,,-45,,-23,
 NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-02-15,,,12,,1,
 NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-02-16,,,7,,0,
 NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-02-17,,,3,,13,
@@ -4613,3 +4647,5 @@ NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-11-19,,,-31,,
 NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-11-20,,,-25,,-1,
 NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-11-21,,,-30,,-19,
 NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-11-22,,,-27,,-24,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-11-23,,,-30,,-6,
+NI,Nicaragua,South Caribbean Coast Autonomous Region,,,NI-AS,,2020-11-24,,,-31,,-6,
