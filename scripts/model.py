@@ -587,6 +587,7 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
       json.dump(output, outfile)
 
 def predict_covid_count(df: pd.DataFrame, county: str):
+  datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   df = df.loc[df['county_name'] == county, :]
   df.pop('county_name')
   fcols = []
@@ -634,7 +635,6 @@ def predict_covid_count(df: pd.DataFrame, county: str):
   print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
   predictions = None
-  datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   for pred in pred_generator:
     for key, val in pred.items():
       predictions = val
