@@ -33,17 +33,17 @@ const getRenderedData = props => {
   if(!props.showSmooth) {
     data.push(...[
       ...x_data.map((t, i) => ({
-        x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+        x: new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-'),
         [`y_${props.format.dataLab}_data`]: y_data[i],
         name: props.format.dataLab
       })),
       ...x_pred.map((t, i) => ({
-        x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+        x: new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-'),
         [`y_${props.format.dataLab}_forecasted`]: Math.round(y_pred[i]),
         name: 'Forecasted'
       })),
       ...[x_data[x_data.length - 1], x_pred[0]].map((t, i) => ({
-        x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+        x: new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-'),
         [`y_${props.format.dataLab}_today`]: Math.round([y_data[y_data.length - 1], y_pred[0]][i]),
         name: 'Today'
       }))
@@ -53,17 +53,17 @@ const getRenderedData = props => {
     if(props.smoothingMethod === 'polynomial') {
       data.push(...[
         ...x_data_polynomial.map((t, i) => ({
-          x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+          x: new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-'),
           [`y_${props.format.dataLab}_data`]: y_data_polynomial[i],
           name: props.format.dataLab
         })),
         ...x_pred_polynomial.map((t, i) => ({
-          x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+          x: new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-'),
           [`y_${props.format.dataLab}_forecasted`]: y_pred_polynomial[i],
           name: 'Forecasted'
         })),
         ...[x_data_polynomial[x_data_polynomial.length - 1], x_pred_polynomial[0]].map((t, i) => ({
-          x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+          x: new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-'),
           [`y_${props.format.dataLab}_today`]: [y_data_polynomial[y_data_polynomial.length - 1], y_pred_polynomial[0]][i],
           name: 'Today'
         }))
@@ -73,14 +73,13 @@ const getRenderedData = props => {
   return data.flat()
 }
 
-const formatTicks = tickItem => {
-  console.log(tickItem)
-  return tickItem.toLocaleDateString()
-}
-
 const DataPlot = props => {
   const data = getRenderedData({...props})
-  const { dataLab } = props.format
+  const { 
+    dataLab, 
+    animationOffset,
+    animationDuration 
+  } = props.format
   console.log("data",data)
   return (
     <div style={styles}>
@@ -101,6 +100,8 @@ const DataPlot = props => {
             activeDot={{ r: 4 }}
             dot={false}
             name={dataLab}
+            animationBegin={0 + animationOffset}
+            animationDuration={animationDuration}
           />
           <Line 
             type='monotone'
@@ -109,6 +110,8 @@ const DataPlot = props => {
             activeDot={{ r: 4 }}
             dot={false}
             name={'Forecasted'}
+            animationBegin={animationDuration + animationOffset}
+            animationDuration={animationDuration}
           />
         </LineChart>
       </ResponsiveContainer>

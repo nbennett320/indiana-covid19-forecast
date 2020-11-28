@@ -1,6 +1,7 @@
 import React from 'react'
 import { default as Plot } from './PlotContainer'
 
+const animationDuration = 500
 const Summary = props => {
   return (
     <div style={styles}>
@@ -12,7 +13,9 @@ const Summary = props => {
           title: `${props.county} ${props.county === 'Indiana' ? '' : 'County '}Covid-19 cases per day`,
           xLab: "Date",
           yLab: "Cases per day",
-          dataLab: "Cases"
+          dataLab: "Cases",
+          animationOffset: 0,
+          animationDuration: animationDuration
         }}
       />
       <Plot
@@ -23,7 +26,9 @@ const Summary = props => {
           title: `${props.county} ${props.county === 'Indiana' ? '' : 'County '}Covid-19 deaths per day`,
           xLab: "Date",
           yLab: "Deaths per day",
-          dataLab: "Deaths"
+          dataLab: "Deaths",
+          animationOffset: animationDuration,
+          animationDuration: animationDuration
         }}
       />
       <Plot
@@ -34,7 +39,9 @@ const Summary = props => {
           title: `Indiana ICU bed availability`,
           xLab: "Date",
           yLab: "Available ICU Beds",
-          dataLab: "Beds"
+          dataLab: "Beds",
+          animationOffset: 2 * animationDuration,
+          animationDuration: animationDuration
         }}
       />
     </div>
