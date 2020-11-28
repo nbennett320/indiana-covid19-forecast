@@ -8,7 +8,7 @@ import './assets/css/App.css'
 const App = () => {
   const [sidebarIsOpen, setSidebarIsOpen] = React.useState(false)
   const [county, setCounty] = React.useState('Indiana')
-  const [showSmooth, setSmooth] = React.useState(true)
+  const [showSmooth, setSmooth] = React.useState(false)
   const [smoothingMethod, setSmoothingMethod] = React.useState('polynomial')
   return (
     <div style={styles}>

@@ -1,5 +1,14 @@
 import React from 'react'
-import Plot from 'react-plotly.js'
+import {
+  LineChart,
+  Line,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
+  Legend,
+  ResponsiveContainer
+} from 'recharts'
 
 const getRenderedData = props => {
   const rawData = props.isCountyLevelData 
@@ -15,126 +24,94 @@ const getRenderedData = props => {
     x_pred_polynomial,
     y_pred_polynomial,
   } = rawData
+  x_data.map((t, i) => ({
+    x: new Date(t / Math.pow(10, 6)),
+    y: y_data[i],
+    name: props.format.dataLab
+  }))
   const data = []
   if(!props.showSmooth) {
     data.push(...[
-      {
-        x: x_data.map(t => new Date(t / Math.pow(10, 6))),
-        y: y_data,
-        name: props.format.dataLab,
-        showlegend: true,
-        type: 'line',
-        mode: 'lines',
-        marker: {
-          color: '#00bcd4'
-        },
-        layout: {
-          showLegend: true
-        }
-      },
-      {
-        x: x_pred.map(t => new Date(t / Math.pow(10, 6))),
-        y: y_pred.map(n => Math.round(n)),
-        name: 'Forecasted',
-        showlegend: true,
-        type: 'line',
-        mode: 'lines',
-        marker: {
-          color: '#ffc107'
-        },
-        line: {
-          dash: 'dot'
-        }
-      },
-      {
-        x: [x_data[x_data.length - 1], x_pred[0]].map(t => new Date(t / Math.pow(10, 6))),
-        y: [y_data[y_data.length - 1], y_pred[0]].map(n => Math.round(n)),
-        name: 'Today',
-        showlegend: false,
-        hoverinfo: 'skip',
-        type: 'line',
-        mode: 'lines',
-        marker: {
-          color: '#0097a7'
-        },
-        line: {
-          dash: 'dot'
-        }
-      }
+      ...x_data.map((t, i) => ({
+        x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+        [`y_${props.format.dataLab}_data`]: y_data[i],
+        name: props.format.dataLab
+      })),
+      ...x_pred.map((t, i) => ({
+        x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+        [`y_${props.format.dataLab}_forecasted`]: Math.round(y_pred[i]),
+        name: 'Forecasted'
+      })),
+      ...[x_data[x_data.length - 1], x_pred[0]].map((t, i) => ({
+        x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+        [`y_${props.format.dataLab}_today`]: Math.round([y_data[y_data.length - 1], y_pred[0]][i]),
+        name: 'Today'
+      }))
     ])
   }
   if(props.showSmooth) {
     if(props.smoothingMethod === 'polynomial') {
       data.push(...[
-        {
-          x: x_data_polynomial.map(t => new Date(t / Math.pow(10, 6))),
-          y: y_data_polynomial,
-          name: 'Cases (Smooth)',
-          showlegend: true,
-          hoverinfo: 'skip',
-          type: 'line',
-          mode: 'lines',
-          marker: {
-            color: '#00bcd4',
-          },
-        },
-        {
-          x: x_pred_polynomial.map(t => new Date(t / Math.pow(10, 6))),
-          y: y_pred_polynomial,
-          name: 'Forecasted',
-          showlegend: true,
-          hoverinfo: 'skip',
-          type: 'line',
-          mode: 'lines',
-          marker: {
-            color: '#ffc107'
-          },
-          line: {
-            dash: 'dot'
-          }
-        },
-        {
-          x: [x_data_polynomial[x_data_polynomial.length - 1], x_pred_polynomial[0]].map(t => new Date(t / Math.pow(10, 6))),
-          y: [y_data_polynomial[y_data_polynomial.length - 1], y_pred_polynomial[0]],
-          name: 'Today (Smooth)',
-          showlegend: false,
-          hoverinfo: 'skip',
-          type: 'line',
-          mode: 'lines',
-          marker: {
-            color: '#0097a7',
-          },
-          line: {
-            dash: 'dot'
-          }
-        }
+        ...x_data_polynomial.map((t, i) => ({
+          x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+          [`y_${props.format.dataLab}_data`]: y_data_polynomial[i],
+          name: props.format.dataLab
+        })),
+        ...x_pred_polynomial.map((t, i) => ({
+          x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+          [`y_${props.format.dataLab}_forecasted`]: y_pred_polynomial[i],
+          name: 'Forecasted'
+        })),
+        ...[x_data_polynomial[x_data_polynomial.length - 1], x_pred_polynomial[0]].map((t, i) => ({
+          x: new Date(t / Math.pow(10, 6)).toLocaleDateString(),
+          [`y_${props.format.dataLab}_today`]: [y_data_polynomial[y_data_polynomial.length - 1], y_pred_polynomial[0]][i],
+          name: 'Today'
+        }))
       ])
     }
   }
-  return data
+  return data.flat()
+}
+
+const formatTicks = tickItem => {
+  console.log(tickItem)
+  return tickItem.toLocaleDateString()
 }
 
 const DataPlot = props => {
   const data = getRenderedData({...props})
+  const { dataLab } = props.format
+  console.log("data",data)
   return (
     <div style={styles}>
-      <Plot
-        data={data}
-        layout={{
-          title: props.format.title,
-          xaxis: {
-            title: props.format.xLab,
-          },
-          yaxis: {
-            title: props.format.yLab,
-          },
-          autosize: true,
-          width: 1000,
-          height: 700,
-          paper_bgcolor: '#fcfcfc',
-          plot_bgcolor: '#fcfcfc',
-        }}
-      />
+      <ResponsiveContainer
+        height={700}
+        width={1000}
+      >
+        <LineChart data={data}>
+          <CartesianGrid strokeDasharray='3 3' />
+          <XAxis dataKey='x' />
+          <YAxis />
+          <Tooltip />
+          <Legend />
+          <Line 
+            type='monotone'
+            dataKey={`y_${dataLab}_data`}
+            stroke='#00bcd4'
+            activeDot={{ r: 4 }}
+            dot={false}
+            name={dataLab}
+          />
+          <Line 
+            type='monotone'
+            dataKey={`y_${dataLab}_forecasted`}
+            stroke='#ffc107'
+            activeDot={{ r: 4 }}
+            dot={false}
+            name={'Forecasted'}
+          />
+        </LineChart>
+      </ResponsiveContainer>
     </div>
   )
 }
