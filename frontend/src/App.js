@@ -8,6 +8,8 @@ import './assets/css/App.css'
 const App = () => {
   const [sidebarIsOpen, setSidebarIsOpen] = React.useState(false)
   const [county, setCounty] = React.useState('Indiana')
+  const [showSmooth, setSmooth] = React.useState(true)
+  const [smoothingMethod, setSmoothingMethod] = React.useState('polynomial')
   return (
     <div style={styles}>
       <Header 
@@ -18,18 +20,24 @@ const App = () => {
       <Sidebar
         isOpen={sidebarIsOpen}
         toggleSidebar={() => setSidebarIsOpen(!sidebarIsOpen)}
+        showSmooth={showSmooth}
+        toggleSmooth={() => setSmooth(!showSmooth)}
+        smoothingMethod={smoothingMethod}
+        setSmoothingMethod={setSmoothingMethod}
       />
       <Router>
         <Switch>
-          <Route path='/' exact>
+          <Route path='/'>
             <Summary 
               county={county}
+              showSmooth={showSmooth}
+              smoothingMethod={smoothingMethod}
             />
           </Route>
-          <Route path='/map' exact>
+          {/* <Route path='/map'>
             <Map />
-          </Route>
-          <Route path='/about' exact>
+          </Route> */}
+          <Route path='/about'>
             <About />
           </Route>
           <Redirect 

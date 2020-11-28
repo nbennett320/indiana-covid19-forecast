@@ -7,12 +7,19 @@ import {
   ListItemText,
   IconButton,
   Divider,
+  Checkbox,
+  // FormControl,
+  // Select,
+  // InputLabel,
+  // MenuItem
 } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles'
 import ChevronLeft from '@material-ui/icons/ChevronLeft'
-import TimelineIcon from '@material-ui/icons/Timeline'
-import MapIcon from '@material-ui/icons/Map'
+import AssessmentIcon from '@material-ui/icons/Assessment'
+// import MapIcon from '@material-ui/icons/Map'
 import InfoIcon from '@material-ui/icons/Info'
+import TimelineIcon from '@material-ui/icons/Timeline'
+// import SumIcon from '@material-ui/icons/Functions'
 
 const Sidebar = props => {
   const classes = useStyles()
@@ -33,13 +40,13 @@ const Sidebar = props => {
           button
         >
           <ListItemIcon>
-            <TimelineIcon />
+            <AssessmentIcon />
           </ListItemIcon>
           <ListItemText>
             Overview
           </ListItemText>
         </ListItem>
-        <ListItem 
+        {/* <ListItem 
           button
         >
           <ListItemIcon>
@@ -48,7 +55,7 @@ const Sidebar = props => {
           <ListItemText>
             Map
           </ListItemText>
-        </ListItem>
+        </ListItem> */}
         <ListItem 
           button
         >
@@ -59,6 +66,44 @@ const Sidebar = props => {
             About
           </ListItemText>
         </ListItem>
+        <ListItem 
+          button
+        >
+          <ListItemIcon>
+            <TimelineIcon />
+          </ListItemIcon>
+          <ListItemText>
+            Smooth data
+          </ListItemText>
+          <Checkbox
+            checked={props.showSmooth}
+            onChange={props.toggleSmooth}
+            color="default"
+          />
+        </ListItem>
+        {/* <ListItem>
+          <ListItemIcon>
+            <SumIcon />
+          </ListItemIcon>
+          { props.showSmooth && <FormControl 
+            className={classes.selectControl} 
+            variant="outlined"
+          >
+            <InputLabel id="select-smooth-type-label">
+              Smoothing method
+            </InputLabel>
+            <Select
+              value={props.smoothType}
+              onChange={val => props.setSmoothingMethod(val)}
+              label="Smoothing method"
+              labelId="select-smooth-type-label"
+            >
+              <MenuItem value="polynomial">
+                Polynomial
+              </MenuItem>
+            </Select>
+          </FormControl> }
+        </ListItem> */}
       </List>
     </Drawer>
   )
@@ -74,6 +119,9 @@ const useStyles = makeStyles(theme => ({
     justifyContent: 'flex-end',
     padding: theme.spacing(0, 1),
     ...theme.mixins.toolbar
+  },
+  selectControl: {
+    minWidth: 180,
   },
 }))
 

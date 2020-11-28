@@ -15,47 +15,56 @@ const getRenderedData = props => {
     x_pred_polynomial,
     y_pred_polynomial,
   } = rawData
-  const data = [
-    {
-      x: x_data.map(t => new Date(t / Math.pow(10, 6))),
-      y: y_data,
-      name: props.format.dataLab,
-      showlegend: true,
-      type: 'line',
-      mode: 'lines',
-      marker: {
-        color: '#00bcd4'
+  const data = []
+  if(!props.showSmooth) {
+    data.push(...[
+      {
+        x: x_data.map(t => new Date(t / Math.pow(10, 6))),
+        y: y_data,
+        name: props.format.dataLab,
+        showlegend: true,
+        type: 'line',
+        mode: 'lines',
+        marker: {
+          color: '#00bcd4'
+        },
+        layout: {
+          showLegend: true
+        }
       },
-      layout: {
-        showLegend: true
+      {
+        x: x_pred.map(t => new Date(t / Math.pow(10, 6))),
+        y: y_pred.map(n => Math.round(n)),
+        name: 'Forecasted',
+        showlegend: true,
+        type: 'line',
+        mode: 'lines',
+        marker: {
+          color: '#ffc107'
+        },
+        line: {
+          dash: 'dot'
+        }
+      },
+      {
+        x: [x_data[x_data.length - 1], x_pred[0]].map(t => new Date(t / Math.pow(10, 6))),
+        y: [y_data[y_data.length - 1], y_pred[0]].map(n => Math.round(n)),
+        name: 'Today',
+        showlegend: false,
+        hoverinfo: 'skip',
+        type: 'line',
+        mode: 'lines',
+        marker: {
+          color: '#0097a7'
+        },
+        line: {
+          dash: 'dot'
+        }
       }
-    },
-    {
-      x: x_pred.map(t => new Date(t / Math.pow(10, 6))),
-      y: y_pred.map(n => Math.round(n)),
-      name: 'Forecasted',
-      showlegend: true,
-      type: 'line',
-      mode: 'lines',
-      marker: {
-        color: '#ffc107'
-      },
-    },
-    {
-      x: [x_data[x_data.length - 1], x_pred[0]].map(t => new Date(t / Math.pow(10, 6))),
-      y: [y_data[y_data.length - 1], y_pred[0]].map(n => Math.round(n)),
-      name: 'Today',
-      showlegend: false,
-      hoverinfo: 'skip',
-      type: 'line',
-      mode: 'lines',
-      marker: {
-        color: '#0097a7'
-      },
-    }
-  ]
+    ])
+  }
   if(props.showSmooth) {
-    if(props.smoothType === 'polynomial') {
+    if(props.smoothingMethod === 'polynomial') {
       data.push(...[
         {
           x: x_data_polynomial.map(t => new Date(t / Math.pow(10, 6))),
@@ -66,21 +75,22 @@ const getRenderedData = props => {
           type: 'line',
           mode: 'lines',
           marker: {
-            color: '#d43c00',
+            color: '#00bcd4',
           },
         },
         {
           x: x_pred_polynomial.map(t => new Date(t / Math.pow(10, 6))),
           y: y_pred_polynomial,
-          name: 'Forecasted (Smooth)',
+          name: 'Forecasted',
           showlegend: true,
           hoverinfo: 'skip',
           type: 'line',
           mode: 'lines',
           marker: {
-            color: '#8307ff'
+            color: '#ffc107'
           },
-          layout: {
+          line: {
+            dash: 'dot'
           }
         },
         {
@@ -92,8 +102,11 @@ const getRenderedData = props => {
           type: 'line',
           mode: 'lines',
           marker: {
-            color: '#a72d00'
+            color: '#0097a7',
           },
+          line: {
+            dash: 'dot'
+          }
         }
       ])
     }

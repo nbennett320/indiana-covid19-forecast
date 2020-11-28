@@ -5,29 +5,29 @@ const Summary = props => {
   return (
     <div style={styles}>
       <Plot
-        county={props.county}
+        {...props}
         plotData="covid_count"
         isCountyLevelData={true}
         format={{
-          title: `${props.county} ${props.county === 'Indiana' ? '' : 'County'} Covid-19 cases per day`,
+          title: `${props.county} ${props.county === 'Indiana' ? '' : 'County '}Covid-19 cases per day`,
           xLab: "Date",
           yLab: "Cases per day",
           dataLab: "Cases"
         }}
       />
       <Plot
-        county={props.county}
+        {...props}
         plotData="covid_deaths"
         isCountyLevelData={true}
         format={{
-          title: `${props.county} ${props.county === 'Indiana' ? '' : 'County'} Covid-19 deaths per day`,
+          title: `${props.county} ${props.county === 'Indiana' ? '' : 'County '}Covid-19 deaths per day`,
           xLab: "Date",
           yLab: "Deaths per day",
           dataLab: "Deaths"
         }}
       />
       <Plot
-        county={props.county}
+        {...props}
         plotData="hospital_occupation"
         isCountyLevelData={false}
         format={{
