@@ -11,8 +11,9 @@ const getDomainLength = (viewRange) => {
   switch(viewRange) {
     case 'month':
       return 31
+    case '3month':
+      return 92
     default:
-      // all shown
       return -1
   }
 }

@@ -35,6 +35,8 @@ const App = () => {
         toggleSmooth={() => setSmooth(!showSmooth)}
         smoothingMethod={smoothingMethod}
         setSmoothingMethod={setSmoothingMethod}
+        viewRange={viewRange}
+        setViewRange={e => setViewRange(e.target.value)}
         userDevice={userDevice}
       />
       <Router>

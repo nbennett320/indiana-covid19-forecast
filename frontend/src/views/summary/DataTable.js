@@ -1,14 +1,28 @@
 import React from 'react'
 import {
-  DataTable
+  Table,
+  TableBody,
+  TableHead,
+  TableCell,
+  TableContainer,
+  TableRow,
+  Typography,
 } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles'
 
-const Table = props => {
+const TableHeader = () => {
+  <TableHead>
+    <TableRow>
+      
+    </TableRow>
+  </TableHead>
+}
+
+const DataTable = props => {
   const classes = useStyles()
   return (
     <div className={classes.main}>
-      <DataTable />
+      
     </div>
   )
 }
@@ -19,4 +33,4 @@ const useStyles = makeStyles(() => ({
   }
 }))
 
-export default Table
+export default DataTable

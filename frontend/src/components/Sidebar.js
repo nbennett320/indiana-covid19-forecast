@@ -7,11 +7,10 @@ import {
   ListItemText,
   IconButton,
   Divider,
-  Checkbox,
-  // FormControl,
-  // Select,
-  // InputLabel,
-  // MenuItem
+  FormControl,
+  Select,
+  InputLabel,
+  MenuItem
 } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles'
 import ChevronLeft from '@material-ui/icons/ChevronLeft'
@@ -26,7 +25,7 @@ const Sidebar = props => {
   return (
     <Drawer
       open={props.isOpen}
-      variant="persistent"
+      onClose={props.toggleSidebar}
       anchor="left"
     >
       <div className={classes.sidebarHeader}>
@@ -66,7 +65,7 @@ const Sidebar = props => {
             About
           </ListItemText>
         </ListItem>
-        <ListItem 
+        {/* <ListItem 
           button
         >
           <ListItemIcon>
@@ -80,30 +79,43 @@ const Sidebar = props => {
             onChange={props.toggleSmooth}
             color="default"
           />
-        </ListItem>
-        {/* <ListItem>
+        </ListItem> */}
+        <ListItem 
+          button
+        >
           <ListItemIcon>
-            <SumIcon />
+            <TimelineIcon />
           </ListItemIcon>
-          { props.showSmooth && <FormControl 
-            className={classes.selectControl} 
-            variant="outlined"
+          <FormControl 
+            className={classes.selectControl}
+            variant='outlined'
           >
-            <InputLabel id="select-smooth-type-label">
-              Smoothing method
-            </InputLabel>
-            <Select
-              value={props.smoothType}
-              onChange={val => props.setSmoothingMethod(val)}
-              label="Smoothing method"
-              labelId="select-smooth-type-label"
+            <InputLabel 
+              variant='outlined'
+              id='select-data-range-label'
             >
-              <MenuItem value="polynomial">
-                Polynomial
+              Data range
+            </InputLabel>
+            <Select 
+              value={props.viewRange}
+              onChange={props.setViewRange}
+              autoWidth={true}
+              label="Data range"
+              labelId='select-data-range-label'
+              id='select-data-range'
+            >
+              <MenuItem value='month'>
+                1 month
+              </MenuItem>
+              <MenuItem value='3month'>
+                3 months
+              </MenuItem>
+              <MenuItem value='all'>
+                All data
               </MenuItem>
             </Select>
-          </FormControl> }
-        </ListItem> */}
+          </FormControl>
+        </ListItem>
       </List>
     </Drawer>
   )
