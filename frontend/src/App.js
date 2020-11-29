@@ -5,17 +5,28 @@ import { Header, Sidebar } from './components/'
 import { Map, Summary, About } from './views'
 import './assets/css/App.css'
 
+const mql = window.matchMedia(`(max-width: 633px)`)
+const vpWidth = window.innerWidth
+const vpHeight = window.innerHeight
+const userDevice = {
+  isMobile: mql,
+  vpWidth,
+  vpHeight
+}
+
 const App = () => {
   const [sidebarIsOpen, setSidebarIsOpen] = React.useState(false)
   const [county, setCounty] = React.useState('Indiana')
   const [showSmooth, setSmooth] = React.useState(false)
   const [smoothingMethod, setSmoothingMethod] = React.useState('polynomial')
+  const [viewRange, setViewRange] = React.useState('month')
   return (
     <div style={styles}>
       <Header 
         handleChangeCounty={(val) => setCounty(val)}
         sidebarIsOpen={sidebarIsOpen}
         toggleSidebar={() => setSidebarIsOpen(!sidebarIsOpen)}
+        userDevice={userDevice}
       />
       <Sidebar
         isOpen={sidebarIsOpen}
@@ -24,6 +35,7 @@ const App = () => {
         toggleSmooth={() => setSmooth(!showSmooth)}
         smoothingMethod={smoothingMethod}
         setSmoothingMethod={setSmoothingMethod}
+        userDevice={userDevice}
       />
       <Router>
         <Switch>
@@ -32,6 +44,8 @@ const App = () => {
               county={county}
               showSmooth={showSmooth}
               smoothingMethod={smoothingMethod}
+              userDevice={userDevice}
+              viewRange={viewRange}
             />
           </Route>
           {/* <Route path='/map'>

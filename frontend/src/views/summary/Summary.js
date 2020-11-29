@@ -1,10 +1,12 @@
 import React from 'react'
 import { default as Plot } from './PlotContainer'
+import { makeStyles } from '@material-ui/core/styles'
 
 const animationDuration = 500
 const Summary = props => {
+  const classes = useStyles()
   return (
-    <div style={styles}>
+    <div className={classes.main}>
       <Plot
         {...props}
         plotData="covid_count"
@@ -48,11 +50,13 @@ const Summary = props => {
   )
 }
 
-const styles = {
-  width: '100%',
-  height: '100%',
-  backgroundColor: '#fcfcfc',
-  paddingTop: '64px',
-}
+const useStyles = makeStyles(() => ({
+  main: {
+    width: '100%',
+    height: '100%',
+    backgroundColor: '#fcfcfc',
+    paddingTop: '64px',
+  }
+}))
 
 export default Summary
