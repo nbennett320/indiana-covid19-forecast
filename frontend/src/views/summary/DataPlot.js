@@ -139,7 +139,7 @@ const DataPlot = props => {
             animationDuration={animationDuration}
           />
           <ReferenceLine 
-            x={props.data.length - 15}
+            x={props.data.length - props.predictionLength - 1}
             label={labelProps => {
               return (
                 <Label

@@ -39,6 +39,7 @@ const PlotContainer = props => {
         <DataPlot 
           {...props}
           data={data}
+          predictionLength={14}
         />
       </div>
     </div>
