@@ -13,84 +13,7 @@ import {
 } from 'recharts'
 import { makeStyles } from '@material-ui/core/styles'
 
-const formatDate = date => {
-  const reg = date.matchAll(/([0-9]?[0-9])-([0-9]?[0-9])-([0-9][0-9][0-9][0-9])/gm)
-  const match = [...reg][0]
-  const month = match[1].length > 1
-    ? match[1]
-    : `0${match[1]}`
-  const day = match[2].length > 1
-    ? match[2]
-    : `0${match[2]}`
-  return `${month}-${day}-${match[3]}`
-}
-
-const getRenderedData = props => {
-  const rawData = props.isCountyLevelData 
-    ? require(`../../data/model_prediction_${props.county}_${props.plotData}.json`)
-    : require(`../../data/model_prediction_${props.plotData}.json`)
-  const {
-    x_data,
-    y_data,
-    x_pred,
-    y_pred,
-    x_data_polynomial,
-    y_data_polynomial,
-    x_pred_polynomial,
-    y_pred_polynomial,
-  } = rawData
-  x_data.map((t, i) => ({
-    x: new Date(t / Math.pow(10, 6)),
-    y: y_data[i],
-    name: props.format.dataLab
-  }))
-  const data = []
-  if(!props.showSmooth) {
-    data.push(...[
-      ...x_data.map((t, i) => ({
-        x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-        [`y_${props.format.dataLab}_data`]: y_data[i],
-        name: props.format.dataLab
-      })),
-      ...[x_data[x_data.length - 1], x_pred[0]].map((t, i) => ({
-        x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-        [`y_${props.format.dataLab}_today`]: Math.round([y_data[y_data.length - 1], y_pred[0]][i]),
-        name: 'Today'
-      })),
-      ...x_pred.map((t, i) => ({
-        x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-        [`y_${props.format.dataLab}_forecasted`]: Math.round(y_pred[i]),
-        name: 'Forecasted'
-      }))
-    ])
-  }
-  if(props.showSmooth) {
-    if(props.smoothingMethod === 'polynomial') {
-      data.push(...[
-        ...x_data_polynomial.map((t, i) => ({
-          x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-          [`y_${props.format.dataLab}_data`]: y_data_polynomial[i],
-          name: props.format.dataLab
-        })),
-        ...[x_data_polynomial[x_data_polynomial.length - 1], x_pred_polynomial[0]].map((t, i) => ({
-          x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-          [`y_${props.format.dataLab}_today`]: [y_data_polynomial[y_data_polynomial.length - 1], y_pred_polynomial[0]][i],
-          name: 'Today'
-        })),
-        ...x_pred_polynomial.map((t, i) => ({
-          x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-          [`y_${props.format.dataLab}_forecasted`]: y_pred_polynomial[i],
-          name: 'Forecasted'
-        }))
-      ])
-    }
-  }
-  return data.flat()
-}
-
 const DataPlot = props => {
-  let data = getRenderedData({...props})
-  console.log('data1',data)
   const { 
     xLab,
     yLab,
@@ -99,33 +22,14 @@ const DataPlot = props => {
     animationDuration 
   } = props.format
   const classes = useStyles()
-  if(props.viewRange === 'month') {
-    const d = formatDate(
-      new Date(
-        new Date() - 1000 * 60 * 60 * 24 * props.domainLength
-      ).toLocaleDateString().replaceAll('/','-')
-    )
-    data = data.filter(el => {
-      const elArr = el.x.split('-').map(s => Number(s))
-      const dArr = d.split('-').map(s => Number(s))
-      if(elArr[2] < dArr[2])
-        return false
-      else if(elArr[0] < dArr[0])
-        return false
-      else if((elArr[0] === dArr[0]) && (elArr[1] < dArr[1]))
-        return false
-      else return true
-    })
-  }
-  console.log("data",data)
   return (
     <div className={classes.main}>
       <ResponsiveContainer
-       height={props.userDevice.vpHeight * 0.7}
-       width={props.userDevice.vpWidth * 0.9}
+        height={props.userDevice.vpHeight * 0.7}
+        width={props.userDevice.vpWidth * 0.9}
       >
         <LineChart 
-          data={data}
+          data={props.data}
           padding={{ 
             top: 12, 
             right: 48, 
@@ -235,7 +139,7 @@ const DataPlot = props => {
             animationDuration={animationDuration}
           />
           <ReferenceLine 
-            x={data.length - 15}
+            x={props.data.length - 15}
             label={labelProps => {
               return (
                 <Label
