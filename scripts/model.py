@@ -59,7 +59,7 @@ global n_days
 n_days = 14
 
 global model_county
-model_county = 'Porter'
+model_county = 'Indiana'
 
 # update dataset
 global should_fetch_datasets
@@ -792,7 +792,7 @@ def get_flags():
   global n_days
   n_days = args.days if args.days else 14
   global model_county
-  model_county = args.county if args.county else 'Porter'
+  model_county = args.county if args.county else 'Indiana'
   global model_dir
   model_dir = args.model_dir if args.model_dir else './train'
   global output_dir

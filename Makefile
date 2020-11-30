@@ -1,6 +1,7 @@
 update-model:
 	python3 scripts/model.py --county All --days 7 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
 	python3 scripts/model.py --county Indiana --days 7 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
+update-frontend:
 	cd ./frontend
 	yarn deploy
 	cd ../

@@ -1,8 +1,10 @@
-### Indiana Covid-19 Forecast
+## Indiana Covid-19 Forecast
 
 One-week forecasting for Covid-19 cases, deaths, hospital occupancy, and ventilator availability in Indiana.
 
-#### Data sources
+--------------------------
+
+### Data sources
 [Mobility trends from Apple](https://covid19.apple.com/mobility) <br />
 [Mobility trends from Google](https://www.google.com/covid19/mobility/) <br />
 [Time series data from Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) <br />
@@ -18,3 +20,95 @@ One-week forecasting for Covid-19 cases, deaths, hospital occupancy, and ventila
 [Indiana COVID-19 cases by school data from the Indiana Data Hub](https://hub.mph.in.gov/dataset/covid-19-cases-by-school/resource/39239f34-11ff-4dfc-9b9a-a408b0399458) <br />
 [Indiana bed availability by date from the Indiana Data Hub](https://hub.mph.in.gov/dataset/covid-19-bed-and-vent-usage-by-day/resource/0c00f7b6-05b0-4ebe-8722-ccf33e1a314f) <br />
 [Indiana prevention measures and reopening stages data from www.backontrack.in.gov](https://www.backontrack.in.gov/2348.htm)
+
+--------------------------
+
+### Usage
+- [General](#general)
+- [Python scripts](#python_scripts)
+- [Frontend scripts](#frontend_scripts)
+
+<a name="general"></a>
+
+#### General
+
+**`make update-model`** <br/>
+Update datasets and county-level models.
+<br/>
+
+**`make update-frontend`** <br/>
+Rebuild and deploy frontend.
+<br/>
+
+**`make install-model-dependencies`** <br/>
+Install dependencies for compiling new models.
+<br/>
+
+**`make clean`** <br/>
+Remove temp directories.
+<br/>
+
+<a name="python_scripts"></a>
+
+#### Python scripts
+
+**`python3 scripts/model.py`**<br/>
+Rebuild models. <br/>
+Flags:
+- `-d`
+- `--days`
+  - Number of days to forecast predictions for.
+  - _Default: 14_
+  - _Type: int_
+- `-C`
+- `--county`
+  - Specific county to generate model for. `Indiana` generates state-level predictions, `All` generates predictions for all counties.
+  - _Default: Indiana_
+  - _Type: str_
+- `-D`
+- `--train-dir`
+  - Output directory for model files.
+  - _Default: `train/`_
+  - _Type: str_
+- `-o`
+- `--output-dir`
+  - Output directory for data files preformatted for the frontend.
+  - _Default: `frontend/src/data/`_
+  - _Type: str_
+- `-u`
+- `--update-datasets`
+  - Update datasets.
+  - _Default: `False`_
+  - _Type: bool_
+- `-v`
+- `--verbose`
+  - Use verbose console messages.
+  - _Default: `False`_
+  - _Type: bool_
+- `-P`
+- `--plot`
+  - Plot predictions for model being generated.
+  - _Default: `False`_
+  - _Type: bool_
+- `-S`
+- `--smooth-mode`
+  - Show smooth curves if predictions are being plotted. Valid interpolation methods are `polynomial` or `spline`.
+  - _Default: `False`_
+  - _Type: bool_
+<br/>
+
+<a name="frontend_scripts"></a>
+
+#### Frontend scripts
+
+**`yarn serve`** <br/>
+Host a development server at [localhost:3000/](localhost:3000/).
+<br/>
+
+**`yarn build`** <br/>
+Build production bundle to `frontend/build`.
+<br/>
+
+**`yarn deploy`** <br/>
+Build and deploy to [GitHub Pages](https://nbennett320.github.io/indiana-covid19-forecast/).
+<br/>
