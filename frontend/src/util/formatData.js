@@ -1,5 +1,6 @@
 import formatDate from './formatDate'
-const formatData = (data, viewRange, domainLength,) => {
+
+const formatData = (data, viewRange, domainLength) => {
   if(viewRange.includes('month')) {
     const d = formatDate(
       new Date(

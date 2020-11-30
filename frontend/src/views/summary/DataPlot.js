@@ -22,7 +22,6 @@ const DataPlot = props => {
   } = props.format
   const classes = useStyles()
   const percentage = Math.floor(props.predictionLength / (props.domainLength + props.predictionLength) * 100)
-  console.log('percentage:' , percentage)
   return (
     <div className={classes.main}>
       <ResponsiveContainer

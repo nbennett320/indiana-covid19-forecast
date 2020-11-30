@@ -49,6 +49,7 @@ const useStyles = makeStyles(() => ({
     height: '100%',
     backgroundColor: '#fcfcfc',
     paddingTop: '64px',
+    paddingBottom: '64px'
   }
 }))
 

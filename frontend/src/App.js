@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
 import { Route, Switch, Redirect } from 'react-router'
-import { Header, Sidebar } from './components/'
-import { Map, Summary, About } from './views'
+import { Footer, Header, Sidebar } from './components/'
+import { Summary, About } from './views'
 import './assets/css/App.css'
 
 const mql = window.matchMedia(`(max-width: 633px)`)
@@ -62,12 +62,13 @@ const App = () => {
           />
         </Switch>
       </Router>
+      <Footer />
     </div>
   )
 }
 
 const styles = {
-  height: '100vh',
+  height: '100%',
   width: '100%',
 }
 

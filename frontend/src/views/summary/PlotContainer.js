@@ -1,12 +1,17 @@
 import React from 'react'
 import DataPlot from './DataPlot'
+import DataTable from './DataTable'
 import { makeStyles } from '@material-ui/core/styles'
-import { Typography } from '@material-ui/core'
+import { 
+  Typography,
+  Paper
+} from '@material-ui/core'
 import { 
   getRenderedData,
   formatData
 } from '../../util'
 
+const predictionLength = 14
 const animationDuration = 1000
 const animationOffset = 0
 
@@ -32,26 +37,31 @@ const PlotContainer = props => {
     domainLength
   )
   return (
-    <div className={classes.main}>
-      <div className={classes.rowContainer}>
-        <Typography 
-          className={classes.title}
-          variant='h6'
-          color='textPrimary'
-        >
-          { props.format.title }
-        </Typography>
-        
-        <DataPlot 
-          {...props}
-          data={data}
-          predictionLength={14}
-          domainLength={domainLength}
-          animationDuration={animationDuration}
-          animationOffset={animationOffset}
-        />
-      </div>
-    </div>
+    <Paper 
+      elevation={3}
+      className={classes.main}
+    >
+      <Typography 
+        className={classes.title}
+        variant='h6'
+        color='textPrimary'
+      >
+        { props.format.title }
+      </Typography>
+      <DataPlot 
+        {...props}
+        data={data}
+        predictionLength={predictionLength}
+        domainLength={domainLength}
+        animationDuration={animationDuration}
+        animationOffset={animationOffset}
+      />
+      <DataTable 
+        {...props}
+        data={data}
+        predictionLength={predictionLength}
+      />
+    </Paper>
   )
 }
 
@@ -59,15 +69,11 @@ const useStyles = makeStyles(() => ({
   main: {
     width: 'auto',
     height: 'auto',
-    backgroundColor: '#fcfcfc',
+    // backgroundColor: '#fcfcfc',
     display: 'flex',
     flexDirection: 'column',
-    paddingTop: '12px',
-    paddingBttom: '24px'
-  },
-  rowContainer: {
-    display: 'flex',
-    flexDirection: 'column'
+    padding: '48px 0',
+    margin: '24px 3%'
   },
   title: {
     marginLeft: 'auto',
