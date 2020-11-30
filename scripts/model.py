@@ -362,31 +362,31 @@ def preprocess_data():
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
 
-  # if model_county.lower() == 'all':
-  #   cdf = pd.DataFrame(indiana_counties_raw).copy()
-  #   del cdf['location_id']
-  #   for i in cdf['county_name']:
-  #     print_separator()
-  #     print(f'calculating for {i} county...')
-  #     print_separator()
-  #     predict_covid_count(
-  #       county_level_test_case_death_trends_df, 
-  #       county=i
-  #     )
-  #     predict_covid_deaths(
-  #       county_level_test_case_death_trends_df, 
-  #       county=i
-  #     )
-  # else:
-  #   predict_covid_count(
-  #     county_level_test_case_death_trends_df, 
-  #     county=model_county
-  #   )
-  #   predict_covid_deaths(
-  #     county_level_test_case_death_trends_df, 
-  #     county=model_county
-  #   )
-  # predict_hospital_bed_occupancy(hospital_vent_df)
+  if model_county.lower() == 'all':
+    cdf = pd.DataFrame(indiana_counties_raw).copy()
+    del cdf['location_id']
+    for i in cdf['county_name']:
+      print_separator()
+      print(f'calculating for {i} county...')
+      print_separator()
+      predict_covid_count(
+        county_level_test_case_death_trends_df, 
+        county=i
+      )
+      predict_covid_deaths(
+        county_level_test_case_death_trends_df, 
+        county=i
+      )
+  else:
+    predict_covid_count(
+      county_level_test_case_death_trends_df, 
+      county=model_county
+    )
+    predict_covid_deaths(
+      county_level_test_case_death_trends_df, 
+      county=model_county
+    )
+  predict_hospital_bed_occupancy(hospital_vent_df)
   predict_hospital_vent_availability(hospital_vent_df)
 
 ########################################################
