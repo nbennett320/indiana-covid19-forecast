@@ -283,6 +283,9 @@ IT,Italy,,,,,,2020-11-21,-50,-14,-33,-50,-31,15
 IT,Italy,,,,,,2020-11-22,-63,-40,-36,-56,-31,15
 IT,Italy,,,,,,2020-11-23,-38,-12,-21,-47,-30,14
 IT,Italy,,,,,,2020-11-24,-38,-10,-20,-46,-30,14
+IT,Italy,,,,,,2020-11-25,-38,-8,-17,-46,-29,14
+IT,Italy,,,,,,2020-11-26,-38,-8,-21,-45,-29,15
+IT,Italy,,,,,,2020-11-27,-38,-4,-26,-46,-29,15
 IT,Italy,Abruzzo,,,IT-65,,2020-02-15,2,2,36,9,0,-1
 IT,Italy,Abruzzo,,,IT-65,,2020-02-16,2,8,47,26,-1,-2
 IT,Italy,Abruzzo,,,IT-65,,2020-02-17,-1,2,11,7,1,-1
@@ -567,6 +570,9 @@ IT,Italy,Abruzzo,,,IT-65,,2020-11-21,-59,-15,-62,-61,-36,20
 IT,Italy,Abruzzo,,,IT-65,,2020-11-22,-73,-49,-61,-70,-38,19
 IT,Italy,Abruzzo,,,IT-65,,2020-11-23,-44,-15,-31,-46,-30,15
 IT,Italy,Abruzzo,,,IT-65,,2020-11-24,-44,-12,-31,-46,-31,15
+IT,Italy,Abruzzo,,,IT-65,,2020-11-25,-43,-9,-30,-44,-29,15
+IT,Italy,Abruzzo,,,IT-65,,2020-11-26,-43,-9,-30,-44,-28,15
+IT,Italy,Abruzzo,,,IT-65,,2020-11-27,-44,-5,-32,-45,-29,16
 IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-02-15,0,2,31,4,0,-1
 IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-02-16,-1,5,65,33,-3,-1
 IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-02-17,-2,3,8,20,2,-1
@@ -851,6 +857,9 @@ IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-11-21,-58,-14,-61,-55,-36,20
 IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-11-22,-75,-53,-67,-67,-36,19
 IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-11-23,-42,-15,-38,-32,-27,14
 IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-11-24,-41,-10,-38,-39,-30,14
+IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-11-25,-41,-8,-34,-32,-27,14
+IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-11-26,-41,-7,-40,-36,-28,14
+IT,Italy,Abruzzo,Province of Chieti,,IT-CH,,2020-11-27,-41,-3,-32,-33,-27,15
 IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-02-15,6,4,47,20,-1,-1
 IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-02-16,6,10,60,28,0,-2
 IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-02-17,-1,5,7,14,2,-1
@@ -1135,6 +1144,9 @@ IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-11-21,-62,-22,-67,-63,-39,21
 IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-11-22,-74,-51,-68,-79,-37,19
 IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-11-23,-44,-18,-37,-49,-31,16
 IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-11-24,-46,-17,-37,-51,-34,17
+IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-11-25,-44,-13,-30,-46,-33,17
+IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-11-26,-46,-13,-33,-49,-31,17
+IT,Italy,Abruzzo,Province of L'Aquila,,IT-AQ,,2020-11-27,-46,-8,-47,-51,-32,17
 IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-02-15,1,-2,26,-14,0,-1
 IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-02-16,1,-5,29,-9,1,-2
 IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-02-17,-4,0,12,-8,1,0
@@ -1419,6 +1431,9 @@ IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-11-21,-60,-10,-74,-71,-34,21
 IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-11-22,-74,-44,-73,-74,-37,19
 IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-11-23,-46,-10,-41,-58,-29,15
 IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-11-24,-45,-9,-45,-59,-30,15
+IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-11-25,-44,-6,-47,-54,-28,16
+IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-11-26,-43,-9,-40,-53,-28,16
+IT,Italy,Abruzzo,Province of Pescara,,IT-PE,,2020-11-27,-45,-3,-42,-59,-28,17
 IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-02-15,0,2,14,10,-1,-1
 IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-02-16,1,9,40,17,-1,-1
 IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-02-17,-2,1,11,7,1,0
@@ -1703,6 +1718,9 @@ IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-11-21,-60,-12,-42,-64,-35,21
 IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-11-22,-72,-48,-23,-72,-41,20
 IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-11-23,-43,-9,-5,-47,-30,15
 IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-11-24,-45,-9,3,-43,-32,16
+IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-11-25,-45,-8,-8,-39,-30,16
+IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-11-26,-45,-7,-1,-37,-30,16
+IT,Italy,Abruzzo,Province of Teramo,,IT-TE,,2020-11-27,-44,-3,-2,-46,-31,16
 IT,Italy,Aosta,,,IT-23,,2020-02-15,8,5,27,12,2,-1
 IT,Italy,Aosta,,,IT-23,,2020-02-16,9,6,14,14,1,0
 IT,Italy,Aosta,,,IT-23,,2020-02-17,11,8,14,5,1,0
@@ -1987,6 +2005,9 @@ IT,Italy,Aosta,,,IT-23,,2020-11-21,-76,-32,-63,-70,-41,19
 IT,Italy,Aosta,,,IT-23,,2020-11-22,-85,-51,-68,-77,-49,17
 IT,Italy,Aosta,,,IT-23,,2020-11-23,-60,-19,-35,-57,-34,16
 IT,Italy,Aosta,,,IT-23,,2020-11-24,-59,-17,-26,-53,-35,16
+IT,Italy,Aosta,,,IT-23,,2020-11-25,-60,-19,-30,-58,-35,17
+IT,Italy,Aosta,,,IT-23,,2020-11-26,-60,-18,-36,-58,-35,17
+IT,Italy,Aosta,,,IT-23,,2020-11-27,-62,-15,-39,-59,-35,18
 IT,Italy,Apulia,,,IT-75,,2020-02-15,-1,1,4,2,-1,0
 IT,Italy,Apulia,,,IT-75,,2020-02-16,3,0,73,12,-1,-1
 IT,Italy,Apulia,,,IT-75,,2020-02-17,-1,0,13,4,1,-1
@@ -2271,6 +2292,9 @@ IT,Italy,Apulia,,,IT-75,,2020-11-21,-48,-9,-54,-59,-33,17
 IT,Italy,Apulia,,,IT-75,,2020-11-22,-57,-35,-29,-55,-28,15
 IT,Italy,Apulia,,,IT-75,,2020-11-23,-31,-7,-12,-49,-28,12
 IT,Italy,Apulia,,,IT-75,,2020-11-24,-33,-6,-21,-48,-29,12
+IT,Italy,Apulia,,,IT-75,,2020-11-25,-31,-3,-13,-48,-28,12
+IT,Italy,Apulia,,,IT-75,,2020-11-26,-32,-3,-16,-47,-28,12
+IT,Italy,Apulia,,,IT-75,,2020-11-27,-32,1,-17,-49,-28,12
 IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-02-15,-2,-2,8,1,-1,0
 IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-02-16,4,-10,80,12,-2,-2
 IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-02-17,-1,-3,10,4,1,0
@@ -2555,6 +2579,9 @@ IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-11-21,-51,-13,-55,-64,-33
 IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-11-22,-60,-41,-30,-59,-29,16
 IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-11-23,-33,-8,-13,-54,-30,13
 IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-11-24,-36,-7,-21,-54,-31,14
+IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-11-25,-34,-5,-9,-54,-30,13
+IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-11-26,-34,-4,-11,-54,-30,13
+IT,Italy,Apulia,Metropolitan City of Bari,,IT-BA,,2020-11-27,-34,0,-11,-55,-30,13
 IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-02-15,1,2,4,1,-1,-1
 IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-02-16,11,-1,45,19,-2,-3
 IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-02-17,1,-3,4,1,0,0
@@ -2839,6 +2866,9 @@ IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-11-21,-49,-5,-61,
 IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-11-22,-56,-35,-48,-59,-32,16
 IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-11-23,-33,-5,-21,-44,-31,14
 IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-11-24,-33,-1,-17,-49,-30,14
+IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-11-25,-32,-4,-16,-46,-29,14
+IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-11-26,-34,-2,-18,-44,-31,14
+IT,Italy,Apulia,Province of Barletta-Andria-Trani,,IT-BT,,2020-11-27,-33,0,-24,-46,-30,13
 IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-02-15,-2,2,-2,3,-1,1
 IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-02-16,4,-5,83,1,-2,-1
 IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-02-17,-1,0,17,0,1,-1
@@ -3123,6 +3153,9 @@ IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-11-21,-46,-8,-52,-64,-26,16
 IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-11-22,-57,-29,-12,-61,-22,14
 IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-11-23,-27,0,0,-60,-23,11
 IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-11-24,-30,-2,-14,-56,-26,11
+IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-11-25,-29,3,-6,-55,-23,11
+IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-11-26,-29,1,-5,-56,-23,11
+IT,Italy,Apulia,Province of Brindisi,,IT-BR,,2020-11-27,-29,5,-6,-55,-24,11
 IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-02-15,-2,-2,5,0,-1,0
 IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-02-16,3,0,52,15,2,-2
 IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-02-17,-2,-1,5,10,2,-1
@@ -3407,6 +3440,9 @@ IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-11-21,-45,-4,-41,-62,-36,16
 IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-11-22,-58,-26,-25,-62,-30,14
 IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-11-23,-30,-5,-15,-49,-31,12
 IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-11-24,-32,-5,-23,-46,-31,13
+IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-11-25,-33,-3,-20,-50,-32,12
+IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-11-26,-33,-4,-20,-46,-32,12
+IT,Italy,Apulia,Province of Foggia,,IT-FG,,2020-11-27,-31,2,-20,-49,-32,12
 IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-02-15,1,-1,-6,1,1,0
 IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-02-16,0,-1,74,5,1,-1
 IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-02-17,0,0,15,8,2,-1
@@ -3691,6 +3727,9 @@ IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-11-21,-44,-5,-56,-41,-29,16
 IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-11-22,-53,-28,-24,-46,-22,15
 IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-11-23,-26,-2,-15,-27,-23,11
 IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-11-24,-28,-3,-24,-27,-24,12
+IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-11-25,-27,3,-12,-26,-23,11
+IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-11-26,-27,2,-17,-23,-23,11
+IT,Italy,Apulia,Province of Lecce,,IT-LE,,2020-11-27,-28,5,-22,-27,-23,11
 IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-02-15,-4,0,-7,3,-1,1
 IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-02-16,3,0,81,6,-1,-1
 IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-02-17,0,0,10,2,1,0
@@ -3975,6 +4014,9 @@ IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-11-21,-53,-19,-70,-49,-36,18
 IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-11-22,-59,-38,-46,-40,-29,15
 IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-11-23,-31,-7,-26,-42,-31,12
 IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-11-24,-34,-10,-29,-45,-31,13
+IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-11-25,-31,-8,-23,-47,-31,12
+IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-11-26,-34,-6,-21,-42,-31,12
+IT,Italy,Apulia,Province of Taranto,,IT-TA,,2020-11-27,-33,-2,-26,-46,-31,12
 IT,Italy,Basilicata,,,IT-77,,2020-02-15,-1,-1,12,0,-1,0
 IT,Italy,Basilicata,,,IT-77,,2020-02-16,6,1,38,13,1,-1
 IT,Italy,Basilicata,,,IT-77,,2020-02-17,-2,0,10,1,1,-1
@@ -4259,6 +4301,9 @@ IT,Italy,Basilicata,,,IT-77,,2020-11-21,-49,-7,-50,-65,-37,18
 IT,Italy,Basilicata,,,IT-77,,2020-11-22,-59,-38,-39,-60,-29,15
 IT,Italy,Basilicata,,,IT-77,,2020-11-23,-34,-8,-9,-56,-30,13
 IT,Italy,Basilicata,,,IT-77,,2020-11-24,-35,-7,-8,-54,-30,14
+IT,Italy,Basilicata,,,IT-77,,2020-11-25,-34,-3,-4,-51,-29,13
+IT,Italy,Basilicata,,,IT-77,,2020-11-26,-33,-5,-7,-52,-29,13
+IT,Italy,Basilicata,,,IT-77,,2020-11-27,-35,2,-12,-50,-31,13
 IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-02-15,0,-1,20,-5,-1,0
 IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-02-16,7,1,40,21,2,-1
 IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-02-17,-1,1,13,1,1,-1
@@ -4543,6 +4588,9 @@ IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-11-21,-48,-8,-56,-70,-39,20
 IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-11-22,-59,-43,-49,-64,-32,16
 IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-11-23,-31,0,-16,-55,-30,14
 IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-11-24,-32,-2,-12,-56,-32,15
+IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-11-25,-30,0,-8,-49,-29,14
+IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-11-26,-31,-2,-10,-52,-34,13
+IT,Italy,Basilicata,Province of Matera,,IT-MT,,2020-11-27,-33,5,-8,-48,-30,13
 IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-02-15,-2,-2,5,2,0,0
 IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-02-16,4,-2,32,8,0,-2
 IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-02-17,-2,-1,8,-1,0,-1
@@ -4827,6 +4875,9 @@ IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-11-21,-49,-10,-44,-61,-33,1
 IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-11-22,-60,-35,-33,-59,-28,15
 IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-11-23,-35,-9,-7,-56,-29,13
 IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-11-24,-38,-9,-8,-52,-31,14
+IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-11-25,-35,-6,-4,-51,-29,13
+IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-11-26,-37,-10,-7,-49,-29,13
+IT,Italy,Basilicata,Province of Potenza,,IT-PZ,,2020-11-27,-37,-2,-14,-51,-29,13
 IT,Italy,Calabria,,,IT-78,,2020-02-15,-2,-2,12,3,1,0
 IT,Italy,Calabria,,,IT-78,,2020-02-16,3,2,32,8,-1,-1
 IT,Italy,Calabria,,,IT-78,,2020-02-17,-1,-1,18,5,1,0
@@ -5111,6 +5162,9 @@ IT,Italy,Calabria,,,IT-78,,2020-11-21,-58,-23,-52,-57,-42,19
 IT,Italy,Calabria,,,IT-78,,2020-11-22,-70,-46,-50,-64,-35,16
 IT,Italy,Calabria,,,IT-78,,2020-11-23,-43,-17,-25,-49,-39,16
 IT,Italy,Calabria,,,IT-78,,2020-11-24,-42,-15,-16,-47,-38,15
+IT,Italy,Calabria,,,IT-78,,2020-11-25,-42,-10,-21,-44,-37,15
+IT,Italy,Calabria,,,IT-78,,2020-11-26,-41,-9,-16,-42,-36,15
+IT,Italy,Calabria,,,IT-78,,2020-11-27,-41,-7,-14,-44,-36,15
 IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-02-15,-1,-3,15,0,4,0
 IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-02-16,3,-17,38,0,-2,-1
 IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-02-17,0,-3,18,6,2,0
@@ -5395,6 +5449,9 @@ IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-11-21,-58,-20,-58,-68,-39,1
 IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-11-22,-75,-52,-46,-73,-40,16
 IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-11-23,-43,-16,-36,-65,-39,16
 IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-11-24,-42,-11,-21,-63,-39,16
+IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-11-25,-41,-9,-28,-64,-36,15
+IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-11-26,-42,-9,-36,-63,-38,16
+IT,Italy,Calabria,Province of Catanzaro,,IT-CZ,,2020-11-27,-42,-2,-33,-60,-38,15
 IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-02-15,-1,-4,8,3,1,0
 IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-02-16,3,-5,25,12,-1,-1
 IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-02-17,-2,-4,15,5,1,-1
@@ -5679,6 +5736,9 @@ IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-11-21,-61,-25,-61,-65,-41,21
 IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-11-22,-72,-45,-64,-68,-37,17
 IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-11-23,-44,-15,-22,-48,-38,16
 IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-11-24,-44,-15,-23,-46,-38,16
+IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-11-25,-44,-11,-25,-45,-36,16
+IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-11-26,-43,-11,-22,-44,-35,15
+IT,Italy,Calabria,Province of Cosenza,,IT-CS,,2020-11-27,-43,-9,-25,-47,-34,15
 IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-02-15,-3,-3,15,-23,0,1
 IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-02-16,8,-4,38,,0,0
 IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-02-17,-1,3,42,,4,-1
@@ -5963,6 +6023,9 @@ IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-11-21,-77,-49,-69,-64,-63,24
 IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-11-22,-84,-75,-69,,-49,19
 IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-11-23,-42,1,-34,-21,-46,16
 IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-11-24,-40,-10,-38,-32,-42,15
+IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-11-25,-38,0,-28,-26,-40,14
+IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-11-26,-38,-4,-34,-28,-40,14
+IT,Italy,Calabria,Province of Crotone,,IT-KR,,2020-11-27,-40,5,-29,-30,-40,14
 IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-02-15,-3,-5,14,0,-3,0
 IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-02-16,0,-7,32,7,-2,0
 IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-02-17,-2,-2,18,3,0,0
@@ -6247,6 +6310,9 @@ IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-11-21,-50,-13,-40,-47
 IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-11-22,-63,-39,-40,-58,-31,15
 IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-11-23,-44,-16,-11,-46,-41,16
 IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-11-24,-41,-14,-2,-40,-40,16
+IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-11-25,-41,-9,-15,-36,-39,16
+IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-11-26,-39,-7,6,-36,-36,15
+IT,Italy,Calabria,Province of Reggio Calabria,,IT-RC,,2020-11-27,-38,-7,-2,-38,-38,15
 IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-02-15,-1,-16,22,6,7,0
 IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-02-16,2,-34,54,,-2,0
 IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-02-17,4,-7,17,,2,-1
@@ -6531,6 +6597,9 @@ IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-11-21,-53,-13,-40,-3,-2
 IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-11-22,-67,-52,-42,,-24,15
 IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-11-23,-42,-15,-35,,-33,16
 IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-11-24,-40,-10,-3,,-32,15
+IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-11-25,-40,-6,-22,,-32,16
+IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-11-26,-41,-8,-6,,-33,15
+IT,Italy,Calabria,Province of Vibo Valentia,,IT-VV,,2020-11-27,-42,-11,-11,,-31,15
 IT,Italy,Campania,,,IT-72,,2020-02-15,2,-1,23,10,0,-2
 IT,Italy,Campania,,,IT-72,,2020-02-16,1,-1,30,17,1,-2
 IT,Italy,Campania,,,IT-72,,2020-02-17,-1,-1,3,5,1,-1
@@ -6815,6 +6884,9 @@ IT,Italy,Campania,,,IT-72,,2020-11-21,-60,-13,-65,-65,-39,18
 IT,Italy,Campania,,,IT-72,,2020-11-22,-70,-33,-66,-70,-39,17
 IT,Italy,Campania,,,IT-72,,2020-11-23,-47,-16,-39,-55,-39,16
 IT,Italy,Campania,,,IT-72,,2020-11-24,-46,-11,-36,-54,-39,16
+IT,Italy,Campania,,,IT-72,,2020-11-25,-45,-8,-35,-53,-38,16
+IT,Italy,Campania,,,IT-72,,2020-11-26,-45,-10,-36,-53,-38,16
+IT,Italy,Campania,,,IT-72,,2020-11-27,-46,-4,-38,-53,-38,16
 IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-02-15,4,-1,26,11,0,-2
 IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-02-16,0,-5,37,18,1,-2
 IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-02-17,-1,-1,5,6,2,-1
@@ -7099,6 +7171,9 @@ IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-11-21,-60,-13,-66,-68
 IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-11-22,-70,-31,-66,-72,-40,17
 IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-11-23,-47,-16,-42,-60,-41,17
 IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-11-24,-45,-11,-38,-60,-41,17
+IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-11-25,-45,-9,-37,-58,-39,17
+IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-11-26,-45,-11,-38,-58,-39,17
+IT,Italy,Campania,Metropolitan City of Naples,,IT-NA,,2020-11-27,-46,-4,-40,-59,-39,17
 IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-02-15,-4,-10,2,3,-9,0
 IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-02-16,5,-5,25,9,2,-2
 IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-02-17,-2,-2,-4,5,0,0
@@ -7383,6 +7458,9 @@ IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-11-21,-61,-12,-70,-68,-43,21
 IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-11-22,-71,-37,-68,-76,-36,18
 IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-11-23,-47,-12,-39,-59,-38,16
 IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-11-24,-49,-12,-44,-56,-38,16
+IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-11-25,-47,-6,-38,-55,-36,16
+IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-11-26,-47,-7,-37,-52,-37,17
+IT,Italy,Campania,Province of Avellino,,IT-AV,,2020-11-27,-47,-5,-44,-51,-36,16
 IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-02-15,3,-5,15,8,-1,-2
 IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-02-16,-4,-3,26,10,0,-1
 IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-02-17,-2,-4,-7,1,1,-1
@@ -7667,6 +7745,9 @@ IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-11-21,-58,-16,-58,-66,-40,1
 IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-11-22,-73,-43,-60,-61,-39,17
 IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-11-23,-45,-22,-29,-64,-39,15
 IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-11-24,-45,-18,-35,-62,-38,16
+IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-11-25,-45,-12,-33,-63,-36,15
+IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-11-26,-44,-15,-34,-63,-37,15
+IT,Italy,Campania,Province of Benevento,,IT-BN,,2020-11-27,-44,-9,-39,-60,-37,16
 IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-02-15,0,-3,18,12,-1,-1
 IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-02-16,-3,-1,25,10,-1,-2
 IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-02-17,-3,1,11,4,1,-1
@@ -7951,6 +8032,9 @@ IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-11-21,-63,-20,-70,-62,-40,20
 IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-11-22,-74,-39,-67,-70,-36,18
 IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-11-23,-46,-14,-31,-48,-38,16
 IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-11-24,-46,-11,-29,-49,-39,17
+IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-11-25,-46,-8,-31,-49,-38,16
+IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-11-26,-46,-10,-39,-48,-38,17
+IT,Italy,Campania,Province of Caserta,,IT-CE,,2020-11-27,-48,-4,-38,-47,-37,17
 IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-02-15,-1,-2,20,4,-1,-1
 IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-02-16,3,-2,45,17,-1,-2
 IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-02-17,-1,-1,8,0,1,-1
@@ -8235,6 +8319,9 @@ IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-11-21,-60,-10,-59,-58,-37,20
 IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-11-22,-71,-33,-57,-59,-38,18
 IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-11-23,-45,-10,-27,-42,-35,16
 IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-11-24,-44,-7,-24,-40,-35,16
+IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-11-25,-44,-6,-22,-41,-34,16
+IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-11-26,-44,-5,-24,-41,-35,17
+IT,Italy,Campania,Province of Salerno,,IT-SA,,2020-11-27,-46,-1,-27,-41,-34,16
 IT,Italy,Emilia-Romagna,,,IT-45,,2020-02-15,5,4,25,7,1,-2
 IT,Italy,Emilia-Romagna,,,IT-45,,2020-02-16,1,6,39,5,0,-2
 IT,Italy,Emilia-Romagna,,,IT-45,,2020-02-17,1,2,14,5,4,-1
@@ -8519,6 +8606,9 @@ IT,Italy,Emilia-Romagna,,,IT-45,,2020-11-21,-53,-7,-19,-51,-28,16
 IT,Italy,Emilia-Romagna,,,IT-45,,2020-11-22,-71,-39,-17,-60,-33,16
 IT,Italy,Emilia-Romagna,,,IT-45,,2020-11-23,-34,-6,-7,-44,-21,12
 IT,Italy,Emilia-Romagna,,,IT-45,,2020-11-24,-37,-5,-9,-44,-24,14
+IT,Italy,Emilia-Romagna,,,IT-45,,2020-11-25,-37,-5,-5,-43,-22,14
+IT,Italy,Emilia-Romagna,,,IT-45,,2020-11-26,-37,-6,-14,-44,-22,14
+IT,Italy,Emilia-Romagna,,,IT-45,,2020-11-27,-37,2,-25,-45,-22,15
 IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-02-15,4,2,19,9,1,-1
 IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-02-16,-2,4,11,0,-1,-2
 IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-02-17,-1,4,28,7,0,-1
@@ -8803,6 +8893,9 @@ IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-11-21,-55,-10,
 IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-11-22,-73,-39,-25,-66,-33,15
 IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-11-23,-37,-2,-17,-50,-26,14
 IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-11-24,-39,-3,-18,-48,-26,16
+IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-11-25,-40,-4,-16,-49,-26,16
+IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-11-26,-40,-3,-25,-49,-26,16
+IT,Italy,Emilia-Romagna,Metropolitan City of Bologna,,IT-BO,,2020-11-27,-39,4,-33,-50,-26,17
 IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-02-15,5,-7,33,-4,3,-2
 IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-02-16,6,-12,88,-9,4,-2
 IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-02-17,3,-1,9,-6,5,-1
@@ -9087,6 +9180,9 @@ IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-11-21,-55,-20,-14,-51,-
 IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-11-22,-72,-53,-12,-55,-31,15
 IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-11-23,-32,-7,-6,-43,-18,10
 IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-11-24,-34,-13,4,-44,-20,11
+IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-11-25,-37,-12,-1,-41,-20,12
+IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-11-26,-36,-12,-8,-43,-19,13
+IT,Italy,Emilia-Romagna,Province of Ferrara,,IT-FE,,2020-11-27,-35,-7,-20,-46,-23,13
 IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-02-15,2,2,25,3,1,-1
 IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-02-16,2,1,35,3,0,-2
 IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-02-17,2,4,14,2,5,-1
@@ -9371,6 +9467,9 @@ IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-11-21,-52,-12,-22
 IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-11-22,-69,-46,-17,-52,-32,16
 IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-11-23,-28,-5,1,-35,-15,11
 IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-11-24,-31,-1,-9,-36,-18,12
+IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-11-25,-31,-4,-2,-36,-18,12
+IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-11-26,-33,-3,-11,-35,-19,13
+IT,Italy,Emilia-Romagna,Province of Forlì-Cesena,,IT-FC,,2020-11-27,-32,2,-20,-37,-19,14
 IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-02-15,5,3,21,7,1,-2
 IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-02-16,-4,7,26,13,0,-1
 IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-02-17,0,4,17,4,1,-1
@@ -9655,6 +9754,9 @@ IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-11-21,-53,-11,-10,-53,-2
 IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-11-22,-72,-42,-10,-61,-31,17
 IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-11-23,-35,-4,1,-43,-23,13
 IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-11-24,-37,-5,-2,-43,-23,14
+IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-11-25,-39,-3,-7,-43,-22,14
+IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-11-26,-40,-7,-13,-44,-22,15
+IT,Italy,Emilia-Romagna,Province of Modena,,IT-MO,,2020-11-27,-39,4,-22,-44,-22,16
 IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-02-15,2,2,33,5,-2,-2
 IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-02-16,-7,2,24,3,-2,-1
 IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-02-17,-3,3,-1,1,4,-1
@@ -9939,6 +10041,9 @@ IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-11-21,-57,-10,-10,-52,-32
 IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-11-22,-75,-39,-29,-60,-32,16
 IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-11-23,-37,-8,-15,-41,-20,12
 IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-11-24,-37,-9,-8,-41,-24,14
+IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-11-25,-39,-8,-14,-41,-20,14
+IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-11-26,-40,-7,-20,-41,-21,14
+IT,Italy,Emilia-Romagna,Province of Parma,,IT-PR,,2020-11-27,-38,0,-26,-46,-21,15
 IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-02-15,5,0,46,13,-1,-2
 IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-02-16,3,0,22,11,-2,-2
 IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-02-17,1,-1,2,5,1,0
@@ -10223,6 +10328,9 @@ IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-11-21,-52,-10,1,-30,-2
 IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-11-22,-69,-35,-22,-47,-31,15
 IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-11-23,-31,-2,5,-26,-18,12
 IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-11-24,-34,-5,5,-24,-18,13
+IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-11-25,-35,3,-2,-22,-19,13
+IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-11-26,-36,-1,-1,-25,-18,13
+IT,Italy,Emilia-Romagna,Province of Piacenza,,IT-PC,,2020-11-27,-37,6,-12,-26,-19,14
 IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-02-15,2,1,38,10,1,-1
 IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-02-16,7,1,54,9,0,-1
 IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-02-17,2,1,28,5,2,-1
@@ -10507,6 +10615,9 @@ IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-11-21,-51,0,-20,-46,-29
 IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-11-22,-68,-33,-18,-57,-30,16
 IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-11-23,-30,2,8,-37,-19,12
 IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-11-24,-34,-1,-7,-37,-20,13
+IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-11-25,-33,0,-10,-35,-20,13
+IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-11-26,-35,-2,-13,-35,-20,14
+IT,Italy,Emilia-Romagna,Province of Ravenna,,IT-RA,,2020-11-27,-34,7,-19,-34,-20,14
 IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-02-15,3,0,26,9,0,-1
 IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-02-16,7,1,55,26,3,-2
 IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-02-17,3,3,3,7,1,-1
@@ -10791,6 +10902,9 @@ IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-11-21,-54,-10,-11
 IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-11-22,-71,-39,-7,-56,-31,17
 IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-11-23,-39,-3,46,-47,-25,13
 IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-11-24,-48,-13,18,-55,-38,19
+IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-11-25,-38,-5,34,-49,-23,14
+IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-11-26,-38,-8,19,-46,-21,14
+IT,Italy,Emilia-Romagna,Province of Reggio Emilia,,IT-RE,,2020-11-27,-41,1,-31,-49,-21,15
 IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-02-15,7,0,48,11,1,-2
 IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-02-16,4,2,33,14,1,-1
 IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-02-17,6,2,14,13,4,-2
@@ -11075,6 +11189,9 @@ IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-11-21,-53,2,-29,-53,-31,
 IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-11-22,-68,-29,-34,-61,-40,17
 IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-11-23,-29,-2,-3,-33,-23,11
 IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-11-24,-29,-1,-13,-35,-23,13
+IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-11-25,-30,-5,11,-31,-22,13
+IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-11-26,-31,-3,-15,-36,-22,13
+IT,Italy,Emilia-Romagna,Province of Rimini,,IT-RN,,2020-11-27,-31,4,-19,-38,-24,14
 IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-02-15,3,1,45,10,1,-1
 IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-02-16,5,5,36,12,1,-1
 IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-02-17,0,1,3,1,0,0
@@ -11359,6 +11476,9 @@ IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-11-21,-55,-13,-9,-42,-30,17
 IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-11-22,-71,-41,-18,-47,-32,16
 IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-11-23,-43,-10,-1,-36,-24,14
 IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-11-24,-43,-6,-3,-34,-24,14
+IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-11-25,-45,-6,-10,-34,-24,15
+IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-11-26,-45,-6,-10,-33,-25,15
+IT,Italy,Friuli-Venezia Giulia,,,IT-36,,2020-11-27,-44,0,-17,-32,-25,16
 IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-02-15,1,-1,101,23,-1,-2
 IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-02-16,6,3,67,27,7,-2
 IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-02-17,1,0,11,3,-1,0
@@ -11643,6 +11763,9 @@ IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-11-21,-61,-13,19
 IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-11-22,-77,-42,-41,-68,-33,17
 IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-11-23,-42,-8,8,-50,-27,13
 IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-11-24,-44,-7,18,-47,-27,15
+IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-11-25,-45,-6,-1,-48,-26,15
+IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-11-26,-44,-7,-7,-45,-25,15
+IT,Italy,Friuli-Venezia Giulia,Province of Gorizia,,IT-GO,,2020-11-27,-42,-1,-14,-45,-28,16
 IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-02-15,5,-3,19,12,1,-1
 IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-02-16,0,-3,15,9,0,-1
 IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-02-17,-2,0,-20,-1,-2,1
@@ -11927,6 +12050,9 @@ IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-11-21,-56,-21,
 IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-11-22,-72,-52,-16,-39,-29,17
 IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-11-23,-40,-13,11,-39,-22,13
 IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-11-24,-42,-10,24,-33,-24,13
+IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-11-25,-44,-11,-6,-35,-21,13
+IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-11-26,-47,-13,1,-32,-23,14
+IT,Italy,Friuli-Venezia Giulia,Province of Pordenone,,IT-PN,,2020-11-27,-42,-4,-13,-34,-24,15
 IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-02-15,0,-2,25,16,1,-1
 IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-02-16,4,-1,18,27,-1,-1
 IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-02-17,-1,1,-9,7,1,1
@@ -12211,6 +12337,9 @@ IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-11-21,-59,-15,-26,
 IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-11-22,-75,-45,-33,-50,-33,18
 IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-11-23,-47,-11,-11,-37,-23,15
 IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-11-24,-46,-7,-6,-34,-22,15
+IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-11-25,-47,-4,-9,-36,-23,15
+IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-11-26,-47,-6,-14,-35,-23,16
+IT,Italy,Friuli-Venezia Giulia,Province of Udine,,IT-UD,,2020-11-27,-47,-1,-23,-31,-24,17
 IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-02-15,4,3,57,11,0,-2
 IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-02-16,3,2,48,15,2,-3
 IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-02-17,2,2,8,5,1,0
@@ -12495,6 +12624,9 @@ IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-11-21,-47,3,4,-34,-24,1
 IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-11-22,-61,-25,8,-33,-30,12
 IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-11-23,-38,2,-3,-27,-31,14
 IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-11-24,-38,0,-11,-31,-29,15
+IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-11-25,-43,-1,-6,-28,-29,16
+IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-11-26,-42,2,-6,-27,-30,15
+IT,Italy,Friuli-Venezia Giulia,UTI Giuliana,,IT-TS,,2020-11-27,-38,6,-8,-29,-28,16
 IT,Italy,Lazio,,,IT-62,,2020-02-15,4,-1,43,9,1,-2
 IT,Italy,Lazio,,,IT-62,,2020-02-16,6,1,37,8,1,-3
 IT,Italy,Lazio,,,IT-62,,2020-02-17,1,1,13,3,2,-1
@@ -12779,6 +12911,9 @@ IT,Italy,Lazio,,,IT-62,,2020-11-21,-34,-4,-14,-42,-20,10
 IT,Italy,Lazio,,,IT-62,,2020-11-22,-40,-20,-9,-50,-18,8
 IT,Italy,Lazio,,,IT-62,,2020-11-23,-24,-7,-24,-48,-32,13
 IT,Italy,Lazio,,,IT-62,,2020-11-24,-24,-5,-24,-47,-32,13
+IT,Italy,Lazio,,,IT-62,,2020-11-25,-26,-4,-27,-47,-31,13
+IT,Italy,Lazio,,,IT-62,,2020-11-26,-26,-3,-25,-46,-31,13
+IT,Italy,Lazio,,,IT-62,,2020-11-27,-26,1,-26,-44,-30,13
 IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-02-15,2,-1,39,8,1,-2
 IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-02-16,4,1,36,7,0,-3
 IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-02-17,1,1,14,3,1,-1
@@ -13063,6 +13198,9 @@ IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-11-21,-36,-4,-19,-42,-20,1
 IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-11-22,-42,-19,-12,-49,-19,8
 IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-11-23,-25,-8,-29,-48,-35,14
 IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-11-24,-25,-5,-28,-47,-34,14
+IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-11-25,-27,-5,-32,-48,-34,14
+IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-11-26,-26,-3,-29,-46,-33,14
+IT,Italy,Lazio,Metropolitan City of Rome,,IT-RM,,2020-11-27,-26,1,-31,-44,-32,13
 IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-02-15,3,-2,18,-14,2,-2
 IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-02-16,10,-1,19,-24,1,-2
 IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-02-17,3,1,1,-21,3,-1
@@ -13347,6 +13485,9 @@ IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-11-21,-35,-3,-13,-61,-21,10
 IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-11-22,-37,-27,11,-71,-17,9
 IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-11-23,-22,-3,-9,-51,-21,9
 IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-11-24,-24,-2,5,-52,-24,10
+IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-11-25,-23,1,1,-54,-22,9
+IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-11-26,-25,1,-10,-52,-22,10
+IT,Italy,Lazio,Province of Frosinone,,IT-FR,,2020-11-27,-24,5,-8,-52,-23,10
 IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-02-15,7,1,55,11,3,-2
 IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-02-16,9,2,53,7,1,-2
 IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-02-17,1,0,7,4,2,-1
@@ -13631,6 +13772,9 @@ IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-11-21,-26,-3,10,-48,-21,11
 IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-11-22,-32,-23,3,-53,-13,9
 IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-11-23,-15,-2,32,-41,-23,10
 IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-11-24,-16,-2,38,-44,-23,10
+IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-11-25,-17,2,36,-45,-22,10
+IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-11-26,-18,1,24,-43,-23,10
+IT,Italy,Lazio,Province of Latina,,IT-LT,,2020-11-27,-18,7,19,-45,-21,10
 IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-02-15,10,-1,43,10,1,-2
 IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-02-16,18,5,53,24,3,-2
 IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-02-17,3,1,21,6,2,0
@@ -13915,6 +14059,9 @@ IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-11-21,-27,2,22,-27,-18,10
 IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-11-22,-29,-14,38,-39,-15,10
 IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-11-23,-21,0,31,-24,-24,11
 IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-11-24,-20,-4,35,-23,-24,11
+IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-11-25,-21,-3,25,-22,-24,11
+IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-11-26,-22,-4,18,-26,-23,11
+IT,Italy,Lazio,Province of Rieti,,IT-RI,,2020-11-27,-22,3,15,-27,-23,11
 IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-02-15,8,-3,21,22,1,-2
 IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-02-16,20,3,35,52,6,-2
 IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-02-17,0,0,-2,4,2,0
@@ -14199,6 +14346,9 @@ IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-11-21,-29,-3,-33,-42,-20,11
 IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-11-22,-31,-24,-7,-43,-18,9
 IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-11-23,-20,-7,-21,-36,-22,9
 IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-11-24,-19,-3,-18,-35,-21,9
+IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-11-25,-19,-2,-22,-34,-20,10
+IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-11-26,-20,-5,-24,-31,-22,10
+IT,Italy,Lazio,Province of Viterbo,,IT-VT,,2020-11-27,-21,3,-31,-34,-19,10
 IT,Italy,Liguria,,,IT-42,,2020-02-15,3,2,41,8,1,-1
 IT,Italy,Liguria,,,IT-42,,2020-02-16,0,3,-10,2,-1,0
 IT,Italy,Liguria,,,IT-42,,2020-02-17,-5,-4,-20,-2,-2,1
@@ -14483,6 +14633,9 @@ IT,Italy,Liguria,,,IT-42,,2020-11-21,-48,-10,-33,-39,-24,14
 IT,Italy,Liguria,,,IT-42,,2020-11-22,-58,-26,-38,-48,-30,13
 IT,Italy,Liguria,,,IT-42,,2020-11-23,-34,-8,-11,-34,-28,12
 IT,Italy,Liguria,,,IT-42,,2020-11-24,-35,-5,-9,-34,-29,13
+IT,Italy,Liguria,,,IT-42,,2020-11-25,-36,-4,-11,-33,-26,13
+IT,Italy,Liguria,,,IT-42,,2020-11-26,-36,-3,-9,-33,-28,14
+IT,Italy,Liguria,,,IT-42,,2020-11-27,-34,1,-9,-36,-28,14
 IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-02-15,-1,-1,36,5,0,-2
 IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-02-16,-7,-2,-32,-6,-3,1
 IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-02-17,-8,-6,-23,-3,-3,1
@@ -14767,6 +14920,9 @@ IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-11-21,-47,-5,-24,-37,-2
 IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-11-22,-58,-20,-38,-47,-28,13
 IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-11-23,-35,-9,1,-36,-31,13
 IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-11-24,-38,-6,-7,-38,-31,14
+IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-11-25,-36,-3,-1,-35,-29,14
+IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-11-26,-37,-4,0,-35,-29,14
+IT,Italy,Liguria,Metropolitan City of Genoa,,IT-GE,,2020-11-27,-36,2,-4,-38,-31,15
 IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-02-15,6,3,35,6,0,-1
 IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-02-16,1,1,4,6,1,0
 IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-02-17,-9,0,-16,-2,0,1
@@ -15051,6 +15207,9 @@ IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-11-21,-49,-19,-29,-57,-23,13
 IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-11-22,-58,-34,-26,-61,-32,14
 IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-11-23,-38,-11,-8,-47,-20,11
 IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-11-24,-36,-11,-1,-45,-20,12
+IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-11-25,-37,-7,-14,-44,-20,12
+IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-11-26,-37,-7,-14,-46,-29,14
+IT,Italy,Liguria,Province of Imperia,,IT-IM,,2020-11-27,-36,-7,-10,-47,-22,12
 IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-02-15,4,-2,50,23,1,-2
 IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-02-16,0,4,33,19,2,-1
 IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-02-17,-3,0,-12,2,1,0
@@ -15335,6 +15494,9 @@ IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-11-21,-51,-16,-47,-37,-25,15
 IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-11-22,-63,-37,-36,-46,-25,14
 IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-11-23,-33,-9,-20,-25,-23,12
 IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-11-24,-34,-5,-7,-21,-21,13
+IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-11-25,-35,-5,-30,-25,-19,14
+IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-11-26,-34,-4,-25,-21,-21,14
+IT,Italy,Liguria,Province of La Spezia,,IT-SP,,2020-11-27,-34,-1,-15,-27,-19,13
 IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-02-15,9,5,49,20,4,-1
 IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-02-16,11,8,13,19,3,0
 IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-02-17,-6,0,-16,2,-3,1
@@ -15619,6 +15781,9 @@ IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-11-21,-49,-9,-52,-48,-25,16
 IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-11-22,-57,-23,-49,-60,-32,15
 IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-11-23,-34,2,-22,-27,-28,12
 IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-11-24,-34,2,-20,-26,-28,13
+IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-11-25,-32,5,-15,-27,-25,13
+IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-11-26,-33,5,-22,-28,-25,13
+IT,Italy,Liguria,Province of Savona,,IT-SV,,2020-11-27,-34,5,-36,-34,-27,14
 IT,Italy,Lombardy,,,IT-25,,2020-02-15,2,-1,50,8,-2,-1
 IT,Italy,Lombardy,,,IT-25,,2020-02-16,-1,2,13,2,0,-1
 IT,Italy,Lombardy,,,IT-25,,2020-02-17,-3,-2,-14,1,0,0
@@ -15903,6 +16068,9 @@ IT,Italy,Lombardy,,,IT-25,,2020-11-21,-59,-21,-27,-59,-35,18
 IT,Italy,Lombardy,,,IT-25,,2020-11-22,-71,-41,-39,-66,-36,17
 IT,Italy,Lombardy,,,IT-25,,2020-11-23,-50,-20,-24,-58,-35,17
 IT,Italy,Lombardy,,,IT-25,,2020-11-24,-49,-16,-12,-56,-35,18
+IT,Italy,Lombardy,,,IT-25,,2020-11-25,-50,-14,-21,-56,-34,18
+IT,Italy,Lombardy,,,IT-25,,2020-11-26,-50,-16,-27,-56,-34,18
+IT,Italy,Lombardy,,,IT-25,,2020-11-27,-51,-13,-37,-57,-34,19
 IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-02-15,-1,-2,32,3,-1,-1
 IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-02-16,-5,-1,10,-3,-1,-1
 IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-02-17,-3,-4,-20,1,0,0
@@ -16187,6 +16355,9 @@ IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-11-21,-62,-18,-12,-61,
 IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-11-22,-73,-34,-20,-70,-37,17
 IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-11-23,-55,-17,-24,-61,-44,21
 IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-11-24,-55,-15,-12,-60,-44,21
+IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-11-25,-55,-12,-20,-60,-42,22
+IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-11-26,-55,-15,-26,-60,-43,22
+IT,Italy,Lombardy,Metropolitan City of Milan,,IT-MI,,2020-11-27,-55,-11,-38,-61,-42,23
 IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-02-15,4,-7,28,8,-1,-1
 IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-02-16,0,-11,8,2,-2,-1
 IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-02-17,-2,-6,-9,1,0,0
@@ -16471,6 +16642,9 @@ IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-11-21,-59,-21,-33,-57,-32,18
 IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-11-22,-71,-46,-46,-64,-32,17
 IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-11-23,-46,-15,-19,-58,-27,14
 IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-11-24,-45,-15,-7,-54,-26,15
+IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-11-25,-46,-13,-15,-54,-25,15
+IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-11-26,-46,-13,-23,-56,-27,15
+IT,Italy,Lombardy,Province of Bergamo,,IT-BG,,2020-11-27,-48,-9,-33,-57,-27,16
 IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-02-15,4,-4,134,38,-11,-1
 IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-02-16,-1,2,19,13,0,-2
 IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-02-17,-2,3,-3,3,1,0
@@ -16755,6 +16929,9 @@ IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-11-21,-59,-19,-41,-53,-32,18
 IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-11-22,-73,-44,-56,-60,-34,17
 IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-11-23,-46,-13,-17,-45,-24,13
 IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-11-24,-44,-13,-8,-41,-24,14
+IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-11-25,-46,-13,-19,-43,-23,14
+IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-11-26,-47,-11,-22,-42,-23,14
+IT,Italy,Lombardy,Province of Brescia,,IT-BS,,2020-11-27,-49,-9,-33,-43,-24,16
 IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-02-15,1,-6,39,16,0,-1
 IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-02-16,-1,-4,17,12,0,-1
 IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-02-17,-4,-4,-10,0,0,1
@@ -17039,6 +17216,9 @@ IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-11-21,-62,-32,-44,-57,-38,20
 IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-11-22,-74,-54,-52,-62,-41,18
 IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-11-23,-50,-25,-14,-52,-33,18
 IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-11-24,-48,-25,-10,-51,-34,18
+IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-11-25,-50,-23,-6,-51,-33,18
+IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-11-26,-50,-23,-26,-50,-33,18
+IT,Italy,Lombardy,Province of Como,,IT-CO,,2020-11-27,-50,-20,-22,-49,-33,20
 IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-02-15,3,-5,22,17,1,-1
 IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-02-16,6,-6,32,22,0,-1
 IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-02-17,-2,-2,-10,2,0,0
@@ -17323,6 +17503,9 @@ IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-11-21,-56,-19,-34,-42,-31,16
 IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-11-22,-73,-45,-42,-42,-34,16
 IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-11-23,-45,-14,-27,-44,-25,13
 IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-11-24,-42,-9,-20,-43,-26,14
+IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-11-25,-44,-9,-33,-42,-24,14
+IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-11-26,-44,-8,-31,-43,-26,14
+IT,Italy,Lombardy,Province of Cremona,,IT-CR,,2020-11-27,-45,-5,-39,-48,-25,16
 IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-02-15,5,-7,49,11,1,-1
 IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-02-16,1,-7,8,11,-2,-1
 IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-02-17,-2,-4,-11,-1,1,0
@@ -17607,6 +17790,9 @@ IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-11-21,-58,-23,-47,-57,-34,20
 IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-11-22,-71,-42,-66,-59,-35,18
 IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-11-23,-46,-16,-27,-47,-28,16
 IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-11-24,-45,-17,-19,-46,-26,17
+IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-11-25,-45,-14,-25,-47,-25,17
+IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-11-26,-44,-11,-29,-47,-25,17
+IT,Italy,Lombardy,Province of Lecco,,IT-LC,,2020-11-27,-46,-14,-34,-45,-28,18
 IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-02-15,7,-13,13,4,1,-1
 IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-02-16,3,-27,36,10,1,-1
 IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-02-17,2,-12,-16,0,0,0
@@ -17891,6 +18077,9 @@ IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-11-21,-48,-31,-37,-56,-34,16
 IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-11-22,-61,-57,-40,-66,-33,16
 IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-11-23,-35,-25,-37,-53,-34,15
 IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-11-24,-36,-24,-44,-55,-33,16
+IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-11-25,-37,-22,-39,-53,-32,16
+IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-11-26,-37,-23,-47,-52,-31,16
+IT,Italy,Lombardy,Province of Lodi,,IT-LO,,2020-11-27,-39,-19,-57,-53,-31,18
 IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-02-15,8,2,60,13,0,-1
 IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-02-16,9,5,53,23,2,-2
 IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-02-17,-1,4,9,4,2,0
@@ -18175,6 +18364,9 @@ IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-11-21,-58,-15,-43,-47,-31,18
 IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-11-22,-72,-39,-54,-53,-33,18
 IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-11-23,-47,-11,-31,-39,-22,13
 IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-11-24,-46,-7,-26,-40,-23,13
+IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-11-25,-50,-8,-29,-39,-23,14
+IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-11-26,-51,-10,-51,-42,-23,15
+IT,Italy,Lombardy,Province of Mantua,,IT-MN,,2020-11-27,-51,-6,-48,-41,-24,15
 IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-02-15,-1,-3,41,0,-1,-1
 IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-02-16,-4,-3,18,11,-1,-1
 IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-02-17,-5,-1,-21,4,0,0
@@ -18459,6 +18651,9 @@ IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-11-21,-58,-25,-16,-
 IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-11-22,-71,-44,-32,-54,-35,18
 IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-11-23,-46,-19,-28,-57,-37,19
 IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-11-24,-45,-15,-13,-56,-37,19
+IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-11-25,-46,-13,-7,-58,-35,20
+IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-11-26,-47,-14,-27,-57,-35,20
+IT,Italy,Lombardy,Province of Monza and Brianza,,IT-MB,,2020-11-27,-47,-15,-31,-57,-35,21
 IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-02-15,3,-4,24,-1,0,-1
 IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-02-16,2,-1,14,-7,0,-1
 IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-02-17,0,-3,-19,-8,-1,1
@@ -18743,6 +18938,9 @@ IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-11-21,-53,-21,-49,-52,-28,17
 IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-11-22,-66,-42,-56,-61,-35,16
 IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-11-23,-39,-18,-37,-54,-29,16
 IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-11-24,-40,-15,-31,-54,-28,16
+IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-11-25,-42,-12,-35,-55,-28,16
+IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-11-26,-42,-13,-41,-54,-28,17
+IT,Italy,Lombardy,Province of Pavia,,IT-PV,,2020-11-27,-44,-11,-50,-56,-30,18
 IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-02-15,4,2,34,4,-1,0
 IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-02-16,7,3,43,15,2,0
 IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-02-17,2,1,8,2,1,0
@@ -19027,6 +19225,9 @@ IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-11-21,-68,-30,-53,-71,-42,18
 IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-11-22,-79,-53,-49,-74,-50,17
 IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-11-23,-55,-25,-39,-60,-31,15
 IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-11-24,-55,-21,-32,-60,-29,14
+IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-11-25,-55,-21,-34,-63,-30,15
+IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-11-26,-55,-19,-39,-61,-29,15
+IT,Italy,Lombardy,Province of Sondrio,,IT-SO,,2020-11-27,-57,-21,-38,-62,-32,17
 IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-02-15,1,2,24,4,0,0
 IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-02-16,-4,2,-9,-1,0,-1
 IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-02-17,-3,3,-13,5,0,0
@@ -19311,6 +19512,9 @@ IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-11-21,-61,-25,-47,-71,-40,20
 IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-11-22,-73,-44,-59,-78,-42,18
 IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-11-23,-49,-21,-38,-69,-36,18
 IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-11-24,-48,-20,-27,-67,-37,19
+IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-11-25,-50,-16,-34,-66,-35,19
+IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-11-26,-49,-19,-39,-67,-35,19
+IT,Italy,Lombardy,Province of Varese,,IT-VA,,2020-11-27,-50,-13,-42,-69,-36,20
 IT,Italy,Marche,,,IT-57,,2020-02-15,4,-1,32,9,1,-1
 IT,Italy,Marche,,,IT-57,,2020-02-16,5,7,49,20,0,-2
 IT,Italy,Marche,,,IT-57,,2020-02-17,1,1,12,5,1,-1
@@ -19595,6 +19799,9 @@ IT,Italy,Marche,,,IT-57,,2020-11-21,-47,-5,-26,-43,-26,17
 IT,Italy,Marche,,,IT-57,,2020-11-22,-61,-37,-22,-42,-27,16
 IT,Italy,Marche,,,IT-57,,2020-11-23,-35,-9,-10,-36,-20,12
 IT,Italy,Marche,,,IT-57,,2020-11-24,-35,-4,-11,-35,-21,12
+IT,Italy,Marche,,,IT-57,,2020-11-25,-36,-5,-7,-32,-21,12
+IT,Italy,Marche,,,IT-57,,2020-11-26,-36,-3,-5,-34,-21,13
+IT,Italy,Marche,,,IT-57,,2020-11-27,-37,-1,-16,-36,-20,13
 IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-02-15,3,0,36,4,1,-1
 IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-02-16,4,2,46,17,-1,-3
 IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-02-17,-1,3,17,8,2,0
@@ -19879,6 +20086,9 @@ IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-11-21,-45,0,-14,-50,-27,17
 IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-11-22,-58,-33,-3,-52,-27,15
 IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-11-23,-33,-4,-6,-40,-23,13
 IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-11-24,-34,-4,-10,-40,-23,13
+IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-11-25,-34,-1,0,-38,-22,13
+IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-11-26,-35,3,5,-40,-22,13
+IT,Italy,Marche,Province of Ancona,,IT-AN,,2020-11-27,-35,3,-12,-40,-22,14
 IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-02-15,3,-7,18,7,2,-1
 IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-02-16,5,-16,48,15,1,-2
 IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-02-17,-2,-2,6,4,2,-1
@@ -20163,6 +20373,9 @@ IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-11-21,-50,-11,-30,-44,-32
 IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-11-22,-67,-46,-21,-36,-36,17
 IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-11-23,-39,-12,12,-34,-27,12
 IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-11-24,-39,-8,4,-36,-22,13
+IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-11-25,-39,-6,8,-30,-23,13
+IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-11-26,-38,-9,11,-31,-24,13
+IT,Italy,Marche,Province of Ascoli Piceno,,IT-AP,,2020-11-27,-38,-3,-10,-38,-22,14
 IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-02-15,1,-4,18,5,0,-1
 IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-02-16,1,-9,32,20,1,-2
 IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-02-17,0,-1,11,4,0,-1
@@ -20447,6 +20660,9 @@ IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-11-21,-50,-8,-24,-41,-27,17
 IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-11-22,-65,-46,-16,-44,-34,18
 IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-11-23,-34,-7,-8,-29,-24,12
 IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-11-24,-37,-5,-11,-26,-22,13
+IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-11-25,-35,-3,-11,-25,-24,13
+IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-11-26,-37,-5,-12,-29,-22,13
+IT,Italy,Marche,Province of Fermo,,IT-FM,,2020-11-27,-38,-1,-25,-28,-24,14
 IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-02-15,2,-6,23,7,0,-1
 IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-02-16,1,-8,34,11,-2,-3
 IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-02-17,0,-1,9,4,1,-1
@@ -20731,6 +20947,9 @@ IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-11-21,-49,-6,-8,-45,-24,17
 IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-11-22,-63,-41,-10,-41,-27,17
 IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-11-23,-36,-8,3,-28,-17,12
 IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-11-24,-35,-8,5,-31,-19,13
+IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-11-25,-34,-7,10,-27,-16,12
+IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-11-26,-36,-8,-3,-29,-18,13
+IT,Italy,Marche,Province of Macerata,,IT-MC,,2020-11-27,-35,-2,-3,-30,-19,14
 IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-02-15,12,-4,50,14,2,-2
 IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-02-16,13,0,72,29,0,-2
 IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-02-17,4,-1,19,7,1,-1
@@ -21015,6 +21234,9 @@ IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-11-21,-47,-5,-42,-42,
 IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-11-22,-59,-36,-49,-43,-27,15
 IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-11-23,-34,-4,-21,-33,-18,11
 IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-11-24,-34,-5,-23,-29,-18,11
+IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-11-25,-37,-7,-22,-31,-18,12
+IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-11-26,-36,-2,-27,-29,-18,13
+IT,Italy,Marche,Province of Pesaro and Urbino,,IT-PU,,2020-11-27,-38,1,-30,-33,-18,13
 IT,Italy,Molise,,,IT-67,,2020-02-15,2,1,25,4,2,-1
 IT,Italy,Molise,,,IT-67,,2020-02-16,9,3,63,25,3,-2
 IT,Italy,Molise,,,IT-67,,2020-02-17,-1,-1,12,6,1,-1
@@ -21299,6 +21521,9 @@ IT,Italy,Molise,,,IT-67,,2020-11-21,-41,-7,-41,-47,-29,15
 IT,Italy,Molise,,,IT-67,,2020-11-22,-46,-30,-21,-41,-23,12
 IT,Italy,Molise,,,IT-67,,2020-11-23,-24,-8,-19,-32,-26,11
 IT,Italy,Molise,,,IT-67,,2020-11-24,-23,-4,-16,-30,-25,10
+IT,Italy,Molise,,,IT-67,,2020-11-25,-23,-3,-17,-32,-25,11
+IT,Italy,Molise,,,IT-67,,2020-11-26,-25,-4,-12,-30,-25,10
+IT,Italy,Molise,,,IT-67,,2020-11-27,-24,2,-17,-33,-25,10
 IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-02-15,2,-9,23,5,2,-1
 IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-02-16,6,-17,78,27,2,-2
 IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-02-17,1,-8,19,5,1,0
@@ -21583,6 +21808,9 @@ IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-11-21,-42,-8,-41,-49,-28,15
 IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-11-22,-49,-38,-12,-44,-23,12
 IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-11-23,-24,-3,-1,-37,-26,11
 IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-11-24,-24,-1,-1,-35,-24,10
+IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-11-25,-24,-2,-5,-35,-25,11
+IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-11-26,-24,0,7,-37,-25,10
+IT,Italy,Molise,Province of Campobasso,,IT-CB,,2020-11-27,-24,5,-1,-37,-25,10
 IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-02-15,0,0,7,5,-1,-1
 IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-02-16,3,-10,30,19,5,
 IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-02-17,-3,3,9,8,0,-1
@@ -21864,6 +22092,9 @@ IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-11-21,-38,-15,-39,-42,-30,16
 IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-11-22,-51,-51,-29,-38,-24,12
 IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-11-23,-24,-14,-20,-25,-26,11
 IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-11-24,-22,-16,-23,-29,-25,11
+IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-11-25,-21,-14,-16,-23,-27,11
+IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-11-26,-24,-14,-15,-19,-26,12
+IT,Italy,Molise,Province of Isernia,,IT-IS,,2020-11-27,-27,-8,-19,-30,-25,11
 IT,Italy,Piedmont,,,IT-21,,2020-02-15,1,0,23,4,0,-1
 IT,Italy,Piedmont,,,IT-21,,2020-02-16,1,0,5,7,1,-1
 IT,Italy,Piedmont,,,IT-21,,2020-02-17,-1,1,3,0,0,0
@@ -22148,6 +22379,9 @@ IT,Italy,Piedmont,,,IT-21,,2020-11-21,-58,-20,-43,-57,-30,18
 IT,Italy,Piedmont,,,IT-21,,2020-11-22,-72,-44,-41,-62,-35,17
 IT,Italy,Piedmont,,,IT-21,,2020-11-23,-47,-18,-26,-51,-33,16
 IT,Italy,Piedmont,,,IT-21,,2020-11-24,-46,-14,-22,-50,-33,17
+IT,Italy,Piedmont,,,IT-21,,2020-11-25,-47,-14,-25,-51,-32,17
+IT,Italy,Piedmont,,,IT-21,,2020-11-26,-47,-13,-25,-50,-32,17
+IT,Italy,Piedmont,,,IT-21,,2020-11-27,-48,-10,-28,-50,-32,18
 IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-02-15,0,-2,19,2,0,-1
 IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-02-16,-3,-6,0,4,0,-1
 IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-02-17,0,0,4,1,0,0
@@ -22432,6 +22666,9 @@ IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-11-21,-58,-19,-45,-58,
 IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-11-22,-72,-44,-41,-62,-36,17
 IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-11-23,-47,-18,-30,-53,-37,18
 IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-11-24,-47,-15,-21,-52,-37,18
+IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-11-25,-48,-15,-26,-54,-36,18
+IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-11-26,-47,-14,-29,-52,-36,18
+IT,Italy,Piedmont,Metropolitan City of Turin,,IT-TO,,2020-11-27,-47,-10,-28,-52,-35,20
 IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-02-15,-5,-6,26,12,0,-1
 IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-02-16,0,-5,29,2,-1,-1
 IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-02-17,-6,-4,-19,-4,0,1
@@ -22716,6 +22953,9 @@ IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-11-21,-61,-23,-27,-61,-30
 IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-11-22,-73,-46,-29,-64,-33,17
 IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-11-23,-47,-15,-22,-48,-28,15
 IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-11-24,-44,-15,-28,-46,-29,15
+IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-11-25,-45,-12,-17,-48,-27,15
+IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-11-26,-46,-13,-16,-47,-28,15
+IT,Italy,Piedmont,Province of Alessandria,,IT-AL,,2020-11-27,-47,-12,-44,-50,-28,17
 IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-02-15,1,-1,15,5,0,-1
 IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-02-16,6,-3,25,11,1,-1
 IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-02-17,-1,2,9,1,0,0
@@ -23000,6 +23240,9 @@ IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-11-21,-52,-19,-46,-56,-22,18
 IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-11-22,-66,-39,-31,-63,-30,17
 IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-11-23,-38,-12,-12,-40,-26,16
 IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-11-24,-38,-13,-17,-43,-24,16
+IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-11-25,-40,-12,-33,-44,-25,16
+IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-11-26,-41,-11,-21,-45,-26,16
+IT,Italy,Piedmont,Province of Asti,,IT-AT,,2020-11-27,-42,-6,-30,-45,-24,18
 IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-02-15,-4,-5,39,1,1,-1
 IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-02-16,-7,-11,2,8,4,0
 IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-02-17,-2,5,10,2,-1,0
@@ -23284,6 +23527,9 @@ IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-11-21,-61,-31,-24,-46,-30,19
 IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-11-22,-74,-51,-40,-42,-32,17
 IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-11-23,-44,-18,-5,-31,-33,16
 IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-11-24,-44,-21,-4,-35,-31,16
+IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-11-25,-47,-21,-4,-32,-30,17
+IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-11-26,-47,-15,-5,-35,-32,17
+IT,Italy,Piedmont,Province of Biella,,IT-BI,,2020-11-27,-48,-10,-9,-31,-32,19
 IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-02-15,1,-1,18,10,0,-1
 IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-02-16,2,-3,10,16,1,-1
 IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-02-17,-2,0,7,4,0,0
@@ -23568,6 +23814,9 @@ IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-11-21,-60,-17,-50,-47,-31,20
 IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-11-22,-74,-46,-52,-51,-32,19
 IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-11-23,-45,-13,-15,-36,-26,15
 IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-11-24,-45,-8,-34,-37,-27,15
+IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-11-25,-45,-9,-30,-36,-26,15
+IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-11-26,-44,-8,-23,-38,-25,16
+IT,Italy,Piedmont,Province of Cuneo,,IT-CN,,2020-11-27,-46,-3,-29,-37,-26,17
 IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-02-15,-4,-2,34,7,0,-1
 IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-02-16,-2,-3,11,11,2,-1
 IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-02-17,-5,-2,-3,0,0,0
@@ -23852,6 +24101,9 @@ IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-11-21,-63,-18,-50,-71,-28,17
 IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-11-22,-76,-39,-63,-81,-38,17
 IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-11-23,-46,-13,-29,-53,-32,16
 IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-11-24,-44,-11,-26,-54,-31,16
+IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-11-25,-46,-7,-26,-54,-29,16
+IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-11-26,-47,-8,-32,-55,-29,17
+IT,Italy,Piedmont,Province of Novara,,IT-NO,,2020-11-27,-50,-8,-37,-56,-30,18
 IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-02-15,6,-2,30,24,1,-1
 IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-02-16,8,0,9,8,3,0
 IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-02-17,-1,0,-2,9,2,0
@@ -24136,6 +24388,9 @@ IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-11-21,-64,-31,-4
 IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-11-22,-76,-49,-49,-69,-43,18
 IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-11-23,-49,-24,-11,-45,-35,15
 IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-11-24,-47,-23,12,-39,-35,16
+IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-11-25,-49,-22,0,-46,-35,16
+IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-11-26,-48,-17,-14,-44,-35,17
+IT,Italy,Piedmont,Province of Verbano-Cusio-Ossola,,IT-VB,,2020-11-27,-52,-23,-17,-47,-36,18
 IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-02-15,1,0,22,4,1,-1
 IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-02-16,28,12,22,19,3,-1
 IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-02-17,-2,2,3,-3,1,0
@@ -24420,6 +24675,9 @@ IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-11-21,-61,-9,-30,-57,-26,17
 IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-11-22,-74,-33,-36,-67,-35,17
 IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-11-23,-48,-8,-4,-50,-25,15
 IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-11-24,-49,-3,0,-49,-25,15
+IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-11-25,-47,-3,1,-49,-24,15
+IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-11-26,-48,-4,-4,-50,-27,16
+IT,Italy,Piedmont,Province of Vercelli,,IT-VC,,2020-11-27,-50,0,-23,-49,-25,17
 IT,Italy,Sardinia,,,IT-88,,2020-02-15,-2,-1,23,4,0,0
 IT,Italy,Sardinia,,,IT-88,,2020-02-16,4,0,32,8,0,-1
 IT,Italy,Sardinia,,,IT-88,,2020-02-17,0,0,14,3,0,0
@@ -24704,6 +24962,9 @@ IT,Italy,Sardinia,,,IT-88,,2020-11-21,-32,-3,-27,-39,-26,11
 IT,Italy,Sardinia,,,IT-88,,2020-11-22,-35,-25,-11,-38,-16,8
 IT,Italy,Sardinia,,,IT-88,,2020-11-23,-18,-2,7,-31,-24,9
 IT,Italy,Sardinia,,,IT-88,,2020-11-24,-19,2,7,-32,-23,9
+IT,Italy,Sardinia,,,IT-88,,2020-11-25,-19,1,14,-30,-23,9
+IT,Italy,Sardinia,,,IT-88,,2020-11-26,-19,2,6,-31,-23,9
+IT,Italy,Sardinia,,,IT-88,,2020-11-27,-23,6,-23,-33,-24,10
 IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-02-15,-5,0,21,-1,-1,0
 IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-02-16,4,-3,18,3,-3,-1
 IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-02-17,0,0,10,2,-1,0
@@ -24988,6 +25249,9 @@ IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-11-21,-36,-2,-32,-4
 IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-11-22,-36,-24,-18,-45,-15,6
 IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-11-23,-20,-2,-11,-41,-27,10
 IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-11-24,-21,1,-5,-44,-27,10
+IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-11-25,-21,1,3,-41,-26,10
+IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-11-26,-20,0,2,-36,-25,10
+IT,Italy,Sardinia,Metropolitan City of Cagliari,,IT-CA,,2020-11-27,-26,5,-39,-39,-27,12
 IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-02-15,-2,-3,18,9,0,0
 IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-02-16,-1,-2,8,14,0,-1
 IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-02-17,1,1,13,4,0,0
@@ -25272,6 +25536,9 @@ IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-11-21,-32,10,-22,-46,-28,14
 IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-11-22,-37,-11,-28,-36,-20,10
 IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-11-23,-18,4,12,-35,-26,11
 IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-11-24,-21,6,7,-34,-25,10
+IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-11-25,-23,0,11,-34,-26,10
+IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-11-26,-22,2,16,-38,-24,11
+IT,Italy,Sardinia,Province of Nuoro,,IT-NU,,2020-11-27,-28,4,-23,-40,-23,13
 IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-02-15,-3,-2,35,3,-1,0
 IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-02-16,1,4,34,14,1,-1
 IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-02-17,-1,6,14,6,0,0
@@ -25556,6 +25823,9 @@ IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-11-21,-32,-6,-21,-36,-27,12
 IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-11-22,-36,-28,-9,-44,-17,9
 IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-11-23,-21,0,17,-30,-23,9
 IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-11-24,-24,0,10,-35,-23,10
+IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-11-25,-22,-2,26,-35,-23,9
+IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-11-26,-21,0,14,-35,-21,9
+IT,Italy,Sardinia,Province of Oristano,,IT-OR,,2020-11-27,-23,9,1,-33,-22,9
 IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-02-15,-1,-3,19,7,2,-1
 IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-02-16,4,-4,32,11,1,-2
 IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-02-17,1,0,17,5,2,-1
@@ -25840,6 +26110,9 @@ IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-11-21,-31,-4,-41,-42,-23,13
 IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-11-22,-35,-28,-31,-40,-17,10
 IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-11-23,-14,1,9,-25,-22,9
 IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-11-24,-14,2,10,-29,-20,9
+IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-11-25,-17,0,2,-27,-20,9
+IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-11-26,-16,3,0,-29,-19,10
+IT,Italy,Sardinia,Province of Sassari,,IT-SS,,2020-11-27,-19,7,-22,-30,-20,10
 IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-02-15,2,-1,24,4,0,0
 IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-02-16,1,-3,24,2,2,-1
 IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-02-17,-1,-1,11,0,1,0
@@ -26124,6 +26397,9 @@ IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-11-21,-25,-1,-5,-29,-24,10
 IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-11-22,-29,-27,7,-20,-15,7
 IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-11-23,-14,3,12,-24,-24,9
 IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-11-24,-15,2,12,-24,-21,9
+IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-11-25,-13,3,18,-20,-22,8
+IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-11-26,-15,6,13,-22,-21,9
+IT,Italy,Sardinia,South Sardinia,,IT-SD,,2020-11-27,-18,10,-12,-26,-24,10
 IT,Italy,Sicily,,,IT-82,,2020-02-15,0,-2,20,1,-2,0
 IT,Italy,Sicily,,,IT-82,,2020-02-16,1,1,27,7,-1,-1
 IT,Italy,Sicily,,,IT-82,,2020-02-17,-2,-1,6,2,1,0
@@ -26408,6 +26684,9 @@ IT,Italy,Sicily,,,IT-82,,2020-11-21,-42,0,-34,-49,-28,12
 IT,Italy,Sicily,,,IT-82,,2020-11-22,-71,-79,-59,-64,-35,16
 IT,Italy,Sicily,,,IT-82,,2020-11-23,-35,-9,-37,-48,-30,13
 IT,Italy,Sicily,,,IT-82,,2020-11-24,-39,-16,-40,-50,-30,13
+IT,Italy,Sicily,,,IT-82,,2020-11-25,-32,-4,-27,-45,-28,12
+IT,Italy,Sicily,,,IT-82,,2020-11-26,-32,-3,-24,-45,-29,11
+IT,Italy,Sicily,,,IT-82,,2020-11-27,-31,1,-20,-45,-28,11
 IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-02-15,0,-2,11,-1,0,-1
 IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-02-16,-5,-2,-10,-1,-4,1
 IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-02-17,-3,-1,-6,10,1,0
@@ -26692,6 +26971,9 @@ IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-11-21,-47,-3,-4
 IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-11-22,-72,-79,-70,-63,-37,19
 IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-11-23,-32,-6,-30,-51,-29,13
 IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-11-24,-34,-11,-26,-49,-31,14
+IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-11-25,-32,-9,-6,-50,-30,13
+IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-11-26,-34,-7,-23,-53,-30,13
+IT,Italy,Sicily,Free municipal consortium of Ragusa,,IT-RG,,2020-11-27,-32,-5,-19,-57,-29,12
 IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-02-15,-1,-5,9,-8,-1,0
 IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-02-16,0,-11,15,1,-3,0
 IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-02-17,0,-3,12,6,1,0
@@ -26976,6 +27258,9 @@ IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-11-21,-41,-3,-19,-56,-26,13
 IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-11-22,-64,-74,-36,-59,-26,14
 IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-11-23,-29,-3,7,-41,-26,12
 IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-11-24,-31,-10,0,-41,-24,12
+IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-11-25,-26,4,14,-41,-24,10
+IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-11-26,-30,-5,-2,-46,-25,11
+IT,Italy,Sicily,Province of Agrigento,,IT-AG,,2020-11-27,-29,5,-2,-43,-23,11
 IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-02-15,-4,-4,11,-6,-4,0
 IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-02-16,-5,-3,13,6,-4,-1
 IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-02-17,-5,1,5,-5,0,0
@@ -27260,6 +27545,9 @@ IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-11-21,-41,4,-16,-51,-23,1
 IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-11-22,-63,-75,-56,-54,-23,14
 IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-11-23,-35,-3,-13,-46,-26,12
 IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-11-24,-37,-9,-21,-49,-27,12
+IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-11-25,-35,-8,-2,-51,-26,12
+IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-11-26,-36,1,-7,-49,-27,12
+IT,Italy,Sicily,Province of Caltanissetta,,IT-CL,,2020-11-27,-35,5,-7,-44,-22,11
 IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-02-15,-1,-3,16,3,-3,0
 IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-02-16,1,-2,26,5,0,0
 IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-02-17,-2,-1,3,2,3,1
@@ -27544,6 +27832,9 @@ IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-11-21,-46,-4,-46,-58,-32,14
 IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-11-22,-78,-82,-74,-73,-42,19
 IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-11-23,-42,-14,-60,-58,-33,16
 IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-11-24,-45,-22,-60,-60,-32,17
+IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-11-25,-35,-7,-45,-58,-31,14
+IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-11-26,-35,-8,-44,-54,-32,14
+IT,Italy,Sicily,Province of Catania,,IT-CT,,2020-11-27,-32,-1,-35,-53,-30,13
 IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-02-15,-2,-4,0,-4,-1,0
 IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-02-16,-5,0,14,,4,-1
 IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-02-17,-7,0,5,13,-1,0
@@ -27828,6 +28119,9 @@ IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-11-21,-48,4,3,-50,-28,12
 IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-11-22,-75,-72,-49,-61,-32,15
 IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-11-23,-42,-6,-29,-52,-33,14
 IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-11-24,-39,-3,-28,-60,-32,13
+IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-11-25,-39,-2,-12,-55,-30,12
+IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-11-26,-40,-1,-20,-49,-31,12
+IT,Italy,Sicily,Province of Enna,,IT-EN,,2020-11-27,-41,6,-24,-39,-30,13
 IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-02-15,0,0,14,10,-1,0
 IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-02-16,6,12,37,23,0,-1
 IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-02-17,0,2,10,4,1,0
@@ -28112,6 +28406,9 @@ IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-11-21,-37,3,-47,-31,-24,11
 IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-11-22,-64,-75,-51,-44,-30,13
 IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-11-23,-31,-2,-44,-29,-31,12
 IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-11-24,-33,-5,-42,-26,-31,12
+IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-11-25,-29,2,-39,-23,-29,12
+IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-11-26,-28,1,-34,-22,-29,11
+IT,Italy,Sicily,Province of Messina,,IT-ME,,2020-11-27,-28,4,-37,-25,-29,11
 IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-02-15,0,0,17,1,-1,-1
 IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-02-16,1,0,45,4,-2,-1
 IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-02-17,-3,-2,9,2,0,0
@@ -28396,6 +28693,9 @@ IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-11-21,-44,-1,-26,-48,-29,12
 IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-11-22,-74,-80,-54,-66,-40,16
 IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-11-23,-35,-5,-27,-49,-32,12
 IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-11-24,-43,-20,-44,-58,-34,14
+IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-11-25,-33,-2,-17,-48,-31,12
+IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-11-26,-34,-4,-16,-49,-30,12
+IT,Italy,Sicily,Province of Palermo,,IT-PA,,2020-11-27,-32,2,-16,-46,-31,11
 IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-02-15,-2,-1,24,-6,-2,0
 IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-02-16,-1,-1,9,-6,0,0
 IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-02-17,-1,-1,4,-4,1,0
@@ -28680,6 +28980,9 @@ IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-11-21,-39,0,-37,-33,-23,12
 IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-11-22,-69,-79,-61,-61,-31,16
 IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-11-23,-31,-8,-39,-38,-25,12
 IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-11-24,-34,-11,-38,-39,-24,13
+IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-11-25,-30,-5,-45,-37,-23,11
+IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-11-26,-30,-5,-24,-38,-22,11
+IT,Italy,Sicily,Province of Syracuse,,IT-SR,,2020-11-27,-27,3,-9,-37,-21,10
 IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-02-15,0,-2,35,-2,1,-1
 IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-02-16,5,2,37,-9,-2,-1
 IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-02-17,2,-1,20,1,1,0
@@ -28964,6 +29267,9 @@ IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-11-21,-34,6,-28,-50,-20,12
 IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-11-22,-60,-73,-33,-53,-25,14
 IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-11-23,-24,1,-9,-40,-21,11
 IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-11-24,-27,-6,-12,-42,-22,12
+IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-11-25,-24,1,18,-37,-22,10
+IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-11-26,-25,1,-2,-38,-20,11
+IT,Italy,Sicily,Province of Trapani,,IT-TP,,2020-11-27,-28,1,-6,-46,-20,11
 IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-02-15,4,2,22,12,0,-1
 IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-02-16,10,11,16,15,1,-1
 IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-02-17,5,6,5,4,1,0
@@ -29248,6 +29554,9 @@ IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-11-21,-58,-14,-37,-44,-35,14
 IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-11-22,-69,-80,-34,-43,-41,14
 IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-11-23,-51,-15,-53,-43,-31,15
 IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-11-24,-48,-14,-39,-36,-30,15
+IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-11-25,-49,-13,-42,-38,-29,15
+IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-11-26,-50,-13,-46,-40,-30,16
+IT,Italy,Trentino-South Tyrol,,,IT-32,,2020-11-27,-50,-8,-48,-44,-29,16
 IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-02-15,5,1,18,17,0,-1
 IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-02-16,12,11,18,18,1,-1
 IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-02-17,8,9,5,7,0,0
@@ -29532,6 +29841,9 @@ IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-11-21,-69,-19,-50,-56,-40
 IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-11-22,-81,-80,-44,-53,-45,17
 IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-11-23,-65,-19,-60,-48,-38,19
 IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-11-24,-63,-18,-48,-40,-35,18
+IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-11-25,-63,-19,-47,-40,-35,18
+IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-11-26,-64,-19,-51,-41,-34,19
+IT,Italy,Trentino-South Tyrol,South Tyrol,,IT-BZ,,2020-11-27,-64,-14,-54,-46,-33,20
 IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-02-15,4,2,22,8,0,-1
 IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-02-16,6,6,12,14,1,-1
 IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-02-17,3,4,4,4,2,0
@@ -29816,6 +30128,9 @@ IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-11-21,-49,-10,-26,-37,-31,12
 IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-11-22,-60,-81,-28,-37,-38,11
 IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-11-23,-36,-6,-43,-39,-27,13
 IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-11-24,-34,-7,-31,-35,-25,13
+IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-11-25,-36,-5,-37,-36,-26,13
+IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-11-26,-38,-5,-38,-39,-25,14
+IT,Italy,Trentino-South Tyrol,Trentino,,IT-TN,,2020-11-27,-37,-3,-41,-42,-26,14
 IT,Italy,Tuscany,,,IT-52,,2020-02-15,5,0,75,13,1,-2
 IT,Italy,Tuscany,,,IT-52,,2020-02-16,4,2,30,11,1,-2
 IT,Italy,Tuscany,,,IT-52,,2020-02-17,1,3,9,3,1,0
@@ -30100,6 +30415,9 @@ IT,Italy,Tuscany,,,IT-52,,2020-11-21,-60,-23,-50,-58,-35,19
 IT,Italy,Tuscany,,,IT-52,,2020-11-22,-73,-45,-58,-65,-36,19
 IT,Italy,Tuscany,,,IT-52,,2020-11-23,-44,-16,-31,-48,-29,16
 IT,Italy,Tuscany,,,IT-52,,2020-11-24,-45,-16,-29,-47,-29,16
+IT,Italy,Tuscany,,,IT-52,,2020-11-25,-46,-16,-31,-47,-29,17
+IT,Italy,Tuscany,,,IT-52,,2020-11-26,-46,-14,-33,-47,-29,17
+IT,Italy,Tuscany,,,IT-52,,2020-11-27,-46,-11,-28,-47,-29,17
 IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-02-15,1,0,63,12,0,-2
 IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-02-16,-2,0,26,11,-1,-2
 IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-02-17,-1,8,17,5,1,0
@@ -30384,6 +30702,9 @@ IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-11-21,-64,-27,-52,-6
 IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-11-22,-77,-48,-55,-73,-42,19
 IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-11-23,-50,-17,-38,-54,-34,17
 IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-11-24,-51,-19,-44,-54,-34,18
+IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-11-25,-51,-17,-40,-55,-33,19
+IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-11-26,-51,-16,-41,-54,-33,19
+IT,Italy,Tuscany,Metropolitan City of Florence,,IT-FI,,2020-11-27,-51,-11,-35,-54,-33,19
 IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-02-15,0,-3,33,14,1,-2
 IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-02-16,2,0,28,21,4,-2
 IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-02-17,0,2,2,5,2,0
@@ -30668,6 +30989,9 @@ IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-11-21,-61,-24,-59,-53,-33,19
 IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-11-22,-74,-45,-47,-59,-35,18
 IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-11-23,-41,-17,-35,-43,-24,15
 IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-11-24,-41,-16,-31,-40,-24,15
+IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-11-25,-44,-17,-28,-41,-23,15
+IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-11-26,-43,-14,-33,-42,-26,16
+IT,Italy,Tuscany,Province of Arezzo,,IT-AR,,2020-11-27,-45,-11,-36,-42,-25,16
 IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-02-15,7,-2,58,12,5,-2
 IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-02-16,11,-4,55,20,4,-2
 IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-02-17,-1,1,1,0,1,0
@@ -30952,6 +31276,9 @@ IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-11-21,-56,-23,-50,-47,-34,19
 IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-11-22,-71,-45,-54,-50,-31,18
 IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-11-23,-35,-14,-10,-28,-20,14
 IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-11-24,-35,-12,0,-23,-25,13
+IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-11-25,-35,-14,-16,-21,-26,14
+IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-11-26,-37,-11,-23,-21,-25,15
+IT,Italy,Tuscany,Province of Grosseto,,IT-GR,,2020-11-27,-38,-13,-18,-28,-24,15
 IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-02-15,11,2,66,13,2,-3
 IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-02-16,9,4,25,13,1,-2
 IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-02-17,1,3,6,2,3,-1
@@ -31236,6 +31563,9 @@ IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-11-21,-55,-16,-41,-53,-30,18
 IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-11-22,-71,-38,-56,-61,-31,18
 IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-11-23,-39,-9,-7,-31,-27,13
 IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-11-24,-39,-10,2,-30,-28,14
+IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-11-25,-40,-10,-7,-32,-27,15
+IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-11-26,-40,-7,-18,-36,-27,16
+IT,Italy,Tuscany,Province of Livorno,,IT-LI,,2020-11-27,-40,-5,1,-32,-26,15
 IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-02-15,19,-1,100,29,1,-2
 IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-02-16,10,3,29,24,3,-1
 IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-02-17,-1,2,10,1,2,0
@@ -31520,6 +31850,9 @@ IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-11-21,-57,-22,-64,-52,-33,20
 IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-11-22,-71,-44,-71,-58,-32,19
 IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-11-23,-43,-16,-42,-40,-29,15
 IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-11-24,-43,-14,-33,-39,-29,16
+IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-11-25,-44,-15,-39,-39,-27,16
+IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-11-26,-44,-14,-39,-37,-28,17
+IT,Italy,Tuscany,Province of Lucca,,IT-LU,,2020-11-27,-44,-11,-35,-37,-28,17
 IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-02-15,5,0,66,7,2,-2
 IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-02-16,4,3,11,7,1,0
 IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-02-17,0,2,-15,1,0,1
@@ -31804,6 +32137,9 @@ IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-11-21,-55,-17,-40,-4
 IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-11-22,-65,-38,-51,-47,-30,17
 IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-11-23,-43,-12,-15,-37,-26,15
 IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-11-24,-42,-6,-1,-37,-26,15
+IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-11-25,-42,-12,-17,-36,-25,15
+IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-11-26,-43,-9,-14,-36,-27,15
+IT,Italy,Tuscany,Province of Massa and Carrara,,IT-MS,,2020-11-27,-44,-1,-13,-32,-25,16
 IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-02-15,0,-2,67,12,1,-2
 IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-02-16,-1,0,29,8,1,-2
 IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-02-17,1,4,16,3,2,-1
@@ -32088,6 +32424,9 @@ IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-11-21,-63,-26,-60,-67,-36,21
 IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-11-22,-76,-49,-72,-75,-37,20
 IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-11-23,-48,-19,-45,-59,-28,17
 IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-11-24,-48,-19,-40,-57,-30,17
+IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-11-25,-49,-23,-45,-57,-29,18
+IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-11-26,-49,-18,-49,-58,-29,18
+IT,Italy,Tuscany,Province of Pisa,,IT-PI,,2020-11-27,-48,-17,-45,-56,-29,18
 IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-02-15,3,-2,28,-5,0,-2
 IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-02-16,4,-5,35,-13,0,-1
 IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-02-17,-1,1,-5,-13,1,0
@@ -32372,6 +32711,9 @@ IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-11-21,-60,-22,-56,-65,-34,21
 IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-11-22,-72,-44,-55,-68,-38,20
 IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-11-23,-41,-17,-30,-58,-25,16
 IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-11-24,-41,-16,-31,-57,-26,17
+IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-11-25,-42,-15,-36,-56,-26,17
+IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-11-26,-44,-14,-34,-58,-26,17
+IT,Italy,Tuscany,Province of Pistoia,,IT-PT,,2020-11-27,-44,-11,-33,-57,-27,18
 IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-02-15,1,-1,52,9,-1,-1
 IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-02-16,-5,-2,43,14,3,-1
 IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-02-17,1,4,9,0,1,0
@@ -32656,6 +32998,9 @@ IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-11-21,-59,-20,-29,-54,-40,21
 IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-11-22,-74,-42,-30,-60,-40,20
 IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-11-23,-44,-13,25,-43,-25,17
 IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-11-24,-45,-20,7,-42,-28,18
+IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-11-25,-44,-16,21,-43,-28,18
+IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-11-26,-44,-15,6,-42,-27,18
+IT,Italy,Tuscany,Province of Prato,,IT-PO,,2020-11-27,-46,-8,20,-43,-28,19
 IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-02-15,6,0,41,3,3,-2
 IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-02-16,8,0,45,4,3,-2
 IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-02-17,2,4,10,-4,1,-1
@@ -32940,6 +33285,9 @@ IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-11-21,-60,-25,-68,-54,-32,19
 IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-11-22,-72,-48,-69,-56,-35,19
 IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-11-23,-44,-19,-46,-42,-27,16
 IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-11-24,-46,-19,-39,-43,-28,16
+IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-11-25,-45,-17,-49,-39,-27,17
+IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-11-26,-45,-17,-46,-40,-27,17
+IT,Italy,Tuscany,Province of Siena,,IT-SI,,2020-11-27,-46,-12,-48,-42,-25,17
 IT,Italy,Umbria,,,IT-55,,2020-02-15,3,-1,55,14,-2,-2
 IT,Italy,Umbria,,,IT-55,,2020-02-16,4,6,39,22,1,-3
 IT,Italy,Umbria,,,IT-55,,2020-02-17,0,2,19,5,1,-1
@@ -33224,6 +33572,9 @@ IT,Italy,Umbria,,,IT-55,,2020-11-21,-46,-3,-26,-42,-26,14
 IT,Italy,Umbria,,,IT-55,,2020-11-22,-70,-81,-29,-42,-31,15
 IT,Italy,Umbria,,,IT-55,,2020-11-23,-34,-7,-8,-33,-23,12
 IT,Italy,Umbria,,,IT-55,,2020-11-24,-36,-7,-11,-31,-24,13
+IT,Italy,Umbria,,,IT-55,,2020-11-25,-34,-7,-9,-28,-23,13
+IT,Italy,Umbria,,,IT-55,,2020-11-26,-36,-6,-15,-31,-24,13
+IT,Italy,Umbria,,,IT-55,,2020-11-27,-34,0,-15,-29,-23,13
 IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-02-15,2,-3,56,12,0,-2
 IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-02-16,3,2,41,19,2,-2
 IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-02-17,-1,0,18,5,1,0
@@ -33508,6 +33859,9 @@ IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-11-21,-47,1,-28,-40,-25,15
 IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-11-22,-70,-81,-31,-42,-32,16
 IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-11-23,-34,-6,-7,-34,-23,13
 IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-11-24,-35,-6,-14,-34,-23,13
+IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-11-25,-34,-4,-8,-31,-22,13
+IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-11-26,-36,-5,-16,-34,-23,14
+IT,Italy,Umbria,Province of Perugia,,IT-PG,,2020-11-27,-35,0,-17,-31,-23,13
 IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-02-15,5,-7,51,11,-7,-1
 IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-02-16,8,-3,47,16,0,-3
 IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-02-17,1,-1,11,5,2,-1
@@ -33792,6 +34146,9 @@ IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-11-21,-43,-10,-23,-36,-28,14
 IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-11-22,-70,-82,-16,-37,-32,14
 IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-11-23,-32,-6,-17,-23,-25,12
 IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-11-24,-34,-9,-13,-21,-29,13
+IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-11-25,-33,-4,-11,-18,-24,12
+IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-11-26,-34,-4,-12,-19,-25,13
+IT,Italy,Umbria,Province of Terni,,IT-TR,,2020-11-27,-32,-3,-21,-21,-24,13
 IT,Italy,Veneto,,,IT-34,,2020-02-15,6,1,54,18,1,-2
 IT,Italy,Veneto,,,IT-34,,2020-02-16,5,4,48,27,2,-2
 IT,Italy,Veneto,,,IT-34,,2020-02-17,-1,2,11,6,1,0
@@ -34076,6 +34433,9 @@ IT,Italy,Veneto,,,IT-34,,2020-11-21,-39,-12,-15,-44,-24,12
 IT,Italy,Veneto,,,IT-34,,2020-11-22,-50,-40,-17,-46,-23,10
 IT,Italy,Veneto,,,IT-34,,2020-11-23,-22,-9,-17,-43,-22,11
 IT,Italy,Veneto,,,IT-34,,2020-11-24,-20,-7,-5,-40,-22,11
+IT,Italy,Veneto,,,IT-34,,2020-11-25,-23,-7,-13,-41,-21,11
+IT,Italy,Veneto,,,IT-34,,2020-11-26,-23,-6,-15,-41,-22,12
+IT,Italy,Veneto,,,IT-34,,2020-11-27,-24,0,-21,-42,-22,12
 IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-02-15,12,-1,91,35,2,-2
 IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-02-16,15,0,106,44,5,-2
 IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-02-17,3,1,31,14,1,0
@@ -34360,6 +34720,9 @@ IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-11-21,-42,-16,-22,-44,-
 IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-11-22,-53,-43,-16,-50,-28,10
 IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-11-23,-22,-2,-25,-41,-24,11
 IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-11-24,-21,-4,-15,-40,-24,12
+IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-11-25,-22,-2,-21,-40,-23,11
+IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-11-26,-23,-3,-24,-38,-23,12
+IT,Italy,Veneto,Metropolitan City of Venice,,IT-VE,,2020-11-27,-22,3,-28,-39,-24,12
 IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-02-15,5,2,18,6,1,-1
 IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-02-16,10,6,5,1,4,-2
 IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-02-17,3,6,10,1,1,0
@@ -34644,6 +35007,9 @@ IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-11-21,-38,-6,-44,-30,-26,12
 IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-11-22,-41,-34,-39,-23,-26,10
 IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-11-23,-28,-11,-61,-21,-21,11
 IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-11-24,-25,-9,-50,-16,-22,11
+IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-11-25,-28,-9,-52,-19,-20,12
+IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-11-26,-28,-10,-60,-18,-22,12
+IT,Italy,Veneto,Province of Belluno,,IT-BL,,2020-11-27,-30,-4,-61,-22,-22,13
 IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-02-15,0,-5,25,10,0,-2
 IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-02-16,0,-7,41,17,1,-2
 IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-02-17,-2,-1,-1,4,0,0
@@ -34928,6 +35294,9 @@ IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-11-21,-38,-11,-13,-50,-25,12
 IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-11-22,-49,-39,-19,-57,-20,10
 IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-11-23,-22,-9,-13,-50,-24,11
 IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-11-24,-21,-9,4,-50,-24,12
+IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-11-25,-23,-7,-6,-51,-22,12
+IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-11-26,-23,-8,-10,-52,-22,12
+IT,Italy,Veneto,Province of Padua,,IT-PD,,2020-11-27,-23,-2,-10,-51,-23,13
 IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-02-15,2,-3,20,11,2,-1
 IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-02-16,-2,-10,39,11,2,-2
 IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-02-17,0,-2,11,4,2,-1
@@ -35212,6 +35581,9 @@ IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-11-21,-37,-14,15,-36,-25,12
 IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-11-22,-50,-44,39,-50,-20,11
 IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-11-23,-16,-11,33,-31,-21,9
 IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-11-24,-16,-10,33,-28,-21,9
+IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-11-25,-17,-8,28,-27,-20,9
+IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-11-26,-18,-11,16,-36,-29,11
+IT,Italy,Veneto,Province of Rovigo,,IT-RO,,2020-11-27,-20,-6,12,-36,-22,10
 IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-02-15,2,-3,22,9,0,-1
 IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-02-16,-1,-3,2,9,1,-1
 IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-02-17,-4,0,-15,1,1,0
@@ -35496,6 +35868,9 @@ IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-11-21,-34,-11,-7,-43,-23,12
 IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-11-22,-42,-42,-3,-44,-18,11
 IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-11-23,-19,-10,-4,-44,-20,11
 IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-11-24,-17,-8,-1,-41,-20,11
+IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-11-25,-20,-9,-5,-42,-19,11
+IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-11-26,-20,-7,0,-44,-18,11
+IT,Italy,Veneto,Province of Treviso,,IT-TV,,2020-11-27,-21,1,-9,-44,-19,12
 IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-02-15,7,-1,85,15,3,-2
 IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-02-16,4,-2,47,15,0,-1
 IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-02-17,0,0,1,5,1,0
@@ -35780,6 +36155,9 @@ IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-11-21,-45,-11,-14,-47,-23,11
 IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-11-22,-57,-36,-33,-48,-24,11
 IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-11-23,-21,-5,-25,-44,-23,11
 IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-11-24,-22,-7,-3,-41,-21,12
+IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-11-25,-24,-6,-16,-42,-22,12
+IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-11-26,-25,-6,-19,-45,-22,12
+IT,Italy,Veneto,Province of Verona,,IT-VR,,2020-11-27,-27,0,-36,-44,-23,13
 IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-02-15,3,-2,32,5,0,-1
 IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-02-16,0,-2,-1,9,-1,-1
 IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-02-17,-3,1,-4,3,0,0
@@ -36064,3 +36442,6 @@ IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-11-21,-39,-11,9,-41,-21,11
 IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-11-22,-48,-41,-13,-42,-20,10
 IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-11-23,-23,-9,0,-46,-21,10
 IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-11-24,-20,-6,12,-47,-21,11
+IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-11-25,-23,-6,6,-46,-19,11
+IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-11-26,-24,-2,-1,-42,-20,11
+IT,Italy,Veneto,Province of Vicenza,,IT-VI,,2020-11-27,-24,3,2,-44,-21,13

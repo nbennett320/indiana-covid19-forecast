@@ -283,6 +283,9 @@ CH,Switzerland,,,,,,2020-11-21,-25,2,0,-32,-13,9
 CH,Switzerland,,,,,,2020-11-22,-41,-16,24,-31,-21,7
 CH,Switzerland,,,,,,2020-11-23,-27,-5,-7,-28,-18,10
 CH,Switzerland,,,,,,2020-11-24,-26,-2,0,-26,-19,10
+CH,Switzerland,,,,,,2020-11-25,-24,0,-11,-26,-18,10
+CH,Switzerland,,,,,,2020-11-26,-23,4,-13,-27,-19,10
+CH,Switzerland,,,,,,2020-11-27,-18,8,-8,-25,-18,10
 CH,Switzerland,Aargau,,,CH-AG,,2020-02-15,1,1,27,10,-1,-1
 CH,Switzerland,Aargau,,,CH-AG,,2020-02-16,9,10,27,12,-2,0
 CH,Switzerland,Aargau,,,CH-AG,,2020-02-17,-3,-2,-5,4,0,2
@@ -567,6 +570,9 @@ CH,Switzerland,Aargau,,,CH-AG,,2020-11-21,-10,2,38,-22,-6,8
 CH,Switzerland,Aargau,,,CH-AG,,2020-11-22,-29,-9,29,-25,-16,7
 CH,Switzerland,Aargau,,,CH-AG,,2020-11-23,-10,0,35,-21,-17,9
 CH,Switzerland,Aargau,,,CH-AG,,2020-11-24,-8,-1,22,-24,-18,9
+CH,Switzerland,Aargau,,,CH-AG,,2020-11-25,-4,4,15,-19,-18,8
+CH,Switzerland,Aargau,,,CH-AG,,2020-11-26,0,10,6,-21,-15,9
+CH,Switzerland,Aargau,,,CH-AG,,2020-11-27,3,11,27,-18,-16,9
 CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-02-15,8,5,,12,8,
 CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-02-16,4,,,-3,,
 CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-02-17,0,-3,,-4,2,
@@ -826,6 +832,9 @@ CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-11-21,,,,-8,-2,
 CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-11-22,,,,-8,,
 CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-11-23,,,,-20,-12,8
 CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-11-24,,,,-9,-13,7
+CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-11-25,,,,-6,-11,8
+CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-11-26,,,,-5,-12,8
+CH,Switzerland,Appenzell Ausserrhoden,,,CH-AR,,2020-11-27,,,,2,-9,9
 CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-02-17,,,,,7,
 CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-02-18,,,,,6,
 CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-02-19,,,,,6,
@@ -1010,6 +1019,9 @@ CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-11-19,,,,,-7,
 CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-11-20,,,,,-2,
 CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-11-23,,,,,-10,
 CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-11-24,,,,,-3,
+CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-11-25,,,,,-6,
+CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-11-26,,,,,-10,
+CH,Switzerland,Appenzell Innerrhoden,,,CH-AI,,2020-11-27,,,,,-4,
 CH,Switzerland,Basel City,,,CH-BS,,2020-02-15,6,1,48,7,0,
 CH,Switzerland,Basel City,,,CH-BS,,2020-02-16,9,9,79,11,1,
 CH,Switzerland,Basel City,,,CH-BS,,2020-02-17,-6,-7,-18,1,1,2
@@ -1294,6 +1306,9 @@ CH,Switzerland,Basel City,,,CH-BS,,2020-11-21,-31,-12,3,-35,-9,7
 CH,Switzerland,Basel City,,,CH-BS,,2020-11-22,-44,-11,21,-40,-10,
 CH,Switzerland,Basel City,,,CH-BS,,2020-11-23,-43,-13,-36,-37,-27,13
 CH,Switzerland,Basel City,,,CH-BS,,2020-11-24,-43,-11,-32,-35,-27,13
+CH,Switzerland,Basel City,,,CH-BS,,2020-11-25,-40,-9,-34,-32,-26,12
+CH,Switzerland,Basel City,,,CH-BS,,2020-11-26,-39,-5,-44,-35,-26,12
+CH,Switzerland,Basel City,,,CH-BS,,2020-11-27,-32,-3,-35,-31,-26,11
 CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-02-15,2,-1,,12,3,-1
 CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-02-16,17,13,41,11,-2,
 CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-02-17,-3,-4,,-1,1,1
@@ -1575,6 +1590,9 @@ CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-11-21,-7,7,,-28,-4,8
 CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-11-22,-22,,49,-22,-12,6
 CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-11-23,-6,2,,-20,-16,10
 CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-11-24,2,8,,-15,-16,10
+CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-11-25,1,8,,-14,-14,8
+CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-11-26,3,11,,-16,-15,9
+CH,Switzerland,Basel-Landschaft,,,CH-BL,,2020-11-27,7,13,,-18,-15,9
 CH,Switzerland,Canton of Bern,,,CH-BE,,2020-02-15,2,-1,28,5,0,-1
 CH,Switzerland,Canton of Bern,,,CH-BE,,2020-02-16,7,16,29,0,-1,0
 CH,Switzerland,Canton of Bern,,,CH-BE,,2020-02-17,-4,-4,-3,-3,-1,1
@@ -1859,6 +1877,9 @@ CH,Switzerland,Canton of Bern,,,CH-BE,,2020-11-21,-18,2,14,-30,-9,8
 CH,Switzerland,Canton of Bern,,,CH-BE,,2020-11-22,-34,-12,44,-28,-19,6
 CH,Switzerland,Canton of Bern,,,CH-BE,,2020-11-23,-19,-3,11,-28,-16,9
 CH,Switzerland,Canton of Bern,,,CH-BE,,2020-11-24,-18,-1,7,-25,-14,9
+CH,Switzerland,Canton of Bern,,,CH-BE,,2020-11-25,-14,-1,-3,-25,-13,8
+CH,Switzerland,Canton of Bern,,,CH-BE,,2020-11-26,-13,5,-2,-24,-13,8
+CH,Switzerland,Canton of Bern,,,CH-BE,,2020-11-27,-8,9,3,-24,-12,8
 CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-02-15,-3,-1,,7,-5,
 CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-02-16,-3,,,3,-3,
 CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-02-17,-1,-1,,1,1,0
@@ -2137,6 +2158,9 @@ CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-11-21,-6,6,,-18,-4,
 CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-11-22,-22,,,-26,-9,
 CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-11-23,-16,-3,,-29,-23,12
 CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-11-24,-15,0,,-31,-22,13
+CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-11-25,-13,3,,-29,-23,12
+CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-11-26,-9,12,,-29,-21,11
+CH,Switzerland,Canton of Zug,,,CH-ZG,,2020-11-27,-7,10,,-24,-20,11
 CH,Switzerland,Fribourg,,,CH-FR,,2020-02-15,3,-3,20,13,-1,-1
 CH,Switzerland,Fribourg,,,CH-FR,,2020-02-16,5,9,-4,7,-2,0
 CH,Switzerland,Fribourg,,,CH-FR,,2020-02-17,-5,-5,-12,-3,1,2
@@ -2421,6 +2445,9 @@ CH,Switzerland,Fribourg,,,CH-FR,,2020-11-21,-42,3,8,-29,-18,11
 CH,Switzerland,Fribourg,,,CH-FR,,2020-11-22,-56,,16,-28,-26,7
 CH,Switzerland,Fribourg,,,CH-FR,,2020-11-23,-37,-4,28,-24,-15,9
 CH,Switzerland,Fribourg,,,CH-FR,,2020-11-24,-35,-1,22,-22,-15,9
+CH,Switzerland,Fribourg,,,CH-FR,,2020-11-25,-35,5,7,-24,-15,9
+CH,Switzerland,Fribourg,,,CH-FR,,2020-11-26,-33,8,7,-23,-15,9
+CH,Switzerland,Fribourg,,,CH-FR,,2020-11-27,-32,14,1,-23,-12,10
 CH,Switzerland,Geneva,,,CH-GE,,2020-02-15,-8,-5,38,-6,-7,-2
 CH,Switzerland,Geneva,,,CH-GE,,2020-02-16,10,29,60,2,-3,-1
 CH,Switzerland,Geneva,,,CH-GE,,2020-02-17,-6,-6,6,4,-1,1
@@ -2705,6 +2732,9 @@ CH,Switzerland,Geneva,,,CH-GE,,2020-11-21,-62,3,-11,-61,-28,12
 CH,Switzerland,Geneva,,,CH-GE,,2020-11-22,-60,,30,-59,-28,9
 CH,Switzerland,Geneva,,,CH-GE,,2020-11-23,-57,-8,-24,-47,-31,14
 CH,Switzerland,Geneva,,,CH-GE,,2020-11-24,-58,-3,-18,-44,-31,15
+CH,Switzerland,Geneva,,,CH-GE,,2020-11-25,-57,-2,-34,-46,-29,14
+CH,Switzerland,Geneva,,,CH-GE,,2020-11-26,-58,-2,-33,-48,-30,15
+CH,Switzerland,Geneva,,,CH-GE,,2020-11-27,-56,3,-33,-47,-29,15
 CH,Switzerland,Glarus,,,CH-GL,,2020-02-15,18,10,,16,2,
 CH,Switzerland,Glarus,,,CH-GL,,2020-02-16,-3,,,-7,,
 CH,Switzerland,Glarus,,,CH-GL,,2020-02-17,-7,-5,,2,2,
@@ -2962,6 +2992,9 @@ CH,Switzerland,Glarus,,,CH-GL,,2020-11-21,-9,,,-25,-7,
 CH,Switzerland,Glarus,,,CH-GL,,2020-11-22,,,,-31,,
 CH,Switzerland,Glarus,,,CH-GL,,2020-11-23,,,,-16,-9,
 CH,Switzerland,Glarus,,,CH-GL,,2020-11-24,,,,-7,-5,
+CH,Switzerland,Glarus,,,CH-GL,,2020-11-25,,,,-14,-4,
+CH,Switzerland,Glarus,,,CH-GL,,2020-11-26,,,,-11,-9,
+CH,Switzerland,Glarus,,,CH-GL,,2020-11-27,-6,,,-14,-5,
 CH,Switzerland,Grisons,,,CH-GR,,2020-02-15,15,8,37,27,1,-1
 CH,Switzerland,Grisons,,,CH-GR,,2020-02-16,11,31,14,11,0,1
 CH,Switzerland,Grisons,,,CH-GR,,2020-02-17,11,12,31,5,3,1
@@ -3246,6 +3279,9 @@ CH,Switzerland,Grisons,,,CH-GR,,2020-11-21,-45,-12,-48,-54,-30,8
 CH,Switzerland,Grisons,,,CH-GR,,2020-11-22,-60,-65,-34,-51,-41,7
 CH,Switzerland,Grisons,,,CH-GR,,2020-11-23,-45,-13,-37,-45,-17,6
 CH,Switzerland,Grisons,,,CH-GR,,2020-11-24,-36,-14,-26,-34,-17,5
+CH,Switzerland,Grisons,,,CH-GR,,2020-11-25,-34,-6,-26,-36,-17,5
+CH,Switzerland,Grisons,,,CH-GR,,2020-11-26,-40,-6,-36,-43,-16,6
+CH,Switzerland,Grisons,,,CH-GR,,2020-11-27,-32,-3,-39,-43,-17,6
 CH,Switzerland,Jura,,,CH-JU,,2020-02-15,-3,0,,-4,-2,
 CH,Switzerland,Jura,,,CH-JU,,2020-02-16,11,,,6,-12,
 CH,Switzerland,Jura,,,CH-JU,,2020-02-17,-10,-12,,-16,-18,2
@@ -3524,6 +3560,9 @@ CH,Switzerland,Jura,,,CH-JU,,2020-11-21,-42,4,,-30,-21,
 CH,Switzerland,Jura,,,CH-JU,,2020-11-22,-60,,,-24,-29,
 CH,Switzerland,Jura,,,CH-JU,,2020-11-23,-36,-3,,-16,-15,8
 CH,Switzerland,Jura,,,CH-JU,,2020-11-24,-30,3,,-23,-15,8
+CH,Switzerland,Jura,,,CH-JU,,2020-11-25,-31,5,,-18,-14,7
+CH,Switzerland,Jura,,,CH-JU,,2020-11-26,-35,9,,-21,-14,8
+CH,Switzerland,Jura,,,CH-JU,,2020-11-27,-31,14,,-14,-15,9
 CH,Switzerland,Lucerne,,,CH-LU,,2020-02-15,-2,-2,44,8,-3,-2
 CH,Switzerland,Lucerne,,,CH-LU,,2020-02-16,20,17,12,12,-3,-1
 CH,Switzerland,Lucerne,,,CH-LU,,2020-02-17,-6,-8,-12,-8,-10,3
@@ -3808,6 +3847,9 @@ CH,Switzerland,Lucerne,,,CH-LU,,2020-11-21,-14,7,-11,-30,-7,8
 CH,Switzerland,Lucerne,,,CH-LU,,2020-11-22,-31,-13,2,-27,-15,6
 CH,Switzerland,Lucerne,,,CH-LU,,2020-11-23,-14,-2,-22,-22,-11,9
 CH,Switzerland,Lucerne,,,CH-LU,,2020-11-24,-12,1,-20,-22,-11,8
+CH,Switzerland,Lucerne,,,CH-LU,,2020-11-25,-13,-1,-20,-20,-11,8
+CH,Switzerland,Lucerne,,,CH-LU,,2020-11-26,-9,5,-31,-24,-9,8
+CH,Switzerland,Lucerne,,,CH-LU,,2020-11-27,-3,10,-28,-19,-10,8
 CH,Switzerland,Neuchâtel,,,CH-NE,,2020-02-15,0,0,,15,-3,-1
 CH,Switzerland,Neuchâtel,,,CH-NE,,2020-02-16,12,,,25,0,
 CH,Switzerland,Neuchâtel,,,CH-NE,,2020-02-17,-7,-6,,-2,0,1
@@ -4086,6 +4128,9 @@ CH,Switzerland,Neuchâtel,,,CH-NE,,2020-11-21,-39,3,,-25,-30,10
 CH,Switzerland,Neuchâtel,,,CH-NE,,2020-11-22,-55,,,-21,-30,
 CH,Switzerland,Neuchâtel,,,CH-NE,,2020-11-23,-37,-8,,-24,-25,10
 CH,Switzerland,Neuchâtel,,,CH-NE,,2020-11-24,-35,-1,,-23,-25,10
+CH,Switzerland,Neuchâtel,,,CH-NE,,2020-11-25,-33,2,,-25,-24,9
+CH,Switzerland,Neuchâtel,,,CH-NE,,2020-11-26,-31,4,,-25,-24,10
+CH,Switzerland,Neuchâtel,,,CH-NE,,2020-11-27,-28,14,,-17,-25,10
 CH,Switzerland,Nidwalden,,,CH-NW,,2020-02-15,2,1,,23,7,
 CH,Switzerland,Nidwalden,,,CH-NW,,2020-02-16,,,2,10,,
 CH,Switzerland,Nidwalden,,,CH-NW,,2020-02-17,2,-8,,-14,-11,
@@ -4345,6 +4390,9 @@ CH,Switzerland,Nidwalden,,,CH-NW,,2020-11-21,-6,,-6,-24,-7,
 CH,Switzerland,Nidwalden,,,CH-NW,,2020-11-22,,,-13,-31,,
 CH,Switzerland,Nidwalden,,,CH-NW,,2020-11-23,,,,-23,-11,
 CH,Switzerland,Nidwalden,,,CH-NW,,2020-11-24,,,,-12,-13,
+CH,Switzerland,Nidwalden,,,CH-NW,,2020-11-25,,,,-22,-11,
+CH,Switzerland,Nidwalden,,,CH-NW,,2020-11-26,,,,-21,-12,
+CH,Switzerland,Nidwalden,,,CH-NW,,2020-11-27,,,,-27,-11,
 CH,Switzerland,Obwalden,,,CH-OW,,2020-02-15,-3,10,,28,0,
 CH,Switzerland,Obwalden,,,CH-OW,,2020-02-16,7,,,0,,
 CH,Switzerland,Obwalden,,,CH-OW,,2020-02-17,-1,0,,0,-7,
@@ -4604,6 +4652,9 @@ CH,Switzerland,Obwalden,,,CH-OW,,2020-11-21,,,,-50,-14,
 CH,Switzerland,Obwalden,,,CH-OW,,2020-11-22,,,,-55,,
 CH,Switzerland,Obwalden,,,CH-OW,,2020-11-23,,,,-37,-14,
 CH,Switzerland,Obwalden,,,CH-OW,,2020-11-24,,,,-24,-11,
+CH,Switzerland,Obwalden,,,CH-OW,,2020-11-25,,,,-35,-12,
+CH,Switzerland,Obwalden,,,CH-OW,,2020-11-26,,,,-39,-9,
+CH,Switzerland,Obwalden,,,CH-OW,,2020-11-27,,,,-37,-10,
 CH,Switzerland,Schaffhausen,,,CH-SH,,2020-02-15,18,1,,13,9,
 CH,Switzerland,Schaffhausen,,,CH-SH,,2020-02-16,66,,,29,,
 CH,Switzerland,Schaffhausen,,,CH-SH,,2020-02-17,-6,-1,,5,6,0
@@ -4863,6 +4914,9 @@ CH,Switzerland,Schaffhausen,,,CH-SH,,2020-11-21,0,9,,-17,-4,
 CH,Switzerland,Schaffhausen,,,CH-SH,,2020-11-22,,,,-22,,
 CH,Switzerland,Schaffhausen,,,CH-SH,,2020-11-23,-4,,,-21,-12,8
 CH,Switzerland,Schaffhausen,,,CH-SH,,2020-11-24,-10,,,-20,-12,8
+CH,Switzerland,Schaffhausen,,,CH-SH,,2020-11-25,-1,,,-21,-11,8
+CH,Switzerland,Schaffhausen,,,CH-SH,,2020-11-26,-6,,,-21,-11,8
+CH,Switzerland,Schaffhausen,,,CH-SH,,2020-11-27,5,,,-22,-12,7
 CH,Switzerland,Schwyz,,,CH-SZ,,2020-02-15,3,1,,23,-2,
 CH,Switzerland,Schwyz,,,CH-SZ,,2020-02-16,22,,2,18,-4,
 CH,Switzerland,Schwyz,,,CH-SZ,,2020-02-17,-2,0,,-2,1,1
@@ -5141,6 +5195,9 @@ CH,Switzerland,Schwyz,,,CH-SZ,,2020-11-21,2,20,,-21,-7,7
 CH,Switzerland,Schwyz,,,CH-SZ,,2020-11-22,3,,23,-20,-12,
 CH,Switzerland,Schwyz,,,CH-SZ,,2020-11-23,-6,10,,-21,-13,8
 CH,Switzerland,Schwyz,,,CH-SZ,,2020-11-24,-3,12,,-14,-13,8
+CH,Switzerland,Schwyz,,,CH-SZ,,2020-11-25,0,14,,-20,-13,8
+CH,Switzerland,Schwyz,,,CH-SZ,,2020-11-26,5,18,,-22,-13,7
+CH,Switzerland,Schwyz,,,CH-SZ,,2020-11-27,10,27,,-15,-14,8
 CH,Switzerland,Solothurn,,,CH-SO,,2020-02-15,-4,0,35,10,-5,-1
 CH,Switzerland,Solothurn,,,CH-SO,,2020-02-16,8,4,33,15,-6,
 CH,Switzerland,Solothurn,,,CH-SO,,2020-02-17,-6,-4,,0,1,1
@@ -5424,6 +5481,9 @@ CH,Switzerland,Solothurn,,,CH-SO,,2020-11-21,-18,3,37,-25,-7,7
 CH,Switzerland,Solothurn,,,CH-SO,,2020-11-22,-29,,48,-24,-12,5
 CH,Switzerland,Solothurn,,,CH-SO,,2020-11-23,-20,-3,,-25,-16,8
 CH,Switzerland,Solothurn,,,CH-SO,,2020-11-24,-17,0,,-24,-14,8
+CH,Switzerland,Solothurn,,,CH-SO,,2020-11-25,-12,7,,-22,-14,7
+CH,Switzerland,Solothurn,,,CH-SO,,2020-11-26,-9,9,,-23,-15,7
+CH,Switzerland,Solothurn,,,CH-SO,,2020-11-27,-7,9,,-23,-15,8
 CH,Switzerland,St. Gallen,,,CH-SG,,2020-02-15,7,2,61,22,1,-1
 CH,Switzerland,St. Gallen,,,CH-SG,,2020-02-16,13,16,27,16,1,0
 CH,Switzerland,St. Gallen,,,CH-SG,,2020-02-17,-3,-1,3,-1,3,1
@@ -5708,6 +5768,9 @@ CH,Switzerland,St. Gallen,,,CH-SG,,2020-11-21,-10,5,,-22,-9,7
 CH,Switzerland,St. Gallen,,,CH-SG,,2020-11-22,-31,-16,38,-19,-16,6
 CH,Switzerland,St. Gallen,,,CH-SG,,2020-11-23,-13,-3,23,-22,-12,7
 CH,Switzerland,St. Gallen,,,CH-SG,,2020-11-24,-11,1,61,-15,-15,8
+CH,Switzerland,St. Gallen,,,CH-SG,,2020-11-25,-9,6,34,-18,-14,7
+CH,Switzerland,St. Gallen,,,CH-SG,,2020-11-26,-11,4,9,-19,-13,7
+CH,Switzerland,St. Gallen,,,CH-SG,,2020-11-27,2,9,25,-14,-14,7
 CH,Switzerland,Thurgau,,,CH-TG,,2020-02-15,10,4,54,15,5,0
 CH,Switzerland,Thurgau,,,CH-TG,,2020-02-16,21,,53,21,2,
 CH,Switzerland,Thurgau,,,CH-TG,,2020-02-17,6,0,0,0,3,1
@@ -5989,6 +6052,9 @@ CH,Switzerland,Thurgau,,,CH-TG,,2020-11-21,-17,-6,16,-31,-2,8
 CH,Switzerland,Thurgau,,,CH-TG,,2020-11-22,-24,,38,-22,-8,6
 CH,Switzerland,Thurgau,,,CH-TG,,2020-11-23,-9,-1,19,-23,-11,7
 CH,Switzerland,Thurgau,,,CH-TG,,2020-11-24,-15,-3,0,-27,-12,7
+CH,Switzerland,Thurgau,,,CH-TG,,2020-11-25,-14,-5,-15,-26,-11,7
+CH,Switzerland,Thurgau,,,CH-TG,,2020-11-26,-12,0,-26,-29,-12,7
+CH,Switzerland,Thurgau,,,CH-TG,,2020-11-27,-5,6,-27,-30,-9,7
 CH,Switzerland,Ticino,,,CH-TI,,2020-02-15,1,-1,32,16,-2,-1
 CH,Switzerland,Ticino,,,CH-TI,,2020-02-16,3,-2,-7,14,0,0
 CH,Switzerland,Ticino,,,CH-TI,,2020-02-17,0,0,-2,1,0,1
@@ -6273,6 +6339,9 @@ CH,Switzerland,Ticino,,,CH-TI,,2020-11-21,-16,5,35,-22,-9,9
 CH,Switzerland,Ticino,,,CH-TI,,2020-11-22,-28,-27,18,-23,-13,9
 CH,Switzerland,Ticino,,,CH-TI,,2020-11-23,-18,3,7,-22,-14,9
 CH,Switzerland,Ticino,,,CH-TI,,2020-11-24,-16,6,15,-21,-14,9
+CH,Switzerland,Ticino,,,CH-TI,,2020-11-25,-17,5,14,-18,-12,8
+CH,Switzerland,Ticino,,,CH-TI,,2020-11-26,-12,8,14,-16,-13,8
+CH,Switzerland,Ticino,,,CH-TI,,2020-11-27,-9,15,11,-15,-13,9
 CH,Switzerland,Uri,,,CH-UR,,2020-02-15,1,8,,6,-2,
 CH,Switzerland,Uri,,,CH-UR,,2020-02-16,-5,,,-10,,
 CH,Switzerland,Uri,,,CH-UR,,2020-02-17,-1,-6,,-2,-4,
@@ -6532,6 +6601,9 @@ CH,Switzerland,Uri,,,CH-UR,,2020-11-21,,,,-50,-12,
 CH,Switzerland,Uri,,,CH-UR,,2020-11-22,,,,-40,,
 CH,Switzerland,Uri,,,CH-UR,,2020-11-23,,,,-33,-9,
 CH,Switzerland,Uri,,,CH-UR,,2020-11-24,,,,-35,-9,
+CH,Switzerland,Uri,,,CH-UR,,2020-11-25,,,,-32,-9,
+CH,Switzerland,Uri,,,CH-UR,,2020-11-26,,,,-34,-6,
+CH,Switzerland,Uri,,,CH-UR,,2020-11-27,-12,,,-36,-4,
 CH,Switzerland,Valais,,,CH-VS,,2020-02-15,13,10,23,27,1,-1
 CH,Switzerland,Valais,,,CH-VS,,2020-02-16,25,49,24,21,4,0
 CH,Switzerland,Valais,,,CH-VS,,2020-02-17,10,10,48,13,3,1
@@ -6816,6 +6888,9 @@ CH,Switzerland,Valais,,,CH-VS,,2020-11-21,-50,0,-33,-50,-34,11
 CH,Switzerland,Valais,,,CH-VS,,2020-11-22,-67,-46,-18,-41,-44,9
 CH,Switzerland,Valais,,,CH-VS,,2020-11-23,-48,-12,-31,-29,-17,8
 CH,Switzerland,Valais,,,CH-VS,,2020-11-24,-45,-4,-22,-24,-17,8
+CH,Switzerland,Valais,,,CH-VS,,2020-11-25,-44,-2,-34,-28,-16,8
+CH,Switzerland,Valais,,,CH-VS,,2020-11-26,-44,0,-35,-30,-16,8
+CH,Switzerland,Valais,,,CH-VS,,2020-11-27,-40,10,-35,-29,-16,8
 CH,Switzerland,Vaud,,,CH-VD,,2020-02-15,-3,-3,33,6,-5,-1
 CH,Switzerland,Vaud,,,CH-VD,,2020-02-16,13,6,24,10,-6,-1
 CH,Switzerland,Vaud,,,CH-VD,,2020-02-17,-8,-11,-19,-11,-16,3
@@ -7100,6 +7175,9 @@ CH,Switzerland,Vaud,,,CH-VD,,2020-11-21,-35,0,3,-27,-22,11
 CH,Switzerland,Vaud,,,CH-VD,,2020-11-22,-51,-1,30,-23,-31,8
 CH,Switzerland,Vaud,,,CH-VD,,2020-11-23,-36,-12,-1,-24,-27,12
 CH,Switzerland,Vaud,,,CH-VD,,2020-11-24,-34,-5,-8,-26,-26,12
+CH,Switzerland,Vaud,,,CH-VD,,2020-11-25,-34,-3,-21,-27,-24,11
+CH,Switzerland,Vaud,,,CH-VD,,2020-11-26,-32,0,-13,-25,-25,12
+CH,Switzerland,Vaud,,,CH-VD,,2020-11-27,-27,4,-6,-25,-23,12
 CH,Switzerland,Zurich,,,CH-ZH,,2020-02-15,-9,-6,48,0,-5,-3
 CH,Switzerland,Zurich,,,CH-ZH,,2020-02-16,1,0,17,3,-5,-1
 CH,Switzerland,Zurich,,,CH-ZH,,2020-02-17,-5,-9,-17,-4,-8,2
@@ -7384,3 +7462,6 @@ CH,Switzerland,Zurich,,,CH-ZH,,2020-11-21,-17,4,32,-29,-8,7
 CH,Switzerland,Zurich,,,CH-ZH,,2020-11-22,-32,-16,3,-34,-16,7
 CH,Switzerland,Zurich,,,CH-ZH,,2020-11-23,-22,-4,9,-35,-28,13
 CH,Switzerland,Zurich,,,CH-ZH,,2020-11-24,-21,-1,3,-33,-25,13
+CH,Switzerland,Zurich,,,CH-ZH,,2020-11-25,-18,-1,-16,-33,-25,13
+CH,Switzerland,Zurich,,,CH-ZH,,2020-11-26,-18,4,-22,-33,-26,13
+CH,Switzerland,Zurich,,,CH-ZH,,2020-11-27,-13,7,-5,-31,-25,12
