@@ -1,2 +1,0 @@
-- For areas with sufficient data, use GLM function on local mobility data.
-  - This will probably be most useful in areas with schools/more populated areas

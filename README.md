@@ -1,4 +1,6 @@
-### Indiana Covid-19 Forecast
+### [Indiana Covid-19 Forecast](https://nbennett320.github.io/indiana-covid19-forecast/)
+
+One-week forecasting for Covid-19 cases, deaths, hospital occupancy, and ventilator availability in Indiana.
 
 #### Data sources
 [Mobility trends from Apple](https://covid19.apple.com/mobility) <br />
