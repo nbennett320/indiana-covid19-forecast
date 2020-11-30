@@ -19,7 +19,7 @@ const App = () => {
   const [county, setCounty] = React.useState('Indiana')
   const [showSmooth, setSmooth] = React.useState(false)
   const [smoothingMethod, setSmoothingMethod] = React.useState('polynomial')
-  const [viewRange, setViewRange] = React.useState('month')
+  const [viewRange, setViewRange] = React.useState('3month')
   return (
     <div style={styles}>
       <Header 

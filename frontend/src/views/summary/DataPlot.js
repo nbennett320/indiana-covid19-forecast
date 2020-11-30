@@ -17,11 +17,12 @@ const DataPlot = props => {
   const { 
     xLab,
     yLab,
-    dataLab, 
     animationOffset,
     animationDuration 
   } = props.format
   const classes = useStyles()
+  const percentage = Math.floor(props.predictionLength / (props.domainLength + props.predictionLength) * 100)
+  console.log('percentage:' , percentage)
   return (
     <div className={classes.main}>
       <ResponsiveContainer
@@ -43,14 +44,21 @@ const DataPlot = props => {
             bottom: 12 
           }}
         >
+          <defs>
+            <linearGradient id="line-segment" x1="0" y1="0" x2="100%" y2="0">
+              <stop offset="0%" stopColor="#00bcd4" />
+              <stop offset={`${100 - percentage}%`} stopColor="#00bcd4" />
+              <stop offset={`${100 - percentage}%`} stopColor="#ffc107" />
+              <stop offset="100%" stopColor="#ffc107" />
+            </linearGradient>
+          </defs>
           <CartesianGrid strokeDasharray='3 3' />
           <XAxis 
             dataKey='x'
             name={xLab}
-            domain={['dataMin', 'dataMax']}
-            interval='preserveStartEnd'
+            // domain={['dataMin', 'dataMax']}
+            // interval='preserveStartEnd'
             allowDuplicatedCategory={true}
-            // xAxisId='xAxisTimeSeries'
             padding={{
               top: 20,
               bottom: 20,
@@ -102,40 +110,14 @@ const DataPlot = props => {
           <Tooltip />
           <Line 
             type='monotone'
-            dataKey={`y_${dataLab}_data`}
-            // xAxisId='xAxisTimeSeries'
-            stroke='#00bcd4'
+            dataKey={`y_all`}
+            stroke='url(#line-segment)'
             activeDot={{ r: 4 }}
-            dot={false}
+            dot={props.viewRange === 'month' ? { stroke: '#ddd', strokeWidth: 0.86 } : false}
             legendType='line'
             formatter={n => Math.round(n)}
-            name={dataLab}
-            animationBegin={0 + animationOffset}
-            animationDuration={animationDuration}
-          />
-          {/* <Line 
-            type='monotone'
-            dataKey={`y_${dataLab}_today`}
-            // xAxisId='xAxisTimeSeries'
-            stroke='#00a5bb'
-            activeDot={{ r: 4 }}
-            dot={false}
-            legendType='none'
-            formatter={n => Math.round(n)}
-            animationBegin={animationDuration + animationOffset}
-            animationDuration={10}
-          /> */}
-          <Line 
-            type='monotone'
-            dataKey={`y_${dataLab}_forecasted`}
-            // xAxisId='xAxisTimeSeries'
-            stroke='#ffc107'
-            activeDot={{ r: 4 }}
-            dot={false}
-            legendType='line'
-            formatter={n => Math.round(n)}
-            name={'Forecasted'}
-            animationBegin={animationDuration + animationOffset + 10}
+            name={'Data (blue), Forecasted (yellow)'}
+            animationBegin={animationOffset}
             animationDuration={animationDuration}
           />
           <ReferenceLine 

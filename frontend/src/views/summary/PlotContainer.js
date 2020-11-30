@@ -7,6 +7,9 @@ import {
   formatData
 } from '../../util'
 
+const animationDuration = 1000
+const animationOffset = 0
+
 const getDomainLength = (viewRange) => {
   switch(viewRange) {
     case 'month':
@@ -14,16 +17,19 @@ const getDomainLength = (viewRange) => {
     case '3month':
       return 92
     default:
-      return -1
+      const startDay = new Date(2020, 2, 25)
+      const today = new Date()
+      return Math.round(Math.abs((today - startDay) / (24 * 60 * 60 * 1000)))
   }
 }
 
 const PlotContainer = props => {
   const classes = useStyles()
+  const domainLength = getDomainLength(props.viewRange)
   const data = formatData(
     getRenderedData({...props}),
     props.viewRange,
-    getDomainLength(props.viewRange)
+    domainLength
   )
   return (
     <div className={classes.main}>
@@ -40,6 +46,9 @@ const PlotContainer = props => {
           {...props}
           data={data}
           predictionLength={14}
+          domainLength={domainLength}
+          animationDuration={animationDuration}
+          animationOffset={animationOffset}
         />
       </div>
     </div>

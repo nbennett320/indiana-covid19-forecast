@@ -2,7 +2,6 @@ import React from 'react'
 import { default as Plot } from './PlotContainer'
 import { makeStyles } from '@material-ui/core/styles'
 
-const animationDuration = 500
 const Summary = props => {
   const classes = useStyles()
   return (
@@ -16,8 +15,6 @@ const Summary = props => {
           xLab: "Date",
           yLab: "Cases per day",
           dataLab: "Cases",
-          animationOffset: 0,
-          animationDuration: animationDuration
         }}
       />
       <Plot
@@ -29,8 +26,6 @@ const Summary = props => {
           xLab: "Date",
           yLab: "Deaths per day",
           dataLab: "Deaths",
-          animationOffset: animationDuration,
-          animationDuration: animationDuration
         }}
       />
       <Plot
@@ -42,8 +37,6 @@ const Summary = props => {
           xLab: "Date",
           yLab: "Available ICU Beds",
           dataLab: "Beds",
-          animationOffset: 2 * animationDuration,
-          animationDuration: animationDuration
         }}
       />
     </div>

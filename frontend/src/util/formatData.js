@@ -17,7 +17,7 @@ const formatData = (data, viewRange, domainLength,) => {
         return false
       else return true
     })
-  }
+  } else return data
 }
 
 export default formatData
