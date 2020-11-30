@@ -6,13 +6,8 @@ import { Summary, About } from './views'
 import './assets/css/App.css'
 
 const mql = window.matchMedia(`(max-width: 633px)`)
-const vpWidth = window.innerWidth
-const vpHeight = window.innerHeight
-const userDevice = {
-  isMobile: mql,
-  vpWidth,
-  vpHeight
-}
+const viewportWidth = window.innerWidth
+const viewportHeight = window.innerHeight
 
 const App = () => {
   const [sidebarIsOpen, setSidebarIsOpen] = React.useState(false)
@@ -20,6 +15,19 @@ const App = () => {
   const [showSmooth, setSmooth] = React.useState(false)
   const [smoothingMethod, setSmoothingMethod] = React.useState('polynomial')
   const [viewRange, setViewRange] = React.useState('3month')
+  const [vpWidth, setViewportWidth] = React.useState(viewportWidth)
+  const [vpHeight, setViewportHeight] = React.useState(viewportHeight)
+
+  window.addEventListener('resize', () => {
+    setViewportWidth(window.innerWidth)
+    setViewportHeight(window.innerHeight)
+  })
+
+  const userDevice = {
+    isMobile: mql,
+    vpWidth,
+    vpHeight
+  }
   return (
     <div style={styles}>
       <Header 
