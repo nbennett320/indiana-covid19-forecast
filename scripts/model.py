@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-import collections, sys, os, math, json, logging
+import collections, sys, os, math, json, logging, random
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -362,36 +362,37 @@ def preprocess_data():
     print("covid_cases_by_school_df:\n", covid_cases_by_school_df)
     # print("all time series data:\n", time_series_df)
 
-  if model_county.lower() == 'all':
-    cdf = pd.DataFrame(indiana_counties_raw).copy()
-    del cdf['location_id']
-    for i in cdf['county_name']:
-      print_separator()
-      print(f'calculating for {i} county...')
-      print_separator()
-      predict_covid_count(
-        county_level_test_case_death_trends_df, 
-        county=i
-      )
-      predict_covid_deaths(
-        county_level_test_case_death_trends_df, 
-        county=i
-      )
-  else:
-    predict_covid_count(
-      county_level_test_case_death_trends_df, 
-      county=model_county
-    )
-    predict_covid_deaths(
-      county_level_test_case_death_trends_df, 
-      county=model_county
-    )
-  predict_hospital_occupation(hospital_vent_df)
+  # if model_county.lower() == 'all':
+  #   cdf = pd.DataFrame(indiana_counties_raw).copy()
+  #   del cdf['location_id']
+  #   for i in cdf['county_name']:
+  #     print_separator()
+  #     print(f'calculating for {i} county...')
+  #     print_separator()
+  #     predict_covid_count(
+  #       county_level_test_case_death_trends_df, 
+  #       county=i
+  #     )
+  #     predict_covid_deaths(
+  #       county_level_test_case_death_trends_df, 
+  #       county=i
+  #     )
+  # else:
+  #   predict_covid_count(
+  #     county_level_test_case_death_trends_df, 
+  #     county=model_county
+  #   )
+  #   predict_covid_deaths(
+  #     county_level_test_case_death_trends_df, 
+  #     county=model_county
+  #   )
+  # predict_hospital_bed_occupancy(hospital_vent_df)
+  predict_hospital_vent_availability(hospital_vent_df)
 
 ########################################################
 # predict hospital occupation
 ########################################################
-def predict_hospital_occupation(df: pd.DataFrame):
+def predict_hospital_bed_occupancy(df: pd.DataFrame):
   fcols = []
   for col in df.columns:
     fcols.append(tf.feature_column.numeric_column(col))
@@ -480,10 +481,109 @@ def predict_hospital_occupation(df: pd.DataFrame):
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist()
     })
-
-    filename = output_dir + 'model_prediction_hospital_occupation.json'
+    for key, val in result.items():
+      result[key] = str(val)
+    filename = output_dir + 'model_prediction_hospital_bed_occupation.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
+      json.dump(result, outfile)
+
+def predict_hospital_vent_availability(df: pd.DataFrame):
+  fcols = []
+  for col in df.columns:
+    fcols.append(tf.feature_column.numeric_column(col))
+  estimator = tf.estimator.LinearRegressor(
+    feature_columns=fcols,
+    model_dir=model_dir + '/hospital_occupation/',
+    optimizer=tf.optimizers.Ftrl(
+      learning_rate=0.999999,
+      l1_regularization_strength=0.01,
+      l2_regularization_strength=0.01,
+      l2_shrinkage_regularization_strength=0.0
+    )
+  )
+  if should_plot:
+    plt.plot(
+      df.index,
+      df['pct_vents_all_available_vents_not_in_use'],
+      label="bed data"
+    )
+  dft = df.copy()
+  dft.reset_index(drop=True, inplace=True)
+  train_x, test_x, train_y, test_y = model_selection.train_test_split(dft, dft['pct_vents_all_available_vents_not_in_use'])
+  if is_verbose:
+    print('train_x:', train_x)
+    print('train_y:', train_y)
+    print('test_x:', test_x)
+    print('test_y:', test_y)
+  train_fn = tfest.inputs.pandas_input_fn(
+    x=train_x,
+    y=train_y,
+    shuffle=True,
+    num_epochs=100,
+    batch_size=n_days
+  )
+  test_fn = tfest.inputs.pandas_input_fn(
+    x=test_x,
+    y=test_y,
+    shuffle=False,
+    batch_size=n_days
+  )
+  model = estimator.train(input_fn=train_fn, steps=5000)
+  result = model.evaluate(input_fn=test_fn, steps=10)
+  for key, val in result.items():
+    print(key, ':', val)
+  print_separator()
+  pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
+  predictions = None
+  datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
+  for pred in pred_generator:
+    for key, val in pred.items():
+      predictions = abs(val)
+      print(key, ':', val)
+      print('len:', len(val))
+      print('shape:', val.shape)
+    break
+  scaler = MinMaxScaler()
+  predictions = scaler.fit_transform(predictions)
+  direction = -1 if df['pct_vents_all_available_vents_not_in_use'][-14] > df['pct_vents_all_available_vents_not_in_use'][-1] else 1
+  mult = np.var(df['pct_vents_all_available_vents_not_in_use'][-14:].to_numpy()) * direction
+  predictions = np.array([*map(lambda x: df['pct_vents_all_available_vents_not_in_use'][-1] + mult*x, predictions.flatten())])
+  if should_plot:
+    if is_verbose:
+      print('predictions:',predictions)
+    plt.plot(
+      datelist,
+      predictions,
+      label="bed predictions"
+    )
+    plt.show()
+  if len(output_dir) > 0:
+    pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions})
+    pred_df.set_index('date', inplace=True, drop=True)
+    print(pred_df)
+    polynomial_data = df.resample('5D', kind='timestamp').mean()
+    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
+    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
+    polynomial_pred = pred_df.resample('2D', kind='timestamp').mean()
+    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
+    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
+    output = dict({
+      'x_data': df.index.values.tolist(),
+      'y_data': dft['pct_vents_all_available_vents_not_in_use'].values.tolist(),
+      'x_pred': datelist.tolist(),
+      'y_pred': predictions.tolist(),
+      'x_data_polynomial': polynomial_data.index.values.tolist(),
+      'y_data_polynomial': polynomial_data.values.tolist(),
+      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
+      'y_pred_polynomial': polynomial_data.values.tolist()
+    })
+    for key, val in result.items():
+      result[key] = str(val)
+    filename = output_dir + 'model_prediction_hospital_vent_availability.json'
+    with open(filename, 'w') as outfile:
+      json.dump(output, outfile)
+      json.dump(result, outfile)
 
 ########################################################
 # predict covid deaths
@@ -587,10 +687,12 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist(),
     })
-
+    for key, val in result.items():
+      result[key] = str(val)
     filename = output_dir + 'model_prediction_' + county + '_' + 'covid_deaths' + '.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
+      json.dump(result, outfile)
 
 ########################################################
 # predict covid cases
@@ -695,10 +797,12 @@ def predict_covid_count(df: pd.DataFrame, county: str):
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist(),
     })
-
+    for key, val in result.items():
+      result[key] = str(val)
     filename = output_dir + 'model_prediction_' + county + '_' + 'covid_count' + '.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
+      json.dump(result, outfile)
 
 def plot_by_county(df, county='Marion', y=['covid_count', 'covid_deaths']):
   for n in range(0, len(y)):
