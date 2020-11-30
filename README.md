@@ -1,4 +1,4 @@
-### [Indiana Covid-19 Forecast](https://nbennett320.github.io/indiana-covid19-forecast/)
+### Indiana Covid-19 Forecast
 
 One-week forecasting for Covid-19 cases, deaths, hospital occupancy, and ventilator availability in Indiana.
 
