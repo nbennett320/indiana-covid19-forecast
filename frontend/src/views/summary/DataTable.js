@@ -8,10 +8,7 @@ import {
   Paper
 } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles'
-import { 
-  mapViewRange,
-  formatData
-} from '../../util'
+import { mapViewRange } from '../../util'
 
 const TableHeader = props => {
   return (
