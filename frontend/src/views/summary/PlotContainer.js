@@ -11,7 +11,7 @@ import {
   formatData
 } from '../../util'
 
-const predictionLength = 14
+const predictionLength = 7
 const animationDuration = 1000
 const animationOffset = 0
 
