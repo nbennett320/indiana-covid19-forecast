@@ -2,8 +2,6 @@
 
 One-week forecasting for Covid-19 cases, deaths, hospital occupancy, and ventilator availability in Indiana.
 
---------------------------
-
 ### Data sources
 [Mobility trends from Apple](https://covid19.apple.com/mobility) <br />
 [Mobility trends from Google](https://www.google.com/covid19/mobility/) <br />
@@ -20,8 +18,6 @@ One-week forecasting for Covid-19 cases, deaths, hospital occupancy, and ventila
 [Indiana COVID-19 cases by school data from the Indiana Data Hub](https://hub.mph.in.gov/dataset/covid-19-cases-by-school/resource/39239f34-11ff-4dfc-9b9a-a408b0399458) <br />
 [Indiana bed availability by date from the Indiana Data Hub](https://hub.mph.in.gov/dataset/covid-19-bed-and-vent-usage-by-day/resource/0c00f7b6-05b0-4ebe-8722-ccf33e1a314f) <br />
 [Indiana prevention measures and reopening stages data from www.backontrack.in.gov](https://www.backontrack.in.gov/2348.htm)
-
---------------------------
 
 ### Usage
 - [General](#general)
