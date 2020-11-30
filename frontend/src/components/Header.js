@@ -124,7 +124,7 @@ const useStyles = makeStyles(theme => ({
     position: 'fixed',
     zIndex: '100',
     width: '100%',
-    backgroundColor: theme.palette.primary.main
+    backgroundColor: 'inherit'
   },
   menuButton: {
     marginRight: theme.spacing(2),

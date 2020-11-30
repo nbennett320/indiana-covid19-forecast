@@ -28,6 +28,7 @@ const App = () => {
     vpWidth,
     vpHeight
   }
+  
   return (
     <div style={styles}>
       <Header 

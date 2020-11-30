@@ -69,7 +69,6 @@ const useStyles = makeStyles(() => ({
   main: {
     width: 'auto',
     height: 'auto',
-    // backgroundColor: '#fcfcfc',
     display: 'flex',
     flexDirection: 'column',
     padding: '48px 0',
