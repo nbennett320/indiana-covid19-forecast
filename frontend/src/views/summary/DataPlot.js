@@ -12,6 +12,7 @@ import {
   ReferenceLine
 } from 'recharts'
 import { makeStyles } from '@material-ui/core/styles'
+import { palette } from '../../util'
 
 const DataPlot = props => {
   const { 
@@ -45,18 +46,16 @@ const DataPlot = props => {
         >
           <defs>
             <linearGradient id="line-segment" x1="0" y1="0" x2="100%" y2="0">
-              <stop offset="0%" stopColor="#00bcd4" />
-              <stop offset={`${100 - percentage}%`} stopColor="#00bcd4" />
-              <stop offset={`${100 - percentage}%`} stopColor="#ffc107" />
-              <stop offset="100%" stopColor="#ffc107" />
+              <stop offset="0%" stopColor={`${palette.fill.data}`} />
+              <stop offset={`${100 - percentage}%`} stopColor={`${palette.fill.data}`} />
+              <stop offset={`${100 - percentage}%`} stopColor={`${palette.fill.prediction}`} />
+              <stop offset="100%" stopColor={`${palette.fill.prediction}`} />
             </linearGradient>
           </defs>
           <CartesianGrid strokeDasharray='3 3' />
           <XAxis 
             dataKey='x'
             name={xLab}
-            // domain={['dataMin', 'dataMax']}
-            // interval='preserveStartEnd'
             allowDuplicatedCategory={true}
             padding={{
               top: 20,
@@ -92,6 +91,7 @@ const DataPlot = props => {
                       ...labelProps.viewBox,
                       x: labelProps.viewBox.x - 27.5,
                     }}
+                    fill={`${palette.fill.text}`}
                   >
                     {labelProps.value}
                   </Label>
@@ -103,16 +103,20 @@ const DataPlot = props => {
             verticalAlign='top'
             align='right'
             margin={{
+              top: 0,
+              left: 'auto',
+              right: 0,
               bottom: 10
             }}
+            fill={`${palette.fill.text}`}
           />
-          <Tooltip />
+          <Tooltip fill={`${palette.fill.text}`} />
           <Line 
             type='monotone'
             dataKey={`y_all`}
             stroke='url(#line-segment)'
             activeDot={{ r: 4 }}
-            dot={props.viewRange === 'month' ? { stroke: '#ddd', strokeWidth: 0.86 } : false}
+            dot={props.viewRange === 'month' ? { stroke: palette.fill.cartesianGrid, strokeWidth: 0.86 } : false}
             legendType='line'
             formatter={n => Math.round(n)}
             name={'Data (blue), Forecasted (yellow)'}
@@ -129,12 +133,13 @@ const DataPlot = props => {
                     x: labelProps.viewBox.x,
                     y: labelProps.viewBox.y + props.userDevice.vpHeight * 0.7 * 0.42
                   }}
+                  fill={`${palette.fill.textSecondary}`}
                 >
                   Today
                 </Label>
               )
             }}
-            stroke='#00d482'
+            stroke={`${palette.fill.referenceLine}`}
             strokeDasharray="5 5"
             strokeWidth={1.2}
           />

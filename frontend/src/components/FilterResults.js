@@ -37,7 +37,7 @@ const FilterResults = props => {
         <Collapse
           {...TransitionProps}
         >
-          <Paper>
+          <Paper elevation={4}>
             <ClickAwayListener onClickAway={props.handleClose}>
               <MenuList
                 autoFocus={false}

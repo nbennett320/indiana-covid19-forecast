@@ -24,7 +24,7 @@ const ElevationScroll = props => {
     target: window ? window() : undefined,
   })
   return React.cloneElement(children, {
-    elevation: trigger ? 4 : 0,
+    elevation: trigger ? 3 : 0,
   })
 }
 
