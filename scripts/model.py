@@ -474,6 +474,7 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
     polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
       'model_result': result,
+      'prediction_key': 'hospital_bed_occupation',
       'x_data': df.index.values.tolist(),
       'y_data': dft['beds_available_icu_beds_total'].values.tolist(),
       'x_pred': datelist.tolist(),
@@ -569,6 +570,8 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
     polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
     polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
+      'model_result': result,
+      'prediction_key': 'hospital_vent_availability',
       'x_data': df.index.values.tolist(),
       'y_data': dft['pct_vents_all_available_vents_not_in_use'].values.tolist(),
       'x_pred': datelist.tolist(),
@@ -674,6 +677,7 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
     polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
     polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
+      'model_result': result,
       'county': county,
       'prediction_key': 'covid_deaths',
       'x_data': df['covid_deaths'].index.values.tolist(),
@@ -782,6 +786,7 @@ def predict_covid_count(df: pd.DataFrame, county: str):
     polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
     polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
+      'model_result': result,
       'county': county,
       'prediction_key': 'covid_count',
       'x_data': df['covid_count'].index.values.tolist(),

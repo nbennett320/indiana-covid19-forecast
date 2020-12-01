@@ -33,12 +33,13 @@ const TableHeader = props => {
 
 const DataTable = props => {
   const classes = useStyles()
-  const timeseriesData = props.data.filter(t => {
+  const { data } = props.data
+  const timeseriesData = data.filter(t => {
     if(t.name === props.format.dataLab)
       return true
     else return false
   }) 
-  const predictedData = props.data.filter(t => {
+  const predictedData = data.filter(t => {
     if(t.name === 'Forecasted')
       return true
     else return false
@@ -55,16 +56,16 @@ const DataTable = props => {
         <TableBody>
           <TableRow>
             <TableCell>
-              {Math.max(...timeseriesData.map(e => e.y_all))}
+              {Math.round(Math.max(...timeseriesData.map(e => e.y_all)))}
             </TableCell>
             <TableCell>
-              {Math.min(...timeseriesData.map(e => e.y_all))}
+              {Math.round(Math.min(...timeseriesData.map(e => e.y_all)))}
             </TableCell>
             <TableCell>
-              {Math.max(...predictedData.map(e => e.y_all))}
+              {Math.round(Math.max(...predictedData.map(e => e.y_all)))}
             </TableCell>
             <TableCell>
-              {Math.min(...predictedData.map(e => e.y_all))}
+              {Math.round(Math.min(...predictedData.map(e => e.y_all)))}
             </TableCell>
           </TableRow>
         </TableBody>

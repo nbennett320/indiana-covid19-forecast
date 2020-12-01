@@ -1,7 +1,8 @@
 import React from 'react'
 import {
-  LineChart,
+  ComposedChart,
   Line,
+  Area,
   XAxis,
   YAxis,
   CartesianGrid,
@@ -21,16 +22,18 @@ const DataPlot = props => {
     animationOffset,
     animationDuration 
   } = props.format
+  const { data } = props.data
   const classes = useStyles()
-  const percentage = Math.floor(props.predictionLength / (props.domainLength + props.predictionLength) * 100)
+  const percentage = Math.floor((props.predictionLength) / (props.domainLength + props.predictionLength) * 100)
+  const percentageLower = Math.floor((props.predictionLength + 1) / (props.domainLength + props.predictionLength) * 100)
   return (
     <div className={classes.main}>
       <ResponsiveContainer
         height={props.userDevice.vpHeight * 0.7}
         width={props.userDevice.vpWidth * 0.9}
       >
-        <LineChart 
-          data={props.data}
+        <ComposedChart 
+          data={data}
           padding={{ 
             top: 12, 
             right: 48, 
@@ -47,9 +50,15 @@ const DataPlot = props => {
           <defs>
             <linearGradient id="line-segment" x1="0" y1="0" x2="100%" y2="0">
               <stop offset="0%" stopColor={`${palette.fill.data}`} />
-              <stop offset={`${100 - percentage}%`} stopColor={`${palette.fill.data}`} />
+              <stop offset={`${100 - percentageLower}%`} stopColor={`${palette.fill.data}`} />
               <stop offset={`${100 - percentage}%`} stopColor={`${palette.fill.prediction}`} />
               <stop offset="100%" stopColor={`${palette.fill.prediction}`} />
+            </linearGradient>
+            <linearGradient id="area-segment" x1="0" y1="0" x2="100%" y2="0">
+              <stop offset="0%" stopColor={`${palette.fill.hidden}`} />
+              <stop offset={`${100 - percentageLower}%`} stopColor={`${palette.fill.hidden}`} />
+              <stop offset={`${100 - percentage}%`} stopColor={`${palette.fill.predictionArea}`} />
+              <stop offset="100%" stopColor={`${palette.fill.predictionArea}`} />
             </linearGradient>
           </defs>
           <CartesianGrid strokeDasharray='3 3' />
@@ -116,15 +125,28 @@ const DataPlot = props => {
             dataKey={`y_all`}
             stroke='url(#line-segment)'
             activeDot={{ r: 4 }}
-            dot={props.viewRange === 'month' ? { stroke: palette.fill.cartesianGrid, strokeWidth: 0.86 } : false}
+            dot={false}
             legendType='line'
             formatter={n => Math.round(n)}
             name={'Data (blue), Forecasted (yellow)'}
             animationBegin={animationOffset}
             animationDuration={animationDuration}
           />
+          <Area
+            type='monotone'
+            dataKey={`y_pred`}
+            stroke='url(#area-segment)'
+            fill={`${palette.fill.predictionArea}`}
+            activeDot={{ r: 4 }}
+            dot={false}
+            legendType='line'
+            formatter={n => n}
+            name={'Data (blue), Forecasted (yellow)'}
+            animationBegin={animationOffset}
+            animationDuration={animationDuration}
+          />
           <ReferenceLine 
-            x={props.data.length - props.predictionLength - 1}
+            x={data.length - props.predictionLength - 1}
             label={labelProps => {
               return (
                 <Label
@@ -143,7 +165,7 @@ const DataPlot = props => {
             strokeDasharray="5 5"
             strokeWidth={1.2}
           />
-        </LineChart>
+        </ComposedChart>
       </ResponsiveContainer>
     </div>
   )

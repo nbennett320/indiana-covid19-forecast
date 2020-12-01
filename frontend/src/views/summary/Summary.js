@@ -30,13 +30,24 @@ const Summary = props => {
       />
       <Plot
         {...props}
-        plotData="hospital_occupation"
+        plotData={'hospital_bed_occupation'}
         isCountyLevelData={false}
         format={{
           title: `Indiana ICU bed availability`,
           xLab: "Date",
           yLab: "Available ICU Beds",
           dataLab: "Beds",
+        }}
+      />
+      <Plot
+        {...props}
+        plotData={'hospital_vent_availability'}
+        isCountyLevelData={false}
+        format={{
+          title: `Indiana vent availability`,
+          xLab: "Date",
+          yLab: "Available hospital vents",
+          dataLab: "Vents",
         }}
       />
     </div>
