@@ -10,7 +10,8 @@ import {
   FormControl,
   Select,
   InputLabel,
-  MenuItem
+  MenuItem,
+  Checkbox
 } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles'
 import ChevronLeft from '@material-ui/icons/ChevronLeft'
@@ -18,7 +19,8 @@ import AssessmentIcon from '@material-ui/icons/Assessment'
 // import MapIcon from '@material-ui/icons/Map'
 import InfoIcon from '@material-ui/icons/Info'
 import TimelineIcon from '@material-ui/icons/Timeline'
-// import SumIcon from '@material-ui/icons/Functions'
+import LinearScaleIcon from '@material-ui/icons/LinearScale'
+import EventIcon from '@material-ui/icons/Event'
 
 const Sidebar = props => {
   const classes = useStyles()
@@ -65,24 +67,7 @@ const Sidebar = props => {
             About
           </ListItemText>
         </ListItem>
-        {/* <ListItem 
-          button
-        >
-          <ListItemIcon>
-            <TimelineIcon />
-          </ListItemIcon>
-          <ListItemText>
-            Smooth data
-          </ListItemText>
-          <Checkbox
-            checked={props.showSmooth}
-            onChange={props.toggleSmooth}
-            color="default"
-          />
-        </ListItem> */}
-        <ListItem 
-          button
-        >
+        <ListItem button>
           <ListItemIcon>
             <TimelineIcon />
           </ListItemIcon>
@@ -115,6 +100,32 @@ const Sidebar = props => {
               </MenuItem>
             </Select>
           </FormControl>
+        </ListItem>
+        <ListItem button>
+          <ListItemIcon>
+            <LinearScaleIcon />
+          </ListItemIcon>
+          <ListItemText>
+            Show Reopening Stages
+          </ListItemText>
+          <Checkbox
+            checked={props.showReopeningStages}
+            onClick={props.toggleReopeningStages}
+            color="default"
+          />
+        </ListItem>
+        <ListItem button>
+          <ListItemIcon>
+            <EventIcon />
+          </ListItemIcon>
+          <ListItemText>
+            Show Holidays 
+          </ListItemText>
+          <Checkbox
+            checked={props.showHolidays}
+            onClick={props.toggleHolidays}
+            color="default"
+          />
         </ListItem>
       </List>
     </Drawer>

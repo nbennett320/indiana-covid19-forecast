@@ -14,6 +14,8 @@ const App = () => {
   const [county, setCounty] = React.useState('Indiana')
   const [showSmooth, setSmooth] = React.useState(false)
   const [smoothingMethod, setSmoothingMethod] = React.useState('polynomial')
+  const [showReopeningStages, setShowReopeningStages] = React.useState(false)
+  const [showHolidays, setShowHolidays] = React.useState(false)
   const [viewRange, setViewRange] = React.useState('3month')
   const [vpWidth, setViewportWidth] = React.useState(viewportWidth)
   const [vpHeight, setViewportHeight] = React.useState(viewportHeight)
@@ -44,6 +46,10 @@ const App = () => {
         toggleSmooth={() => setSmooth(!showSmooth)}
         smoothingMethod={smoothingMethod}
         setSmoothingMethod={setSmoothingMethod}
+        showReopeningStages={showReopeningStages}
+        toggleReopeningStages={() => setShowReopeningStages(!showReopeningStages)}
+        showHolidays={showHolidays}
+        toggleHolidays={() => setShowHolidays(!showHolidays)}
         viewRange={viewRange}
         setViewRange={e => setViewRange(e.target.value)}
         userDevice={userDevice}
@@ -57,6 +63,8 @@ const App = () => {
               smoothingMethod={smoothingMethod}
               userDevice={userDevice}
               viewRange={viewRange}
+              showReopeningStages={showReopeningStages}
+              showHolidays={showHolidays}
             />
           </Route>
           {/* <Route path='/map'>

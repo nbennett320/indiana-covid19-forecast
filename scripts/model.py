@@ -436,6 +436,7 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
   model = estimator.train(input_fn=train_fn, steps=5000)
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
+    result[key] = str(val)
     print(key, ':', val)
   print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
@@ -472,6 +473,7 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
     polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
     polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
+      'model_result': result,
       'x_data': df.index.values.tolist(),
       'y_data': dft['beds_available_icu_beds_total'].values.tolist(),
       'x_pred': datelist.tolist(),
@@ -481,12 +483,9 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist()
     })
-    for key, val in result.items():
-      result[key] = str(val)
     filename = output_dir + 'model_prediction_hospital_bed_occupation.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
-      json.dump(result, outfile)
 
 def predict_hospital_vent_availability(df: pd.DataFrame):
   fcols = []
@@ -532,6 +531,7 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
   model = estimator.train(input_fn=train_fn, steps=5000)
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
+    result[key] = str(val)
     print(key, ':', val)
   print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
@@ -578,12 +578,9 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist()
     })
-    for key, val in result.items():
-      result[key] = str(val)
     filename = output_dir + 'model_prediction_hospital_vent_availability.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
-      json.dump(result, outfile)
 
 ########################################################
 # predict covid deaths
@@ -632,6 +629,7 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
   model = estimator.train(input_fn=train_fn, steps=5000)
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
+    result[key] = str(val)
     print(key, ':', val)
   print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
@@ -687,12 +685,9 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist(),
     })
-    for key, val in result.items():
-      result[key] = str(val)
     filename = output_dir + 'model_prediction_' + county + '_' + 'covid_deaths' + '.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
-      json.dump(result, outfile)
 
 ########################################################
 # predict covid cases
@@ -742,6 +737,7 @@ def predict_covid_count(df: pd.DataFrame, county: str):
   model = estimator.train(input_fn=train_fn, steps=5000)
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
+    result[key] = str(val)
     print(key, ':', val)
   print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
@@ -797,12 +793,9 @@ def predict_covid_count(df: pd.DataFrame, county: str):
       'x_pred_polynomial': polynomial_pred.index.values.tolist(),
       'y_pred_polynomial': polynomial_data.values.tolist(),
     })
-    for key, val in result.items():
-      result[key] = str(val)
     filename = output_dir + 'model_prediction_' + county + '_' + 'covid_count' + '.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
-      json.dump(result, outfile)
 
 def plot_by_county(df, county='Marion', y=['covid_count', 'covid_deaths']):
   for n in range(0, len(y)):

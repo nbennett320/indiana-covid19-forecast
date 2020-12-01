@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Valentine's day",
+    "date": "2020-02-14"
+  },
+  {
+    "name": "St. Patrick's Day",
+    "date": "2020-03-17"
+  },
+  {
+    "name": "Easter",
+    "date": "2020-04-12"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2020-07-04"
+  },
+  {
+    "name": "Labor Day",
+    "date": "2020-09-07"
+  },
+  {
+    "name": "Halloween",
+    "date": "2020-10-31"
+  },
+  {
+    "name": "Election Day",
+    "date": "2020-11-03"
+  },
+  {
+    "name": "Thanksgiving",
+    "date": "2020-11-26"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2020-12-25"
+  },
+  {
+    "name": "New Year's Day",
+    "date": "2021-01-01"
+  }
+]
