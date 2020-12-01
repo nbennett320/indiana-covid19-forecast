@@ -1,6 +1,8 @@
 update-model:
 	python3 scripts/model.py --county All --days 7 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
 	python3 scripts/model.py --county Indiana --days 7 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
+	git add *
+	git commit -m "updating model and datasets (auto generated commit)"
 update-frontend:
 	cd ./frontend
 	yarn deploy
@@ -8,7 +10,7 @@ update-frontend:
 	rm -r ./public
 	mv ./frontend/build ./public
 	git add *
-	git commit -m "updating model and datasets (auto generated commit)"
+	git commit -m "rebuild and deploy frontend (auto generated commit)"
 install-model-dependencies:
 	pip3 install numpy pandas tensorflow requests bs4 selenium chromedriver-install
 clean:
