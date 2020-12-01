@@ -11,7 +11,8 @@ import {
   Select,
   InputLabel,
   MenuItem,
-  Checkbox
+  Checkbox,
+  Link
 } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles'
 import ChevronLeft from '@material-ui/icons/ChevronLeft'
@@ -57,16 +58,22 @@ const Sidebar = props => {
             Map
           </ListItemText>
         </ListItem> */}
-        <ListItem 
-          button
+        <Link 
+          href='https://github.com/nbennett320/indiana-covid19-forecast'
+          color='textPrimary'
+          underline='none'
         >
-          <ListItemIcon>
-            <InfoIcon />
-          </ListItemIcon>
-          <ListItemText>
-            About
-          </ListItemText>
-        </ListItem>
+          <ListItem button>
+            <ListItemIcon>
+              <InfoIcon />
+            </ListItemIcon>
+            <ListItemText>
+              
+                About
+            </ListItemText>
+          </ListItem>
+        </Link>
+
         <ListItem button>
           <ListItemIcon>
             <TimelineIcon />
@@ -101,7 +108,7 @@ const Sidebar = props => {
             </Select>
           </FormControl>
         </ListItem>
-        <ListItem button>
+        {/* <ListItem button>
           <ListItemIcon>
             <LinearScaleIcon />
           </ListItemIcon>
@@ -126,7 +133,7 @@ const Sidebar = props => {
             onClick={props.toggleHolidays}
             color="default"
           />
-        </ListItem>
+        </ListItem> */}
       </List>
     </Drawer>
   )

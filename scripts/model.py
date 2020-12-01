@@ -246,6 +246,7 @@ def format_hospital_vent_data():
     del df[col]
   df = df.set_index('date')
   df = df.join(jdf['cases_sum'])
+  # df = df.dropna()
   df = df.fillna(0)
   df.index = pd.to_datetime(df.index)
   return df
