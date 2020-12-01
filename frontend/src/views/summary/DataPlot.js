@@ -118,17 +118,23 @@ const DataPlot = props => {
               bottom: 10
             }}
             fill={`${palette.fill.text}`}
+            iconType='line'
           />
           <Tooltip fill={`${palette.fill.text}`} />
           <Line 
             type='monotone'
             dataKey={`y_all`}
             stroke='url(#line-segment)'
-            activeDot={{ r: 4 }}
+            activeDot={{ 
+              r: 4,
+              fill: palette.fill.activeDot,
+              stroke: palette.stroke.activeDot,
+              strokeWidth: 1.2
+            }}
             dot={false}
             legendType='line'
             formatter={n => Math.round(n)}
-            name={'Data (blue), Forecasted (yellow)'}
+            name={'Data'}
             animationBegin={animationOffset}
             animationDuration={animationDuration}
           />
@@ -137,11 +143,15 @@ const DataPlot = props => {
             dataKey={`y_pred`}
             stroke='url(#area-segment)'
             fill={`${palette.fill.predictionArea}`}
-            activeDot={{ r: 4 }}
+            activeDot={{ 
+              r: 4,
+              fill: palette.fill.activeDot,
+              stroke: palette.stroke.activeDot,
+              strokeWidth: 1.2
+            }}
             dot={false}
             legendType='line'
-            formatter={n => n}
-            name={'Data (blue), Forecasted (yellow)'}
+            name={'Forecasted'}
             animationBegin={animationOffset}
             animationDuration={animationDuration}
           />
