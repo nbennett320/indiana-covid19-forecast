@@ -283,6 +283,8 @@ CV,Cape Verde,,,,,,2020-11-24,-32,-15,-23,-48,-29,8
 CV,Cape Verde,,,,,,2020-11-25,-32,-15,-23,-50,-30,8
 CV,Cape Verde,,,,,,2020-11-26,-32,-12,-24,-53,-29,9
 CV,Cape Verde,,,,,,2020-11-27,-27,-9,-23,-46,-29,7
+CV,Cape Verde,,,,,,2020-11-28,-27,-11,-25,-60,-37,7
+CV,Cape Verde,,,,,,2020-11-29,-43,-27,-30,-64,-42,11
 CV,Cape Verde,Praia,,,CV-PR,,2020-02-15,-4,-3,,,-1,
 CV,Cape Verde,Praia,,,CV-PR,,2020-02-16,1,-5,,,0,
 CV,Cape Verde,Praia,,,CV-PR,,2020-02-17,-6,-10,,,0,-1
@@ -545,6 +547,8 @@ CV,Cape Verde,Praia,,,CV-PR,,2020-11-24,-19,-4,,,-23,11
 CV,Cape Verde,Praia,,,CV-PR,,2020-11-25,-15,3,,,-21,10
 CV,Cape Verde,Praia,,,CV-PR,,2020-11-26,-18,4,,,-23,12
 CV,Cape Verde,Praia,,,CV-PR,,2020-11-27,-11,4,,-27,-23,10
+CV,Cape Verde,Praia,,,CV-PR,,2020-11-28,-14,1,,,-28,
+CV,Cape Verde,Praia,,,CV-PR,,2020-11-29,-33,,,,-35,
 CV,Cape Verde,Sal,,,CV-SL,,2020-02-15,-2,,0,-1,0,
 CV,Cape Verde,Sal,,,CV-SL,,2020-02-16,,,-3,-23,0,
 CV,Cape Verde,Sal,,,CV-SL,,2020-02-17,,,-3,,5,
@@ -807,6 +811,8 @@ CV,Cape Verde,Sal,,,CV-SL,,2020-11-24,-55,,-32,-76,-49,
 CV,Cape Verde,Sal,,,CV-SL,,2020-11-25,-56,,-34,-75,-48,
 CV,Cape Verde,Sal,,,CV-SL,,2020-11-26,-60,,-33,-70,-50,
 CV,Cape Verde,Sal,,,CV-SL,,2020-11-27,-55,,-37,-78,-48,
+CV,Cape Verde,Sal,,,CV-SL,,2020-11-28,-53,,-37,-86,-54,
+CV,Cape Verde,Sal,,,CV-SL,,2020-11-29,,,-43,-88,-61,
 CV,Cape Verde,São Salvador do Mundo,,,CV-SS,,2020-04-18,,,-75,,,
 CV,Cape Verde,São Salvador do Mundo,,,CV-SS,,2020-04-25,,,-72,,,
 CV,Cape Verde,São Salvador do Mundo,,,CV-SS,,2020-06-27,,,-72,,,
@@ -1070,3 +1076,5 @@ CV,Cape Verde,São Vicente,,,CV-SV,,2020-11-24,,,,,-19,
 CV,Cape Verde,São Vicente,,,CV-SV,,2020-11-25,,,,,-16,
 CV,Cape Verde,São Vicente,,,CV-SV,,2020-11-26,,,,,-19,
 CV,Cape Verde,São Vicente,,,CV-SV,,2020-11-27,,,,,-17,
+CV,Cape Verde,São Vicente,,,CV-SV,,2020-11-28,,,,,-25,
+CV,Cape Verde,São Vicente,,,CV-SV,,2020-11-29,,,,,-29,
