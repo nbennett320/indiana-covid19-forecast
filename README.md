@@ -36,6 +36,10 @@ Update datasets and county-level models.
 Rebuild and deploy frontend.
 <br/>
 
+**`make update`** <br/>
+Update datasets, rebuild, and redeploy frontend.
+<br/>
+
 **`make install-model-dependencies`** <br/>
 Install dependencies for compiling new models.
 <br/>

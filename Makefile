@@ -4,11 +4,15 @@ update-model:
 	git add *
 	git commit -m "updating model and datasets (auto generated commit)"
 update-frontend:
-	cd ./frontend
-	yarn deploy
-	cd ../
-	rm -r ./public
-	mv ./frontend/build ./public
+	python3 scripts/update_frontend.py
+	git add *
+	git commit -m "rebuild and deploy frontend (auto generated commit)"
+update:
+	python3 scripts/model.py --county All --days 7 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
+	python3 scripts/model.py --county Indiana --days 7 --train-dir ./train/ --output-dir ./frontend/src/data/ --verbose --update-datasets
+	git add *
+	git commit -m "updating model and datasets (auto generated commit)"
+	python3 scripts/update_frontend.py
 	git add *
 	git commit -m "rebuild and deploy frontend (auto generated commit)"
 install-model-dependencies:
