@@ -69,9 +69,6 @@ should_fetch_datasets = False
 global should_plot
 should_plot = False
 
-global show_smooth
-show_smooth = False
-
 # data filenames
 indiana_counties_list_filename = './data/indiana_counties.csv'
 county_level_combined_filename = './data/indiana_county_level_mobility_time_series_data_formatted_7.csv'
@@ -390,10 +387,8 @@ def preprocess_data():
   predict_hospital_bed_occupancy(hospital_vent_df)
   predict_hospital_vent_availability(hospital_vent_df)
 
-########################################################
-# predict hospital occupation
-########################################################
 def predict_hospital_bed_occupancy(df: pd.DataFrame):
+  '''predict hospital bed occupancy'''
   fcols = []
   for col in df.columns:
     fcols.append(tf.feature_column.numeric_column(col))
@@ -467,29 +462,20 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
     pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions})
     pred_df.set_index('date', inplace=True, drop=True)
     print(pred_df)
-    polynomial_data = df.resample('5D', kind='timestamp').mean()
-    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
-    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
-    polynomial_pred = pred_df.resample('2D', kind='timestamp').mean()
-    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
-    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
       'model_result': result,
       'prediction_key': 'hospital_bed_occupation',
       'x_data': df.index.values.tolist(),
       'y_data': dft['beds_available_icu_beds_total'].values.tolist(),
       'x_pred': datelist.tolist(),
-      'y_pred': predictions.tolist(),
-      'x_data_polynomial': polynomial_data.index.values.tolist(),
-      'y_data_polynomial': polynomial_data.values.tolist(),
-      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
-      'y_pred_polynomial': polynomial_data.values.tolist()
+      'y_pred': predictions.tolist()
     })
     filename = output_dir + 'model_prediction_hospital_bed_occupation.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
 
 def predict_hospital_vent_availability(df: pd.DataFrame):
+  '''predict hospital vent availability'''
   fcols = []
   for col in df.columns:
     fcols.append(tf.feature_column.numeric_column(col))
@@ -564,12 +550,6 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
     pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions})
     pred_df.set_index('date', inplace=True, drop=True)
     print(pred_df)
-    polynomial_data = df.resample('5D', kind='timestamp').mean()
-    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
-    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
-    polynomial_pred = pred_df.resample('2D', kind='timestamp').mean()
-    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
-    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
       'model_result': result,
       'prediction_key': 'hospital_vent_availability',
@@ -577,19 +557,13 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
       'y_data': dft['pct_vents_all_available_vents_not_in_use'].values.tolist(),
       'x_pred': datelist.tolist(),
       'y_pred': predictions.tolist(),
-      'x_data_polynomial': polynomial_data.index.values.tolist(),
-      'y_data_polynomial': polynomial_data.values.tolist(),
-      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
-      'y_pred_polynomial': polynomial_data.values.tolist()
     })
     filename = output_dir + 'model_prediction_hospital_vent_availability.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
 
-########################################################
-# predict covid deaths
-########################################################
 def predict_covid_deaths(df: pd.DataFrame, county: str):
+  '''predict covid deaths'''
   df = df.loc[df['county_name'] == county, :]
   df.pop('county_name')
   fcols = []
@@ -663,20 +637,11 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
   if len(output_dir) > 0:
     if is_verbose:
       print('output', output_dir)
-
     # prepare prediction df
     df_pred = pd.DataFrame({
       'date': datelist,
       'covid_deaths': normalized_pred[len(normalized_pred)-n_days:]
     }).set_index('date')
-
-    # calculate smoothed data
-    polynomial_data = df['covid_deaths'].resample('5D', kind='timestamp').mean()
-    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
-    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
-    polynomial_pred = df_pred['covid_deaths'].resample('2D', kind='timestamp').mean()
-    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
-    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
       'model_result': result,
       'county': county,
@@ -684,20 +649,14 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
       'x_data': df['covid_deaths'].index.values.tolist(),
       'y_data': df['covid_deaths'].values.tolist(),
       'x_pred': datelist.tolist(),
-      'y_pred': df_pred[len(df_pred)-n_days:].values.tolist(),
-      'x_data_polynomial': polynomial_data.index.values.tolist(),
-      'y_data_polynomial': polynomial_data.values.tolist(),
-      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
-      'y_pred_polynomial': polynomial_data.values.tolist(),
+      'y_pred': df_pred[len(df_pred)-n_days:].values.tolist()
     })
     filename = output_dir + 'model_prediction_' + county + '_' + 'covid_deaths' + '.json'
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
 
-########################################################
-# predict covid cases
-########################################################
 def predict_covid_count(df: pd.DataFrame, county: str):
+  '''predict covid cases'''
   datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   df = df.loc[df['county_name'] == county, :]
   df.pop('county_name')
@@ -777,15 +736,6 @@ def predict_covid_count(df: pd.DataFrame, county: str):
       'date': datelist,
       'covid_count': normalized_pred[len(normalized_pred)-n_days:]
     }).set_index('date')
-
-    # calculate smoothed data
-    pred_df = pd.DataFrame(data=normalized_pred, index=datelist)
-    polynomial_data = df['covid_count'].resample('5D', kind='timestamp').mean()
-    polynomial_data = polynomial_data.resample('4H', kind='timestamp')
-    polynomial_data = polynomial_data.interpolate(method='polynomial', order=3)
-    polynomial_pred = pred_df.resample('1D', kind='timestamp').mean()
-    polynomial_pred = polynomial_pred.resample('4H', kind='timestamp')
-    polynomial_pred = polynomial_pred.interpolate(method='polynomial', order=3)
     output = dict({
       'model_result': result,
       'county': county,
@@ -793,11 +743,7 @@ def predict_covid_count(df: pd.DataFrame, county: str):
       'x_data': df['covid_count'].index.values.tolist(),
       'y_data': df['covid_count'].values.tolist(),
       'x_pred': datelist.tolist(),
-      'y_pred': df_pred[len(df_pred)-n_days:].values.tolist(),
-      'x_data_polynomial': polynomial_data.index.values.tolist(),
-      'y_data_polynomial': polynomial_data.values.tolist(),
-      'x_pred_polynomial': polynomial_pred.index.values.tolist(),
-      'y_pred_polynomial': polynomial_data.values.tolist(),
+      'y_pred': df_pred[len(df_pred)-n_days:].values.tolist()
     })
     filename = output_dir + 'model_prediction_' + county + '_' + 'covid_count' + '.json'
     with open(filename, 'w') as outfile:
@@ -884,13 +830,6 @@ def get_flags():
     dest='plot_mode',
     help="if passed, plot results"
   )
-  arg_parser.add_argument(
-    '-S', 
-    '--smooth-mode',
-    type=str,
-    dest='interpolation_method',
-    help="pandas interpolation method for line smoothing, 'spline' or 'polynomial'"
-  )
   args = arg_parser.parse_args()
   global n_days
   n_days = args.days if args.days else 14
@@ -904,8 +843,6 @@ def get_flags():
   should_fetch_datasets = args.should_fetch_datasets
   global should_plot
   should_plot = args.plot_mode
-  global show_smooth
-  show_smooth = args.interpolation_method if args.interpolation_method else False
   global is_verbose
   is_verbose = args.verbose_mode
 
@@ -919,6 +856,5 @@ def main():
       print("done.")
     print_separator()
   preprocess_data()
-  # predict_infections()
 
 main()

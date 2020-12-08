@@ -42,10 +42,6 @@ const App = () => {
       <Sidebar
         isOpen={sidebarIsOpen}
         toggleSidebar={() => setSidebarIsOpen(!sidebarIsOpen)}
-        showSmooth={showSmooth}
-        toggleSmooth={() => setSmooth(!showSmooth)}
-        smoothingMethod={smoothingMethod}
-        setSmoothingMethod={setSmoothingMethod}
         showReopeningStages={showReopeningStages}
         toggleReopeningStages={() => setShowReopeningStages(!showReopeningStages)}
         showHolidays={showHolidays}
@@ -59,8 +55,6 @@ const App = () => {
           <Route path='/'>
             <Summary 
               county={county}
-              showSmooth={showSmooth}
-              smoothingMethod={smoothingMethod}
               userDevice={userDevice}
               viewRange={viewRange}
               showReopeningStages={showReopeningStages}

@@ -290,6 +290,9 @@ KE,Kenya,,,,,,2020-11-28,-4,10,-1,14,2,9
 KE,Kenya,,,,,,2020-11-29,-6,5,-1,10,6,9
 KE,Kenya,,,,,,2020-11-30,1,11,-10,15,-8,11
 KE,Kenya,,,,,,2020-12-01,1,13,-9,18,-9,11
+KE,Kenya,,,,,,2020-12-02,2,18,-10,19,-6,11
+KE,Kenya,,,,,,2020-12-03,4,20,-7,20,-6,11
+KE,Kenya,,,,,,2020-12-04,3,23,-2,22,-3,10
 KE,Kenya,,,Eldoret Metropolitan Area,,,2020-02-15,6,3,3,2,5,0
 KE,Kenya,,,Eldoret Metropolitan Area,,,2020-02-16,4,2,3,-3,2,-2
 KE,Kenya,,,Eldoret Metropolitan Area,,,2020-02-17,10,6,6,-2,9,1
@@ -581,6 +584,9 @@ KE,Kenya,,,Eldoret Metropolitan Area,,,2020-11-28,14,12,10,43,12,10
 KE,Kenya,,,Eldoret Metropolitan Area,,,2020-11-29,11,3,14,34,4,7
 KE,Kenya,,,Eldoret Metropolitan Area,,,2020-11-30,22,18,25,33,7,10
 KE,Kenya,,,Eldoret Metropolitan Area,,,2020-12-01,18,21,20,44,4,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,2020-12-02,20,20,27,46,9,10
+KE,Kenya,,,Eldoret Metropolitan Area,,,2020-12-03,25,28,29,46,7,11
+KE,Kenya,,,Eldoret Metropolitan Area,,,2020-12-04,20,29,21,49,11,8
 KE,Kenya,,,Mombasa Metropolitan Area,,,2020-02-15,-2,-1,17,8,2,0
 KE,Kenya,,,Mombasa Metropolitan Area,,,2020-02-16,-2,-4,20,6,3,-1
 KE,Kenya,,,Mombasa Metropolitan Area,,,2020-02-17,5,1,16,11,3,0
@@ -872,6 +878,9 @@ KE,Kenya,,,Mombasa Metropolitan Area,,,2020-11-28,-5,-3,15,15,1,8
 KE,Kenya,,,Mombasa Metropolitan Area,,,2020-11-29,-6,-12,13,8,0,7
 KE,Kenya,,,Mombasa Metropolitan Area,,,2020-11-30,4,-2,10,20,-4,9
 KE,Kenya,,,Mombasa Metropolitan Area,,,2020-12-01,4,2,15,17,-6,10
+KE,Kenya,,,Mombasa Metropolitan Area,,,2020-12-02,4,2,15,18,-3,9
+KE,Kenya,,,Mombasa Metropolitan Area,,,2020-12-03,5,2,8,18,-2,8
+KE,Kenya,,,Mombasa Metropolitan Area,,,2020-12-04,1,2,17,16,-1,8
 KE,Kenya,,,Nairobi Metropolitan Area,,,2020-02-15,2,3,15,5,2,-2
 KE,Kenya,,,Nairobi Metropolitan Area,,,2020-02-16,1,-3,5,4,3,0
 KE,Kenya,,,Nairobi Metropolitan Area,,,2020-02-17,4,-1,6,5,3,0
@@ -1163,6 +1172,9 @@ KE,Kenya,,,Nairobi Metropolitan Area,,,2020-11-28,-6,5,-2,16,1,9
 KE,Kenya,,,Nairobi Metropolitan Area,,,2020-11-29,-9,0,-1,12,8,9
 KE,Kenya,,,Nairobi Metropolitan Area,,,2020-11-30,-1,8,-20,19,-12,12
 KE,Kenya,,,Nairobi Metropolitan Area,,,2020-12-01,-1,9,-15,20,-13,12
+KE,Kenya,,,Nairobi Metropolitan Area,,,2020-12-02,0,10,-19,21,-11,13
+KE,Kenya,,,Nairobi Metropolitan Area,,,2020-12-03,2,12,-12,23,-11,13
+KE,Kenya,,,Nairobi Metropolitan Area,,,2020-12-04,2,16,-7,24,-8,12
 KE,Kenya,,,Nakuru Metropolitan Area,,,2020-02-15,6,-2,-1,0,-2,1
 KE,Kenya,,,Nakuru Metropolitan Area,,,2020-02-16,3,1,-5,4,1,0
 KE,Kenya,,,Nakuru Metropolitan Area,,,2020-02-17,10,3,7,2,1,1
@@ -1454,6 +1466,9 @@ KE,Kenya,,,Nakuru Metropolitan Area,,,2020-11-28,4,2,-38,-23,2,11
 KE,Kenya,,,Nakuru Metropolitan Area,,,2020-11-29,6,6,-52,-23,3,11
 KE,Kenya,,,Nakuru Metropolitan Area,,,2020-11-30,14,11,-37,-24,2,11
 KE,Kenya,,,Nakuru Metropolitan Area,,,2020-12-01,15,11,-26,-21,3,11
+KE,Kenya,,,Nakuru Metropolitan Area,,,2020-12-02,16,18,-24,-20,5,12
+KE,Kenya,,,Nakuru Metropolitan Area,,,2020-12-03,16,14,-31,-19,2,11
+KE,Kenya,,,Nakuru Metropolitan Area,,,2020-12-04,15,15,-24,-16,5,11
 KE,Kenya,Baringo County,,,KE-01,,2020-02-17,,,,,4,
 KE,Kenya,Baringo County,,,KE-01,,2020-02-18,,,,,-2,
 KE,Kenya,Baringo County,,,KE-01,,2020-02-19,,,,,-4,
@@ -1628,6 +1643,8 @@ KE,Kenya,Baringo County,,,KE-01,,2020-11-26,,,,,-8,
 KE,Kenya,Baringo County,,,KE-01,,2020-11-27,,,,,-1,
 KE,Kenya,Baringo County,,,KE-01,,2020-11-30,,,,,3,
 KE,Kenya,Baringo County,,,KE-01,,2020-12-01,,,,,-1,
+KE,Kenya,Baringo County,,,KE-01,,2020-12-02,,,,,0,
+KE,Kenya,Baringo County,,,KE-01,,2020-12-03,,,,,-1,
 KE,Kenya,Bomet County,,,KE-02,,2020-02-15,5,2,,,,
 KE,Kenya,Bomet County,,,KE-02,,2020-02-16,8,-2,,,,
 KE,Kenya,Bomet County,,,KE-02,,2020-02-17,18,-10,,,10,
@@ -1837,6 +1854,9 @@ KE,Kenya,Bomet County,,,KE-02,,2020-11-26,,,,,19,
 KE,Kenya,Bomet County,,,KE-02,,2020-11-27,,,,,12,
 KE,Kenya,Bomet County,,,KE-02,,2020-11-30,,,,,30,
 KE,Kenya,Bomet County,,,KE-02,,2020-12-01,,,,,13,
+KE,Kenya,Bomet County,,,KE-02,,2020-12-02,,,,,17,
+KE,Kenya,Bomet County,,,KE-02,,2020-12-03,,,,,17,
+KE,Kenya,Bomet County,,,KE-02,,2020-12-04,,,,,18,
 KE,Kenya,Bungoma County,,,KE-03,,2020-02-15,3,-10,-4,6,2,
 KE,Kenya,Bungoma County,,,KE-03,,2020-02-16,8,-11,-6,11,0,
 KE,Kenya,Bungoma County,,,KE-03,,2020-02-17,18,9,,2,-1,
@@ -2103,6 +2123,9 @@ KE,Kenya,Bungoma County,,,KE-03,,2020-11-28,,,-88,-55,10,
 KE,Kenya,Bungoma County,,,KE-03,,2020-11-29,,,-88,-37,4,
 KE,Kenya,Bungoma County,,,KE-03,,2020-11-30,,,-84,-53,3,
 KE,Kenya,Bungoma County,,,KE-03,,2020-12-01,,,-84,-47,1,
+KE,Kenya,Bungoma County,,,KE-03,,2020-12-02,,,,-47,4,
+KE,Kenya,Bungoma County,,,KE-03,,2020-12-03,,,-86,-45,6,
+KE,Kenya,Bungoma County,,,KE-03,,2020-12-04,,,-88,-55,11,
 KE,Kenya,Busia County,,,KE-04,,2020-02-15,-9,6,,,5,
 KE,Kenya,Busia County,,,KE-04,,2020-02-16,-6,-8,,,,
 KE,Kenya,Busia County,,,KE-04,,2020-02-17,,-15,,,5,
@@ -2342,6 +2365,9 @@ KE,Kenya,Busia County,,,KE-04,,2020-11-27,,,,,14,
 KE,Kenya,Busia County,,,KE-04,,2020-11-28,,,,,17,
 KE,Kenya,Busia County,,,KE-04,,2020-11-30,,,,,17,
 KE,Kenya,Busia County,,,KE-04,,2020-12-01,,,,,13,
+KE,Kenya,Busia County,,,KE-04,,2020-12-02,,,,,15,
+KE,Kenya,Busia County,,,KE-04,,2020-12-03,,,,,21,
+KE,Kenya,Busia County,,,KE-04,,2020-12-04,,,,,18,
 KE,Kenya,Embu County,,,KE-06,,2020-02-15,12,-1,,2,-5,
 KE,Kenya,Embu County,,,KE-06,,2020-02-16,-1,-3,,-6,-3,
 KE,Kenya,Embu County,,,KE-06,,2020-02-17,4,-5,,-4,-3,
@@ -2608,6 +2634,9 @@ KE,Kenya,Embu County,,,KE-06,,2020-11-28,-22,,,-43,-4,
 KE,Kenya,Embu County,,,KE-06,,2020-11-29,,,,-49,-10,
 KE,Kenya,Embu County,,,KE-06,,2020-11-30,,,,-38,-4,
 KE,Kenya,Embu County,,,KE-06,,2020-12-01,,,,-32,-3,
+KE,Kenya,Embu County,,,KE-06,,2020-12-02,,,,-39,-5,
+KE,Kenya,Embu County,,,KE-06,,2020-12-03,,,,-44,-4,
+KE,Kenya,Embu County,,,KE-06,,2020-12-04,-26,,,-40,-4,
 KE,Kenya,Garissa County,,,KE-07,,2020-02-15,,,,,2,
 KE,Kenya,Garissa County,,,KE-07,,2020-02-16,,,,,0,
 KE,Kenya,Garissa County,,,KE-07,,2020-02-17,,,,,3,
@@ -2873,6 +2902,9 @@ KE,Kenya,Garissa County,,,KE-07,,2020-11-28,,,,,-4,
 KE,Kenya,Garissa County,,,KE-07,,2020-11-29,,,,,-2,
 KE,Kenya,Garissa County,,,KE-07,,2020-11-30,,,,,0,
 KE,Kenya,Garissa County,,,KE-07,,2020-12-01,,,,,-6,
+KE,Kenya,Garissa County,,,KE-07,,2020-12-02,,,,,-6,
+KE,Kenya,Garissa County,,,KE-07,,2020-12-03,,,,,-5,
+KE,Kenya,Garissa County,,,KE-07,,2020-12-04,,,,,0,
 KE,Kenya,Homa Bay County,,,KE-08,,2020-02-15,-4,0,,-2,0,
 KE,Kenya,Homa Bay County,,,KE-08,,2020-02-16,,-13,,,,
 KE,Kenya,Homa Bay County,,,KE-08,,2020-02-17,,2,,,-2,
@@ -3113,6 +3145,9 @@ KE,Kenya,Homa Bay County,,,KE-08,,2020-11-27,,,,26,5,
 KE,Kenya,Homa Bay County,,,KE-08,,2020-11-28,,,,15,,
 KE,Kenya,Homa Bay County,,,KE-08,,2020-11-30,,,,19,2,
 KE,Kenya,Homa Bay County,,,KE-08,,2020-12-01,,,,17,5,
+KE,Kenya,Homa Bay County,,,KE-08,,2020-12-02,,,,,22,
+KE,Kenya,Homa Bay County,,,KE-08,,2020-12-03,,,,35,14,
+KE,Kenya,Homa Bay County,,,KE-08,,2020-12-04,,,,33,11,
 KE,Kenya,Kajiado County,,,KE-10,,2020-02-15,-2,11,1,9,3,-4
 KE,Kenya,Kajiado County,,,KE-10,,2020-02-16,-3,4,-1,6,5,0
 KE,Kenya,Kajiado County,,,KE-10,,2020-02-17,-1,5,1,7,2,1
@@ -3404,6 +3439,9 @@ KE,Kenya,Kajiado County,,,KE-10,,2020-11-28,-4,20,5,-3,1,9
 KE,Kenya,Kajiado County,,,KE-10,,2020-11-29,-8,8,11,-2,8,10
 KE,Kenya,Kajiado County,,,KE-10,,2020-11-30,-1,22,-2,3,-10,12
 KE,Kenya,Kajiado County,,,KE-10,,2020-12-01,-1,19,4,6,-12,9
+KE,Kenya,Kajiado County,,,KE-10,,2020-12-02,0,22,3,-1,-9,10
+KE,Kenya,Kajiado County,,,KE-10,,2020-12-03,2,21,8,-2,-8,13
+KE,Kenya,Kajiado County,,,KE-10,,2020-12-04,3,33,9,-1,-4,12
 KE,Kenya,Kakamega County,,,KE-11,,2020-02-15,3,3,-21,9,7,
 KE,Kenya,Kakamega County,,,KE-11,,2020-02-16,-2,-1,,,10,
 KE,Kenya,Kakamega County,,,KE-11,,2020-02-17,4,8,,,4,
@@ -3670,6 +3708,9 @@ KE,Kenya,Kakamega County,,,KE-11,,2020-11-28,20,,-23,18,4,
 KE,Kenya,Kakamega County,,,KE-11,,2020-11-29,22,,,,6,
 KE,Kenya,Kakamega County,,,KE-11,,2020-11-30,16,,,26,5,0
 KE,Kenya,Kakamega County,,,KE-11,,2020-12-01,21,,,36,0,4
+KE,Kenya,Kakamega County,,,KE-11,,2020-12-02,24,,,29,6,4
+KE,Kenya,Kakamega County,,,KE-11,,2020-12-03,31,,,,6,
+KE,Kenya,Kakamega County,,,KE-11,,2020-12-04,32,,,37,4,
 KE,Kenya,Kericho County,,,KE-12,,2020-02-15,10,3,,,2,
 KE,Kenya,Kericho County,,,KE-12,,2020-02-16,7,2,,,4,
 KE,Kenya,Kericho County,,,KE-12,,2020-02-17,8,7,,,-1,
@@ -3936,6 +3977,9 @@ KE,Kenya,Kericho County,,,KE-12,,2020-11-28,34,,,,9,
 KE,Kenya,Kericho County,,,KE-12,,2020-11-29,,,,,11,
 KE,Kenya,Kericho County,,,KE-12,,2020-11-30,,,,,13,
 KE,Kenya,Kericho County,,,KE-12,,2020-12-01,23,,,,7,
+KE,Kenya,Kericho County,,,KE-12,,2020-12-02,27,,,,11,
+KE,Kenya,Kericho County,,,KE-12,,2020-12-03,,,,,9,
+KE,Kenya,Kericho County,,,KE-12,,2020-12-04,35,,,,10,
 KE,Kenya,Kiambu County,,,KE-13,,2020-02-15,7,-4,-3,4,2,-1
 KE,Kenya,Kiambu County,,,KE-13,,2020-02-16,8,-9,-6,4,4,0
 KE,Kenya,Kiambu County,,,KE-13,,2020-02-17,8,-6,-3,3,5,0
@@ -4227,6 +4271,9 @@ KE,Kenya,Kiambu County,,,KE-13,,2020-11-28,4,14,24,22,4,9
 KE,Kenya,Kiambu County,,,KE-13,,2020-11-29,3,9,9,10,5,11
 KE,Kenya,Kiambu County,,,KE-13,,2020-11-30,10,24,22,22,-6,14
 KE,Kenya,Kiambu County,,,KE-13,,2020-12-01,14,28,19,25,-8,13
+KE,Kenya,Kiambu County,,,KE-13,,2020-12-02,13,25,18,24,-6,14
+KE,Kenya,Kiambu County,,,KE-13,,2020-12-03,15,30,17,20,-6,13
+KE,Kenya,Kiambu County,,,KE-13,,2020-12-04,18,32,29,28,-3,13
 KE,Kenya,Kilifi County,,,KE-14,,2020-02-15,3,5,9,-6,2,2
 KE,Kenya,Kilifi County,,,KE-14,,2020-02-16,7,3,16,-8,3,
 KE,Kenya,Kilifi County,,,KE-14,,2020-02-17,10,9,9,5,-3,2
@@ -4514,6 +4561,9 @@ KE,Kenya,Kilifi County,,,KE-14,,2020-11-28,-11,-17,-19,-2,-6,9
 KE,Kenya,Kilifi County,,,KE-14,,2020-11-29,-9,-22,-18,15,-6,9
 KE,Kenya,Kilifi County,,,KE-14,,2020-11-30,-5,-11,-24,5,-5,8
 KE,Kenya,Kilifi County,,,KE-14,,2020-12-01,-10,-9,-28,-2,-9,9
+KE,Kenya,Kilifi County,,,KE-14,,2020-12-02,-9,-9,-27,8,-5,8
+KE,Kenya,Kilifi County,,,KE-14,,2020-12-03,-3,-8,-29,9,-4,7
+KE,Kenya,Kilifi County,,,KE-14,,2020-12-04,-6,-6,-21,2,-4,9
 KE,Kenya,Kirinyaga County,,,KE-15,,2020-02-15,6,6,-2,,2,
 KE,Kenya,Kirinyaga County,,,KE-15,,2020-02-16,0,-6,-1,,5,
 KE,Kenya,Kirinyaga County,,,KE-15,,2020-02-17,5,-4,0,,6,
@@ -4780,6 +4830,9 @@ KE,Kenya,Kirinyaga County,,,KE-15,,2020-11-28,,,0,,-1,
 KE,Kenya,Kirinyaga County,,,KE-15,,2020-11-29,,,6,,4,
 KE,Kenya,Kirinyaga County,,,KE-15,,2020-11-30,,,11,,-5,
 KE,Kenya,Kirinyaga County,,,KE-15,,2020-12-01,,,8,,-5,
+KE,Kenya,Kirinyaga County,,,KE-15,,2020-12-02,,,3,,-6,
+KE,Kenya,Kirinyaga County,,,KE-15,,2020-12-03,,,15,,-8,
+KE,Kenya,Kirinyaga County,,,KE-15,,2020-12-04,,,7,,-1,
 KE,Kenya,Kisii County,,,KE-16,,2020-02-15,-1,3,,,8,
 KE,Kenya,Kisii County,,,KE-16,,2020-02-16,-8,-4,,2,7,
 KE,Kenya,Kisii County,,,KE-16,,2020-02-17,0,-2,,,0,
@@ -5046,6 +5099,9 @@ KE,Kenya,Kisii County,,,KE-16,,2020-11-28,,,,,21,
 KE,Kenya,Kisii County,,,KE-16,,2020-11-29,21,,,,21,
 KE,Kenya,Kisii County,,,KE-16,,2020-11-30,,,,,10,
 KE,Kenya,Kisii County,,,KE-16,,2020-12-01,,,,,8,
+KE,Kenya,Kisii County,,,KE-16,,2020-12-02,,,,,11,8
+KE,Kenya,Kisii County,,,KE-16,,2020-12-03,,,,,13,7
+KE,Kenya,Kisii County,,,KE-16,,2020-12-04,28,,,54,18,
 KE,Kenya,Kisumu County,,,KE-17,,2020-02-15,-1,0,12,4,5,-1
 KE,Kenya,Kisumu County,,,KE-17,,2020-02-16,1,-9,14,0,4,
 KE,Kenya,Kisumu County,,,KE-17,,2020-02-17,4,5,16,7,3,0
@@ -5334,6 +5390,9 @@ KE,Kenya,Kisumu County,,,KE-17,,2020-11-28,-18,16,-10,4,6,11
 KE,Kenya,Kisumu County,,,KE-17,,2020-11-29,-20,7,-5,13,5,11
 KE,Kenya,Kisumu County,,,KE-17,,2020-11-30,-11,18,-20,12,0,10
 KE,Kenya,Kisumu County,,,KE-17,,2020-12-01,-8,23,-24,18,-1,11
+KE,Kenya,Kisumu County,,,KE-17,,2020-12-02,-8,22,-25,10,1,11
+KE,Kenya,Kisumu County,,,KE-17,,2020-12-03,-8,25,-21,9,0,9
+KE,Kenya,Kisumu County,,,KE-17,,2020-12-04,-8,27,-19,17,7,10
 KE,Kenya,Kitui County,,,KE-18,,2020-02-15,8,18,13,20,3,
 KE,Kenya,Kitui County,,,KE-18,,2020-02-16,-11,,3,4,4,
 KE,Kenya,Kitui County,,,KE-18,,2020-02-17,5,,10,5,-1,
@@ -5600,6 +5659,9 @@ KE,Kenya,Kitui County,,,KE-18,,2020-11-28,,,-31,-3,-17,
 KE,Kenya,Kitui County,,,KE-18,,2020-11-29,,,-23,,-18,
 KE,Kenya,Kitui County,,,KE-18,,2020-11-30,,,-11,-1,-17,
 KE,Kenya,Kitui County,,,KE-18,,2020-12-01,,,-24,-7,-18,
+KE,Kenya,Kitui County,,,KE-18,,2020-12-02,,,-22,2,-10,
+KE,Kenya,Kitui County,,,KE-18,,2020-12-03,,,-18,0,-12,
+KE,Kenya,Kitui County,,,KE-18,,2020-12-04,,,-17,8,-9,
 KE,Kenya,Kwale County,,,KE-19,,2020-02-15,-4,7,,,3,
 KE,Kenya,Kwale County,,,KE-19,,2020-02-16,-4,10,,,-1,
 KE,Kenya,Kwale County,,,KE-19,,2020-02-17,-2,14,,,-2,
@@ -5866,6 +5928,9 @@ KE,Kenya,Kwale County,,,KE-19,,2020-11-28,,,,,-10,
 KE,Kenya,Kwale County,,,KE-19,,2020-11-29,,,,,-8,
 KE,Kenya,Kwale County,,,KE-19,,2020-11-30,,,,,-9,
 KE,Kenya,Kwale County,,,KE-19,,2020-12-01,,,,,-11,
+KE,Kenya,Kwale County,,,KE-19,,2020-12-02,,,,,-11,
+KE,Kenya,Kwale County,,,KE-19,,2020-12-03,,,,,-8,
+KE,Kenya,Kwale County,,,KE-19,,2020-12-04,,,,,-8,
 KE,Kenya,Laikipia County,,,KE-20,,2020-02-15,3,0,,4,5,
 KE,Kenya,Laikipia County,,,KE-20,,2020-02-16,-5,-2,,-5,-3,
 KE,Kenya,Laikipia County,,,KE-20,,2020-02-17,5,9,,1,9,
@@ -6132,6 +6197,9 @@ KE,Kenya,Laikipia County,,,KE-20,,2020-11-28,21,,,-13,5,
 KE,Kenya,Laikipia County,,,KE-20,,2020-11-29,9,,,-1,3,
 KE,Kenya,Laikipia County,,,KE-20,,2020-11-30,19,,,-8,2,
 KE,Kenya,Laikipia County,,,KE-20,,2020-12-01,24,,,-10,-6,
+KE,Kenya,Laikipia County,,,KE-20,,2020-12-02,15,,,-10,3,
+KE,Kenya,Laikipia County,,,KE-20,,2020-12-03,21,,,-12,0,
+KE,Kenya,Laikipia County,,,KE-20,,2020-12-04,28,,,-13,1,
 KE,Kenya,Machakos County,,,KE-22,,2020-02-15,6,-3,22,17,5,-2
 KE,Kenya,Machakos County,,,KE-22,,2020-02-16,-1,1,10,10,9,1
 KE,Kenya,Machakos County,,,KE-22,,2020-02-17,-2,4,10,7,4,0
@@ -6420,6 +6488,9 @@ KE,Kenya,Machakos County,,,KE-22,,2020-11-28,8,10,-33,11,1,9
 KE,Kenya,Machakos County,,,KE-22,,2020-11-29,6,2,-25,9,5,12
 KE,Kenya,Machakos County,,,KE-22,,2020-11-30,-5,13,-41,6,-8,13
 KE,Kenya,Machakos County,,,KE-22,,2020-12-01,-1,19,-29,14,-8,13
+KE,Kenya,Machakos County,,,KE-22,,2020-12-02,7,29,-31,14,-5,14
+KE,Kenya,Machakos County,,,KE-22,,2020-12-03,6,21,-15,22,-6,13
+KE,Kenya,Machakos County,,,KE-22,,2020-12-04,9,28,-3,29,-3,12
 KE,Kenya,Makueni County,,,KE-23,,2020-02-15,7,,,12,6,
 KE,Kenya,Makueni County,,,KE-23,,2020-02-16,6,,,4,,
 KE,Kenya,Makueni County,,,KE-23,,2020-02-17,11,,,6,-10,
@@ -6674,6 +6745,9 @@ KE,Kenya,Makueni County,,,KE-23,,2020-11-27,,,,17,14,
 KE,Kenya,Makueni County,,,KE-23,,2020-11-28,,,,-4,5,
 KE,Kenya,Makueni County,,,KE-23,,2020-11-30,,,,11,10,
 KE,Kenya,Makueni County,,,KE-23,,2020-12-01,,,,19,9,
+KE,Kenya,Makueni County,,,KE-23,,2020-12-02,,,,4,10,
+KE,Kenya,Makueni County,,,KE-23,,2020-12-03,,,,9,13,
+KE,Kenya,Makueni County,,,KE-23,,2020-12-04,,,,16,20,
 KE,Kenya,Meru County,,,KE-26,,2020-02-15,9,7,,13,2,
 KE,Kenya,Meru County,,,KE-26,,2020-02-16,5,5,,0,-1,
 KE,Kenya,Meru County,,,KE-26,,2020-02-17,10,5,,-3,1,1
@@ -6952,6 +7026,9 @@ KE,Kenya,Meru County,,,KE-26,,2020-11-28,5,19,,-17,0,
 KE,Kenya,Meru County,,,KE-26,,2020-11-29,8,23,,-3,0,
 KE,Kenya,Meru County,,,KE-26,,2020-11-30,17,27,,-6,-2,8
 KE,Kenya,Meru County,,,KE-26,,2020-12-01,22,24,,-1,-3,6
+KE,Kenya,Meru County,,,KE-26,,2020-12-02,24,29,,0,0,7
+KE,Kenya,Meru County,,,KE-26,,2020-12-03,25,30,,-6,-2,4
+KE,Kenya,Meru County,,,KE-26,,2020-12-04,18,27,,-4,2,6
 KE,Kenya,Migori County,,,KE-27,,2020-02-15,,-4,,,10,
 KE,Kenya,Migori County,,,KE-27,,2020-02-16,-3,,,,,
 KE,Kenya,Migori County,,,KE-27,,2020-02-17,,-2,,-22,4,
@@ -7194,6 +7271,9 @@ KE,Kenya,Migori County,,,KE-27,,2020-11-27,,,,,-1,
 KE,Kenya,Migori County,,,KE-27,,2020-11-28,,,,,3,
 KE,Kenya,Migori County,,,KE-27,,2020-11-30,,,,,5,
 KE,Kenya,Migori County,,,KE-27,,2020-12-01,,,,,3,
+KE,Kenya,Migori County,,,KE-27,,2020-12-02,,,,,4,
+KE,Kenya,Migori County,,,KE-27,,2020-12-03,,,,,4,
+KE,Kenya,Migori County,,,KE-27,,2020-12-04,,,,,3,
 KE,Kenya,Mombasa County,,,KE-28,,2020-02-15,-2,0,13,7,2,0
 KE,Kenya,Mombasa County,,,KE-28,,2020-02-16,-2,-3,19,5,3,-1
 KE,Kenya,Mombasa County,,,KE-28,,2020-02-17,4,-1,13,10,4,0
@@ -7485,6 +7565,9 @@ KE,Kenya,Mombasa County,,,KE-28,,2020-11-28,-2,2,14,9,1,7
 KE,Kenya,Mombasa County,,,KE-28,,2020-11-29,-6,-8,12,6,1,7
 KE,Kenya,Mombasa County,,,KE-28,,2020-11-30,6,0,6,18,-3,9
 KE,Kenya,Mombasa County,,,KE-28,,2020-12-01,6,7,12,15,-5,10
+KE,Kenya,Mombasa County,,,KE-28,,2020-12-02,6,5,12,15,-2,9
+KE,Kenya,Mombasa County,,,KE-28,,2020-12-03,7,6,8,17,-3,8
+KE,Kenya,Mombasa County,,,KE-28,,2020-12-04,3,5,19,16,1,8
 KE,Kenya,Muranga County,,,KE-29,,2020-02-15,17,10,,-2,2,
 KE,Kenya,Muranga County,,,KE-29,,2020-02-16,15,-4,,,0,
 KE,Kenya,Muranga County,,,KE-29,,2020-02-17,15,-1,,-15,3,
@@ -7751,6 +7834,9 @@ KE,Kenya,Muranga County,,,KE-29,,2020-11-28,9,,,-18,3,
 KE,Kenya,Muranga County,,,KE-29,,2020-11-29,9,,,-22,9,
 KE,Kenya,Muranga County,,,KE-29,,2020-11-30,,,,,4,
 KE,Kenya,Muranga County,,,KE-29,,2020-12-01,-3,,,-36,-1,
+KE,Kenya,Muranga County,,,KE-29,,2020-12-02,-4,,,-32,5,
+KE,Kenya,Muranga County,,,KE-29,,2020-12-03,7,,,-37,5,
+KE,Kenya,Muranga County,,,KE-29,,2020-12-04,0,,,-39,7,
 KE,Kenya,Nairobi County,,,KE-30,,2020-02-15,1,4,20,6,2,-1
 KE,Kenya,Nairobi County,,,KE-30,,2020-02-16,0,-3,3,6,3,0
 KE,Kenya,Nairobi County,,,KE-30,,2020-02-17,4,-1,8,7,3,0
@@ -8042,6 +8128,9 @@ KE,Kenya,Nairobi County,,,KE-30,,2020-11-28,-9,-2,-1,14,0,9
 KE,Kenya,Nairobi County,,,KE-30,,2020-11-29,-12,-5,5,13,8,9
 KE,Kenya,Nairobi County,,,KE-30,,2020-11-30,-3,-2,-19,18,-13,12
 KE,Kenya,Nairobi County,,,KE-30,,2020-12-01,-3,2,-16,22,-14,11
+KE,Kenya,Nairobi County,,,KE-30,,2020-12-02,-2,2,-22,21,-12,12
+KE,Kenya,Nairobi County,,,KE-30,,2020-12-03,-1,4,-17,22,-12,11
+KE,Kenya,Nairobi County,,,KE-30,,2020-12-04,-2,5,-8,25,-9,11
 KE,Kenya,Nakuru County,,,KE-31,,2020-02-15,9,3,30,8,1,1
 KE,Kenya,Nakuru County,,,KE-31,,2020-02-16,5,1,12,9,3,0
 KE,Kenya,Nakuru County,,,KE-31,,2020-02-17,9,5,9,7,2,1
@@ -8333,6 +8422,9 @@ KE,Kenya,Nakuru County,,,KE-31,,2020-11-28,6,11,10,-17,1,10
 KE,Kenya,Nakuru County,,,KE-31,,2020-11-29,4,11,-8,-20,2,10
 KE,Kenya,Nakuru County,,,KE-31,,2020-11-30,14,20,7,-17,0,9
 KE,Kenya,Nakuru County,,,KE-31,,2020-12-01,15,21,10,-13,2,9
+KE,Kenya,Nakuru County,,,KE-31,,2020-12-02,16,24,15,-13,4,10
+KE,Kenya,Nakuru County,,,KE-31,,2020-12-03,12,24,14,-10,2,10
+KE,Kenya,Nakuru County,,,KE-31,,2020-12-04,13,25,17,-7,4,9
 KE,Kenya,Nandi County,,,KE-32,,2020-02-15,-2,,,,-2,
 KE,Kenya,Nandi County,,,KE-32,,2020-02-16,0,,,,,
 KE,Kenya,Nandi County,,,KE-32,,2020-02-17,11,,,,-1,
@@ -8590,6 +8682,9 @@ KE,Kenya,Nandi County,,,KE-32,,2020-11-27,,,,,-4,
 KE,Kenya,Nandi County,,,KE-32,,2020-11-28,,,,,-3,
 KE,Kenya,Nandi County,,,KE-32,,2020-11-30,,,,,-7,
 KE,Kenya,Nandi County,,,KE-32,,2020-12-01,,,,,-2,
+KE,Kenya,Nandi County,,,KE-32,,2020-12-02,,,,,-4,
+KE,Kenya,Nandi County,,,KE-32,,2020-12-03,,,,,-6,
+KE,Kenya,Nandi County,,,KE-32,,2020-12-04,,,,,-2,
 KE,Kenya,Narok County,,,KE-33,,2020-02-15,12,,-4,,0,
 KE,Kenya,Narok County,,,KE-33,,2020-02-16,0,,2,,,
 KE,Kenya,Narok County,,,KE-33,,2020-02-17,4,,-7,,6,
@@ -8856,6 +8951,9 @@ KE,Kenya,Narok County,,,KE-33,,2020-11-28,,,-33,,17,
 KE,Kenya,Narok County,,,KE-33,,2020-11-29,,,-31,,,
 KE,Kenya,Narok County,,,KE-33,,2020-11-30,,,-33,,12,
 KE,Kenya,Narok County,,,KE-33,,2020-12-01,,,-31,,9,
+KE,Kenya,Narok County,,,KE-33,,2020-12-02,,,-33,,16,
+KE,Kenya,Narok County,,,KE-33,,2020-12-03,,,-25,,17,
+KE,Kenya,Narok County,,,KE-33,,2020-12-04,,,-31,,16,
 KE,Kenya,Nyandarua County,,,KE-35,,2020-02-17,,,,,0,
 KE,Kenya,Nyandarua County,,,KE-35,,2020-02-18,,,,,4,
 KE,Kenya,Nyandarua County,,,KE-35,,2020-02-19,,,,,4,
@@ -9043,6 +9141,9 @@ KE,Kenya,Nyandarua County,,,KE-35,,2020-11-26,,,,,12,
 KE,Kenya,Nyandarua County,,,KE-35,,2020-11-27,,,,,8,
 KE,Kenya,Nyandarua County,,,KE-35,,2020-11-30,,,,,8,
 KE,Kenya,Nyandarua County,,,KE-35,,2020-12-01,,,,,9,
+KE,Kenya,Nyandarua County,,,KE-35,,2020-12-02,,,,,22,
+KE,Kenya,Nyandarua County,,,KE-35,,2020-12-03,,,,,19,
+KE,Kenya,Nyandarua County,,,KE-35,,2020-12-04,,,,,17,
 KE,Kenya,Nyeri County,,,KE-36,,2020-02-15,9,4,3,,-1,
 KE,Kenya,Nyeri County,,,KE-36,,2020-02-16,6,-1,16,-7,2,
 KE,Kenya,Nyeri County,,,KE-36,,2020-02-17,4,4,2,,1,1
@@ -9309,6 +9410,9 @@ KE,Kenya,Nyeri County,,,KE-36,,2020-11-28,-1,6,-19,25,-2,
 KE,Kenya,Nyeri County,,,KE-36,,2020-11-29,-4,7,-3,30,2,
 KE,Kenya,Nyeri County,,,KE-36,,2020-11-30,-7,11,-10,34,-4,10
 KE,Kenya,Nyeri County,,,KE-36,,2020-12-01,-5,20,-9,38,-6,11
+KE,Kenya,Nyeri County,,,KE-36,,2020-12-02,-1,19,-14,35,-5,9
+KE,Kenya,Nyeri County,,,KE-36,,2020-12-03,2,24,-14,46,-6,10
+KE,Kenya,Nyeri County,,,KE-36,,2020-12-04,-7,19,,25,-4,12
 KE,Kenya,Siaya,,,KE-38,,2020-02-15,4,6,,,4,
 KE,Kenya,Siaya,,,KE-38,,2020-02-16,2,,,,,
 KE,Kenya,Siaya,,,KE-38,,2020-02-17,4,-2,,,-3,
@@ -9544,6 +9648,9 @@ KE,Kenya,Siaya,,,KE-38,,2020-11-27,,,,,11,
 KE,Kenya,Siaya,,,KE-38,,2020-11-28,,,,,17,
 KE,Kenya,Siaya,,,KE-38,,2020-11-30,,,,,14,
 KE,Kenya,Siaya,,,KE-38,,2020-12-01,,,,,9,
+KE,Kenya,Siaya,,,KE-38,,2020-12-02,,,,,9,
+KE,Kenya,Siaya,,,KE-38,,2020-12-03,,,,,10,
+KE,Kenya,Siaya,,,KE-38,,2020-12-04,,,,,15,
 KE,Kenya,Taita-Taveta County,,,KE-39,,2020-02-15,12,,,,8,
 KE,Kenya,Taita-Taveta County,,,KE-39,,2020-02-17,,,,,5,
 KE,Kenya,Taita-Taveta County,,,KE-39,,2020-02-18,2,,,,0,
@@ -9780,6 +9887,9 @@ KE,Kenya,Taita-Taveta County,,,KE-39,,2020-11-27,,,,-46,17,
 KE,Kenya,Taita-Taveta County,,,KE-39,,2020-11-28,,,,-51,10,
 KE,Kenya,Taita-Taveta County,,,KE-39,,2020-11-30,,,,,13,
 KE,Kenya,Taita-Taveta County,,,KE-39,,2020-12-01,,,,-49,8,
+KE,Kenya,Taita-Taveta County,,,KE-39,,2020-12-02,,,,,11,
+KE,Kenya,Taita-Taveta County,,,KE-39,,2020-12-03,,,,,10,
+KE,Kenya,Taita-Taveta County,,,KE-39,,2020-12-04,,,,-49,15,
 KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-02-15,11,,,,25,
 KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-02-16,-3,,,,10,
 KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-02-17,-15,,,,15,
@@ -10046,6 +10156,9 @@ KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-11-28,,,,,-18,
 KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-11-29,,,,,-18,
 KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-11-30,,,,,-12,
 KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-12-01,,,,,-13,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-12-02,,,,,-9,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-12-03,,,,,-9,
+KE,Kenya,Tharaka-Nithi County,,,KE-41,,2020-12-04,,,,,-2,
 KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-02-15,-2,0,,-9,2,
 KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-02-16,11,-4,,-12,0,
 KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-02-17,-2,4,,-8,-1,
@@ -10312,6 +10425,9 @@ KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-11-28,,,,44,19,
 KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-11-29,,,,,22,
 KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-11-30,,,,42,10,
 KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-12-01,,,,53,12,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-12-02,,,,,11,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-12-03,,,,51,13,
+KE,Kenya,Trans-Nzoia County,,,KE-42,,2020-12-04,,,,56,13,
 KE,Kenya,Turkana County,,,KE-43,,2020-02-15,-18,,,,4,
 KE,Kenya,Turkana County,,,KE-43,,2020-02-16,6,,,,,
 KE,Kenya,Turkana County,,,KE-43,,2020-02-17,-2,,,,5,
@@ -10543,6 +10659,9 @@ KE,Kenya,Turkana County,,,KE-43,,2020-11-27,,,,,-14,
 KE,Kenya,Turkana County,,,KE-43,,2020-11-28,,,,,-11,
 KE,Kenya,Turkana County,,,KE-43,,2020-11-30,,,,,-14,
 KE,Kenya,Turkana County,,,KE-43,,2020-12-01,,,,,-8,
+KE,Kenya,Turkana County,,,KE-43,,2020-12-02,,,,,2,
+KE,Kenya,Turkana County,,,KE-43,,2020-12-03,,,,,-9,
+KE,Kenya,Turkana County,,,KE-43,,2020-12-04,,,,,-3,
 KE,Kenya,Uasin Gishu County,,,KE-44,,2020-02-15,5,3,15,2,5,-1
 KE,Kenya,Uasin Gishu County,,,KE-44,,2020-02-16,3,2,7,2,4,-1
 KE,Kenya,Uasin Gishu County,,,KE-44,,2020-02-17,10,5,7,-2,7,1
@@ -10831,6 +10950,9 @@ KE,Kenya,Uasin Gishu County,,,KE-44,,2020-11-28,16,15,15,31,12,7
 KE,Kenya,Uasin Gishu County,,,KE-44,,2020-11-29,13,7,11,27,4,6
 KE,Kenya,Uasin Gishu County,,,KE-44,,2020-11-30,23,19,26,,6,10
 KE,Kenya,Uasin Gishu County,,,KE-44,,2020-12-01,19,22,19,28,4,9
+KE,Kenya,Uasin Gishu County,,,KE-44,,2020-12-02,22,23,17,29,7,9
+KE,Kenya,Uasin Gishu County,,,KE-44,,2020-12-03,27,31,20,26,6,8
+KE,Kenya,Uasin Gishu County,,,KE-44,,2020-12-04,21,30,24,41,11,8
 KE,Kenya,Vihiga County,,,KE-45,,2020-02-15,,,,7,,
 KE,Kenya,Vihiga County,,,KE-45,,2020-02-16,,,,-12,,
 KE,Kenya,Vihiga County,,,KE-45,,2020-02-17,,,,-3,-3,
@@ -11097,5 +11219,8 @@ KE,Kenya,Vihiga County,,,KE-45,,2020-11-28,,,,2,,
 KE,Kenya,Vihiga County,,,KE-45,,2020-11-29,,,,6,,
 KE,Kenya,Vihiga County,,,KE-45,,2020-11-30,,,,3,-9,
 KE,Kenya,Vihiga County,,,KE-45,,2020-12-01,,,,14,-7,
+KE,Kenya,Vihiga County,,,KE-45,,2020-12-02,,,,12,0,
+KE,Kenya,Vihiga County,,,KE-45,,2020-12-03,,,,8,-1,
+KE,Kenya,Vihiga County,,,KE-45,,2020-12-04,,,,18,6,
 KE,Kenya,Wajir County,,,KE-46,,2020-02-20,-100,,,,,
 KE,Kenya,Wajir County,,,KE-46,,2020-04-02,-100,,,,,
