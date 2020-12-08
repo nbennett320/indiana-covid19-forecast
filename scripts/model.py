@@ -387,10 +387,8 @@ def preprocess_data():
   predict_hospital_bed_occupancy(hospital_vent_df)
   predict_hospital_vent_availability(hospital_vent_df)
 
-########################################################
-# predict hospital occupation
-########################################################
 def predict_hospital_bed_occupancy(df: pd.DataFrame):
+  '''predict hospital bed occupancy'''
   fcols = []
   for col in df.columns:
     fcols.append(tf.feature_column.numeric_column(col))
@@ -477,6 +475,7 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
       json.dump(output, outfile)
 
 def predict_hospital_vent_availability(df: pd.DataFrame):
+  '''predict hospital vent availability'''
   fcols = []
   for col in df.columns:
     fcols.append(tf.feature_column.numeric_column(col))
@@ -563,10 +562,8 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
 
-########################################################
-# predict covid deaths
-########################################################
 def predict_covid_deaths(df: pd.DataFrame, county: str):
+  '''predict covid deaths'''
   df = df.loc[df['county_name'] == county, :]
   df.pop('county_name')
   fcols = []
@@ -658,10 +655,8 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
     with open(filename, 'w') as outfile:
       json.dump(output, outfile)
 
-########################################################
-# predict covid cases
-########################################################
 def predict_covid_count(df: pd.DataFrame, county: str):
+  '''predict covid cases'''
   datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   df = df.loc[df['county_name'] == county, :]
   df.pop('county_name')
@@ -741,8 +736,6 @@ def predict_covid_count(df: pd.DataFrame, county: str):
       'date': datelist,
       'covid_count': normalized_pred[len(normalized_pred)-n_days:]
     }).set_index('date')
-
-    pred_df = pd.DataFrame(data=normalized_pred, index=datelist)
     output = dict({
       'model_result': result,
       'county': county,
@@ -863,6 +856,5 @@ def main():
       print("done.")
     print_separator()
   preprocess_data()
-  # predict_infections()
 
 main()
