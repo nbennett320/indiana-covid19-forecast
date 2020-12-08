@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/indiana-covid19-forecast/static/css/main.3ca364ce.chunk.css",
+    "main.js": "/indiana-covid19-forecast/static/js/main.44ec6c1c.chunk.js",
+    "main.js.map": "/indiana-covid19-forecast/static/js/main.44ec6c1c.chunk.js.map",
+    "runtime-main.js": "/indiana-covid19-forecast/static/js/runtime-main.f8d35876.js",
+    "runtime-main.js.map": "/indiana-covid19-forecast/static/js/runtime-main.f8d35876.js.map",
+    "static/css/2.377bcfc6.chunk.css": "/indiana-covid19-forecast/static/css/2.377bcfc6.chunk.css",
+    "static/js/2.e8268f06.chunk.js": "/indiana-covid19-forecast/static/js/2.e8268f06.chunk.js",
+    "static/js/2.e8268f06.chunk.js.map": "/indiana-covid19-forecast/static/js/2.e8268f06.chunk.js.map",
+    "index.html": "/indiana-covid19-forecast/index.html",
+    "static/css/2.377bcfc6.chunk.css.map": "/indiana-covid19-forecast/static/css/2.377bcfc6.chunk.css.map",
+    "static/css/main.3ca364ce.chunk.css.map": "/indiana-covid19-forecast/static/css/main.3ca364ce.chunk.css.map",
+    "static/js/2.e8268f06.chunk.js.LICENSE.txt": "/indiana-covid19-forecast/static/js/2.e8268f06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8d35876.js",
+    "static/css/2.377bcfc6.chunk.css",
+    "static/js/2.e8268f06.chunk.js",
+    "static/css/main.3ca364ce.chunk.css",
+    "static/js/main.44ec6c1c.chunk.js"
+  ]
+}
