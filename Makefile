@@ -15,6 +15,7 @@ update:
 	python3 scripts/update_frontend.py
 	git add *
 	git commit -m "rebuild and deploy frontend (auto generated commit)"
+	git push origin main
 install-model-dependencies:
 	pip3 install numpy pandas tensorflow requests bs4 selenium chromedriver-install
 clean:
