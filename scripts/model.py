@@ -69,6 +69,9 @@ should_fetch_datasets = False
 global should_plot
 should_plot = False
 
+global show_status
+show_status = False
+
 # data filenames
 indiana_counties_list_filename = './data/indiana_counties.csv'
 county_level_combined_filename = './data/indiana_county_level_mobility_time_series_data_formatted_7.csv'
@@ -188,11 +191,12 @@ def format_county_level_test_case_death_trends():
   # df.set_index('date', drop=False, inplace=True)
   del df['location_id']
 
-  print('start', df)
-  print('len:', len(df_date))
   for i in range(0, len(df_date)):
-    if i % 20 == 0:
-      print('[' + ('=' * int(math.ceil(i / 20.0))) + ']')
+    if is_verbose:
+      print('start', df)
+      print('len:', len(df_date))
+      if i % 20 == 0:
+        print('[' + ('=' * int(math.ceil(i / 20.0))) + ']')
     sel = df.loc[df['date'] == df_date[i], :]
     isum = sel.sum()
     isum['county_name'] = 'Indiana'
@@ -200,8 +204,9 @@ def format_county_level_test_case_death_trends():
     isum = isum.to_frame().T
     df = df.append(isum, ignore_index=True)
   df.sort_values(by=['date', 'county_name'], inplace=True)
-  print(df)
-  print(df.loc[df['county_name'] == 'Indiana'])
+  if is_verbose:
+    print(df)
+    print(df.loc[df['county_name'] == 'Indiana'])
   df.insert(5, 'covid_count_state_cumulative', df['covid_count'].cumsum())
   top = df.pop('county_name')
   df.insert(0, top.name, top)
@@ -363,10 +368,15 @@ def preprocess_data():
   if model_county.lower() == 'all':
     cdf = pd.DataFrame(indiana_counties_raw).copy()
     del cdf['location_id']
+    j = 0
     for i in cdf['county_name']:
-      print_separator()
-      print(f'calculating for {i} county...')
-      print_separator()
+      if show_status:
+        os.system('clear')
+        print(f'calculating for {i} county ({j + 1}/{cdf["county_name"].size})')
+        print('[' + ('=' * int(math.ceil(j/3.5))) + ']')
+      if is_verbose:
+        print(f'calculating for {i} county...')
+        print_separator()
       predict_covid_count(
         county_level_test_case_death_trends_df, 
         county=i
@@ -375,6 +385,7 @@ def preprocess_data():
         county_level_test_case_death_trends_df, 
         county=i
       )
+      j += 1
   else:
     predict_covid_count(
       county_level_test_case_death_trends_df, 
@@ -386,6 +397,8 @@ def preprocess_data():
     )
   predict_hospital_bed_occupancy(hospital_vent_df)
   predict_hospital_vent_availability(hospital_vent_df)
+  if is_verbose or show_status:
+    print("done.")
 
 def predict_hospital_bed_occupancy(df: pd.DataFrame):
   '''predict hospital bed occupancy'''
@@ -433,17 +446,19 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
     result[key] = str(val)
-    print(key, ':', val)
-  print_separator()
+    if is_verbose:
+      print(key, ':', val)
+      print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
   predictions = None
   datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   for pred in pred_generator:
     for key, val in pred.items():
       predictions = val
-      print(key, ':', val)
-      print('len:', len(val))
-      print('shape:', val.shape)
+      if is_verbose:
+        print(key, ':', val)
+        print('len:', len(val))
+        print('shape:', val.shape)
     break
   scaler = MinMaxScaler()
   predictions = scaler.fit_transform(predictions)
@@ -461,7 +476,8 @@ def predict_hospital_bed_occupancy(df: pd.DataFrame):
   if len(output_dir) > 0:
     pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions})
     pred_df.set_index('date', inplace=True, drop=True)
-    print(pred_df)
+    if is_verbose:
+      print(pred_df)
     output = dict({
       'model_result': result,
       'prediction_key': 'hospital_bed_occupation',
@@ -520,17 +536,19 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
     result[key] = str(val)
-    print(key, ':', val)
-  print_separator()
+    if is_verbose:
+      print(key, ':', val)
+      print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
   predictions = None
   datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   for pred in pred_generator:
     for key, val in pred.items():
       predictions = abs(val)
-      print(key, ':', val)
-      print('len:', len(val))
-      print('shape:', val.shape)
+      if is_verbose:
+        print(key, ':', val)
+        print('len:', len(val))
+        print('shape:', val.shape)
     break
   scaler = MinMaxScaler()
   predictions = scaler.fit_transform(predictions)
@@ -549,7 +567,8 @@ def predict_hospital_vent_availability(df: pd.DataFrame):
   if len(output_dir) > 0:
     pred_df = pd.DataFrame(data={'date': datelist, 'pred': predictions})
     pred_df.set_index('date', inplace=True, drop=True)
-    print(pred_df)
+    if is_verbose:  
+      print(pred_df)
     output = dict({
       'model_result': result,
       'prediction_key': 'hospital_vent_availability',
@@ -608,17 +627,19 @@ def predict_covid_deaths(df: pd.DataFrame, county: str):
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
     result[key] = str(val)
-    print(key, ':', val)
-  print_separator()
+    if is_verbose:
+      print(key, ':', val)
+      print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
   predictions = None
   datelist = pd.date_range(datetime.today(), periods=n_days).to_numpy()
   for pred in pred_generator:
     for key, val in pred.items():
       predictions = val
-      print(key, ':', val)
-      print('len:', len(val))
-      print('shape:', val.shape)
+      if is_verbose:
+        print(key, ':', val)
+        print('len:', len(val))
+        print('shape:', val.shape)
     break
   normalized_pred = [*map(lambda x: x + df['covid_deaths'][-14:].mean(), predictions.flatten())]
 
@@ -702,16 +723,18 @@ def predict_covid_count(df: pd.DataFrame, county: str):
   result = model.evaluate(input_fn=test_fn, steps=10)
   for key, val in result.items():
     result[key] = str(val)
-    print(key, ':', val)
-  print_separator()
+    if is_verbose:
+      print(key, ':', val)
+      print_separator()
   pred_generator = model.predict(input_fn=train_fn, yield_single_examples=False)
   predictions = None
   for pred in pred_generator:
     for key, val in pred.items():
       predictions = val
-      print(key, ':', val)
-      print('len:', len(val))
-      print('shape:', val.shape)
+      if is_verbose:
+        print(key, ':', val)
+        print('len:', len(val))
+        print('shape:', val.shape)
     break
   normalized_pred = [*map(lambda x: x + df['covid_count'][-14:].mean(), predictions.flatten())]
 
@@ -830,6 +853,13 @@ def get_flags():
     dest='plot_mode',
     help="if passed, plot results"
   )
+  arg_parser.add_argument(
+    '-s',
+    '--show-status',
+    action='store_true',
+    dest='show_status',
+    help="if passed, show current runtime status"
+  )
   args = arg_parser.parse_args()
   global n_days
   n_days = args.days if args.days else 14
@@ -845,16 +875,19 @@ def get_flags():
   should_plot = args.plot_mode
   global is_verbose
   is_verbose = args.verbose_mode
+  global show_status
+  show_status = args.show_status
 
 def main():
   get_flags()
   if should_fetch_datasets:
-    if is_verbose:
+    if is_verbose or show_status:
       print("updating datasets...")
-    update_dataset(dir=dataset_dir)
-    if is_verbose:
+    update_dataset(dir=dataset_dir, show_status=show_status, is_verbose=is_verbose)
+    if is_verbose or show_status:
       print("done.")
-    print_separator()
+      if is_verbose:
+        print_separator()
   preprocess_data()
 
 main()

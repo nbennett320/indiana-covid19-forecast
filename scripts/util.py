@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import requests
-import os, sys, re
+import os, sys, re, math
 from zipfile import ZipFile
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -102,11 +102,12 @@ def fetch_apple_mobility_report_url(i=0):
       i += 1
       fetch_apple_mobility_report_url(i)
 
-def fetch_datasets(temp_dir):
+def fetch_datasets(temp_dir, is_verbose=False):
   try:
     os.mkdir(temp_dir)
   except:
-    print("temp directory already created")
+    if is_verbose:
+      print("temp directory already created")
   finally:
     for k in urls:
       if k == 'apple_covid_dashboard':
@@ -127,11 +128,19 @@ def prep_datasets(temp_dir):
   with ZipFile(path_zip, 'r') as zip_buffer:
     zip_buffer.extractall(path_out)
 
-def update_dataset(dir):
+def update_dataset(dir, show_status=False, is_verbose=False):
   if type(dir) == str:
+    if show_status:
+      print('[' + ('=' * int(math.ceil(0 / 20.0))) + ']')
     fetch_apple_mobility_report_url()
-    fetch_datasets(dir)
+    if show_status:
+      print('[' + ('=' * (int(math.ceil(8.3 / 20.0)*5))) + ']')
+    fetch_datasets(dir, is_verbose)
+    if show_status:
+      print('[' + ('=' * (int(math.ceil(17 / 20.0)*10))) + ']')
     prep_datasets(dir)
+    if show_status:
+      print('[' + ('=' * (int(math.ceil(20.0 / 20.0)*20))) + ']')
   else:
     print("arg must be a string")
 
