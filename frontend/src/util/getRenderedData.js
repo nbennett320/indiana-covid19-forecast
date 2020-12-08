@@ -9,10 +9,6 @@ const getRenderedData = props => {
     y_data,
     x_pred,
     y_pred,
-    x_data_polynomial,
-    y_data_polynomial,
-    x_pred_polynomial,
-    y_pred_polynomial,
     model_result,
     prediction_key
   } = rawData
@@ -52,29 +48,6 @@ const getRenderedData = props => {
         name: 'Forecasted'
       })),
     ])
-  }
-  if(props.showSmooth) {
-    if(props.smoothingMethod === 'polynomial') {
-      data.push(...[
-        ...x_data_polynomial.map((t, i) => ({
-          x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-          y_all: y_data_polynomial[i],
-          name: props.format.dataLab
-        })),
-        ...[x_data_polynomial[x_data_polynomial.length - 1], x_pred_polynomial[0]].map((t, i) => ({
-          x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-          y_all: [y_data_polynomial[y_data_polynomial.length - 1], y_pred_polynomial[0]][i],
-          y_pred: concatErrorMargins([y_data_polynomial[y_data_polynomial.length - 1], y_pred_polynomial[0]][i], y_data_polynomial.length),
-          name: 'Today'
-        })),
-        ...x_pred_polynomial.map((t, i) => ({
-          x: formatDate(new Date(t / Math.pow(10, 6)).toLocaleDateString().replaceAll('/','-')),
-          y_all: y_pred_polynomial[i],
-          y_pred: concatErrorMargins(y_pred_polynomial[i], i + 2, y_pred_polynomial.length),
-          name: 'Forecasted'
-        }))
-      ])
-    }
   }
   return {
     data: data.flat(),
