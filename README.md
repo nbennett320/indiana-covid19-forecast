@@ -86,11 +86,6 @@ Flags:
   - Plot predictions for model being generated.
   - _Default: `False`_
   - _Type: bool_
-- `-S`
-- `--smooth-mode`
-  - Show smooth curves if predictions are being plotted. Valid interpolation methods are `polynomial` or `spline`.
-  - _Default: `False`_
-  - _Type: bool_
 <br/>
 
 <a name="frontend_scripts"></a>
