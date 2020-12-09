@@ -90,6 +90,11 @@ Flags:
   - Plot predictions for model being generated.
   - _Default: `False`_
   - _Type: bool_
+- `-s`
+- `--show-status`
+  - Show execution status when fetching datasets and generating predictions.
+  - _Default: `False`_
+  - _Type: bool_
 <br/>
 
 <a name="frontend_scripts"></a>
