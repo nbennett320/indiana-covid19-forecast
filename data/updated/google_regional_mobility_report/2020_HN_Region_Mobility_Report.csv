@@ -293,6 +293,8 @@ HN,Honduras,,,,,,2020-12-01,-30,-6,-31,-36,-28,8
 HN,Honduras,,,,,,2020-12-02,-28,-1,-26,-32,-26,8
 HN,Honduras,,,,,,2020-12-03,-29,-4,-27,-32,-26,8
 HN,Honduras,,,,,,2020-12-04,-29,-5,-27,-29,-23,8
+HN,Honduras,,,,,,2020-12-05,-30,-9,-29,-29,-15,6
+HN,Honduras,,,,,,2020-12-06,-31,-17,-24,-29,-7,3
 HN,Honduras,Atlántida Department,,,HN-AT,,2020-02-15,1,2,-1,2,4,0
 HN,Honduras,Atlántida Department,,,HN-AT,,2020-02-16,-1,6,3,13,-3,
 HN,Honduras,Atlántida Department,,,HN-AT,,2020-02-17,-11,5,-4,-2,13,-1
@@ -584,6 +586,8 @@ HN,Honduras,Atlántida Department,,,HN-AT,,2020-12-01,-54,-23,-48,-43,-32,10
 HN,Honduras,Atlántida Department,,,HN-AT,,2020-12-02,-40,5,-31,-36,-29,7
 HN,Honduras,Atlántida Department,,,HN-AT,,2020-12-03,-37,5,-29,-25,-29,5
 HN,Honduras,Atlántida Department,,,HN-AT,,2020-12-04,-38,1,-32,-29,-23,6
+HN,Honduras,Atlántida Department,,,HN-AT,,2020-12-05,-42,-2,-33,-33,-19,4
+HN,Honduras,Atlántida Department,,,HN-AT,,2020-12-06,-41,-18,-29,-27,-12,2
 HN,Honduras,Atlántida Department,Jutiapa,,,,2020-02-15,,,-11,,,
 HN,Honduras,Atlántida Department,Jutiapa,,,,2020-02-16,,,-3,,,
 HN,Honduras,Atlántida Department,Jutiapa,,,,2020-02-17,,,-5,,,
@@ -853,6 +857,8 @@ HN,Honduras,Atlántida Department,Jutiapa,,,,2020-12-01,,,-42,,,
 HN,Honduras,Atlántida Department,Jutiapa,,,,2020-12-02,,,-31,,,
 HN,Honduras,Atlántida Department,Jutiapa,,,,2020-12-03,,,-37,,,
 HN,Honduras,Atlántida Department,Jutiapa,,,,2020-12-04,,,-32,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,2020-12-05,,,-39,,,
+HN,Honduras,Atlántida Department,Jutiapa,,,,2020-12-06,,,-37,,,
 HN,Honduras,Atlántida Department,La Ceiba,,,,2020-02-15,1,2,6,1,3,0
 HN,Honduras,Atlántida Department,La Ceiba,,,,2020-02-16,-6,5,11,19,-3,
 HN,Honduras,Atlántida Department,La Ceiba,,,,2020-02-17,-15,3,-5,2,11,-1
@@ -1144,6 +1150,8 @@ HN,Honduras,Atlántida Department,La Ceiba,,,,2020-12-01,-58,-24,-53,-41,-29,11
 HN,Honduras,Atlántida Department,La Ceiba,,,,2020-12-02,-43,8,-28,-34,-26,9
 HN,Honduras,Atlántida Department,La Ceiba,,,,2020-12-03,-39,10,-26,-21,-25,6
 HN,Honduras,Atlántida Department,La Ceiba,,,,2020-12-04,-41,4,-27,-25,-21,7
+HN,Honduras,Atlántida Department,La Ceiba,,,,2020-12-05,-45,1,-28,-32,-14,5
+HN,Honduras,Atlántida Department,La Ceiba,,,,2020-12-06,-41,-16,-17,-24,-5,2
 HN,Honduras,Atlántida Department,Tela,,,,2020-02-15,0,12,-3,,6,
 HN,Honduras,Atlántida Department,Tela,,,,2020-02-16,,,16,,,
 HN,Honduras,Atlántida Department,Tela,,,,2020-02-17,,6,-8,,19,
@@ -1413,6 +1421,8 @@ HN,Honduras,Atlántida Department,Tela,,,,2020-12-01,,-8,-46,,-30,
 HN,Honduras,Atlántida Department,Tela,,,,2020-12-02,,1,-46,,-23,
 HN,Honduras,Atlántida Department,Tela,,,,2020-12-03,,1,-40,,-27,
 HN,Honduras,Atlántida Department,Tela,,,,2020-12-04,,-4,-41,,-23,
+HN,Honduras,Atlántida Department,Tela,,,,2020-12-05,,-6,-43,,-22,
+HN,Honduras,Atlántida Department,Tela,,,,2020-12-06,,,-35,,-17,
 HN,Honduras,Bay Islands Department,,,HN-IB,,2020-02-15,,12,,,1,
 HN,Honduras,Bay Islands Department,,,HN-IB,,2020-02-16,,,,,-2,
 HN,Honduras,Bay Islands Department,,,HN-IB,,2020-02-17,,16,,,8,
@@ -1682,6 +1692,8 @@ HN,Honduras,Bay Islands Department,,,HN-IB,,2020-12-01,,,-50,-62,-44,
 HN,Honduras,Bay Islands Department,,,HN-IB,,2020-12-02,,-33,-50,-65,-43,
 HN,Honduras,Bay Islands Department,,,HN-IB,,2020-12-03,-57,,-54,-70,-40,
 HN,Honduras,Bay Islands Department,,,HN-IB,,2020-12-04,-54,-36,-25,-52,-38,
+HN,Honduras,Bay Islands Department,,,HN-IB,,2020-12-05,-57,-43,-34,-56,-42,
+HN,Honduras,Bay Islands Department,,,HN-IB,,2020-12-06,,,-25,-56,-40,
 HN,Honduras,Bay Islands Department,Roatán,,,,2020-02-15,10,15,17,10,4,
 HN,Honduras,Bay Islands Department,Roatán,,,,2020-02-16,,,12,-1,0,
 HN,Honduras,Bay Islands Department,Roatán,,,,2020-02-17,,18,35,16,11,
@@ -1951,6 +1963,8 @@ HN,Honduras,Bay Islands Department,Roatán,,,,2020-12-01,-55,,-50,-64,-39,
 HN,Honduras,Bay Islands Department,Roatán,,,,2020-12-02,-52,-34,-52,-62,-40,
 HN,Honduras,Bay Islands Department,Roatán,,,,2020-12-03,-54,,-57,-72,-38,
 HN,Honduras,Bay Islands Department,Roatán,,,,2020-12-04,-52,-37,-21,-49,-34,
+HN,Honduras,Bay Islands Department,Roatán,,,,2020-12-05,-54,-39,-34,-54,-39,
+HN,Honduras,Bay Islands Department,Roatán,,,,2020-12-06,,,-25,-52,-38,
 HN,Honduras,Choluteca Department,,,HN-CH,,2020-02-15,10,6,-2,,3,
 HN,Honduras,Choluteca Department,,,HN-CH,,2020-02-16,4,12,-5,,-1,
 HN,Honduras,Choluteca Department,,,HN-CH,,2020-02-17,0,7,0,,16,-1
@@ -2220,6 +2234,8 @@ HN,Honduras,Choluteca Department,,,HN-CH,,2020-12-01,-15,-4,-17,,-19,7
 HN,Honduras,Choluteca Department,,,HN-CH,,2020-12-02,-15,-6,-20,,-17,6
 HN,Honduras,Choluteca Department,,,HN-CH,,2020-12-03,-16,-2,-21,,-20,2
 HN,Honduras,Choluteca Department,,,HN-CH,,2020-12-04,-13,-4,-18,,-13,5
+HN,Honduras,Choluteca Department,,,HN-CH,,2020-12-05,-12,-10,-21,,-10,4
+HN,Honduras,Choluteca Department,,,HN-CH,,2020-12-06,-12,-12,-5,,-8,
 HN,Honduras,Choluteca Department,Choluteca,,,,2020-02-15,10,6,8,10,4,0
 HN,Honduras,Choluteca Department,Choluteca,,,,2020-02-16,6,14,-8,,0,
 HN,Honduras,Choluteca Department,Choluteca,,,,2020-02-17,-2,7,2,4,14,-2
@@ -2508,6 +2524,8 @@ HN,Honduras,Choluteca Department,Choluteca,,,,2020-12-01,-18,-3,-21,,-17,7
 HN,Honduras,Choluteca Department,Choluteca,,,,2020-12-02,-15,-6,-20,,-18,4
 HN,Honduras,Choluteca Department,Choluteca,,,,2020-12-03,-16,0,-24,,-16,1
 HN,Honduras,Choluteca Department,Choluteca,,,,2020-12-04,-15,-2,-16,15,-11,5
+HN,Honduras,Choluteca Department,Choluteca,,,,2020-12-05,-13,-9,-18,12,-6,2
+HN,Honduras,Choluteca Department,Choluteca,,,,2020-12-06,-11,-10,1,,0,
 HN,Honduras,Colón Department,,,HN-CL,,2020-02-15,-1,7,3,,6,
 HN,Honduras,Colón Department,,,HN-CL,,2020-02-16,6,,,,3,
 HN,Honduras,Colón Department,,,HN-CL,,2020-02-17,-3,1,,,14,
@@ -2777,6 +2795,8 @@ HN,Honduras,Colón Department,,,HN-CL,,2020-12-01,-17,8,,,-24,0
 HN,Honduras,Colón Department,,,HN-CL,,2020-12-02,-11,11,-25,,-27,1
 HN,Honduras,Colón Department,,,HN-CL,,2020-12-03,-14,6,-28,,-24,0
 HN,Honduras,Colón Department,,,HN-CL,,2020-12-04,-18,7,-27,,-21,0
+HN,Honduras,Colón Department,,,HN-CL,,2020-12-05,-21,1,-26,,-22,1
+HN,Honduras,Colón Department,,,HN-CL,,2020-12-06,-20,,,,-21,
 HN,Honduras,Colón Department,Tocoa,,,,2020-02-15,3,8,,,2,
 HN,Honduras,Colón Department,Tocoa,,,,2020-02-16,8,,,,,
 HN,Honduras,Colón Department,Tocoa,,,,2020-02-17,,1,,,11,
@@ -3043,6 +3063,8 @@ HN,Honduras,Colón Department,Tocoa,,,,2020-12-01,,1,,,-15,
 HN,Honduras,Colón Department,Tocoa,,,,2020-12-02,,10,,,-17,1
 HN,Honduras,Colón Department,Tocoa,,,,2020-12-03,,-1,,,-17,0
 HN,Honduras,Colón Department,Tocoa,,,,2020-12-04,-20,6,-45,,-14,
+HN,Honduras,Colón Department,Tocoa,,,,2020-12-05,-22,0,-38,,-16,
+HN,Honduras,Colón Department,Tocoa,,,,2020-12-06,-21,,,,-8,
 HN,Honduras,Colón Department,Trujillo,,,,2020-03-20,,,-43,,,
 HN,Honduras,Colón Department,Trujillo,,,,2020-03-21,,,-44,,,
 HN,Honduras,Colón Department,Trujillo,,,,2020-03-25,,,-61,,,
@@ -3198,6 +3220,7 @@ HN,Honduras,Colón Department,Trujillo,,,,2020-12-01,,,,,-34,
 HN,Honduras,Colón Department,Trujillo,,,,2020-12-02,,,,,-31,
 HN,Honduras,Colón Department,Trujillo,,,,2020-12-03,,,,,-28,
 HN,Honduras,Colón Department,Trujillo,,,,2020-12-04,,,,,-24,
+HN,Honduras,Colón Department,Trujillo,,,,2020-12-05,,,-31,,-24,
 HN,Honduras,Comayagua Department,,,HN-CM,,2020-02-15,1,10,-8,,3,1
 HN,Honduras,Comayagua Department,,,HN-CM,,2020-02-16,5,4,-1,,3,
 HN,Honduras,Comayagua Department,,,HN-CM,,2020-02-17,-1,2,-8,,15,-1
@@ -3486,6 +3509,8 @@ HN,Honduras,Comayagua Department,,,HN-CM,,2020-12-01,-24,-7,-31,,-23,6
 HN,Honduras,Comayagua Department,,,HN-CM,,2020-12-02,-23,-5,-29,,-23,6
 HN,Honduras,Comayagua Department,,,HN-CM,,2020-12-03,-24,-6,-29,,-24,6
 HN,Honduras,Comayagua Department,,,HN-CM,,2020-12-04,-26,-7,-34,,-19,7
+HN,Honduras,Comayagua Department,,,HN-CM,,2020-12-05,-27,-7,-35,-25,-11,5
+HN,Honduras,Comayagua Department,,,HN-CM,,2020-12-06,-30,-21,-23,,-13,4
 HN,Honduras,Comayagua Department,Comayagua,,,,2020-02-15,4,9,4,-3,1,1
 HN,Honduras,Comayagua Department,Comayagua,,,,2020-02-16,13,2,5,-11,1,
 HN,Honduras,Comayagua Department,Comayagua,,,,2020-02-17,-2,-2,-9,-6,15,-2
@@ -3773,6 +3798,8 @@ HN,Honduras,Comayagua Department,Comayagua,,,,2020-12-01,-16,-4,-19,-9,-19,9
 HN,Honduras,Comayagua Department,Comayagua,,,,2020-12-02,-14,-5,-19,-16,-19,8
 HN,Honduras,Comayagua Department,Comayagua,,,,2020-12-03,-16,0,-30,-4,-21,6
 HN,Honduras,Comayagua Department,Comayagua,,,,2020-12-04,-19,-4,-36,-6,-17,8
+HN,Honduras,Comayagua Department,Comayagua,,,,2020-12-05,-20,-3,-31,-12,-5,6
+HN,Honduras,Comayagua Department,Comayagua,,,,2020-12-06,-22,-14,-16,-27,-8,
 HN,Honduras,Comayagua Department,El Rosario,,,,2020-02-15,,,-4,,,
 HN,Honduras,Comayagua Department,El Rosario,,,,2020-02-16,,,0,,,
 HN,Honduras,Comayagua Department,El Rosario,,,,2020-02-17,,,-8,,,
@@ -4042,6 +4069,8 @@ HN,Honduras,Comayagua Department,El Rosario,,,,2020-12-01,,,-24,,,
 HN,Honduras,Comayagua Department,El Rosario,,,,2020-12-02,,,-24,,,
 HN,Honduras,Comayagua Department,El Rosario,,,,2020-12-03,,,-21,,,
 HN,Honduras,Comayagua Department,El Rosario,,,,2020-12-04,,,-16,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,2020-12-05,,,-30,,,
+HN,Honduras,Comayagua Department,El Rosario,,,,2020-12-06,,,-26,,,
 HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-02-15,1,12,10,,5,
 HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-02-16,0,,12,,2,
 HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-02-17,3,7,-8,,14,-2
@@ -4311,6 +4340,8 @@ HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-12-01,-34,1,-50,,-24,6
 HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-12-02,-28,-3,-46,,-22,6
 HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-12-03,-30,-5,-47,,-27,6
 HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-12-04,-33,-4,-47,,-20,6
+HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-12-05,-30,-6,-31,,-14,5
+HN,Honduras,Comayagua Department,Siguatepeque,,,,2020-12-06,-34,,-21,,-11,
 HN,Honduras,Copán Department,,,HN-CP,,2020-02-15,7,2,-1,,0,
 HN,Honduras,Copán Department,,,HN-CP,,2020-02-16,7,3,0,,-1,
 HN,Honduras,Copán Department,,,HN-CP,,2020-02-17,0,2,0,,11,0
@@ -4580,6 +4611,8 @@ HN,Honduras,Copán Department,,,HN-CP,,2020-12-01,-28,-4,-40,,-24,5
 HN,Honduras,Copán Department,,,HN-CP,,2020-12-02,-26,-7,-36,,-23,6
 HN,Honduras,Copán Department,,,HN-CP,,2020-12-03,-27,-9,-37,,-22,5
 HN,Honduras,Copán Department,,,HN-CP,,2020-12-04,-28,-7,-39,,-22,4
+HN,Honduras,Copán Department,,,HN-CP,,2020-12-05,-30,-14,-38,-38,-18,4
+HN,Honduras,Copán Department,,,HN-CP,,2020-12-06,-31,-18,-31,,-23,
 HN,Honduras,Copán Department,Corquiín,,,,2020-02-15,,,-3,,,
 HN,Honduras,Copán Department,Corquiín,,,,2020-02-16,,,-2,,,
 HN,Honduras,Copán Department,Corquiín,,,,2020-02-20,,,12,,,
@@ -4826,6 +4859,8 @@ HN,Honduras,Copán Department,Corquiín,,,,2020-12-01,,,-8,,,
 HN,Honduras,Copán Department,Corquiín,,,,2020-12-02,,,-13,,,
 HN,Honduras,Copán Department,Corquiín,,,,2020-12-03,,,-11,,,
 HN,Honduras,Copán Department,Corquiín,,,,2020-12-04,,,-20,,,
+HN,Honduras,Copán Department,Corquiín,,,,2020-12-05,,,-19,,,
+HN,Honduras,Copán Department,Corquiín,,,,2020-12-06,,,-20,,,
 HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-02-15,,,-42,,,
 HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-02-22,,,-43,,,
 HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-02-29,,,-39,,,
@@ -5010,6 +5045,7 @@ HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-12-01,,,,,-18,
 HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-12-02,,,,,-20,
 HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-12-03,,,,,-13,
 HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-12-04,,,,,-18,
+HN,Honduras,Copán Department,Nueva Arcadia,,,,2020-12-05,,,-47,,-15,
 HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-02-15,7,,7,5,2,
 HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-02-16,6,,14,,,
 HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-02-17,-5,-3,,,13,
@@ -5279,6 +5315,8 @@ HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-12-01,-36,0,-42,,-16,
 HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-12-02,-34,3,-43,,-15,9
 HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-12-03,-33,0,-39,-28,-12,8
 HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-12-04,-34,-1,-36,-9,-11,9
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-12-05,-33,,-37,-27,-9,
+HN,Honduras,Copán Department,Santa Rosa de Copán,,,,2020-12-06,-37,,-25,,-18,
 HN,Honduras,Cortés Department,,,HN-CR,,2020-02-15,1,5,5,2,3,-1
 HN,Honduras,Cortés Department,,,HN-CR,,2020-02-16,1,10,17,2,1,-1
 HN,Honduras,Cortés Department,,,HN-CR,,2020-02-17,0,6,4,-1,10,-2
@@ -5573,6 +5611,8 @@ HN,Honduras,Cortés Department,,,HN-CR,,2020-12-01,-24,0,-28,-35,-24,7
 HN,Honduras,Cortés Department,,,HN-CR,,2020-12-02,-23,2,-23,-33,-21,7
 HN,Honduras,Cortés Department,,,HN-CR,,2020-12-03,-24,2,-24,-33,-21,7
 HN,Honduras,Cortés Department,,,HN-CR,,2020-12-04,-24,0,-23,-32,-20,7
+HN,Honduras,Cortés Department,,,HN-CR,,2020-12-05,-24,-2,-27,-31,-12,5
+HN,Honduras,Cortés Department,,,HN-CR,,2020-12-06,-20,-4,-13,-29,-2,2
 HN,Honduras,Cortés Department,Choloma,,,,2020-02-15,0,5,36,,4,-2
 HN,Honduras,Cortés Department,Choloma,,,,2020-02-16,8,18,26,,4,0
 HN,Honduras,Cortés Department,Choloma,,,,2020-02-17,0,10,12,,6,-1
@@ -5864,6 +5904,8 @@ HN,Honduras,Cortés Department,Choloma,,,,2020-12-01,-1,36,-27,,-21,7
 HN,Honduras,Cortés Department,Choloma,,,,2020-12-02,-2,27,-21,,-19,7
 HN,Honduras,Cortés Department,Choloma,,,,2020-12-03,-5,26,-36,,-16,6
 HN,Honduras,Cortés Department,Choloma,,,,2020-12-04,-10,21,-34,,-15,6
+HN,Honduras,Cortés Department,Choloma,,,,2020-12-05,-1,26,-22,,-11,4
+HN,Honduras,Cortés Department,Choloma,,,,2020-12-06,5,24,-20,,-5,2
 HN,Honduras,Cortés Department,La Lima,,,,2020-02-15,,4,1,,5,
 HN,Honduras,Cortés Department,La Lima,,,,2020-02-16,,,15,,,
 HN,Honduras,Cortés Department,La Lima,,,,2020-02-17,,,7,,8,-2
@@ -6133,6 +6175,8 @@ HN,Honduras,Cortés Department,La Lima,,,,2020-12-01,,,-56,,-26,-5
 HN,Honduras,Cortés Department,La Lima,,,,2020-12-02,,,-44,,-24,-9
 HN,Honduras,Cortés Department,La Lima,,,,2020-12-03,,,-33,,-22,-7
 HN,Honduras,Cortés Department,La Lima,,,,2020-12-04,,,-53,,-25,-6
+HN,Honduras,Cortés Department,La Lima,,,,2020-12-05,,,-60,,-15,-10
+HN,Honduras,Cortés Department,La Lima,,,,2020-12-06,,,-30,,22,
 HN,Honduras,Cortés Department,Omoa,,,,2020-06-08,,,,,-24,
 HN,Honduras,Cortés Department,Omoa,,,,2020-06-09,,,,,-28,
 HN,Honduras,Cortés Department,Omoa,,,,2020-06-10,,,,,-22,
@@ -6266,6 +6310,7 @@ HN,Honduras,Cortés Department,Omoa,,,,2020-12-01,,,,,-37,
 HN,Honduras,Cortés Department,Omoa,,,,2020-12-02,,,,,-31,
 HN,Honduras,Cortés Department,Omoa,,,,2020-12-03,,,,,-35,
 HN,Honduras,Cortés Department,Omoa,,,,2020-12-04,,,,,-31,
+HN,Honduras,Cortés Department,Omoa,,,,2020-12-05,,,,,-30,
 HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-02-15,8,6,10,-15,5,-2
 HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-02-16,12,,25,-4,13,
 HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-02-17,0,1,10,-12,11,-2
@@ -6538,6 +6583,8 @@ HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-12-01,-23,-7,-25,-20,-24,6
 HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-12-02,-20,-1,-24,-29,-23,6
 HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-12-03,-23,-4,-25,-13,-27,5
 HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-12-04,-26,-9,-26,-17,-18,3
+HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-12-05,-27,-19,-22,-19,-17,2
+HN,Honduras,Cortés Department,Puerto Cortés,,,,2020-12-06,-29,,-25,-34,-9,
 HN,Honduras,Cortés Department,San Manuel,,,,2020-02-17,,,,,7,
 HN,Honduras,Cortés Department,San Manuel,,,,2020-02-18,,,,,14,
 HN,Honduras,Cortés Department,San Manuel,,,,2020-02-19,,,,,6,
@@ -6785,6 +6832,8 @@ HN,Honduras,Cortés Department,San Manuel,,,,2020-12-01,,,,,-20,
 HN,Honduras,Cortés Department,San Manuel,,,,2020-12-02,,,,,-21,
 HN,Honduras,Cortés Department,San Manuel,,,,2020-12-03,,,,,-15,
 HN,Honduras,Cortés Department,San Manuel,,,,2020-12-04,,,,,-18,
+HN,Honduras,Cortés Department,San Manuel,,,,2020-12-05,,,,,-13,
+HN,Honduras,Cortés Department,San Manuel,,,,2020-12-06,,,,,5,
 HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-02-15,-1,5,5,3,3,0
 HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-02-16,-1,11,8,3,0,-1
 HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-02-17,0,6,4,-1,9,-2
@@ -7079,6 +7128,8 @@ HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-12-01,-21,2,-26,-39,-20,8
 HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-12-02,-21,5,-21,-35,-21,10
 HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-12-03,-23,3,-21,-37,-21,9
 HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-12-04,-21,6,-21,-37,-17,9
+HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-12-05,-24,3,-22,-35,-11,7
+HN,Honduras,Cortés Department,San Pedro Sula,,,,2020-12-06,-15,2,-8,-31,3,3
 HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-02-15,7,,,,,
 HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-02-16,11,,,,,
 HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-02-17,4,,,,,
@@ -7336,6 +7387,8 @@ HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-12-01,-22,,,,-21,
 HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-12-02,-21,,,,-16,
 HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-12-03,-28,,,,-28,
 HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-12-04,-25,,,,-19,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-12-05,-28,,-12,,-16,
+HN,Honduras,Cortés Department,Santa Cruz de Yojoa,,,,2020-12-06,-35,,,,-16,
 HN,Honduras,Cortés Department,Villanueva,,,,2020-02-15,5,9,8,,0,1
 HN,Honduras,Cortés Department,Villanueva,,,,2020-02-16,8,,,,0,
 HN,Honduras,Cortés Department,Villanueva,,,,2020-02-17,0,4,,,10,0
@@ -7624,6 +7677,8 @@ HN,Honduras,Cortés Department,Villanueva,,,,2020-12-01,-18,3,,,-26,7
 HN,Honduras,Cortés Department,Villanueva,,,,2020-12-02,-10,11,,,-23,6
 HN,Honduras,Cortés Department,Villanueva,,,,2020-12-03,-7,15,,,-24,7
 HN,Honduras,Cortés Department,Villanueva,,,,2020-12-04,-18,-7,,,-22,6
+HN,Honduras,Cortés Department,Villanueva,,,,2020-12-05,-6,1,27,,-16,3
+HN,Honduras,Cortés Department,Villanueva,,,,2020-12-06,-10,,,,-5,0
 HN,Honduras,El Paraíso Department,,,HN-EP,,2020-02-15,-6,3,0,,5,
 HN,Honduras,El Paraíso Department,,,HN-EP,,2020-02-16,,,6,,1,
 HN,Honduras,El Paraíso Department,,,HN-EP,,2020-02-17,,,3,,17,
@@ -7893,6 +7948,8 @@ HN,Honduras,El Paraíso Department,,,HN-EP,,2020-12-01,-19,,-8,,-16,
 HN,Honduras,El Paraíso Department,,,HN-EP,,2020-12-02,-16,,-13,,-13,
 HN,Honduras,El Paraíso Department,,,HN-EP,,2020-12-03,-17,,-5,,-15,
 HN,Honduras,El Paraíso Department,,,HN-EP,,2020-12-04,-15,13,-6,,-6,
+HN,Honduras,El Paraíso Department,,,HN-EP,,2020-12-05,-25,-1,-19,,-2,
+HN,Honduras,El Paraíso Department,,,HN-EP,,2020-12-06,,,-26,,-17,
 HN,Honduras,El Paraíso Department,Danlí,,,,2020-02-15,1,,-1,,9,
 HN,Honduras,El Paraíso Department,Danlí,,,,2020-02-16,11,,9,,,
 HN,Honduras,El Paraíso Department,Danlí,,,,2020-02-17,-3,0,0,,21,
@@ -8162,6 +8219,8 @@ HN,Honduras,El Paraíso Department,Danlí,,,,2020-12-01,-22,9,3,,-16,4
 HN,Honduras,El Paraíso Department,Danlí,,,,2020-12-02,,16,-5,,-13,7
 HN,Honduras,El Paraíso Department,Danlí,,,,2020-12-03,,15,12,,-14,8
 HN,Honduras,El Paraíso Department,Danlí,,,,2020-12-04,-22,19,3,,-5,6
+HN,Honduras,El Paraíso Department,Danlí,,,,2020-12-05,-26,,-7,,1,
+HN,Honduras,El Paraíso Department,Danlí,,,,2020-12-06,,,-13,,-16,
 HN,Honduras,El Paraíso Department,El Paraiso,,,,2020-06-08,,,,,-32,
 HN,Honduras,El Paraíso Department,El Paraiso,,,,2020-06-09,,,,,-29,
 HN,Honduras,El Paraíso Department,El Paraiso,,,,2020-06-10,,,,,-26,
@@ -8547,6 +8606,8 @@ HN,Honduras,El Paraíso Department,Texiguat,,,,2020-12-01,,,-30,,,
 HN,Honduras,El Paraíso Department,Texiguat,,,,2020-12-02,,,-32,,,
 HN,Honduras,El Paraíso Department,Texiguat,,,,2020-12-03,,,-30,,,
 HN,Honduras,El Paraíso Department,Texiguat,,,,2020-12-04,,,-31,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,2020-12-05,,,-37,,,
+HN,Honduras,El Paraíso Department,Texiguat,,,,2020-12-06,,,-37,,,
 HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-02-15,6,7,0,16,0,0
 HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-02-16,1,8,0,5,-3,1
 HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-02-17,-3,3,7,23,7,-2
@@ -8841,6 +8902,8 @@ HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-12-01,-32,-7,-25,-28,-33
 HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-12-02,-30,-6,-24,-20,-31,13
 HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-12-03,-32,-8,-26,-21,-32,13
 HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-12-04,-31,-7,-20,-19,-29,11
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-12-05,-29,-11,-22,-19,-16,8
+HN,Honduras,Francisco Morazán Department,,,HN-FM,,2020-12-06,-31,-18,-20,-19,-3,6
 HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-02-15,7,7,4,16,0,0
 HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-02-16,2,9,2,4,-3,1
 HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-02-17,-2,2,9,24,7,-2
@@ -9135,6 +9198,8 @@ HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-12-01,-32,-5,
 HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-12-02,-29,-4,-25,-19,-32,13
 HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-12-03,-31,-8,-29,-20,-33,13
 HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-12-04,-31,-8,-20,-19,-29,12
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-12-05,-29,-15,-24,-18,-13,8
+HN,Honduras,Francisco Morazán Department,Distrito Central,,,,2020-12-06,-30,-18,-22,-19,-2,5
 HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-02-16,,,-7,,,
 HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-02-18,,,,,5,
 HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-02-20,,,,,0,
@@ -9349,6 +9414,8 @@ HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-12-01,,,,,-47,
 HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-12-02,,,,,-44,
 HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-12-03,,,,,-41,
 HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-12-04,,,,,-35,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-12-05,,,,,-22,
+HN,Honduras,Francisco Morazán Department,Santa Lucía,,,,2020-12-06,,,-9,,,
 HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,2020-03-16,,,,,-42,
 HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,2020-03-17,,,,,-82,
 HN,Honduras,Francisco Morazán Department,Valle de Ángeles,,,,2020-03-18,,,,,-81,
@@ -9786,6 +9853,8 @@ HN,Honduras,Intibucá Department,,,HN-IN,,2020-12-01,,,-41,,-21,
 HN,Honduras,Intibucá Department,,,HN-IN,,2020-12-02,,,-36,,-21,
 HN,Honduras,Intibucá Department,,,HN-IN,,2020-12-03,,,-36,,-28,
 HN,Honduras,Intibucá Department,,,HN-IN,,2020-12-04,,,-42,,-20,
+HN,Honduras,Intibucá Department,,,HN-IN,,2020-12-05,,,-42,-56,-20,
+HN,Honduras,Intibucá Department,,,HN-IN,,2020-12-06,,,-46,,-24,
 HN,Honduras,Intibucá Department,Intibucá,,,,2020-02-15,,,-8,,,
 HN,Honduras,Intibucá Department,Intibucá,,,,2020-02-16,,,-9,,,
 HN,Honduras,Intibucá Department,Intibucá,,,,2020-02-17,,,-22,,,
@@ -10042,6 +10111,8 @@ HN,Honduras,Intibucá Department,Intibucá,,,,2020-12-01,,,-53,,-19,
 HN,Honduras,Intibucá Department,Intibucá,,,,2020-12-02,,,-49,,-17,
 HN,Honduras,Intibucá Department,Intibucá,,,,2020-12-03,,,-42,,-16,
 HN,Honduras,Intibucá Department,Intibucá,,,,2020-12-04,,,-55,-31,-14,
+HN,Honduras,Intibucá Department,Intibucá,,,,2020-12-05,,,-49,-39,-13,
+HN,Honduras,Intibucá Department,Intibucá,,,,2020-12-06,,,-52,-59,-29,
 HN,Honduras,La Paz Department,,,HN-LP,,2020-02-15,,,,-30,0,
 HN,Honduras,La Paz Department,,,HN-LP,,2020-02-17,,,,-22,20,
 HN,Honduras,La Paz Department,,,HN-LP,,2020-02-18,,,,-36,17,
@@ -10300,6 +10371,8 @@ HN,Honduras,La Paz Department,,,HN-LP,,2020-12-01,,,,-60,-25,
 HN,Honduras,La Paz Department,,,HN-LP,,2020-12-02,,,,-62,-27,
 HN,Honduras,La Paz Department,,,HN-LP,,2020-12-03,,,,-55,-27,
 HN,Honduras,La Paz Department,,,HN-LP,,2020-12-04,,,,-55,-27,
+HN,Honduras,La Paz Department,,,HN-LP,,2020-12-05,,,,-62,-20,
+HN,Honduras,La Paz Department,,,HN-LP,,2020-12-06,,,,-59,,
 HN,Honduras,La Paz Department,La Paz,,,,2020-03-31,,,,,-63,
 HN,Honduras,La Paz Department,La Paz,,,,2020-04-07,,,,,-66,
 HN,Honduras,La Paz Department,La Paz,,,,2020-06-08,,,,,-23,
@@ -10435,6 +10508,7 @@ HN,Honduras,La Paz Department,La Paz,,,,2020-12-01,,,,,-29,
 HN,Honduras,La Paz Department,La Paz,,,,2020-12-02,,,,,-25,
 HN,Honduras,La Paz Department,La Paz,,,,2020-12-03,,,,,-21,
 HN,Honduras,La Paz Department,La Paz,,,,2020-12-04,,,,,-20,
+HN,Honduras,La Paz Department,La Paz,,,,2020-12-05,,,,,-15,
 HN,Honduras,Lempira Department,,,HN-LE,,2020-02-15,,,7,,13,
 HN,Honduras,Lempira Department,,,HN-LE,,2020-02-17,,,,,15,
 HN,Honduras,Lempira Department,,,HN-LE,,2020-02-18,,,,,17,
@@ -10703,6 +10777,8 @@ HN,Honduras,Lempira Department,,,HN-LE,,2020-12-01,,,,,-32,
 HN,Honduras,Lempira Department,,,HN-LE,,2020-12-02,,,,,-27,
 HN,Honduras,Lempira Department,,,HN-LE,,2020-12-03,,,,,-35,
 HN,Honduras,Lempira Department,,,HN-LE,,2020-12-04,,,-33,,-27,
+HN,Honduras,Lempira Department,,,HN-LE,,2020-12-05,,,-30,,-25,
+HN,Honduras,Lempira Department,,,HN-LE,,2020-12-06,,,-27,,,
 HN,Honduras,Lempira Department,Gracias,,,,2020-02-15,,,18,,,
 HN,Honduras,Lempira Department,Gracias,,,,2020-02-16,,,5,,,
 HN,Honduras,Lempira Department,Gracias,,,,2020-02-17,,,-3,,,
@@ -10965,6 +11041,8 @@ HN,Honduras,Lempira Department,Gracias,,,,2020-12-01,,,-44,,-32,
 HN,Honduras,Lempira Department,Gracias,,,,2020-12-02,,,-49,,-31,
 HN,Honduras,Lempira Department,Gracias,,,,2020-12-03,,,-48,,-35,
 HN,Honduras,Lempira Department,Gracias,,,,2020-12-04,,,-57,,-30,
+HN,Honduras,Lempira Department,Gracias,,,,2020-12-05,,,-46,,-32,
+HN,Honduras,Lempira Department,Gracias,,,,2020-12-06,,,-40,,-36,
 HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-02-15,,,0,,0,
 HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-02-16,,,2,,,
 HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-02-17,,,-7,,18,
@@ -11234,6 +11312,8 @@ HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-12-01,,,-28,,-26,
 HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-12-02,,,-37,,-22,
 HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-12-03,,,-31,,-27,
 HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-12-04,,,-31,,-21,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-12-05,,,-30,,-21,
+HN,Honduras,Ocotepeque Department,,,HN-OC,,2020-12-06,,,-28,,-21,
 HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-02-15,,,3,,,
 HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-02-16,,,0,,,
 HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-02-17,,,-10,,,
@@ -11461,6 +11541,8 @@ HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-12-01,,,-31,,-24,
 HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-12-02,,,-39,,-18,
 HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-12-03,,,-37,,-14,
 HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-12-04,,,-27,,-15,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-12-05,,,-29,,-13,
+HN,Honduras,Ocotepeque Department,Ocotepeque,,,,2020-12-06,,,-32,,,
 HN,Honduras,Olancho Department,,,HN-OL,,2020-02-15,5,3,-6,,-1,
 HN,Honduras,Olancho Department,,,HN-OL,,2020-02-16,6,4,-1,,5,
 HN,Honduras,Olancho Department,,,HN-OL,,2020-02-17,-2,0,-2,,20,
@@ -11730,6 +11812,8 @@ HN,Honduras,Olancho Department,,,HN-OL,,2020-12-01,-25,-11,-29,,-26,4
 HN,Honduras,Olancho Department,,,HN-OL,,2020-12-02,-24,-11,-31,-45,-22,4
 HN,Honduras,Olancho Department,,,HN-OL,,2020-12-03,-25,-12,-35,-35,-23,5
 HN,Honduras,Olancho Department,,,HN-OL,,2020-12-04,-20,-9,-30,-42,-21,4
+HN,Honduras,Olancho Department,,,HN-OL,,2020-12-05,-22,-17,-30,-37,-17,
+HN,Honduras,Olancho Department,,,HN-OL,,2020-12-06,-30,,-32,,-24,
 HN,Honduras,Olancho Department,Catacamas,,,,2020-02-15,,8,4,,,
 HN,Honduras,Olancho Department,Catacamas,,,,2020-02-17,,-3,,,9,
 HN,Honduras,Olancho Department,Catacamas,,,,2020-02-18,,-4,,,11,
@@ -11996,6 +12080,8 @@ HN,Honduras,Olancho Department,Catacamas,,,,2020-12-01,,,,,-25,
 HN,Honduras,Olancho Department,Catacamas,,,,2020-12-02,,,,,-21,
 HN,Honduras,Olancho Department,Catacamas,,,,2020-12-03,,,,,-23,
 HN,Honduras,Olancho Department,Catacamas,,,,2020-12-04,,,-41,,-21,
+HN,Honduras,Olancho Department,Catacamas,,,,2020-12-05,,,-32,,-20,
+HN,Honduras,Olancho Department,Catacamas,,,,2020-12-06,,,-27,,-23,
 HN,Honduras,Olancho Department,Juticalpa,,,,2020-02-15,8,3,,1,0,
 HN,Honduras,Olancho Department,Juticalpa,,,,2020-02-16,7,,,,,
 HN,Honduras,Olancho Department,Juticalpa,,,,2020-02-17,3,2,,1,16,
@@ -12261,6 +12347,8 @@ HN,Honduras,Olancho Department,Juticalpa,,,,2020-12-01,-30,,,-41,-28,6
 HN,Honduras,Olancho Department,Juticalpa,,,,2020-12-02,-32,,,-40,-24,
 HN,Honduras,Olancho Department,Juticalpa,,,,2020-12-03,-31,,,-32,-23,
 HN,Honduras,Olancho Department,Juticalpa,,,,2020-12-04,-23,,,-41,-18,
+HN,Honduras,Olancho Department,Juticalpa,,,,2020-12-05,-23,,,-33,-11,
+HN,Honduras,Olancho Department,Juticalpa,,,,2020-12-06,-24,,,-59,-16,
 HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-02-15,-8,,-16,,1,
 HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-02-16,-11,,-10,,0,
 HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-02-17,,,-6,,11,
@@ -12530,6 +12618,8 @@ HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-12-01,-31,,-34,,-31,
 HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-12-02,-31,,-29,,-27,
 HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-12-03,-33,,-27,,-30,
 HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-12-04,-35,,-35,,-26,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-12-05,-35,,-33,,-22,
+HN,Honduras,Santa Bárbara Department,,,HN-SB,,2020-12-06,-38,,-30,,-20,
 HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-02-15,,,-15,,,
 HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-02-16,,,-5,,,
 HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-02-17,,,-7,,,
@@ -12799,6 +12889,8 @@ HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-12-01,,,-34,,-28,
 HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-12-02,,,-31,,,
 HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-12-03,,,-38,,-20,
 HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-12-04,,,-35,,-21,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-12-05,,,-37,,,
+HN,Honduras,Santa Bárbara Department,Quimistán,,,,2020-12-06,,,-36,,,
 HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-03-17,,,,,-49,
 HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-03-18,,,,,-55,
 HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-03-19,,,,,-63,
@@ -12998,6 +13090,7 @@ HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-12-01,,,,,-28,
 HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-12-02,,,,,-27,
 HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-12-03,,,,,-22,
 HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-12-04,,,,,-30,
+HN,Honduras,Santa Bárbara Department,Santa Bárbara,,,,2020-12-05,,,,,-21,
 HN,Honduras,Valle Department,,,HN-VA,,2020-02-15,,,-10,,0,
 HN,Honduras,Valle Department,,,HN-VA,,2020-02-16,,,-8,,,
 HN,Honduras,Valle Department,,,HN-VA,,2020-02-17,,,-2,,20,
@@ -13267,6 +13360,8 @@ HN,Honduras,Valle Department,,,HN-VA,,2020-12-01,,,-23,,-19,
 HN,Honduras,Valle Department,,,HN-VA,,2020-12-02,,,-27,,-24,
 HN,Honduras,Valle Department,,,HN-VA,,2020-12-03,,,-25,,-20,
 HN,Honduras,Valle Department,,,HN-VA,,2020-12-04,,,-24,,-18,
+HN,Honduras,Valle Department,,,HN-VA,,2020-12-05,,,-33,,-19,
+HN,Honduras,Valle Department,,,HN-VA,,2020-12-06,,,-34,,-12,
 HN,Honduras,Valle Department,Goascorán,,,,2020-02-15,,,-14,,,
 HN,Honduras,Valle Department,Goascorán,,,,2020-02-16,,,-18,,,
 HN,Honduras,Valle Department,Goascorán,,,,2020-02-17,,,-13,,,
@@ -13536,6 +13631,8 @@ HN,Honduras,Valle Department,Goascorán,,,,2020-12-01,,,-30,,,
 HN,Honduras,Valle Department,Goascorán,,,,2020-12-02,,,-31,,,
 HN,Honduras,Valle Department,Goascorán,,,,2020-12-03,,,-36,,,
 HN,Honduras,Valle Department,Goascorán,,,,2020-12-04,,,-27,,,
+HN,Honduras,Valle Department,Goascorán,,,,2020-12-05,,,-43,,,
+HN,Honduras,Valle Department,Goascorán,,,,2020-12-06,,,-43,,,
 HN,Honduras,Valle Department,Nacaome,,,,2020-02-15,,,-9,,,
 HN,Honduras,Valle Department,Nacaome,,,,2020-02-16,,,-7,,,
 HN,Honduras,Valle Department,Nacaome,,,,2020-02-19,,,-10,,,
@@ -13782,6 +13879,8 @@ HN,Honduras,Valle Department,Nacaome,,,,2020-12-01,,,,,-20,
 HN,Honduras,Valle Department,Nacaome,,,,2020-12-02,,,-41,,-21,
 HN,Honduras,Valle Department,Nacaome,,,,2020-12-03,,,-27,,-25,
 HN,Honduras,Valle Department,Nacaome,,,,2020-12-04,,,-31,,-20,
+HN,Honduras,Valle Department,Nacaome,,,,2020-12-05,,,-22,,-25,
+HN,Honduras,Valle Department,Nacaome,,,,2020-12-06,,,-32,,,
 HN,Honduras,Valle Department,San Lorenzo,,,,2020-02-22,,,-17,,,
 HN,Honduras,Valle Department,San Lorenzo,,,,2020-03-15,,,-31,,,
 HN,Honduras,Valle Department,San Lorenzo,,,,2020-03-18,,,,,-47,
@@ -13959,6 +14058,8 @@ HN,Honduras,Valle Department,San Lorenzo,,,,2020-12-01,,,,,-21,
 HN,Honduras,Valle Department,San Lorenzo,,,,2020-12-02,,,,,-16,
 HN,Honduras,Valle Department,San Lorenzo,,,,2020-12-03,,,,,-12,
 HN,Honduras,Valle Department,San Lorenzo,,,,2020-12-04,,,,,-15,
+HN,Honduras,Valle Department,San Lorenzo,,,,2020-12-05,,,-30,,2,
+HN,Honduras,Valle Department,San Lorenzo,,,,2020-12-06,,,-22,,,
 HN,Honduras,Yoro Department,,,HN-YO,,2020-02-15,6,1,6,-1,-2,0
 HN,Honduras,Yoro Department,,,HN-YO,,2020-02-16,10,4,3,15,0,
 HN,Honduras,Yoro Department,,,HN-YO,,2020-02-17,-2,-3,-6,-1,14,-2
@@ -14249,6 +14350,8 @@ HN,Honduras,Yoro Department,,,HN-YO,,2020-12-01,-17,-10,-39,-39,-29,6
 HN,Honduras,Yoro Department,,,HN-YO,,2020-12-02,-10,3,-30,-26,-25,5
 HN,Honduras,Yoro Department,,,HN-YO,,2020-12-03,-9,-2,-32,-26,-24,3
 HN,Honduras,Yoro Department,,,HN-YO,,2020-12-04,-12,-5,-31,-31,-22,4
+HN,Honduras,Yoro Department,,,HN-YO,,2020-12-05,-16,-14,-28,-30,-19,4
+HN,Honduras,Yoro Department,,,HN-YO,,2020-12-06,-14,-14,-23,-25,-13,2
 HN,Honduras,Yoro Department,El Progreso,,,,2020-02-15,7,3,8,6,-3,-1
 HN,Honduras,Yoro Department,El Progreso,,,,2020-02-16,13,8,14,31,-1,
 HN,Honduras,Yoro Department,El Progreso,,,,2020-02-17,0,0,-1,12,6,-1
@@ -14540,6 +14643,8 @@ HN,Honduras,Yoro Department,El Progreso,,,,2020-12-01,-12,-3,-35,-46,-25,8
 HN,Honduras,Yoro Department,El Progreso,,,,2020-12-02,-7,7,-26,-39,-22,7
 HN,Honduras,Yoro Department,El Progreso,,,,2020-12-03,-6,-2,-31,-41,-23,5
 HN,Honduras,Yoro Department,El Progreso,,,,2020-12-04,-10,3,-30,-41,-20,6
+HN,Honduras,Yoro Department,El Progreso,,,,2020-12-05,-13,-12,-25,-44,-15,4
+HN,Honduras,Yoro Department,El Progreso,,,,2020-12-06,-8,-9,-8,-27,-2,1
 HN,Honduras,Yoro Department,Olanchito,,,,2020-02-15,,,,-10,,
 HN,Honduras,Yoro Department,Olanchito,,,,2020-02-17,,,,-4,,
 HN,Honduras,Yoro Department,Olanchito,,,,2020-02-18,,,,-3,,
@@ -14795,6 +14900,8 @@ HN,Honduras,Yoro Department,Olanchito,,,,2020-12-01,,,,-8,-30,
 HN,Honduras,Yoro Department,Olanchito,,,,2020-12-02,,,,6,-33,
 HN,Honduras,Yoro Department,Olanchito,,,,2020-12-03,,,,14,-22,
 HN,Honduras,Yoro Department,Olanchito,,,,2020-12-04,,,,9,-21,
+HN,Honduras,Yoro Department,Olanchito,,,,2020-12-05,,,,-1,-21,
+HN,Honduras,Yoro Department,Olanchito,,,,2020-12-06,,,,,-21,
 HN,Honduras,Yoro Department,Yoro,,,,2020-06-08,,,,,-20,
 HN,Honduras,Yoro Department,Yoro,,,,2020-06-09,,,,,-23,
 HN,Honduras,Yoro Department,Yoro,,,,2020-06-10,,,,,-23,
@@ -14927,3 +15034,4 @@ HN,Honduras,Yoro Department,Yoro,,,,2020-12-01,,,,,-37,
 HN,Honduras,Yoro Department,Yoro,,,,2020-12-02,,,,,-35,
 HN,Honduras,Yoro Department,Yoro,,,,2020-12-03,,,,,-29,
 HN,Honduras,Yoro Department,Yoro,,,,2020-12-04,,,,,-28,
+HN,Honduras,Yoro Department,Yoro,,,,2020-12-05,,,,,-28,

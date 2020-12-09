@@ -293,6 +293,8 @@ TG,Togo,,,,,,2020-12-01,-2,36,43,-4,5,8
 TG,Togo,,,,,,2020-12-02,-2,36,45,4,5,9
 TG,Togo,,,,,,2020-12-03,-1,41,37,11,3,9
 TG,Togo,,,,,,2020-12-04,1,35,43,6,8,8
+TG,Togo,,,,,,2020-12-05,3,31,57,7,9,7
+TG,Togo,,,,,,2020-12-06,1,16,38,-1,1,9
 TG,Togo,Centrale Region,,,TG-C,,2020-10-01,,,,,-45,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-05,,,,,-48,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-06,,,,,-44,
@@ -499,6 +501,8 @@ TG,Togo,Kara Region,,,TG-K,,2020-12-01,,,,,-23,
 TG,Togo,Kara Region,,,TG-K,,2020-12-02,,,,,-23,
 TG,Togo,Kara Region,,,TG-K,,2020-12-03,,,,,-29,
 TG,Togo,Kara Region,,,TG-K,,2020-12-04,,,-43,,-19,
+TG,Togo,Kara Region,,,TG-K,,2020-12-05,,,,,-17,
+TG,Togo,Kara Region,,,TG-K,,2020-12-06,,,-43,,,
 TG,Togo,Maritime Region,,,TG-M,,2020-02-15,-3,0,-11,-2,2,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-16,-4,-2,-12,-7,-1,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-17,-7,2,-9,-8,0,1
@@ -793,6 +797,8 @@ TG,Togo,Maritime Region,,,TG-M,,2020-12-01,-3,36,92,-7,3,9
 TG,Togo,Maritime Region,,,TG-M,,2020-12-02,-2,36,87,-2,7,10
 TG,Togo,Maritime Region,,,TG-M,,2020-12-03,-2,40,78,7,7,10
 TG,Togo,Maritime Region,,,TG-M,,2020-12-04,-1,35,78,3,9,8
+TG,Togo,Maritime Region,,,TG-M,,2020-12-05,3,30,99,4,10,8
+TG,Togo,Maritime Region,,,TG-M,,2020-12-06,0,16,68,-3,2,9
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-15,,,,,2,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-17,,,,,0,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-18,,,,,2,
@@ -1000,4 +1006,5 @@ TG,Togo,Plateaux Region,,,TG-P,,2020-12-01,,,,,-3,
 TG,Togo,Plateaux Region,,,TG-P,,2020-12-02,,,,,-10,
 TG,Togo,Plateaux Region,,,TG-P,,2020-12-03,,,,,-2,
 TG,Togo,Plateaux Region,,,TG-P,,2020-12-04,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-05,,,,,-3,
 TG,Togo,Savanes Region,,,TG-S,,2020-07-31,,,,,-50,

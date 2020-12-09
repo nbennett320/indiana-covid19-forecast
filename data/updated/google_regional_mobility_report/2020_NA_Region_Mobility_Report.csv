@@ -293,6 +293,8 @@ NA,Namibia,,,,,,2020-12-01,3,20,-12,-18,-5,0
 NA,Namibia,,,,,,2020-12-02,3,15,-14,-20,-1,0
 NA,Namibia,,,,,,2020-12-03,0,15,-11,-13,-3,0
 NA,Namibia,,,,,,2020-12-04,2,16,-14,-11,-1,-2
+NA,Namibia,,,,,,2020-12-05,8,14,-4,-12,3,-2
+NA,Namibia,,,,,,2020-12-06,-6,4,-11,-35,-6,-1
 NA,Namibia,Erongo Region,,,NA-ER,,2020-02-15,-19,-17,1,,-1,
 NA,Namibia,Erongo Region,,,NA-ER,,2020-02-16,-17,-16,-7,,-2,
 NA,Namibia,Erongo Region,,,NA-ER,,2020-02-17,-15,-13,-4,,0,1
@@ -581,6 +583,8 @@ NA,Namibia,Erongo Region,,,NA-ER,,2020-12-01,3,10,-27,,-10,-3
 NA,Namibia,Erongo Region,,,NA-ER,,2020-12-02,2,9,-27,,-6,-2
 NA,Namibia,Erongo Region,,,NA-ER,,2020-12-03,6,11,-25,,-8,-2
 NA,Namibia,Erongo Region,,,NA-ER,,2020-12-04,-6,9,-29,,-10,-4
+NA,Namibia,Erongo Region,,,NA-ER,,2020-12-05,-1,-4,-21,,-8,-3
+NA,Namibia,Erongo Region,,,NA-ER,,2020-12-06,0,-8,-24,,-17,
 NA,Namibia,Hardap Region,,,NA-HA,,2020-02-17,,,,,9,
 NA,Namibia,Hardap Region,,,NA-HA,,2020-02-18,,,,,8,
 NA,Namibia,Hardap Region,,,NA-HA,,2020-02-19,,,,,9,
@@ -996,6 +1000,7 @@ NA,Namibia,Karas Region,,,NA-KA,,2020-12-01,,,,,-11,
 NA,Namibia,Karas Region,,,NA-KA,,2020-12-02,,,,,-8,
 NA,Namibia,Karas Region,,,NA-KA,,2020-12-03,,,,,-11,
 NA,Namibia,Karas Region,,,NA-KA,,2020-12-04,,,-46,,-9,
+NA,Namibia,Karas Region,,,NA-KA,,2020-12-05,,,,,-5,
 NA,Namibia,Kavango Region,,,NA-OK,,2020-02-17,,,,,10,
 NA,Namibia,Kavango Region,,,NA-OK,,2020-02-18,,,,,14,
 NA,Namibia,Kavango Region,,,NA-OK,,2020-02-19,,,,,10,
@@ -1478,6 +1483,8 @@ NA,Namibia,Khomas Region,,,NA-KH,,2020-12-01,2,23,12,-20,-5,3
 NA,Namibia,Khomas Region,,,NA-KH,,2020-12-02,9,22,20,-26,-3,3
 NA,Namibia,Khomas Region,,,NA-KH,,2020-12-03,6,23,1,-20,-4,3
 NA,Namibia,Khomas Region,,,NA-KH,,2020-12-04,9,26,14,-13,-1,0
+NA,Namibia,Khomas Region,,,NA-KH,,2020-12-05,7,25,30,-14,3,-1
+NA,Namibia,Khomas Region,,,NA-KH,,2020-12-06,-3,12,,-35,-1,1
 NA,Namibia,Ohangwena Region,,,NA-OW,,2020-04-08,,,,,-56,
 NA,Namibia,Ohangwena Region,,,NA-OW,,2020-04-13,,,,,-70,
 NA,Namibia,Ohangwena Region,,,NA-OW,,2020-04-15,,,,,-50,
@@ -1731,6 +1738,7 @@ NA,Namibia,Oshana Region,,,NA-ON,,2020-12-01,,21,,,-2,
 NA,Namibia,Oshana Region,,,NA-ON,,2020-12-02,,29,,,-3,
 NA,Namibia,Oshana Region,,,NA-ON,,2020-12-03,,29,,,-2,
 NA,Namibia,Oshana Region,,,NA-ON,,2020-12-04,,14,,,-1,
+NA,Namibia,Oshana Region,,,NA-ON,,2020-12-05,,15,,,3,
 NA,Namibia,Oshikoto Region,,,NA-OT,,2020-02-17,,,,,1,
 NA,Namibia,Oshikoto Region,,,NA-OT,,2020-02-18,,,,,2,
 NA,Namibia,Oshikoto Region,,,NA-OT,,2020-02-19,,,,,-5,
@@ -2152,4 +2160,5 @@ NA,Namibia,Otjozondjupa Region,,,NA-OD,,2020-12-01,,,,,-1,
 NA,Namibia,Otjozondjupa Region,,,NA-OD,,2020-12-02,,,,,1,
 NA,Namibia,Otjozondjupa Region,,,NA-OD,,2020-12-03,,,,,-1,
 NA,Namibia,Otjozondjupa Region,,,NA-OD,,2020-12-04,,,,,8,
+NA,Namibia,Otjozondjupa Region,,,NA-OD,,2020-12-05,,,,,8,
 NA,Namibia,Zambezi Region,,,NA-CA,,2020-04-13,,,,,-59,

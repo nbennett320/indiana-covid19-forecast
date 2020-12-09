@@ -293,6 +293,8 @@ BZ,Belize,,,,,,2020-12-01,-12,3,-4,-42,-36,12
 BZ,Belize,,,,,,2020-12-02,-22,-7,-17,-49,-35,14
 BZ,Belize,,,,,,2020-12-03,-15,3,-5,-42,-35,14
 BZ,Belize,,,,,,2020-12-04,-17,-12,-7,-43,-31,14
+BZ,Belize,,,,,,2020-12-05,-20,6,3,-40,-17,8
+BZ,Belize,,,,,,2020-12-06,-29,-1,-13,-45,-25,8
 BZ,Belize,Belize District,,,BZ-BZ,,2020-02-15,7,10,25,13,5,
 BZ,Belize,Belize District,,,BZ-BZ,,2020-02-16,6,6,21,12,2,
 BZ,Belize,Belize District,,,BZ-BZ,,2020-02-17,1,-1,12,4,2,0
@@ -581,6 +583,8 @@ BZ,Belize,Belize District,,,BZ-BZ,,2020-12-01,-6,2,-23,-41,-32,14
 BZ,Belize,Belize District,,,BZ-BZ,,2020-12-02,-25,-14,-48,-49,-33,16
 BZ,Belize,Belize District,,,BZ-BZ,,2020-12-03,-12,5,-25,-42,-30,15
 BZ,Belize,Belize District,,,BZ-BZ,,2020-12-04,-12,-1,-37,-41,-27,15
+BZ,Belize,Belize District,,,BZ-BZ,,2020-12-05,2,11,-8,-40,-8,7
+BZ,Belize,Belize District,,,BZ-BZ,,2020-12-06,-16,9,-44,-47,-20,
 BZ,Belize,Cayo District,,,BZ-CY,,2020-02-15,13,9,5,,3,
 BZ,Belize,Cayo District,,,BZ-CY,,2020-02-16,,,7,,1,
 BZ,Belize,Cayo District,,,BZ-CY,,2020-02-17,4,6,2,0,-2,1
@@ -850,6 +854,8 @@ BZ,Belize,Cayo District,,,BZ-CY,,2020-12-01,-5,4,5,-58,-36,13
 BZ,Belize,Cayo District,,,BZ-CY,,2020-12-02,-10,,3,-55,-34,13
 BZ,Belize,Cayo District,,,BZ-CY,,2020-12-03,-4,1,12,-48,-33,13
 BZ,Belize,Cayo District,,,BZ-CY,,2020-12-04,-8,3,10,-56,-31,14
+BZ,Belize,Cayo District,,,BZ-CY,,2020-12-05,4,11,11,-48,-13,
+BZ,Belize,Cayo District,,,BZ-CY,,2020-12-06,-18,,5,-57,-22,
 BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-15,2,,,,2,
 BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-16,0,,,,-4,
 BZ,Belize,Corozal District,,,BZ-CZL,,2020-02-17,,,,,6,
@@ -1119,6 +1125,8 @@ BZ,Belize,Corozal District,,,BZ-CZL,,2020-12-01,,,,,-39,
 BZ,Belize,Corozal District,,,BZ-CZL,,2020-12-02,-45,,,,-43,
 BZ,Belize,Corozal District,,,BZ-CZL,,2020-12-03,,,,,-43,
 BZ,Belize,Corozal District,,,BZ-CZL,,2020-12-04,-40,,,,-37,
+BZ,Belize,Corozal District,,,BZ-CZL,,2020-12-05,-45,,,,-32,
+BZ,Belize,Corozal District,,,BZ-CZL,,2020-12-06,-60,,,,-45,
 BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-15,,,,,7,
 BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-17,,,,,0,
 BZ,Belize,Orange Walk District,,,BZ-OW,,2020-02-18,,,,,0,
@@ -1351,6 +1359,7 @@ BZ,Belize,Orange Walk District,,,BZ-OW,,2020-12-01,,,,,-39,
 BZ,Belize,Orange Walk District,,,BZ-OW,,2020-12-02,,,,,-34,
 BZ,Belize,Orange Walk District,,,BZ-OW,,2020-12-03,,,,,-39,
 BZ,Belize,Orange Walk District,,,BZ-OW,,2020-12-04,,,,,-35,
+BZ,Belize,Orange Walk District,,,BZ-OW,,2020-12-05,,,,,-18,
 BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-17,,,,,3,
 BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-18,,,,,9,
 BZ,Belize,Stann Creek District,,,BZ-SC,,2020-02-19,,,,,7,
@@ -1564,3 +1573,4 @@ BZ,Belize,Stann Creek District,,,BZ-SC,,2020-12-01,,,,,-40,
 BZ,Belize,Stann Creek District,,,BZ-SC,,2020-12-02,,,,,-39,
 BZ,Belize,Stann Creek District,,,BZ-SC,,2020-12-03,,,,,-40,
 BZ,Belize,Stann Creek District,,,BZ-SC,,2020-12-04,,,,,-36,
+BZ,Belize,Stann Creek District,,,BZ-SC,,2020-12-05,,,,,-24,
