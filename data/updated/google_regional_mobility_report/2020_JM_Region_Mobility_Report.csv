@@ -295,6 +295,7 @@ JM,Jamaica,,,,,,2020-12-03,-25,-13,-32,-20,-28,12
 JM,Jamaica,,,,,,2020-12-04,-24,-7,-30,-19,-23,11
 JM,Jamaica,,,,,,2020-12-05,-21,-6,-22,-17,-9,5
 JM,Jamaica,,,,,,2020-12-06,-25,-10,-32,-28,-5,3
+JM,Jamaica,,,,,,2020-12-07,-22,-15,-31,-24,-26,10
 JM,Jamaica,Clarendon,,,JM-13,,2020-02-15,-3,-3,1,,6,
 JM,Jamaica,Clarendon,,,JM-13,,2020-02-16,-1,,8,,6,
 JM,Jamaica,Clarendon,,,JM-13,,2020-02-17,-4,-3,,,7,2
@@ -583,6 +584,7 @@ JM,Jamaica,Clarendon,,,JM-13,,2020-12-03,-16,6,-33,,-29,7
 JM,Jamaica,Clarendon,,,JM-13,,2020-12-04,-19,3,-31,,-27,5
 JM,Jamaica,Clarendon,,,JM-13,,2020-12-05,-11,5,-18,,-5,0
 JM,Jamaica,Clarendon,,,JM-13,,2020-12-06,-1,,-17,,0,
+JM,Jamaica,Clarendon,,,JM-13,,2020-12-07,-12,8,-24,,-27,6
 JM,Jamaica,Hanover Parish,,,JM-09,,2020-02-15,,,,,6,
 JM,Jamaica,Hanover Parish,,,JM-09,,2020-02-16,,,,,8,
 JM,Jamaica,Hanover Parish,,,JM-09,,2020-02-17,,,,,4,
@@ -854,6 +856,7 @@ JM,Jamaica,Hanover Parish,,,JM-09,,2020-12-03,,,,,-36,
 JM,Jamaica,Hanover Parish,,,JM-09,,2020-12-04,,,,,-33,
 JM,Jamaica,Hanover Parish,,,JM-09,,2020-12-05,,,,,-28,
 JM,Jamaica,Hanover Parish,,,JM-09,,2020-12-06,,,,,-24,
+JM,Jamaica,Hanover Parish,,,JM-09,,2020-12-07,,,,,-34,
 JM,Jamaica,Kingston Parish,,,JM-01,,2020-02-15,,-1,-6,-22,,
 JM,Jamaica,Kingston Parish,,,JM-01,,2020-02-16,,,-3,-6,,
 JM,Jamaica,Kingston Parish,,,JM-01,,2020-02-17,,0,8,-14,5,
@@ -1125,6 +1128,7 @@ JM,Jamaica,Kingston Parish,,,JM-01,,2020-12-03,,-30,-3,-41,-18,
 JM,Jamaica,Kingston Parish,,,JM-01,,2020-12-04,,-34,-4,-44,-15,
 JM,Jamaica,Kingston Parish,,,JM-01,,2020-12-05,,-21,22,-40,,
 JM,Jamaica,Kingston Parish,,,JM-01,,2020-12-06,,,-14,-49,,
+JM,Jamaica,Kingston Parish,,,JM-01,,2020-12-07,,-34,5,-48,-15,
 JM,Jamaica,Manchester Parish,,,JM-12,,2020-02-15,-5,-7,-2,,3,
 JM,Jamaica,Manchester Parish,,,JM-12,,2020-02-16,-4,,0,,5,
 JM,Jamaica,Manchester Parish,,,JM-12,,2020-02-17,-6,0,-8,,3,0
@@ -1414,6 +1418,7 @@ JM,Jamaica,Manchester Parish,,,JM-12,,2020-12-03,-13,-9,-53,,-24,4
 JM,Jamaica,Manchester Parish,,,JM-12,,2020-12-04,-15,-9,-54,,-19,3
 JM,Jamaica,Manchester Parish,,,JM-12,,2020-12-05,-11,-9,-49,,-7,-1
 JM,Jamaica,Manchester Parish,,,JM-12,,2020-12-06,-13,,-46,,-5,
+JM,Jamaica,Manchester Parish,,,JM-12,,2020-12-07,-12,-5,-54,,-23,2
 JM,Jamaica,Portland Parish,,,JM-04,,2020-02-15,,,1,,1,
 JM,Jamaica,Portland Parish,,,JM-04,,2020-02-16,,,-9,,,
 JM,Jamaica,Portland Parish,,,JM-04,,2020-02-17,,,0,,5,
@@ -1685,6 +1690,7 @@ JM,Jamaica,Portland Parish,,,JM-04,,2020-12-03,,,-43,,-27,
 JM,Jamaica,Portland Parish,,,JM-04,,2020-12-04,,,-44,,-21,
 JM,Jamaica,Portland Parish,,,JM-04,,2020-12-05,,,-38,,-3,
 JM,Jamaica,Portland Parish,,,JM-04,,2020-12-06,,,-33,,,
+JM,Jamaica,Portland Parish,,,JM-04,,2020-12-07,,,-38,,-23,
 JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-02-15,2,3,-17,3,2,1
 JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-02-16,7,-2,158,8,3,0
 JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-02-17,-3,-1,-29,1,2,1
@@ -1981,6 +1987,7 @@ JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-12-03,-23,-11,-44,-17,-28,14
 JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-12-04,-22,-8,-38,-10,-25,13
 JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-12-05,-19,-3,-23,-13,-8,7
 JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-12-06,-22,-6,-20,-21,-4,5
+JM,Jamaica,St. Andrew Parish,,,JM-02,,2020-12-07,-20,-12,-43,-16,-26,12
 JM,Jamaica,St. Ann Parish,,,JM-06,,2020-02-15,-8,-3,0,3,4,1
 JM,Jamaica,St. Ann Parish,,,JM-06,,2020-02-16,-7,-9,2,,2,
 JM,Jamaica,St. Ann Parish,,,JM-06,,2020-02-17,1,-1,5,-6,4,1
@@ -2271,6 +2278,7 @@ JM,Jamaica,St. Ann Parish,,,JM-06,,2020-12-03,-32,-30,-46,-10,-30,8
 JM,Jamaica,St. Ann Parish,,,JM-06,,2020-12-04,-27,-28,-37,0,-26,8
 JM,Jamaica,St. Ann Parish,,,JM-06,,2020-12-05,-34,-26,-43,11,-18,4
 JM,Jamaica,St. Ann Parish,,,JM-06,,2020-12-06,-36,-35,-50,-43,-20,1
+JM,Jamaica,St. Ann Parish,,,JM-06,,2020-12-07,-27,-29,-42,-30,-29,6
 JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-02-15,-2,0,3,-1,3,1
 JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-02-16,-2,-1,4,-4,3,0
 JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-02-17,-8,-4,0,-1,3,1
@@ -2567,6 +2575,7 @@ JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-12-03,-19,-4,32,-17,-24,13
 JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-12-04,-21,-7,26,-16,-23,12
 JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-12-05,-14,-2,14,-18,-1,5
 JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-12-06,-18,-5,-7,-28,-2,3
+JM,Jamaica,St. Catherine Parish,,,JM-14,,2020-12-07,-18,-8,29,-22,-24,10
 JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-02-15,-7,2,,,7,
 JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-02-16,,,,,5,
 JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-02-17,,2,,,3,
@@ -2838,6 +2847,7 @@ JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-12-03,,,,,-27,
 JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-12-04,-32,-14,,,-25,
 JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-12-05,-22,,,,-10,
 JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-12-06,,,,,-14,
+JM,Jamaica,St. Elizabeth Parish,,,JM-11,,2020-12-07,,,,,-26,
 JM,Jamaica,St. James Parish,,,JM-08,,2020-02-15,1,0,2,2,4,0
 JM,Jamaica,St. James Parish,,,JM-08,,2020-02-16,-3,0,-19,2,1,
 JM,Jamaica,St. James Parish,,,JM-08,,2020-02-17,-3,2,-16,3,1,2
@@ -3131,6 +3141,7 @@ JM,Jamaica,St. James Parish,,,JM-08,,2020-12-03,-24,-11,,-34,-33,15
 JM,Jamaica,St. James Parish,,,JM-08,,2020-12-04,-24,-9,0,-35,-29,14
 JM,Jamaica,St. James Parish,,,JM-08,,2020-12-05,-17,-10,4,-35,-19,7
 JM,Jamaica,St. James Parish,,,JM-08,,2020-12-06,-27,-13,-25,-46,-21,6
+JM,Jamaica,St. James Parish,,,JM-08,,2020-12-07,-20,-12,-12,-37,-32,13
 JM,Jamaica,St. Mary Parish,,,JM-05,,2020-02-15,,,,,4,
 JM,Jamaica,St. Mary Parish,,,JM-05,,2020-02-16,,,,,3,
 JM,Jamaica,St. Mary Parish,,,JM-05,,2020-02-17,,,,,5,
@@ -3402,6 +3413,7 @@ JM,Jamaica,St. Mary Parish,,,JM-05,,2020-12-03,,,,,-30,
 JM,Jamaica,St. Mary Parish,,,JM-05,,2020-12-04,,,,,-25,
 JM,Jamaica,St. Mary Parish,,,JM-05,,2020-12-05,,,,,-12,
 JM,Jamaica,St. Mary Parish,,,JM-05,,2020-12-06,,,,,-7,
+JM,Jamaica,St. Mary Parish,,,JM-05,,2020-12-07,,,,,-29,5
 JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-02-15,,,,,8,
 JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-02-16,,,,,2,
 JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-02-17,,,,,3,
@@ -3673,6 +3685,7 @@ JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-12-03,,,,,-32,
 JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-12-04,,,,,-24,
 JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-12-05,,,,,-10,
 JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-12-06,,,,,0,
+JM,Jamaica,St. Thomas Parish,,,JM-03,,2020-12-07,,,,,-27,
 JM,Jamaica,Trelawny Parish,,,JM-07,,2020-02-15,1,,,,10,
 JM,Jamaica,Trelawny Parish,,,JM-07,,2020-02-16,0,,,,4,
 JM,Jamaica,Trelawny Parish,,,JM-07,,2020-02-17,-2,,,,5,
@@ -3944,6 +3957,7 @@ JM,Jamaica,Trelawny Parish,,,JM-07,,2020-12-03,-73,,-72,,-34,
 JM,Jamaica,Trelawny Parish,,,JM-07,,2020-12-04,-71,,-72,,-22,
 JM,Jamaica,Trelawny Parish,,,JM-07,,2020-12-05,-65,,-66,,-12,
 JM,Jamaica,Trelawny Parish,,,JM-07,,2020-12-06,-73,,-66,,-24,
+JM,Jamaica,Trelawny Parish,,,JM-07,,2020-12-07,-68,,,,-32,
 JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-02-15,,,,,7,
 JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-02-16,,,,,3,
 JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-02-17,6,,,,5,2
@@ -4215,3 +4229,4 @@ JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-12-03,-28,,,,-32,6
 JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-12-04,-35,,,,-29,7
 JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-12-05,-18,,,,-19,
 JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-12-06,,,,,-24,
+JM,Jamaica,Westmoreland Parish,,,JM-10,,2020-12-07,-25,,,,-32,8
