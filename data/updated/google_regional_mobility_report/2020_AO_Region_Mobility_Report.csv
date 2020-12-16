@@ -296,6 +296,10 @@ AO,Angola,,,,,,2020-12-04,-2,14,26,-4,-9,6
 AO,Angola,,,,,,2020-12-05,-2,12,29,6,-1,1
 AO,Angola,,,,,,2020-12-06,-13,-1,5,-15,-6,3
 AO,Angola,,,,,,2020-12-07,-2,7,30,-1,-12,4
+AO,Angola,,,,,,2020-12-08,-2,12,25,-1,-7,4
+AO,Angola,,,,,,2020-12-09,-4,5,27,-6,-9,5
+AO,Angola,,,,,,2020-12-10,-4,12,48,9,-9,5
+AO,Angola,,,,,,2020-12-11,-8,5,30,2,-11,8
 AO,Angola,Benguela Province,,,AO-BGU,,2020-02-15,,,,,3,
 AO,Angola,Benguela Province,,,AO-BGU,,2020-02-17,,,,,7,
 AO,Angola,Benguela Province,,,AO-BGU,,2020-02-18,,,,,7,
@@ -540,6 +544,10 @@ AO,Angola,Benguela Province,,,AO-BGU,,2020-12-03,,,,,1,
 AO,Angola,Benguela Province,,,AO-BGU,,2020-12-04,,,,,0,
 AO,Angola,Benguela Province,,,AO-BGU,,2020-12-05,,,,,-11,
 AO,Angola,Benguela Province,,,AO-BGU,,2020-12-07,,,,,-7,
+AO,Angola,Benguela Province,,,AO-BGU,,2020-12-08,,,,,2,
+AO,Angola,Benguela Province,,,AO-BGU,,2020-12-09,,,,,-3,
+AO,Angola,Benguela Province,,,AO-BGU,,2020-12-10,,,,,1,
+AO,Angola,Benguela Province,,,AO-BGU,,2020-12-11,,,,,-1,
 AO,Angola,Cabinda Province,,,AO-CAB,,2020-02-17,,,,,2,
 AO,Angola,Cabinda Province,,,AO-CAB,,2020-02-18,,,,,4,
 AO,Angola,Cabinda Province,,,AO-CAB,,2020-02-19,,,,,-2,
@@ -720,6 +728,10 @@ AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-02,,,,,-7,
 AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-03,,,,,-8,
 AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-04,,,,,-8,
 AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-07,,,,,-10,
+AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-08,,,,,-3,
+AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-09,,,,,-8,
+AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-10,,,,,-2,
+AO,Angola,Cabinda Province,,,AO-CAB,,2020-12-11,,,,,-10,
 AO,Angola,Huambo Province,,,AO-HUA,,2020-02-17,,,,,10,
 AO,Angola,Huambo Province,,,AO-HUA,,2020-02-18,,,,,4,
 AO,Angola,Huambo Province,,,AO-HUA,,2020-02-19,,,,,-4,
@@ -912,6 +924,10 @@ AO,Angola,Huambo Province,,,AO-HUA,,2020-12-02,,,,,14,
 AO,Angola,Huambo Province,,,AO-HUA,,2020-12-03,,,,,28,
 AO,Angola,Huambo Province,,,AO-HUA,,2020-12-04,,,,,15,
 AO,Angola,Huambo Province,,,AO-HUA,,2020-12-07,,,,,16,
+AO,Angola,Huambo Province,,,AO-HUA,,2020-12-08,,,,,10,
+AO,Angola,Huambo Province,,,AO-HUA,,2020-12-09,,,,,12,
+AO,Angola,Huambo Province,,,AO-HUA,,2020-12-10,,,,,12,
+AO,Angola,Huambo Province,,,AO-HUA,,2020-12-11,,,,,9,
 AO,Angola,Huila Province,,,AO-HUI,,2020-02-17,,,,,7,
 AO,Angola,Huila Province,,,AO-HUI,,2020-02-18,,,,,11,
 AO,Angola,Huila Province,,,AO-HUI,,2020-02-19,,,,,6,
@@ -1104,6 +1120,10 @@ AO,Angola,Huila Province,,,AO-HUI,,2020-12-02,,,,,7,
 AO,Angola,Huila Province,,,AO-HUI,,2020-12-03,,,,,7,
 AO,Angola,Huila Province,,,AO-HUI,,2020-12-04,,,,,6,
 AO,Angola,Huila Province,,,AO-HUI,,2020-12-07,,,,,-2,
+AO,Angola,Huila Province,,,AO-HUI,,2020-12-08,,,,,13,
+AO,Angola,Huila Province,,,AO-HUI,,2020-12-09,,,,,0,
+AO,Angola,Huila Province,,,AO-HUI,,2020-12-10,,,,,0,
+AO,Angola,Huila Province,,,AO-HUI,,2020-12-11,,,,,5,
 AO,Angola,Luanda Province,,,AO-LUA,,2020-02-15,0,-2,3,0,1,1
 AO,Angola,Luanda Province,,,AO-LUA,,2020-02-16,-6,0,-20,-2,-7,2
 AO,Angola,Luanda Province,,,AO-LUA,,2020-02-17,-7,-3,1,-3,4,0
@@ -1401,3 +1421,7 @@ AO,Angola,Luanda Province,,,AO-LUA,,2020-12-04,-6,12,36,-18,-12,7
 AO,Angola,Luanda Province,,,AO-LUA,,2020-12-05,-6,11,36,-7,-2,1
 AO,Angola,Luanda Province,,,AO-LUA,,2020-12-06,-16,-1,1,-26,-6,3
 AO,Angola,Luanda Province,,,AO-LUA,,2020-12-07,-4,9,41,-12,-13,6
+AO,Angola,Luanda Province,,,AO-LUA,,2020-12-08,-3,14,39,-7,-13,6
+AO,Angola,Luanda Province,,,AO-LUA,,2020-12-09,-5,4,34,-17,-14,7
+AO,Angola,Luanda Province,,,AO-LUA,,2020-12-10,-6,14,66,-4,-14,6
+AO,Angola,Luanda Province,,,AO-LUA,,2020-12-11,-11,4,37,-14,-13,9
