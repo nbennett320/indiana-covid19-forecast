@@ -300,6 +300,8 @@ EE,Estonia,,,,,,2020-12-08,-8,2,-7,-25,-15,7
 EE,Estonia,,,,,,2020-12-09,-9,3,-2,-26,-15,7
 EE,Estonia,,,,,,2020-12-10,-10,3,-1,-27,-16,7
 EE,Estonia,,,,,,2020-12-11,-15,2,-1,-28,-17,8
+EE,Estonia,,,,,,2020-12-12,-17,3,13,-26,-8,4
+EE,Estonia,,,,,,2020-12-13,-15,1,33,-29,-13,3
 EE,Estonia,Harju County,,,EE-37,,2020-02-15,0,-2,-15,-2,3,0
 EE,Estonia,Harju County,,,EE-37,,2020-02-16,4,-2,-21,-1,1,0
 EE,Estonia,Harju County,,,EE-37,,2020-02-17,4,-1,-1,0,0,1
@@ -601,6 +603,8 @@ EE,Estonia,Harju County,,,EE-37,,2020-12-08,-13,0,-17,-30,-20,9
 EE,Estonia,Harju County,,,EE-37,,2020-12-09,-13,0,-6,-30,-23,9
 EE,Estonia,Harju County,,,EE-37,,2020-12-10,-13,-1,-9,-31,-22,9
 EE,Estonia,Harju County,,,EE-37,,2020-12-11,-19,-1,-9,-33,-23,10
+EE,Estonia,Harju County,,,EE-37,,2020-12-12,-22,-1,14,-32,-10,5
+EE,Estonia,Harju County,,,EE-37,,2020-12-13,-18,-2,29,-34,-14,4
 EE,Estonia,Hiiu County,,,EE-39,,2020-02-24,,,,,-68,
 EE,Estonia,Hiiu County,,,EE-39,,2020-06-23,,,,,-70,
 EE,Estonia,Hiiu County,,,EE-39,,2020-06-24,,,,,-77,
@@ -899,6 +903,8 @@ EE,Estonia,Ida-Viru County,,,EE-44,,2020-12-08,-4,11,,-15,-21,7
 EE,Estonia,Ida-Viru County,,,EE-44,,2020-12-09,-6,,,-16,-20,7
 EE,Estonia,Ida-Viru County,,,EE-44,,2020-12-10,-10,8,,-23,-25,8
 EE,Estonia,Ida-Viru County,,,EE-44,,2020-12-11,-9,8,-45,-21,-24,9
+EE,Estonia,Ida-Viru County,,,EE-44,,2020-12-12,-26,3,-34,-24,-17,5
+EE,Estonia,Ida-Viru County,,,EE-44,,2020-12-13,-24,9,,-19,-24,4
 EE,Estonia,Järva County,,,EE-51,,2020-02-15,4,0,,,,
 EE,Estonia,Järva County,,,EE-51,,2020-02-16,25,1,,,,
 EE,Estonia,Järva County,,,EE-51,,2020-02-17,3,0,,,-3,
@@ -1824,6 +1830,8 @@ EE,Estonia,Lääne-Viru County,,,EE-59,,2020-12-08,7,20,,-11,-4,2
 EE,Estonia,Lääne-Viru County,,,EE-59,,2020-12-09,5,13,,-13,-4,2
 EE,Estonia,Lääne-Viru County,,,EE-59,,2020-12-10,1,12,,-18,-6,3
 EE,Estonia,Lääne-Viru County,,,EE-59,,2020-12-11,-6,7,,-26,-7,5
+EE,Estonia,Lääne-Viru County,,,EE-59,,2020-12-12,-4,8,,-32,-11,
+EE,Estonia,Lääne-Viru County,,,EE-59,,2020-12-13,13,16,,-31,-8,
 EE,Estonia,Pärnu County,,,EE-67,,2020-02-15,12,3,-13,5,1,
 EE,Estonia,Pärnu County,,,EE-67,,2020-02-16,7,-2,-14,-3,3,
 EE,Estonia,Pärnu County,,,EE-67,,2020-02-17,8,1,,-1,-1,1
@@ -2119,6 +2127,8 @@ EE,Estonia,Pärnu County,,,EE-67,,2020-12-08,7,12,,-5,-3,3
 EE,Estonia,Pärnu County,,,EE-67,,2020-12-09,4,7,,-1,-4,2
 EE,Estonia,Pärnu County,,,EE-67,,2020-12-10,3,9,,-5,-5,3
 EE,Estonia,Pärnu County,,,EE-67,,2020-12-11,-1,6,-29,-10,-7,4
+EE,Estonia,Pärnu County,,,EE-67,,2020-12-12,1,8,-25,-9,-1,
+EE,Estonia,Pärnu County,,,EE-67,,2020-12-13,1,3,-9,-19,-4,
 EE,Estonia,Põlva County,,,EE-65,,2020-02-15,-17,-3,,,,
 EE,Estonia,Põlva County,,,EE-65,,2020-02-16,,-6,,,,
 EE,Estonia,Põlva County,,,EE-65,,2020-02-17,-21,-4,,,0,
@@ -2759,6 +2769,7 @@ EE,Estonia,Saare County,,,EE-74,,2020-12-08,,,,,-1,
 EE,Estonia,Saare County,,,EE-74,,2020-12-09,,,,,2,
 EE,Estonia,Saare County,,,EE-74,,2020-12-10,,,,,3,
 EE,Estonia,Saare County,,,EE-74,,2020-12-11,,,,,0,
+EE,Estonia,Saare County,,,EE-74,,2020-12-13,,,,-24,,
 EE,Estonia,Tartu County,,,EE-78,,2020-02-15,7,4,-14,6,4,0
 EE,Estonia,Tartu County,,,EE-78,,2020-02-16,6,2,-13,4,2,
 EE,Estonia,Tartu County,,,EE-78,,2020-02-17,1,3,,4,1,1
@@ -3057,6 +3068,8 @@ EE,Estonia,Tartu County,,,EE-78,,2020-12-08,-5,8,,-20,-13,6
 EE,Estonia,Tartu County,,,EE-78,,2020-12-09,-9,4,,-23,-13,7
 EE,Estonia,Tartu County,,,EE-78,,2020-12-10,-9,7,,-22,-15,7
 EE,Estonia,Tartu County,,,EE-78,,2020-12-11,-14,7,50,-22,-16,8
+EE,Estonia,Tartu County,,,EE-78,,2020-12-12,-17,12,80,-15,-7,6
+EE,Estonia,Tartu County,,,EE-78,,2020-12-13,-16,10,,-22,-13,4
 EE,Estonia,Valga County,,,EE-82,,2020-02-15,23,15,,,,
 EE,Estonia,Valga County,,,EE-82,,2020-02-16,35,8,,,,
 EE,Estonia,Valga County,,,EE-82,,2020-02-17,9,-5,,,-1,
@@ -3515,6 +3528,7 @@ EE,Estonia,Viljandi County,,,EE-84,,2020-12-08,0,,,4,-6,5
 EE,Estonia,Viljandi County,,,EE-84,,2020-12-09,-5,,,-5,-8,2
 EE,Estonia,Viljandi County,,,EE-84,,2020-12-10,-7,,,-7,-7,4
 EE,Estonia,Viljandi County,,,EE-84,,2020-12-11,-11,5,,-1,-8,4
+EE,Estonia,Viljandi County,,,EE-84,,2020-12-12,-8,5,,,1,
 EE,Estonia,Võru County,,,EE-86,,2020-02-15,6,10,,,,
 EE,Estonia,Võru County,,,EE-86,,2020-02-16,9,5,,,,
 EE,Estonia,Võru County,,,EE-86,,2020-02-17,7,-4,,,-1,
@@ -3735,3 +3749,4 @@ EE,Estonia,Võru County,,,EE-86,,2020-12-08,,,,,-6,
 EE,Estonia,Võru County,,,EE-86,,2020-12-09,,,,,-7,
 EE,Estonia,Võru County,,,EE-86,,2020-12-10,,,,,-10,
 EE,Estonia,Võru County,,,EE-86,,2020-12-11,-25,,,,-7,
+EE,Estonia,Võru County,,,EE-86,,2020-12-12,-34,,,,,

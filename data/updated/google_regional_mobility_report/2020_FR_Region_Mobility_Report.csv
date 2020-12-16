@@ -300,6 +300,8 @@ FR,France,,,,,,2020-12-08,-27,0,-17,-33,-24,10
 FR,France,,,,,,2020-12-09,-33,-4,-21,-35,-25,11
 FR,France,,,,,,2020-12-10,-33,0,-21,-34,-24,10
 FR,France,,,,,,2020-12-11,-34,-3,-33,-35,-25,13
+FR,France,,,,,,2020-12-12,-33,-2,-35,-36,-18,10
+FR,France,,,,,,2020-12-13,-21,20,-22,-40,-15,7
 FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-02-15,5,6,53,34,2,-1
 FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-02-16,15,15,44,18,1,-1
 FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-02-17,2,6,22,5,1,2
@@ -601,6 +603,8 @@ FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-12-08,-30,-3,-27,-37,-23,11
 FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-12-09,-35,-7,-29,-38,-25,11
 FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-12-10,-35,-3,-30,-39,-23,11
 FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-12-11,-35,-4,-40,-40,-25,13
+FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-12-12,-37,-6,-48,-50,-21,11
+FR,France,Auvergne-Rhône-Alpes,,,FR-ARA,,2020-12-13,-25,13,-7,-44,-17,7
 FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-02-15,3,3,72,84,1,-1
 FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-02-16,16,8,28,23,2,0
 FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-02-17,-4,2,-2,3,0,2
@@ -902,6 +906,8 @@ FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-12-08,-18,5,4,-25,-22,11
 FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-12-09,-26,3,-3,-29,-23,10
 FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-12-10,-23,5,-2,-27,-22,10
 FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-12-11,-27,2,-15,-30,-23,13
+FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-12-12,-29,1,-33,-45,-17,11
+FR,France,Auvergne-Rhône-Alpes,Ain,,FR-01,,2020-12-13,-3,21,12,-34,-14,7
 FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-02-15,8,-3,38,46,4,-1
 FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-02-16,23,8,47,24,2,-1
 FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-02-17,-2,2,9,7,0,2
@@ -1203,6 +1209,8 @@ FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-12-08,-20,0,-14,-29,-17,7
 FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-12-09,-25,-2,-10,-32,-15,7
 FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-12-10,-27,1,-22,-34,-17,8
 FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-12-11,-27,1,-25,-36,-17,9
+FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-12-12,-33,-3,-34,-54,-19,10
+FR,France,Auvergne-Rhône-Alpes,Allier,,FR-03,,2020-12-13,-16,39,-6,-52,-15,6
 FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-02-15,6,-1,37,11,7,-2
 FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-02-16,9,6,-10,14,-3,1
 FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-02-17,-5,1,0,1,0,2
@@ -1504,6 +1512,8 @@ FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-12-08,-14,2,-1,-27,-12,8
 FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-12-09,-18,-5,2,-23,-19,7
 FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-12-10,-20,2,-7,-34,-15,9
 FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-12-11,-22,0,-16,-23,-15,11
+FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-12-12,-16,-1,-13,-28,-12,9
+FR,France,Auvergne-Rhône-Alpes,Ardèche,,FR-07,,2020-12-13,-2,54,13,-20,-10,6
 FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-02-15,8,6,33,45,0,0
 FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-02-16,23,,65,,6,-1
 FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-02-17,8,21,36,47,2,2
@@ -1805,6 +1815,8 @@ FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-12-08,-20,7,-11,-39,-13,7
 FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-12-09,-23,8,-7,-37,-14,7
 FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-12-10,-29,4,-17,-34,-14,8
 FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-12-11,-22,12,-19,-45,-14,9
+FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-12-12,-24,11,-25,-56,-15,9
+FR,France,Auvergne-Rhône-Alpes,Cantal,,FR-15,,2020-12-13,-5,,2,-53,-15,6
 FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-02-15,6,-1,47,45,2,-1
 FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-02-16,10,6,20,28,1,0
 FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-02-17,-1,2,10,15,1,2
@@ -2106,6 +2118,8 @@ FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-12-08,-18,-1,-2,-27,-16,9
 FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-12-09,-22,1,0,-27,-17,8
 FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-12-10,-22,3,-10,-30,-17,9
 FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-12-11,-29,-2,-21,-36,-17,11
+FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-12-12,-26,-2,-23,-42,-16,10
+FR,France,Auvergne-Rhône-Alpes,Drôme,,FR-26,,2020-12-13,-11,31,26,-46,-13,6
 FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-02-15,8,-3,31,31,2,0
 FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-02-16,8,6,17,41,-4,0
 FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-02-17,1,1,9,20,2,2
@@ -2407,6 +2421,8 @@ FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-12-08,-11,7,6,-20,-10,7
 FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-12-09,-18,3,3,-32,-11,7
 FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-12-10,-25,1,-6,-20,-12,9
 FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-12-11,-19,12,-7,-19,-12,10
+FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-12-12,-21,5,-14,-40,-9,9
+FR,France,Auvergne-Rhône-Alpes,Haute-Loire,,FR-43,,2020-12-13,-20,18,7,-24,-9,6
 FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-02-15,8,14,53,41,2,-1
 FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-02-16,27,29,57,36,3,0
 FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-02-17,13,19,37,16,1,1
@@ -2708,6 +2724,8 @@ FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-12-08,-33,-7,-40,-28,-
 FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-12-09,-38,-14,-47,-32,-26,11
 FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-12-10,-37,-8,-37,-32,-24,11
 FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-12-11,-41,-10,-56,-32,-24,13
+FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-12-12,-45,-13,-71,-52,-25,12
+FR,France,Auvergne-Rhône-Alpes,Haute-Savoie,,FR-74,,2020-12-13,-35,-8,-41,-50,-28,8
 FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-02-15,2,3,58,31,2,-1
 FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-02-16,16,15,57,6,1,-1
 FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-02-17,3,2,27,6,1,2
@@ -3009,6 +3027,8 @@ FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-12-08,-28,0,-28,-30,-25,12
 FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-12-09,-34,-7,-33,-31,-26,12
 FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-12-10,-34,-1,-32,-33,-25,12
 FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-12-11,-35,-4,-42,-33,-27,14
+FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-12-12,-39,-7,-57,-51,-21,12
+FR,France,Auvergne-Rhône-Alpes,Isere,,FR-38,,2020-12-13,-18,20,-10,-39,-16,7
 FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-02-15,1,0,31,17,2,-1
 FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-02-16,9,5,19,13,0,0
 FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-02-17,-6,1,-5,3,1,2
@@ -3310,6 +3330,8 @@ FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-12-08,-21,0,-15,-30,-19,9
 FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-12-09,-28,-6,-11,-33,-18,9
 FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-12-10,-23,0,-13,-29,-18,9
 FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-12-11,-25,-1,-15,-31,-20,12
+FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-12-12,-26,-3,-31,-36,-18,11
+FR,France,Auvergne-Rhône-Alpes,Loire,,FR-42,,2020-12-13,-1,22,21,-31,-14,7
 FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-02-15,2,0,42,38,5,-1
 FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-02-16,16,12,43,19,2,-1
 FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-02-17,3,5,29,4,1,2
@@ -3611,6 +3633,8 @@ FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-12-08,-28,-2,-22,-24,-2
 FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-12-09,-33,-6,-15,-26,-24,10
 FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-12-10,-36,-5,-32,-24,-23,11
 FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-12-11,-35,-2,-32,-31,-24,13
+FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-12-12,-38,-3,-34,-49,-19,11
+FR,France,Auvergne-Rhône-Alpes,Puy-de-Dome,,FR-63,,2020-12-13,-12,19,-5,-45,-15,7
 FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-02-15,6,2,59,17,2,-1
 FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-02-16,7,4,15,10,0,0
 FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-02-17,-5,-3,-13,1,0,2
@@ -3912,6 +3936,8 @@ FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-12-08,-34,-3,-27,-45,-30,14
 FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-12-09,-37,-7,-27,-44,-32,14
 FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-12-10,-37,-5,-35,-46,-30,14
 FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-12-11,-37,-4,-43,-47,-32,16
+FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-12-12,-36,-3,-47,-48,-20,11
+FR,France,Auvergne-Rhône-Alpes,Rhône,,FR-69,,2020-12-13,-22,17,15,-46,-10,8
 FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-02-15,12,13,45,59,2,-1
 FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-02-16,34,38,61,36,2,0
 FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-02-17,18,21,52,7,2,2
@@ -4213,6 +4239,8 @@ FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-12-08,-50,-15,-62,-44,-24,11
 FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-12-09,-54,-20,-68,-51,-26,11
 FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-12-10,-54,-13,-63,-54,-24,11
 FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-12-11,-56,-14,-72,-55,-26,13
+FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-12-12,-57,-23,-77,-84,-40,14
+FR,France,Auvergne-Rhône-Alpes,Savoie,,FR-73,,2020-12-13,-62,-17,-56,-70,-44,9
 FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-02-15,5,2,44,53,4,0
 FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-02-16,16,11,41,29,2,-1
 FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-02-17,1,2,2,5,0,2
@@ -4514,6 +4542,8 @@ FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-12-08,-22,1,-9,-20,-18,9
 FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-12-09,-29,-4,-10,-25,-19,8
 FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-12-10,-27,0,-9,-26,-18,8
 FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-12-11,-30,-3,-22,-33,-19,11
+FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-12-12,-32,-3,-32,-51,-15,10
+FR,France,Bourgogne-Franche-Comté,,,FR-BFC,,2020-12-13,-13,24,1,-49,-13,7
 FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-02-15,0,5,43,45,3,0
 FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-02-16,7,9,33,30,1,0
 FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-02-17,-1,2,4,5,0,2
@@ -4815,6 +4845,8 @@ FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-12-08,-29,-1,-26,-27,
 FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-12-09,-34,0,-19,-31,-24,10
 FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-12-10,-32,2,-25,-35,-20,10
 FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-12-11,-35,-3,-27,-39,-23,13
+FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-12-12,-39,0,-25,-57,-16,10
+FR,France,Bourgogne-Franche-Comté,Côte-d'Or,,FR-21,,2020-12-13,-22,9,-9,-55,-13,8
 FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-02-15,5,1,76,17,2,-1
 FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-02-16,19,14,72,19,0,-1
 FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-02-17,0,2,10,-3,0,2
@@ -5116,6 +5148,8 @@ FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-12-08,-22,3,-17,-12,-17,9
 FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-12-09,-30,-5,-27,-21,-18,9
 FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-12-10,-28,2,-20,-18,-17,9
 FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-12-11,-31,-2,-37,-22,-17,12
+FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-12-12,-33,-3,-34,-23,-11,11
+FR,France,Bourgogne-Franche-Comté,Doubs,,FR-25,,2020-12-13,-8,37,2,-25,-12,7
 FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-02-15,5,-2,21,,5,-1
 FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-02-16,19,1,17,,2,-1
 FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-02-17,4,0,1,-7,0,1
@@ -5417,6 +5451,8 @@ FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-12-08,-18,3,15,-10,
 FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-12-09,-22,0,7,-24,-20,8
 FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-12-10,-21,4,15,-21,-19,8
 FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-12-11,-25,-2,0,-13,-19,11
+FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-12-12,-22,3,-14,-23,-18,10
+FR,France,Bourgogne-Franche-Comté,Haute-Saône,,FR-70,,2020-12-13,-6,45,5,,-18,7
 FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-02-15,15,9,56,68,9,0
 FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-02-16,25,19,40,15,0,0
 FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-02-17,15,13,19,7,0,1
@@ -5718,6 +5754,8 @@ FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-12-08,-18,4,-10,-7,-17,8
 FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-12-09,-26,1,-18,-10,-15,8
 FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-12-10,-25,7,-13,-13,-20,8
 FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-12-11,-29,-4,-21,-22,-17,12
+FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-12-12,-31,-4,-41,-43,-15,11
+FR,France,Bourgogne-Franche-Comté,Jura,,FR-39,,2020-12-13,-22,28,-5,-45,-21,7
 FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-02-15,6,1,30,39,3,0
 FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-02-16,24,19,53,43,2,-2
 FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-02-17,4,7,7,13,0,2
@@ -6019,6 +6057,8 @@ FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-12-08,-17,1,-3,-11,-19,8
 FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-12-09,-24,-4,-6,-20,-19,7
 FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-12-10,-25,1,2,-17,-19,7
 FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-12-11,-25,1,-10,-21,-19,9
+FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-12-12,-29,-4,-30,-33,-21,10
+FR,France,Bourgogne-Franche-Comté,Nièvre,,FR-58,,2020-12-13,-9,28,1,-45,-15,6
 FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-02-15,6,-2,39,90,5,-1
 FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-02-16,16,9,19,44,1,-1
 FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-02-17,0,0,-5,10,1,1
@@ -6320,6 +6360,8 @@ FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-12-08,-18,-1,-3,
 FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-12-09,-23,-6,-3,-24,-18,8
 FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-12-10,-20,-1,-4,-28,-18,8
 FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-12-11,-25,-5,-11,-40,-19,11
+FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-12-12,-27,-7,-27,-65,-16,10
+FR,France,Bourgogne-Franche-Comté,Saône-et-Loire,,FR-71,,2020-12-13,-6,25,7,-56,-14,7
 FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-02-15,0,-3,56,12,2,0
 FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-02-16,20,7,97,9,5,-1
 FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-02-17,-4,-6,-22,-2,-2,2
@@ -6619,6 +6661,8 @@ FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-12-08,-21,
 FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-12-09,-28,-5,-33,-24,-20,10
 FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-12-10,-25,1,-38,-29,-19,11
 FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-12-11,-27,1,-41,-31,-21,12
+FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-12-12,-24,1,-46,-28,-17,11
+FR,France,Bourgogne-Franche-Comté,Territoire de Belfort,,FR-90,,2020-12-13,3,,5,-32,-11,7
 FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-02-15,7,1,76,98,3,0
 FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-02-16,20,11,58,59,-1,-1
 FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-02-17,2,2,8,11,-2,2
@@ -6920,6 +6964,8 @@ FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-12-08,-20,5,-1,-25,-16,8
 FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-12-09,-26,0,7,-28,-20,8
 FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-12-10,-25,4,8,-30,-18,7
 FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-12-11,-27,-5,-8,-44,-21,11
+FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-12-12,-31,-1,-14,-70,-15,10
+FR,France,Bourgogne-Franche-Comté,Yonne,,FR-89,,2020-12-13,-20,30,5,-64,-14,7
 FR,France,Brittany,,,FR-BRE,,2020-02-15,-6,-1,-5,6,-3,1
 FR,France,Brittany,,,FR-BRE,,2020-02-16,-1,-4,-26,1,-6,0
 FR,France,Brittany,,,FR-BRE,,2020-02-17,6,8,52,-1,-21,5
@@ -7221,6 +7267,8 @@ FR,France,Brittany,,,FR-BRE,,2020-12-08,-19,5,14,-16,-19,9
 FR,France,Brittany,,,FR-BRE,,2020-12-09,-27,-2,-13,-22,-20,8
 FR,France,Brittany,,,FR-BRE,,2020-12-10,-25,6,8,-22,-19,8
 FR,France,Brittany,,,FR-BRE,,2020-12-11,-29,4,-14,-25,-19,11
+FR,France,Brittany,,,FR-BRE,,2020-12-12,-26,2,-2,-23,-14,9
+FR,France,Brittany,,,FR-BRE,,2020-12-13,-20,20,-40,-37,-16,8
 FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-02-15,-4,0,-2,14,-2,1
 FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-02-16,-2,-2,-21,11,-6,1
 FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-02-17,7,11,55,3,-22,5
@@ -7522,6 +7570,8 @@ FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-12-08,-16,5,5,-16,-15,7
 FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-12-09,-22,-1,-6,-17,-16,7
 FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-12-10,-20,5,3,-19,-16,7
 FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-12-11,-25,3,-3,-22,-16,10
+FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-12-12,-23,0,-7,-30,-14,8
+FR,France,Brittany,Côtes-d'Armor,,FR-22,,2020-12-13,-17,24,-16,-36,-19,7
 FR,France,Brittany,Finistere,,FR-29,,2020-02-15,-11,-3,-21,13,-3,2
 FR,France,Brittany,Finistere,,FR-29,,2020-02-16,10,-5,-27,7,-5,1
 FR,France,Brittany,Finistere,,FR-29,,2020-02-17,9,8,54,5,-21,5
@@ -7823,6 +7873,8 @@ FR,France,Brittany,Finistere,,FR-29,,2020-12-08,-16,6,24,-9,-17,8
 FR,France,Brittany,Finistere,,FR-29,,2020-12-09,-27,1,-12,-18,-18,8
 FR,France,Brittany,Finistere,,FR-29,,2020-12-10,-22,6,12,-11,-17,7
 FR,France,Brittany,Finistere,,FR-29,,2020-12-11,-28,6,-27,-18,-17,11
+FR,France,Brittany,Finistere,,FR-29,,2020-12-12,-25,5,0,-14,-12,8
+FR,France,Brittany,Finistere,,FR-29,,2020-12-13,-20,22,-42,-35,-16,8
 FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-02-15,-8,-2,-5,6,-4,0
 FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-02-16,-4,-8,-24,-3,-7,0
 FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-02-17,4,5,45,-5,-20,5
@@ -8124,6 +8176,8 @@ FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-12-08,-24,7,1,-28,-23,11
 FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-12-09,-31,-1,-10,-31,-23,11
 FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-12-10,-31,5,-6,-31,-23,11
 FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-12-11,-32,3,-10,-30,-24,14
+FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-12-12,-31,3,-19,-27,-17,10
+FR,France,Brittany,Ille-et-Vilaine,,FR-35,,2020-12-13,-11,19,-40,-39,-16,9
 FR,France,Brittany,Morbihan,,FR-56,,2020-02-15,-2,-2,-8,6,-3,1
 FR,France,Brittany,Morbihan,,FR-56,,2020-02-16,-5,-1,-27,-7,-5,1
 FR,France,Brittany,Morbihan,,FR-56,,2020-02-17,7,8,55,5,-20,4
@@ -8425,6 +8479,8 @@ FR,France,Brittany,Morbihan,,FR-56,,2020-12-08,-14,7,20,3,-18,7
 FR,France,Brittany,Morbihan,,FR-56,,2020-12-09,-22,1,-15,-4,-19,7
 FR,France,Brittany,Morbihan,,FR-56,,2020-12-10,-20,11,13,-5,-18,7
 FR,France,Brittany,Morbihan,,FR-56,,2020-12-11,-26,6,-18,-11,-17,10
+FR,France,Brittany,Morbihan,,FR-56,,2020-12-12,-23,3,3,-22,-11,8
+FR,France,Brittany,Morbihan,,FR-56,,2020-12-13,-25,22,-51,-38,-21,8
 FR,France,Centre-Val de Loire,,,FR-CVL,,2020-02-15,0,-2,18,37,-2,-1
 FR,France,Centre-Val de Loire,,,FR-CVL,,2020-02-16,13,5,31,26,1,-1
 FR,France,Centre-Val de Loire,,,FR-CVL,,2020-02-17,2,3,9,-3,-19,5
@@ -8726,6 +8782,8 @@ FR,France,Centre-Val de Loire,,,FR-CVL,,2020-12-08,-23,1,-3,-30,-21,9
 FR,France,Centre-Val de Loire,,,FR-CVL,,2020-12-09,-28,-4,-12,-33,-21,9
 FR,France,Centre-Val de Loire,,,FR-CVL,,2020-12-10,-30,1,-19,-36,-21,9
 FR,France,Centre-Val de Loire,,,FR-CVL,,2020-12-11,-29,-2,-24,-38,-22,11
+FR,France,Centre-Val de Loire,,,FR-CVL,,2020-12-12,-28,-2,-33,-41,-16,10
+FR,France,Centre-Val de Loire,,,FR-CVL,,2020-12-13,-12,29,-24,-49,-11,7
 FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-02-15,1,-3,32,59,-1,-1
 FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-02-16,21,8,68,38,-1,-2
 FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-02-17,1,4,2,-5,-20,5
@@ -9027,6 +9085,8 @@ FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-12-08,-17,6,2,-24,-21,8
 FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-12-09,-28,-3,-4,-27,-21,8
 FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-12-10,-28,-2,-16,-30,-19,9
 FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-12-11,-28,2,-14,-40,-21,10
+FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-12-12,-31,-2,-27,-53,-20,10
+FR,France,Centre-Val de Loire,Cher,,FR-18,,2020-12-13,-13,16,13,-52,-17,7
 FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-02-15,-1,-6,7,41,-2,0
 FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-02-16,7,-2,-9,28,-3,0
 FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-02-17,4,2,3,-3,-20,5
@@ -9328,6 +9388,8 @@ FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-12-08,-18,5,-4,-36,-21,1
 FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-12-09,-25,4,-5,-39,-22,10
 FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-12-10,-24,6,-6,-41,-21,10
 FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-12-11,-26,3,-8,-40,-21,12
+FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-12-12,-25,0,-11,-55,-14,10
+FR,France,Centre-Val de Loire,Eure-et-Loir,,FR-28,,2020-12-13,-13,42,-15,-65,-12,7
 FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-02-15,1,-3,21,76,-2,-1
 FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-02-16,17,10,40,45,2,-2
 FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-02-17,11,1,2,10,-19,4
@@ -9629,6 +9691,8 @@ FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-12-08,-23,4,12,-15,-16,7
 FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-12-09,-28,0,11,-15,-18,7
 FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-12-10,-31,-1,9,-24,-18,8
 FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-12-11,-28,-1,2,-30,-19,10
+FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-12-12,-30,-2,-13,-31,-17,9
+FR,France,Centre-Val de Loire,Indre,,FR-36,,2020-12-13,-14,31,0,-48,-18,7
 FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-02-15,0,-1,29,18,-1,-1
 FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-02-16,6,2,30,16,-2,-1
 FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-02-17,3,3,20,-3,-18,4
@@ -9930,6 +9994,8 @@ FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-12-08,-23,-1,-3,-28,-2
 FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-12-09,-29,-6,-20,-36,-25,10
 FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-12-10,-29,-1,-18,-34,-23,10
 FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-12-11,-29,-3,-27,-35,-24,12
+FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-12-12,-28,-4,-26,-29,-18,10
+FR,France,Centre-Val de Loire,Indre-et-Loire,,FR-37,,2020-12-13,-15,29,-39,-37,-19,8
 FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-02-15,5,0,9,70,0,-1
 FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-02-16,17,6,41,41,2,-1
 FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-02-17,8,8,19,8,-19,5
@@ -10231,6 +10297,8 @@ FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-12-08,-19,-1,-5,-30,-19,
 FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-12-09,-22,-9,-17,-32,-21,8
 FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-12-10,-25,-1,-21,-33,-18,8
 FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-12-11,-27,-5,-28,-42,-21,11
+FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-12-12,-27,-5,-47,-51,-15,10
+FR,France,Centre-Val de Loire,Loir-et-Cher,,FR-41,,2020-12-13,-18,15,-29,-58,-17,8
 FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-02-15,-2,-1,21,15,-1,0
 FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-02-16,14,10,33,14,4,-1
 FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-02-17,-3,4,2,-7,-20,5
@@ -10532,6 +10600,8 @@ FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-12-08,-25,3,-11,-27,-21,10
 FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-12-09,-28,-4,-24,-33,-21,10
 FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-12-10,-31,3,-33,-34,-20,10
 FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-12-11,-29,1,-42,-40,-22,12
+FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-12-12,-25,-1,-37,-41,-14,10
+FR,France,Centre-Val de Loire,Loiret,,FR-45,,2020-12-13,-6,38,-30,-45,-9,7
 FR,France,Corsica,,,FR-COR,,2020-02-15,2,-1,16,25,1,-1
 FR,France,Corsica,,,FR-COR,,2020-02-16,11,4,11,13,2,-1
 FR,France,Corsica,,,FR-COR,,2020-02-17,2,0,15,-5,-16,3
@@ -10833,6 +10903,8 @@ FR,France,Corsica,,,FR-COR,,2020-12-08,-21,-1,-5,-32,-18,6
 FR,France,Corsica,,,FR-COR,,2020-12-09,-28,-5,-24,-42,-17,7
 FR,France,Corsica,,,FR-COR,,2020-12-10,-25,-1,-12,-30,-16,6
 FR,France,Corsica,,,FR-COR,,2020-12-11,-23,4,-7,-34,-15,6
+FR,France,Corsica,,,FR-COR,,2020-12-12,-29,-2,-26,-43,-17,6
+FR,France,Corsica,,,FR-COR,,2020-12-13,-19,22,0,-34,-10,4
 FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-02-15,5,-3,25,14,2,-1
 FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-02-16,12,2,16,10,2,-1
 FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-02-17,5,0,21,-3,-15,4
@@ -11134,6 +11206,8 @@ FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-12-08,-21,-1,-7,-34,-19,7
 FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-12-09,-29,-6,-31,-46,-18,8
 FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-12-10,-24,2,-6,-34,-17,6
 FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-12-11,-21,6,0,-37,-16,6
+FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-12-12,-28,0,-14,-41,-16,6
+FR,France,Corsica,Corse-du-Sud,,FR-2A,,2020-12-13,-21,29,6,-36,-8,4
 FR,France,Corsica,Haute-Corse,,FR-2B,,2020-02-15,0,-4,14,41,3,-1
 FR,France,Corsica,Haute-Corse,,FR-2B,,2020-02-16,10,4,9,10,2,-1
 FR,France,Corsica,Haute-Corse,,FR-2B,,2020-02-17,-1,1,9,0,-16,3
@@ -11435,6 +11509,8 @@ FR,France,Corsica,Haute-Corse,,FR-2B,,2020-12-08,-24,-1,-11,-29,-17,6
 FR,France,Corsica,Haute-Corse,,FR-2B,,2020-12-09,-27,-7,-8,-34,-16,7
 FR,France,Corsica,Haute-Corse,,FR-2B,,2020-12-10,-27,-3,-17,-24,-15,6
 FR,France,Corsica,Haute-Corse,,FR-2B,,2020-12-11,-26,3,-8,-31,-14,7
+FR,France,Corsica,Haute-Corse,,FR-2B,,2020-12-12,-31,-1,-31,-49,-15,7
+FR,France,Corsica,Haute-Corse,,FR-2B,,2020-12-13,-20,13,2,-39,-12,4
 FR,France,Grand Est,,,FR-GES,,2020-02-15,2,0,43,25,-2,-1
 FR,France,Grand Est,,,FR-GES,,2020-02-16,14,11,47,16,0,-2
 FR,France,Grand Est,,,FR-GES,,2020-02-17,0,1,3,-9,-20,5
@@ -11736,6 +11812,8 @@ FR,France,Grand Est,,,FR-GES,,2020-12-08,-27,-1,-16,-31,-20,10
 FR,France,Grand Est,,,FR-GES,,2020-12-09,-32,-5,-18,-34,-21,10
 FR,France,Grand Est,,,FR-GES,,2020-12-10,-31,0,-15,-34,-21,9
 FR,France,Grand Est,,,FR-GES,,2020-12-11,-33,-4,-33,-35,-22,12
+FR,France,Grand Est,,,FR-GES,,2020-12-12,-32,-4,-34,-38,-18,10
+FR,France,Grand Est,,,FR-GES,,2020-12-13,-16,87,-12,-42,-13,7
 FR,France,Grand Est,Ardennes,,FR-08,,2020-02-15,14,-4,51,11,0,-1
 FR,France,Grand Est,Ardennes,,FR-08,,2020-02-16,10,3,31,11,0,-1
 FR,France,Grand Est,Ardennes,,FR-08,,2020-02-17,3,1,40,-13,-20,5
@@ -12037,6 +12115,8 @@ FR,France,Grand Est,Ardennes,,FR-08,,2020-12-08,-16,-3,1,-30,-16,7
 FR,France,Grand Est,Ardennes,,FR-08,,2020-12-09,-25,-9,2,-32,-20,8
 FR,France,Grand Est,Ardennes,,FR-08,,2020-12-10,-20,-3,8,-32,-16,7
 FR,France,Grand Est,Ardennes,,FR-08,,2020-12-11,-24,-9,-5,-35,-20,11
+FR,France,Grand Est,Ardennes,,FR-08,,2020-12-12,-24,-8,-12,-49,-17,9
+FR,France,Grand Est,Ardennes,,FR-08,,2020-12-13,-8,33,6,-49,-17,7
 FR,France,Grand Est,Aube,,FR-10,,2020-02-15,-6,-1,38,32,-5,-1
 FR,France,Grand Est,Aube,,FR-10,,2020-02-16,-8,4,19,9,2,-1
 FR,France,Grand Est,Aube,,FR-10,,2020-02-17,0,0,-1,-2,-19,5
@@ -12338,6 +12418,8 @@ FR,France,Grand Est,Aube,,FR-10,,2020-12-08,-19,2,-1,-10,-16,8
 FR,France,Grand Est,Aube,,FR-10,,2020-12-09,-27,-4,4,-15,-20,8
 FR,France,Grand Est,Aube,,FR-10,,2020-12-10,-23,-1,8,-12,-16,8
 FR,France,Grand Est,Aube,,FR-10,,2020-12-11,-32,-1,1,-19,-17,11
+FR,France,Grand Est,Aube,,FR-10,,2020-12-12,-31,1,-9,-45,-16,9
+FR,France,Grand Est,Aube,,FR-10,,2020-12-13,-22,38,2,-44,-17,7
 FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-02-15,-1,0,57,22,0,-1
 FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-02-16,22,21,55,23,2,-3
 FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-02-17,-3,-3,-13,-8,-17,4
@@ -12639,6 +12721,8 @@ FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-12-08,-30,-5,-28,-32,-23,11
 FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-12-09,-36,-7,-28,-34,-24,11
 FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-12-10,-35,-5,-36,-37,-23,11
 FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-12-11,-36,-5,-45,-34,-24,13
+FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-12-12,-38,-6,-46,-32,-18,11
+FR,France,Grand Est,Bas-Rhin,,FR-67,,2020-12-13,-11,128,-23,-33,-14,7
 FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-02-15,1,-3,51,17,-2,-1
 FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-02-16,24,24,72,12,3,-2
 FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-02-17,-2,1,12,-2,-16,4
@@ -12940,6 +13024,8 @@ FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-12-08,-21,2,-8,-44,-18,9
 FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-12-09,-26,0,-21,-46,-21,10
 FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-12-10,-27,1,-22,-46,-20,10
 FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-12-11,-31,-2,-28,-45,-20,12
+FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-12-12,-29,-6,-28,-47,-16,11
+FR,France,Grand Est,Haut-Rhin,,FR-68,,2020-12-13,-5,202,-6,-61,-13,7
 FR,France,Grand Est,Haute-Marne,,FR-52,,2020-02-15,15,0,34,78,3,-1
 FR,France,Grand Est,Haute-Marne,,FR-52,,2020-02-16,18,5,22,34,2,-2
 FR,France,Grand Est,Haute-Marne,,FR-52,,2020-02-17,1,-3,-12,4,-20,5
@@ -13241,6 +13327,8 @@ FR,France,Grand Est,Haute-Marne,,FR-52,,2020-12-08,-16,4,-16,-12,-13,7
 FR,France,Grand Est,Haute-Marne,,FR-52,,2020-12-09,-25,-3,-23,-21,-14,7
 FR,France,Grand Est,Haute-Marne,,FR-52,,2020-12-10,-22,2,-20,-17,-13,7
 FR,France,Grand Est,Haute-Marne,,FR-52,,2020-12-11,-26,-1,-24,-34,-14,9
+FR,France,Grand Est,Haute-Marne,,FR-52,,2020-12-12,-26,1,-30,-63,-11,9
+FR,France,Grand Est,Haute-Marne,,FR-52,,2020-12-13,-14,,-11,-58,-7,7
 FR,France,Grand Est,Marne,,FR-51,,2020-02-15,-3,-1,14,40,-3,0
 FR,France,Grand Est,Marne,,FR-51,,2020-02-16,13,1,18,19,-3,-1
 FR,France,Grand Est,Marne,,FR-51,,2020-02-17,1,1,17,-3,-20,5
@@ -13542,6 +13630,8 @@ FR,France,Grand Est,Marne,,FR-51,,2020-12-08,-27,-2,-23,-33,-19,9
 FR,France,Grand Est,Marne,,FR-51,,2020-12-09,-33,-8,-39,-33,-21,9
 FR,France,Grand Est,Marne,,FR-51,,2020-12-10,-29,-1,-33,-37,-21,8
 FR,France,Grand Est,Marne,,FR-51,,2020-12-11,-32,-4,-37,-40,-20,11
+FR,France,Grand Est,Marne,,FR-51,,2020-12-12,-33,-5,-36,-46,-22,10
+FR,France,Grand Est,Marne,,FR-51,,2020-12-13,-16,67,-24,-54,-12,6
 FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-02-15,3,-8,64,24,-2,-1
 FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-02-16,8,0,27,5,1,-1
 FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-02-17,-2,-7,-12,-16,-23,5
@@ -13843,6 +13933,8 @@ FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-12-08,-30,-4,-25,-27,-21,11
 FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-12-09,-32,-8,-9,-30,-22,10
 FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-12-10,-31,-1,-7,-28,-23,10
 FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-12-11,-33,-3,-31,-33,-23,12
+FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-12-12,-28,-2,-26,-30,-18,10
+FR,France,Grand Est,Meurthe-et-Moselle,,FR-54,,2020-12-13,-13,45,-13,-33,-11,7
 FR,France,Grand Est,Meuse,,FR-55,,2020-02-15,9,-1,24,42,-3,-1
 FR,France,Grand Est,Meuse,,FR-55,,2020-02-16,16,,10,3,-3,-1
 FR,France,Grand Est,Meuse,,FR-55,,2020-02-17,1,1,-1,-5,-25,6
@@ -14144,6 +14236,8 @@ FR,France,Grand Est,Meuse,,FR-55,,2020-12-08,-21,-1,15,-12,-12,8
 FR,France,Grand Est,Meuse,,FR-55,,2020-12-09,-25,-3,7,-18,-14,7
 FR,France,Grand Est,Meuse,,FR-55,,2020-12-10,-25,0,22,-18,-14,7
 FR,France,Grand Est,Meuse,,FR-55,,2020-12-11,-27,-4,12,-27,-13,10
+FR,France,Grand Est,Meuse,,FR-55,,2020-12-12,-26,1,-5,-40,-11,9
+FR,France,Grand Est,Meuse,,FR-55,,2020-12-13,-17,,-1,-60,-12,7
 FR,France,Grand Est,Moselle,,FR-57,,2020-02-15,2,-1,42,17,-2,-1
 FR,France,Grand Est,Moselle,,FR-57,,2020-02-16,10,-10,47,16,-1,-1
 FR,France,Grand Est,Moselle,,FR-57,,2020-02-17,0,0,-13,-13,-21,5
@@ -14445,6 +14539,8 @@ FR,France,Grand Est,Moselle,,FR-57,,2020-12-08,-28,2,-21,-33,-22,10
 FR,France,Grand Est,Moselle,,FR-57,,2020-12-09,-30,1,-24,-34,-22,10
 FR,France,Grand Est,Moselle,,FR-57,,2020-12-10,-29,6,-13,-34,-22,9
 FR,France,Grand Est,Moselle,,FR-57,,2020-12-11,-33,2,-31,-31,-23,12
+FR,France,Grand Est,Moselle,,FR-57,,2020-12-12,-33,1,-28,-35,-20,10
+FR,France,Grand Est,Moselle,,FR-57,,2020-12-13,-10,174,-3,-38,-15,7
 FR,France,Grand Est,Vosges,,FR-88,,2020-02-15,9,9,62,40,2,-1
 FR,France,Grand Est,Vosges,,FR-88,,2020-02-16,47,42,91,24,2,-2
 FR,France,Grand Est,Vosges,,FR-88,,2020-02-17,18,21,52,-18,-22,6
@@ -14746,6 +14842,8 @@ FR,France,Grand Est,Vosges,,FR-88,,2020-12-08,-25,-3,-8,-10,-17,8
 FR,France,Grand Est,Vosges,,FR-88,,2020-12-09,-30,-4,-7,-12,-17,8
 FR,France,Grand Est,Vosges,,FR-88,,2020-12-10,-29,0,0,-7,-19,8
 FR,France,Grand Est,Vosges,,FR-88,,2020-12-11,-34,-4,-28,-13,-20,11
+FR,France,Grand Est,Vosges,,FR-88,,2020-12-12,-37,-6,-30,-25,-19,10
+FR,France,Grand Est,Vosges,,FR-88,,2020-12-13,-29,39,0,-40,-18,8
 FR,France,Hauts-de-France,,,FR-HDF,,2020-02-15,-3,-2,4,7,-2,0
 FR,France,Hauts-de-France,,,FR-HDF,,2020-02-16,-1,-7,-31,-1,-2,0
 FR,France,Hauts-de-France,,,FR-HDF,,2020-02-17,5,0,12,-9,-20,4
@@ -15047,6 +15145,8 @@ FR,France,Hauts-de-France,,,FR-HDF,,2020-12-08,-22,0,-9,-34,-21,9
 FR,France,Hauts-de-France,,,FR-HDF,,2020-12-09,-28,-5,-12,-36,-23,9
 FR,France,Hauts-de-France,,,FR-HDF,,2020-12-10,-28,0,-12,-35,-22,9
 FR,France,Hauts-de-France,,,FR-HDF,,2020-12-11,-30,-3,-29,-36,-22,11
+FR,France,Hauts-de-France,,,FR-HDF,,2020-12-12,-29,-3,-35,-39,-17,9
+FR,France,Hauts-de-France,,,FR-HDF,,2020-12-13,-15,24,-21,-45,-13,7
 FR,France,Hauts-de-France,Aisne,,FR-02,,2020-02-15,3,-2,25,60,1,0
 FR,France,Hauts-de-France,Aisne,,FR-02,,2020-02-16,7,-1,-22,15,-4,0
 FR,France,Hauts-de-France,Aisne,,FR-02,,2020-02-17,4,2,12,6,-21,5
@@ -15348,6 +15448,8 @@ FR,France,Hauts-de-France,Aisne,,FR-02,,2020-12-08,-17,3,-3,-24,-15,7
 FR,France,Hauts-de-France,Aisne,,FR-02,,2020-12-09,-26,-6,-9,-27,-15,7
 FR,France,Hauts-de-France,Aisne,,FR-02,,2020-12-10,-24,-1,5,-27,-15,6
 FR,France,Hauts-de-France,Aisne,,FR-02,,2020-12-11,-28,2,-20,-27,-16,10
+FR,France,Hauts-de-France,Aisne,,FR-02,,2020-12-12,-28,-1,-23,-45,-17,9
+FR,France,Hauts-de-France,Aisne,,FR-02,,2020-12-13,-6,43,-10,-54,-14,6
 FR,France,Hauts-de-France,Nord,,FR-59,,2020-02-15,-4,-5,-3,0,-3,0
 FR,France,Hauts-de-France,Nord,,FR-59,,2020-02-16,2,-9,-30,-1,-2,0
 FR,France,Hauts-de-France,Nord,,FR-59,,2020-02-17,5,-1,2,-9,-20,4
@@ -15649,6 +15751,8 @@ FR,France,Hauts-de-France,Nord,,FR-59,,2020-12-08,-25,-2,-16,-38,-25,10
 FR,France,Hauts-de-France,Nord,,FR-59,,2020-12-09,-30,-6,-18,-40,-27,10
 FR,France,Hauts-de-France,Nord,,FR-59,,2020-12-10,-30,-1,-22,-39,-25,10
 FR,France,Hauts-de-France,Nord,,FR-59,,2020-12-11,-33,-5,-34,-41,-26,12
+FR,France,Hauts-de-France,Nord,,FR-59,,2020-12-12,-30,-5,-37,-40,-19,10
+FR,France,Hauts-de-France,Nord,,FR-59,,2020-12-13,-18,21,-13,-45,-13,7
 FR,France,Hauts-de-France,Oise,,FR-60,,2020-02-15,-2,-3,27,8,-2,0
 FR,France,Hauts-de-France,Oise,,FR-60,,2020-02-16,0,-3,-19,-2,-3,0
 FR,France,Hauts-de-France,Oise,,FR-60,,2020-02-17,5,4,32,-11,-19,5
@@ -15950,6 +16054,8 @@ FR,France,Hauts-de-France,Oise,,FR-60,,2020-12-08,-20,5,-5,-45,-21,10
 FR,France,Hauts-de-France,Oise,,FR-60,,2020-12-09,-27,1,-6,-48,-22,10
 FR,France,Hauts-de-France,Oise,,FR-60,,2020-12-10,-26,4,6,-45,-21,9
 FR,France,Hauts-de-France,Oise,,FR-60,,2020-12-11,-26,0,-11,-43,-22,12
+FR,France,Hauts-de-France,Oise,,FR-60,,2020-12-12,-28,-1,-34,-51,-15,10
+FR,France,Hauts-de-France,Oise,,FR-60,,2020-12-13,-4,36,-21,-59,-15,7
 FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-02-15,-3,-5,-3,4,-1,0
 FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-02-16,-4,-9,-37,-4,-4,1
 FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-02-17,8,2,7,-10,-22,5
@@ -16251,6 +16357,8 @@ FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-12-08,-17,1,-6,-16,-18,8
 FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-12-09,-23,-2,-11,-22,-20,8
 FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-12-10,-20,2,-11,-18,-19,8
 FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-12-11,-25,-3,-26,-17,-19,10
+FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-12-12,-26,-4,-35,-22,-16,9
+FR,France,Hauts-de-France,Pas-de-Calais,,FR-62,,2020-12-13,-8,35,-24,-23,-16,6
 FR,France,Hauts-de-France,Somme,,FR-80,,2020-02-15,0,4,17,21,-1,0
 FR,France,Hauts-de-France,Somme,,FR-80,,2020-02-16,2,-4,-8,13,-2,1
 FR,France,Hauts-de-France,Somme,,FR-80,,2020-02-17,5,7,37,-2,-20,5
@@ -16552,6 +16660,8 @@ FR,France,Hauts-de-France,Somme,,FR-80,,2020-12-08,-19,8,-22,-8,-18,8
 FR,France,Hauts-de-France,Somme,,FR-80,,2020-12-09,-27,0,-27,-8,-22,8
 FR,France,Hauts-de-France,Somme,,FR-80,,2020-12-10,-29,3,-30,-10,-19,8
 FR,France,Hauts-de-France,Somme,,FR-80,,2020-12-11,-28,4,-39,-13,-20,10
+FR,France,Hauts-de-France,Somme,,FR-80,,2020-12-12,-26,6,-49,-27,-13,9
+FR,France,Hauts-de-France,Somme,,FR-80,,2020-12-13,-7,33,-36,-43,-13,7
 FR,France,Île-de-France,,,FR-IDF,,2020-02-15,-12,-10,5,4,-8,-1
 FR,France,Île-de-France,,,FR-IDF,,2020-02-16,-6,-6,-8,4,-1,-2
 FR,France,Île-de-France,,,FR-IDF,,2020-02-17,-2,-3,11,-11,-20,4
@@ -16853,6 +16963,8 @@ FR,France,Île-de-France,,,FR-IDF,,2020-12-08,-39,-1,-38,-39,-35,15
 FR,France,Île-de-France,,,FR-IDF,,2020-12-09,-43,-7,-46,-41,-36,15
 FR,France,Île-de-France,,,FR-IDF,,2020-12-10,-41,-4,-39,-39,-35,15
 FR,France,Île-de-France,,,FR-IDF,,2020-12-11,-45,-4,-56,-39,-35,17
+FR,France,Île-de-France,,,FR-IDF,,2020-12-12,-40,-3,-56,-35,-20,10
+FR,France,Île-de-France,,,FR-IDF,,2020-12-13,-35,8,-43,-40,-19,8
 FR,France,Île-de-France,Essonne,,FR-91,,2020-02-15,-13,-13,9,9,-9,-2
 FR,France,Île-de-France,Essonne,,FR-91,,2020-02-16,-7,-7,-12,10,0,-1
 FR,France,Île-de-France,Essonne,,FR-91,,2020-02-17,1,-2,-1,-9,-22,5
@@ -17154,6 +17266,8 @@ FR,France,Île-de-France,Essonne,,FR-91,,2020-12-08,-19,7,-13,-42,-28,13
 FR,France,Île-de-France,Essonne,,FR-91,,2020-12-09,-26,-1,-29,-43,-29,13
 FR,France,Île-de-France,Essonne,,FR-91,,2020-12-10,-24,3,-19,-40,-29,13
 FR,France,Île-de-France,Essonne,,FR-91,,2020-12-11,-26,2,-33,-38,-30,15
+FR,France,Île-de-France,Essonne,,FR-91,,2020-12-12,-26,3,-29,-35,-16,10
+FR,France,Île-de-France,Essonne,,FR-91,,2020-12-13,-10,19,-16,-48,-13,7
 FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-02-15,-20,-14,-6,-6,-8,-2
 FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-02-16,-6,-9,-36,-1,0,-2
 FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-02-17,-3,-5,10,-17,-19,3
@@ -17455,6 +17569,8 @@ FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-12-08,-41,-3,-22,-43,-43,19
 FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-12-09,-44,-8,-34,-45,-45,19
 FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-12-10,-43,-3,-24,-42,-43,20
 FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-12-11,-44,-6,-45,-41,-44,20
+FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-12-12,-33,-1,-42,-32,-20,10
+FR,France,Île-de-France,Hauts-de-Seine,,FR-92,,2020-12-13,-24,10,-22,-33,-20,7
 FR,France,Île-de-France,Paris,,FR-75,,2020-02-15,-4,-8,7,4,-7,-1
 FR,France,Île-de-France,Paris,,FR-75,,2020-02-16,-2,-9,0,3,-1,-2
 FR,France,Île-de-France,Paris,,FR-75,,2020-02-17,-4,-5,13,-12,-16,2
@@ -17756,6 +17872,8 @@ FR,France,Île-de-France,Paris,,FR-75,,2020-12-08,-62,-14,-49,-41,-47,19
 FR,France,Île-de-France,Paris,,FR-75,,2020-12-09,-64,-19,-54,-44,-47,20
 FR,France,Île-de-France,Paris,,FR-75,,2020-12-10,-64,-16,-50,-42,-46,20
 FR,France,Île-de-France,Paris,,FR-75,,2020-12-11,-66,-19,-65,-44,-46,21
+FR,France,Île-de-France,Paris,,FR-75,,2020-12-12,-60,-10,-63,-37,-25,11
+FR,France,Île-de-France,Paris,,FR-75,,2020-12-13,-60,-13,-55,-43,-24,8
 FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-02-15,-9,-12,11,12,-9,-1
 FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-02-16,-3,-7,1,12,-1,-1
 FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-02-17,7,0,9,-7,-22,5
@@ -18057,6 +18175,8 @@ FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-12-08,-26,9,-21,-27,-26,13
 FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-12-09,-32,4,-35,-29,-28,12
 FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-12-10,-30,8,-24,-29,-27,12
 FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-12-11,-35,5,-42,-39,-26,14
+FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-12-12,-33,3,-46,-45,-14,10
+FR,France,Île-de-France,Seine-et-Marne,,FR-77,,2020-12-13,-27,26,-32,-49,-15,7
 FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-02-15,-6,-4,16,6,-7,0
 FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-02-16,-9,-2,-17,5,-2,-1
 FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-02-17,-1,0,5,-8,-18,4
@@ -18358,6 +18478,8 @@ FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-12-08,-28,5,-10,-30,-29,
 FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-12-09,-31,-4,-24,-33,-31,12
 FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-12-10,-32,2,-7,-29,-28,11
 FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-12-11,-32,-2,-31,-29,-29,13
+FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-12-12,-29,4,-19,-26,-24,9
+FR,France,Île-de-France,Seine-Saint-Denis,,FR-93,,2020-12-13,-27,9,-5,-33,-25,6
 FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-02-15,-13,-14,20,3,-7,-1
 FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-02-16,-8,-9,-19,3,-2,-1
 FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-02-17,2,-4,10,-7,-21,4
@@ -18659,6 +18781,8 @@ FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-12-08,-17,0,-15,-59,-30,13
 FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-12-09,-22,-5,-28,-60,-31,13
 FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-12-10,-22,1,-17,-57,-29,13
 FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-12-11,-24,-3,-33,-44,-29,14
+FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-12-12,-23,-3,-29,-45,-21,9
+FR,France,Île-de-France,Val-d'Oise,,FR-95,,2020-12-13,-14,10,-22,-51,-19,7
 FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-02-15,-12,-8,-4,-1,-8,-1
 FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-02-16,-7,-8,-28,4,-2,-2
 FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-02-17,0,0,7,-15,-20,4
@@ -18960,6 +19084,8 @@ FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-12-08,-25,4,-22,-34,-33,14
 FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-12-09,-31,-1,-40,-38,-35,15
 FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-12-10,-30,1,-24,-33,-33,15
 FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-12-11,-32,0,-45,-33,-33,16
+FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-12-12,-27,2,-47,-28,-20,10
+FR,France,Île-de-France,Val-de-Marne,,FR-94,,2020-12-13,-17,16,-36,-31,-20,7
 FR,France,Île-de-France,Yvelines,,FR-78,,2020-02-15,-15,-11,8,-2,-11,-2
 FR,France,Île-de-France,Yvelines,,FR-78,,2020-02-16,-14,-10,-18,-1,-2,-2
 FR,France,Île-de-France,Yvelines,,FR-78,,2020-02-17,2,2,12,-18,-24,5
@@ -19261,6 +19387,8 @@ FR,France,Île-de-France,Yvelines,,FR-78,,2020-12-08,-22,4,-40,-40,-33,16
 FR,France,Île-de-France,Yvelines,,FR-78,,2020-12-09,-27,1,-48,-41,-36,16
 FR,France,Île-de-France,Yvelines,,FR-78,,2020-12-10,-26,3,-43,-41,-34,17
 FR,France,Île-de-France,Yvelines,,FR-78,,2020-12-11,-28,1,-55,-35,-35,18
+FR,France,Île-de-France,Yvelines,,FR-78,,2020-12-12,-25,4,-52,-30,-16,10
+FR,France,Île-de-France,Yvelines,,FR-78,,2020-12-13,-15,19,-44,-34,-13,7
 FR,France,Normandy,,,FR-NOR,,2020-02-15,0,0,11,22,-3,0
 FR,France,Normandy,,,FR-NOR,,2020-02-16,3,-2,-6,13,-4,0
 FR,France,Normandy,,,FR-NOR,,2020-02-17,6,5,31,0,-21,5
@@ -19562,6 +19690,8 @@ FR,France,Normandy,,,FR-NOR,,2020-12-08,-20,4,0,-26,-19,8
 FR,France,Normandy,,,FR-NOR,,2020-12-09,-26,-2,-13,-28,-20,8
 FR,France,Normandy,,,FR-NOR,,2020-12-10,-26,2,-6,-29,-19,8
 FR,France,Normandy,,,FR-NOR,,2020-12-11,-27,2,-15,-33,-20,10
+FR,France,Normandy,,,FR-NOR,,2020-12-12,-26,0,-24,-40,-17,9
+FR,France,Normandy,,,FR-NOR,,2020-12-13,-6,25,-21,-50,-12,7
 FR,France,Normandy,Calvados,,FR-14,,2020-02-15,2,2,16,62,-3,1
 FR,France,Normandy,Calvados,,FR-14,,2020-02-16,6,3,-7,34,-3,1
 FR,France,Normandy,Calvados,,FR-14,,2020-02-17,8,10,42,13,-21,5
@@ -19863,6 +19993,8 @@ FR,France,Normandy,Calvados,,FR-14,,2020-12-08,-24,3,-15,-33,-19,8
 FR,France,Normandy,Calvados,,FR-14,,2020-12-09,-29,0,-25,-30,-20,8
 FR,France,Normandy,Calvados,,FR-14,,2020-12-10,-30,5,-19,-33,-20,8
 FR,France,Normandy,Calvados,,FR-14,,2020-12-11,-30,2,-25,-38,-20,11
+FR,France,Normandy,Calvados,,FR-14,,2020-12-12,-28,-1,-39,-42,-17,9
+FR,France,Normandy,Calvados,,FR-14,,2020-12-13,-14,13,-37,-57,-16,7
 FR,France,Normandy,Eure,,FR-27,,2020-02-15,-1,-3,12,27,-2,0
 FR,France,Normandy,Eure,,FR-27,,2020-02-16,2,-3,-16,34,-5,0
 FR,France,Normandy,Eure,,FR-27,,2020-02-17,3,3,16,3,-21,5
@@ -20164,6 +20296,8 @@ FR,France,Normandy,Eure,,FR-27,,2020-12-08,-21,0,21,-31,-21,8
 FR,France,Normandy,Eure,,FR-27,,2020-12-09,-24,-5,11,-28,-21,8
 FR,France,Normandy,Eure,,FR-27,,2020-12-10,-23,-1,20,-32,-20,8
 FR,France,Normandy,Eure,,FR-27,,2020-12-11,-24,0,12,-30,-21,10
+FR,France,Normandy,Eure,,FR-27,,2020-12-12,-23,-3,-11,-49,-19,10
+FR,France,Normandy,Eure,,FR-27,,2020-12-13,-10,1,-3,-60,-16,7
 FR,France,Normandy,Manche,,FR-50,,2020-02-15,0,-1,0,29,-2,1
 FR,France,Normandy,Manche,,FR-50,,2020-02-16,2,-9,-14,15,-6,0
 FR,France,Normandy,Manche,,FR-50,,2020-02-17,10,9,37,12,-20,5
@@ -20465,6 +20599,8 @@ FR,France,Normandy,Manche,,FR-50,,2020-12-08,-11,15,10,-25,-15,7
 FR,France,Normandy,Manche,,FR-50,,2020-12-09,-17,1,1,-26,-16,7
 FR,France,Normandy,Manche,,FR-50,,2020-12-10,-16,9,16,-23,-15,7
 FR,France,Normandy,Manche,,FR-50,,2020-12-11,-17,5,-4,-29,-16,10
+FR,France,Normandy,Manche,,FR-50,,2020-12-12,-16,5,-6,-47,-11,9
+FR,France,Normandy,Manche,,FR-50,,2020-12-13,-6,32,-18,-53,-15,8
 FR,France,Normandy,Orne,,FR-61,,2020-02-15,-3,1,8,20,-3,0
 FR,France,Normandy,Orne,,FR-61,,2020-02-16,-7,-4,-3,13,-6,0
 FR,France,Normandy,Orne,,FR-61,,2020-02-17,2,5,20,-13,-20,5
@@ -20766,6 +20902,8 @@ FR,France,Normandy,Orne,,FR-61,,2020-12-08,-17,8,8,-7,-18,5
 FR,France,Normandy,Orne,,FR-61,,2020-12-09,-24,8,2,-10,-20,6
 FR,France,Normandy,Orne,,FR-61,,2020-12-10,-23,8,1,-15,-20,7
 FR,France,Normandy,Orne,,FR-61,,2020-12-11,-26,4,-5,-18,-17,9
+FR,France,Normandy,Orne,,FR-61,,2020-12-12,-24,4,-11,-33,-17,9
+FR,France,Normandy,Orne,,FR-61,,2020-12-13,-18,85,-16,-20,-19,7
 FR,France,Normandy,Seine-Maritime,,FR-76,,2020-02-15,-1,-2,7,8,-3,0
 FR,France,Normandy,Seine-Maritime,,FR-76,,2020-02-16,2,-4,-11,6,-4,0
 FR,France,Normandy,Seine-Maritime,,FR-76,,2020-02-17,7,4,22,-6,-21,4
@@ -21067,6 +21205,8 @@ FR,France,Normandy,Seine-Maritime,,FR-76,,2020-12-08,-19,3,-1,-28,-20,9
 FR,France,Normandy,Seine-Maritime,,FR-76,,2020-12-09,-28,-4,-19,-31,-21,9
 FR,France,Normandy,Seine-Maritime,,FR-76,,2020-12-10,-28,3,-19,-28,-20,9
 FR,France,Normandy,Seine-Maritime,,FR-76,,2020-12-11,-28,2,-22,-30,-20,11
+FR,France,Normandy,Seine-Maritime,,FR-76,,2020-12-12,-27,0,-36,-37,-18,10
+FR,France,Normandy,Seine-Maritime,,FR-76,,2020-12-13,-1,36,-24,-42,-13,7
 FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-02-15,5,3,38,17,1,-1
 FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-02-16,17,15,46,19,1,-1
 FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-02-17,0,4,10,6,0,2
@@ -21368,6 +21508,8 @@ FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-12-08,-21,1,-4,-26,-20,9
 FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-12-09,-28,-3,-13,-30,-21,9
 FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-12-10,-29,1,-13,-30,-20,9
 FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-12-11,-29,-1,-20,-32,-21,11
+FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-12-12,-30,1,-23,-37,-16,9
+FR,France,Nouvelle-Aquitaine,,,FR-NAQ,,2020-12-13,-16,16,-19,-41,-13,8
 FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-02-15,-2,-2,20,13,3,-1
 FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-02-16,9,5,37,21,-2,-2
 FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-02-17,-3,2,0,7,0,1
@@ -21669,6 +21811,8 @@ FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-12-08,-17,12,0,-24,-18,7
 FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-12-09,-24,4,-3,-29,-20,8
 FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-12-10,-25,8,5,-32,-18,7
 FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-12-11,-25,8,-5,-26,-19,10
+FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-12-12,-26,9,-1,-32,-17,8
+FR,France,Nouvelle-Aquitaine,Charente,,FR-16,,2020-12-13,-6,41,-12,-39,-17,6
 FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-02-15,10,5,45,42,3,0
 FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-02-16,31,22,58,39,1,-1
 FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-02-17,7,8,47,14,1,1
@@ -21970,6 +22114,8 @@ FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-12-08,-15,5,19,-19,-
 FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-12-09,-24,1,-8,-20,-19,8
 FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-12-10,-23,6,10,-21,-17,8
 FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-12-11,-26,2,-24,-24,-18,10
+FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-12-12,-28,2,-18,-31,-13,9
+FR,France,Nouvelle-Aquitaine,Charente-Maritime,,FR-17,,2020-12-13,-19,26,-32,-44,-13,8
 FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-02-15,4,2,24,34,0,0
 FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-02-16,21,17,30,32,1,-2
 FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-02-17,1,7,-3,12,0,2
@@ -22271,6 +22417,8 @@ FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-12-08,-23,3,-13,-29,-20,7
 FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-12-09,-29,3,-4,-25,-21,6
 FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-12-10,-29,3,-14,-28,-17,7
 FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-12-11,-30,1,-13,-41,-19,9
+FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-12-12,-26,3,-26,-52,-19,7
+FR,France,Nouvelle-Aquitaine,Correze,,FR-19,,2020-12-13,-15,21,-19,-55,-15,5
 FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-02-15,19,0,19,18,2,-1
 FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-02-16,31,,39,52,2,
 FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-02-17,5,8,10,19,-3,2
@@ -22569,6 +22717,8 @@ FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-12-08,-21,2,-6,-23,-16,7
 FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-12-09,-29,1,-2,-29,-19,6
 FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-12-10,-29,6,-6,-26,-17,7
 FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-12-11,-26,0,-11,-40,-19,10
+FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-12-12,-25,-1,-29,-49,-15,9
+FR,France,Nouvelle-Aquitaine,Creuse,,FR-23,,2020-12-13,-22,,-14,-52,-10,7
 FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-02-15,-2,0,9,45,4,0
 FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-02-16,6,6,16,31,-3,-1
 FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-02-17,1,2,8,13,0,1
@@ -22870,6 +23020,8 @@ FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-12-08,-17,2,22,-19,-20,9
 FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-12-09,-26,-3,16,-21,-21,9
 FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-12-10,-29,2,9,-17,-22,10
 FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-12-11,-25,-3,-1,-29,-23,12
+FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-12-12,-21,2,17,-25,-11,10
+FR,France,Nouvelle-Aquitaine,Deux-Sèvres,,FR-79,,2020-12-13,-6,23,-2,-39,-17,9
 FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-02-15,7,1,22,16,0,0
 FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-02-16,26,10,38,18,1,-2
 FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-02-17,0,5,7,3,-1,2
@@ -23171,6 +23323,8 @@ FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-12-08,-20,5,8,-33,-15,5
 FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-12-09,-25,3,8,-29,-15,5
 FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-12-10,-25,6,6,-35,-16,5
 FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-12-11,-27,3,8,-30,-17,7
+FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-12-12,-25,4,-6,-43,-11,7
+FR,France,Nouvelle-Aquitaine,Dordogne,,FR-24,,2020-12-13,-16,13,0,-43,-13,5
 FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-02-15,6,3,58,20,1,-1
 FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-02-16,6,10,54,15,0,-1
 FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-02-17,-2,6,6,6,0,1
@@ -23472,6 +23626,8 @@ FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-12-08,-22,-1,-16,-29,-23,10
 FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-12-09,-28,-4,-30,-33,-25,11
 FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-12-10,-30,0,-36,-34,-24,11
 FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-12-11,-29,0,-36,-36,-24,13
+FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-12-12,-30,2,-32,-34,-19,9
+FR,France,Nouvelle-Aquitaine,Gironde,,FR-33,,2020-12-13,-21,11,-31,-41,-18,7
 FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-02-15,-4,-1,47,25,1,0
 FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-02-16,11,12,35,29,2,-1
 FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-02-17,1,1,2,6,-2,2
@@ -23773,6 +23929,8 @@ FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-12-08,-22,0,-10,-19,-21,9
 FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-12-09,-30,-5,-10,-32,-21,9
 FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-12-10,-30,-2,-15,-26,-20,9
 FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-12-11,-29,-2,-21,-29,-21,11
+FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-12-12,-29,-3,-26,-30,-15,9
+FR,France,Nouvelle-Aquitaine,Haute-Vienne,,FR-87,,2020-12-13,-1,13,-18,-51,-17,7
 FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-02-15,11,5,67,27,0,-1
 FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-02-16,23,22,79,10,2,-1
 FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-02-17,-1,3,12,4,1,2
@@ -24074,6 +24232,8 @@ FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-12-08,-18,2,-6,-19,-19,8
 FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-12-09,-22,-2,-15,-21,-15,8
 FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-12-10,-24,0,-17,-18,-17,9
 FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-12-11,-24,-1,-23,-30,-19,10
+FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-12-12,-22,2,-23,-36,-14,9
+FR,France,Nouvelle-Aquitaine,Landes,,FR-40,,2020-12-13,-17,9,-15,-43,-15,8
 FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-02-15,2,-1,19,25,3,0
 FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-02-16,25,15,24,19,3,-1
 FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-02-17,-2,3,1,6,0,2
@@ -24375,6 +24535,8 @@ FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-12-08,-17,4,-2,-25,-8,6
 FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-12-09,-23,-1,-6,-22,-13,7
 FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-12-10,-23,1,-7,-23,-11,7
 FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-12-11,-22,4,0,-25,-12,9
+FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-12-12,-22,4,-9,-38,-8,8
+FR,France,Nouvelle-Aquitaine,Lot-et-Garonne,,FR-47,,2020-12-13,-8,39,-6,-38,-7,6
 FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-02-15,7,0,61,19,2,-1
 FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-02-16,18,17,63,30,0,-2
 FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-02-17,-3,1,-14,1,0,2
@@ -24676,6 +24838,8 @@ FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-12-08,-25,3,-14
 FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-12-09,-31,-5,-27,-21,-23,10
 FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-12-10,-31,-5,-32,-24,-22,11
 FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-12-11,-32,-2,-33,-18,-22,12
+FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-12-12,-35,-3,-29,-31,-19,11
+FR,France,Nouvelle-Aquitaine,Pyrénées-Atlantiques,,FR-64,,2020-12-13,-18,9,3,-26,-16,7
 FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-02-15,14,0,19,20,3,-1
 FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-02-16,23,-7,36,17,-2,-1
 FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-02-17,6,2,18,11,0,1
@@ -24977,6 +25141,8 @@ FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-12-08,-29,0,1,-30,-19,10
 FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-12-09,-34,-4,-10,-33,-20,9
 FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-12-10,-35,2,1,-39,-18,10
 FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-12-11,-35,-2,-10,-36,-19,12
+FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-12-12,-32,-1,-9,-37,-16,10
+FR,France,Nouvelle-Aquitaine,Vienne,,FR-86,,2020-12-13,-25,26,-23,-50,-15,8
 FR,France,Occitanie,,,FR-OCC,,2020-02-15,-4,-4,32,19,-5,-2
 FR,France,Occitanie,,,FR-OCC,,2020-02-16,2,4,12,11,-2,-2
 FR,France,Occitanie,,,FR-OCC,,2020-02-17,0,1,16,-4,-24,5
@@ -25278,6 +25444,8 @@ FR,France,Occitanie,,,FR-OCC,,2020-12-08,-25,0,-19,-30,-22,10
 FR,France,Occitanie,,,FR-OCC,,2020-12-09,-29,-2,-19,-29,-23,10
 FR,France,Occitanie,,,FR-OCC,,2020-12-10,-32,0,-29,-32,-22,11
 FR,France,Occitanie,,,FR-OCC,,2020-12-11,-31,-1,-33,-31,-24,12
+FR,France,Occitanie,,,FR-OCC,,2020-12-12,-32,-1,-30,-36,-17,9
+FR,France,Occitanie,,,FR-OCC,,2020-12-13,-18,24,-4,-33,-11,6
 FR,France,Occitanie,Ariege,,FR-09,,2020-02-15,11,12,51,63,-2,-1
 FR,France,Occitanie,Ariege,,FR-09,,2020-02-16,37,30,56,,0,-1
 FR,France,Occitanie,Ariege,,FR-09,,2020-02-17,12,19,63,,-24,6
@@ -25579,6 +25747,8 @@ FR,France,Occitanie,Ariege,,FR-09,,2020-12-08,-16,5,3,-7,-13,8
 FR,France,Occitanie,Ariege,,FR-09,,2020-12-09,-21,2,-6,-4,-15,8
 FR,France,Occitanie,Ariege,,FR-09,,2020-12-10,-24,4,-6,-22,-14,9
 FR,France,Occitanie,Ariege,,FR-09,,2020-12-11,-27,2,-21,-5,-15,10
+FR,France,Occitanie,Ariege,,FR-09,,2020-12-12,-34,-3,-34,-54,-13,10
+FR,France,Occitanie,Ariege,,FR-09,,2020-12-13,-35,4,-18,-33,-14,7
 FR,France,Occitanie,Aude,,FR-11,,2020-02-15,5,-2,63,41,-1,-1
 FR,France,Occitanie,Aude,,FR-11,,2020-02-16,12,9,16,29,1,-1
 FR,France,Occitanie,Aude,,FR-11,,2020-02-17,2,3,17,15,-24,5
@@ -25880,6 +26050,8 @@ FR,France,Occitanie,Aude,,FR-11,,2020-12-08,-20,1,-24,-16,-19,9
 FR,France,Occitanie,Aude,,FR-11,,2020-12-09,-26,-1,-23,-18,-20,8
 FR,France,Occitanie,Aude,,FR-11,,2020-12-10,-27,2,-32,-12,-20,10
 FR,France,Occitanie,Aude,,FR-11,,2020-12-11,-28,5,-34,-28,-20,11
+FR,France,Occitanie,Aude,,FR-11,,2020-12-12,-30,-1,-40,-43,-19,10
+FR,France,Occitanie,Aude,,FR-11,,2020-12-13,-22,29,-16,-48,-18,6
 FR,France,Occitanie,Aveyron,,FR-12,,2020-02-15,-1,-4,26,39,-4,-1
 FR,France,Occitanie,Aveyron,,FR-12,,2020-02-16,17,6,24,35,-3,-3
 FR,France,Occitanie,Aveyron,,FR-12,,2020-02-17,0,5,16,-11,-24,6
@@ -26181,6 +26353,8 @@ FR,France,Occitanie,Aveyron,,FR-12,,2020-12-08,-23,1,-4,-27,-14,8
 FR,France,Occitanie,Aveyron,,FR-12,,2020-12-09,-25,-4,8,-29,-14,7
 FR,France,Occitanie,Aveyron,,FR-12,,2020-12-10,-30,-5,-4,-28,-14,9
 FR,France,Occitanie,Aveyron,,FR-12,,2020-12-11,-28,4,-1,-25,-17,11
+FR,France,Occitanie,Aveyron,,FR-12,,2020-12-12,-26,1,-9,-47,-12,10
+FR,France,Occitanie,Aveyron,,FR-12,,2020-12-13,-24,16,13,-33,-13,6
 FR,France,Occitanie,Gard,,FR-30,,2020-02-15,-1,-6,36,27,-5,-2
 FR,France,Occitanie,Gard,,FR-30,,2020-02-16,8,-4,-11,15,-3,-1
 FR,France,Occitanie,Gard,,FR-30,,2020-02-17,1,-1,0,-10,-22,5
@@ -26482,6 +26656,8 @@ FR,France,Occitanie,Gard,,FR-30,,2020-12-08,-21,1,-11,-33,-19,9
 FR,France,Occitanie,Gard,,FR-30,,2020-12-09,-25,2,-6,-35,-20,8
 FR,France,Occitanie,Gard,,FR-30,,2020-12-10,-27,1,-26,-35,-20,9
 FR,France,Occitanie,Gard,,FR-30,,2020-12-11,-29,-1,-29,-36,-21,11
+FR,France,Occitanie,Gard,,FR-30,,2020-12-12,-27,1,-20,-41,-19,9
+FR,France,Occitanie,Gard,,FR-30,,2020-12-13,-11,25,-3,-43,-12,6
 FR,France,Occitanie,Gers,,FR-32,,2020-02-15,-5,-8,16,,-5,0
 FR,France,Occitanie,Gers,,FR-32,,2020-02-16,3,1,8,,-4,-2
 FR,France,Occitanie,Gers,,FR-32,,2020-02-17,-2,-1,9,-38,-22,5
@@ -26783,6 +26959,8 @@ FR,France,Occitanie,Gers,,FR-32,,2020-12-08,-19,2,9,-16,-9,6
 FR,France,Occitanie,Gers,,FR-32,,2020-12-09,-23,-3,10,-9,-12,6
 FR,France,Occitanie,Gers,,FR-32,,2020-12-10,-25,0,11,,-10,7
 FR,France,Occitanie,Gers,,FR-32,,2020-12-11,-28,-1,6,-9,-11,8
+FR,France,Occitanie,Gers,,FR-32,,2020-12-12,-24,-1,3,,-9,8
+FR,France,Occitanie,Gers,,FR-32,,2020-12-13,-24,13,8,,-13,6
 FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-02-15,-10,-10,28,11,-7,-2
 FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-02-16,-10,1,-2,5,-2,-2
 FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-02-17,-3,-1,2,-7,-25,5
@@ -27084,6 +27262,8 @@ FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-12-08,-31,-3,-24,-33,-29,14
 FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-12-09,-35,-6,-36,-35,-30,14
 FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-12-10,-37,-3,-46,-37,-29,15
 FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-12-11,-35,-1,-42,-35,-31,16
+FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-12-12,-35,-1,-41,-39,-18,11
+FR,France,Occitanie,Haute-Garonne,,FR-31,,2020-12-13,-18,13,-11,-36,-10,8
 FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-02-15,3,9,41,39,-3,-1
 FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-02-16,29,34,85,56,-1,-3
 FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-02-17,17,23,117,16,-23,6
@@ -27385,6 +27565,8 @@ FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-12-08,-29,-7,-50,-8,-20,9
 FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-12-09,-34,-6,-48,-2,-21,8
 FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-12-10,-42,-11,-57,-3,-20,10
 FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-12-11,-41,-5,-65,-2,-19,12
+FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-12-12,-50,-16,-75,-45,-23,12
+FR,France,Occitanie,Hautes-Pyrénées,,FR-65,,2020-12-13,-41,-3,-55,-24,-23,7
 FR,France,Occitanie,Hérault,,FR-34,,2020-02-15,-4,-7,33,15,-6,-2
 FR,France,Occitanie,Hérault,,FR-34,,2020-02-16,-8,-9,-44,2,-6,0
 FR,France,Occitanie,Hérault,,FR-34,,2020-02-17,4,1,0,-4,-23,5
@@ -27686,6 +27868,8 @@ FR,France,Occitanie,Hérault,,FR-34,,2020-12-08,-24,2,-25,-32,-24,11
 FR,France,Occitanie,Hérault,,FR-34,,2020-12-09,-27,0,-18,-31,-24,10
 FR,France,Occitanie,Hérault,,FR-34,,2020-12-10,-31,0,-35,-36,-24,12
 FR,France,Occitanie,Hérault,,FR-34,,2020-12-11,-31,0,-38,-34,-25,13
+FR,France,Occitanie,Hérault,,FR-34,,2020-12-12,-29,3,-24,-29,-16,9
+FR,France,Occitanie,Hérault,,FR-34,,2020-12-13,-14,26,-4,-29,-11,6
 FR,France,Occitanie,Lot,,FR-46,,2020-02-15,3,-1,20,28,-3,0
 FR,France,Occitanie,Lot,,FR-46,,2020-02-16,25,14,33,29,-2,-2
 FR,France,Occitanie,Lot,,FR-46,,2020-02-17,-3,5,10,-16,-23,5
@@ -27987,6 +28171,8 @@ FR,France,Occitanie,Lot,,FR-46,,2020-12-08,-25,3,8,10,-19,6
 FR,France,Occitanie,Lot,,FR-46,,2020-12-09,-27,5,4,15,-22,6
 FR,France,Occitanie,Lot,,FR-46,,2020-12-10,-27,6,-1,14,-20,7
 FR,France,Occitanie,Lot,,FR-46,,2020-12-11,-30,6,4,7,-21,9
+FR,France,Occitanie,Lot,,FR-46,,2020-12-12,-28,3,-8,-1,-20,7
+FR,France,Occitanie,Lot,,FR-46,,2020-12-13,-27,22,1,-14,-20,6
 FR,France,Occitanie,Lozère,,FR-48,,2020-02-15,18,2,29,,-2,
 FR,France,Occitanie,Lozère,,FR-48,,2020-02-16,20,,7,,-3,
 FR,France,Occitanie,Lozère,,FR-48,,2020-02-17,8,5,15,27,-27,6
@@ -28282,6 +28468,8 @@ FR,France,Occitanie,Lozère,,FR-48,,2020-12-08,-25,5,3,-29,-10,8
 FR,France,Occitanie,Lozère,,FR-48,,2020-12-09,-25,10,5,-47,-12,6
 FR,France,Occitanie,Lozère,,FR-48,,2020-12-10,-36,-2,-6,-32,-13,9
 FR,France,Occitanie,Lozère,,FR-48,,2020-12-11,-28,16,-5,-31,-12,10
+FR,France,Occitanie,Lozère,,FR-48,,2020-12-12,-22,16,-10,-48,-15,9
+FR,France,Occitanie,Lozère,,FR-48,,2020-12-13,,,7,-48,-12,
 FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-02-15,-3,0,28,9,-3,0
 FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-02-16,12,15,35,17,0,-1
 FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-02-17,6,7,30,-4,-21,4
@@ -28583,6 +28771,8 @@ FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-12-08,-24,1,-22,-18,-16,8
 FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-12-09,-26,3,-26,-22,-19,8
 FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-12-10,-27,5,-27,-17,-15,8
 FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-12-11,-30,2,-36,-17,-17,10
+FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-12-12,-33,-2,-35,-30,-17,10
+FR,France,Occitanie,Pyrénées-Orientales,,FR-66,,2020-12-13,-21,33,-10,-13,-12,6
 FR,France,Occitanie,Tarn,,FR-81,,2020-02-15,-15,-9,-26,29,-6,-1
 FR,France,Occitanie,Tarn,,FR-81,,2020-02-16,13,21,20,132,-2,-3
 FR,France,Occitanie,Tarn,,FR-81,,2020-02-17,-5,-2,-24,-9,-27,6
@@ -28884,6 +29074,8 @@ FR,France,Occitanie,Tarn,,FR-81,,2020-12-08,-22,3,-22,-13,-19,9
 FR,France,Occitanie,Tarn,,FR-81,,2020-12-09,-24,0,-16,-12,-20,8
 FR,France,Occitanie,Tarn,,FR-81,,2020-12-10,-30,5,-24,-16,-20,9
 FR,France,Occitanie,Tarn,,FR-81,,2020-12-11,-29,8,-42,-8,-19,11
+FR,France,Occitanie,Tarn,,FR-81,,2020-12-12,-31,4,-49,-28,-17,10
+FR,France,Occitanie,Tarn,,FR-81,,2020-12-13,-8,149,-8,3,-12,6
 FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-02-15,-7,-5,23,164,-4,-1
 FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-02-16,9,7,19,52,3,-2
 FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-02-17,0,-1,-6,68,-25,6
@@ -29185,6 +29377,8 @@ FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-12-08,-22,-2,-10,-17,-22,8
 FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-12-09,-24,0,-10,-11,-20,8
 FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-12-10,-28,3,-18,-14,-22,9
 FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-12-11,-29,-3,-18,-24,-21,10
+FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-12-12,-31,-3,-22,-37,-16,9
+FR,France,Occitanie,Tarn-et-Garonne,,FR-82,,2020-12-13,-21,20,-5,-34,-12,7
 FR,France,Pays de la Loire,,,FR-PDL,,2020-02-15,-4,-2,5,11,-3,0
 FR,France,Pays de la Loire,,,FR-PDL,,2020-02-16,-5,0,-8,7,-1,-1
 FR,France,Pays de la Loire,,,FR-PDL,,2020-02-17,4,4,32,-4,-19,4
@@ -29486,6 +29680,8 @@ FR,France,Pays de la Loire,,,FR-PDL,,2020-12-08,-20,3,5,-22,-21,10
 FR,France,Pays de la Loire,,,FR-PDL,,2020-12-09,-27,-4,-9,-26,-21,9
 FR,France,Pays de la Loire,,,FR-PDL,,2020-12-10,-28,2,-3,-24,-21,10
 FR,France,Pays de la Loire,,,FR-PDL,,2020-12-11,-29,1,-21,-29,-22,12
+FR,France,Pays de la Loire,,,FR-PDL,,2020-12-12,-27,0,-12,-26,-15,10
+FR,France,Pays de la Loire,,,FR-PDL,,2020-12-13,-26,12,-37,-45,-18,9
 FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-02-15,-6,-6,3,9,-3,0
 FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-02-16,-6,-2,-24,4,-1,-1
 FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-02-17,6,2,49,-4,-19,4
@@ -29787,6 +29983,8 @@ FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-12-08,-20,5,0,-27,-24,1
 FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-12-09,-28,-3,-17,-32,-25,12
 FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-12-10,-29,2,-7,-32,-24,12
 FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-12-11,-31,0,-26,-35,-26,14
+FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-12-12,-29,-1,-7,-28,-14,10
+FR,France,Pays de la Loire,Loire-Atlantique,,FR-44,,2020-12-13,-32,-3,-48,-45,-17,9
 FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-02-15,-6,-3,12,19,-2,0
 FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-02-16,-2,-6,-9,11,0,-1
 FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-02-17,2,3,14,-5,-20,5
@@ -30088,6 +30286,8 @@ FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-12-08,-24,2,-6,4,-22,9
 FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-12-09,-30,-4,-11,3,-23,9
 FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-12-10,-29,2,-13,2,-22,9
 FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-12-11,-30,2,-21,-7,-23,12
+FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-12-12,-29,1,-15,-4,-19,11
+FR,France,Pays de la Loire,Maine-et-Loire,,FR-49,,2020-12-13,-19,8,-36,-35,-22,9
 FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-02-15,-7,-1,-6,42,-4,0
 FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-02-16,2,-10,-18,27,-5,-1
 FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-02-17,0,2,11,0,-20,5
@@ -30389,6 +30589,8 @@ FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-12-08,-19,7,6,-20,-15,7
 FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-12-09,-25,0,7,-22,-14,7
 FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-12-10,-25,4,-3,-24,-15,8
 FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-12-11,-29,2,-10,-25,-13,11
+FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-12-12,-21,1,-16,-32,-13,10
+FR,France,Pays de la Loire,Mayenne,,FR-53,,2020-12-13,-3,40,-25,-48,-12,9
 FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-02-15,-4,-2,10,35,-2,1
 FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-02-16,1,-3,-6,19,-3,0
 FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-02-17,4,4,15,4,-20,4
@@ -30690,6 +30892,8 @@ FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-12-08,-20,2,1,-21,-19,8
 FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-12-09,-26,-6,-9,-24,-20,8
 FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-12-10,-26,0,-13,-26,-21,9
 FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-12-11,-27,0,-13,-31,-20,11
+FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-12-12,-26,-4,-17,-33,-16,10
+FR,France,Pays de la Loire,Sarthe,,FR-72,,2020-12-13,-6,25,-29,-54,-18,8
 FR,France,Pays de la Loire,Vendée,,FR-85,,2020-02-15,0,0,14,37,-1,0
 FR,France,Pays de la Loire,Vendée,,FR-85,,2020-02-16,5,10,7,13,0,0
 FR,France,Pays de la Loire,Vendée,,FR-85,,2020-02-17,9,8,39,-11,-19,5
@@ -30991,6 +31195,8 @@ FR,France,Pays de la Loire,Vendée,,FR-85,,2020-12-08,-12,5,15,-7,-13,8
 FR,France,Pays de la Loire,Vendée,,FR-85,,2020-12-09,-20,0,-3,-11,-13,7
 FR,France,Pays de la Loire,Vendée,,FR-85,,2020-12-10,-20,6,7,0,-14,7
 FR,France,Pays de la Loire,Vendée,,FR-85,,2020-12-11,-22,3,-18,-8,-14,10
+FR,France,Pays de la Loire,Vendée,,FR-85,,2020-12-12,-22,0,-11,-8,-9,10
+FR,France,Pays de la Loire,Vendée,,FR-85,,2020-12-13,-25,15,-41,-32,-19,10
 FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-02-15,1,3,37,18,0,-1
 FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-02-16,5,6,1,13,-1,0
 FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-02-17,1,0,17,0,-19,4
@@ -31292,6 +31498,8 @@ FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-12-08,-24,2,-20,-29,-23,9
 FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-12-09,-29,-1,-17,-30,-23,9
 FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-12-10,-29,1,-26,-33,-22,9
 FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-12-11,-31,-1,-30,-33,-23,11
+FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-12-12,-31,1,-25,-35,-20,9
+FR,France,Provence-Alpes-Côte d'Azur,,,FR-PAC,,2020-12-13,-20,11,-14,-33,-15,6
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-02-15,12,12,35,54,7,-1
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-02-16,37,25,46,36,-1,0
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-02-17,26,19,65,6,-19,4
@@ -31593,6 +31801,8 @@ FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-12-08
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-12-09,-26,1,-11,-44,-24,8
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-12-10,-32,3,-20,-48,-22,8
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-12-11,-36,-2,-41,-55,-23,11
+FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-12-12,-33,0,-37,-52,-22,9
+FR,France,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,,FR-04,,2020-12-13,-30,23,-13,-59,-23,7
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-02-15,6,-1,64,19,0,-1
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-02-16,2,7,29,14,-2,0
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-02-17,5,2,33,2,-17,4
@@ -31894,6 +32104,8 @@ FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-12-08,-27,3,-
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-12-09,-31,1,-19,-25,-25,10
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-12-10,-33,1,-27,-28,-23,11
 FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-12-11,-33,1,-21,-28,-25,11
+FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-12-12,-35,-2,-34,-35,-22,10
+FR,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,,FR-06,,2020-12-13,-27,4,-8,-30,-19,7
 FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-02-15,-5,-3,27,8,-1,-1
 FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-02-16,-4,-1,-17,4,-1,0
 FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-02-17,-2,-5,-18,-4,-20,4
@@ -32195,6 +32407,8 @@ FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-12-08,-23,3,
 FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-12-09,-30,-3,-24,-34,-25,10
 FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-12-10,-29,0,-32,-35,-23,10
 FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-12-11,-29,2,-26,-36,-25,12
+FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-12-12,-29,4,-19,-31,-16,8
+FR,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhone,,FR-13,,2020-12-13,-21,20,-11,-34,-10,6
 FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-02-15,17,12,36,98,1,0
 FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-02-16,52,48,64,42,4,-1
 FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-02-17,50,48,104,22,-15,4
@@ -32496,6 +32710,8 @@ FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-12-08,-34,-9,-37
 FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-12-09,-39,-15,-39,-51,-22,9
 FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-12-10,-41,-13,-44,-54,-22,9
 FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-12-11,-55,-26,-60,-53,-24,13
+FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-12-12,-57,-37,-61,-73,-36,13
+FR,France,Provence-Alpes-Côte d'Azur,Hautes-Alpes,,FR-05,,2020-12-13,-52,-23,-44,-65,-36,8
 FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-02-15,0,-3,25,30,0,-1
 FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-02-16,0,-4,-21,17,-2,1
 FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-02-17,0,-2,-6,0,-20,5
@@ -32797,6 +33013,8 @@ FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-12-08,-19,4,-17,-23,-19,8
 FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-12-09,-20,2,8,-23,-19,8
 FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-12-10,-21,5,-16,-25,-19,8
 FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-12-11,-26,3,-18,-28,-19,10
+FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-12-12,-27,3,-1,-37,-17,8
+FR,France,Provence-Alpes-Côte d'Azur,Var,,FR-83,,2020-12-13,-14,7,-2,-36,-13,6
 FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-02-15,0,1,50,29,0,-1
 FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-02-16,10,9,16,24,-1,-1
 FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-02-17,0,3,2,-1,-20,5
@@ -33098,3 +33316,5 @@ FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-12-08,-21,4,-5,-36,-
 FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-12-09,-27,-3,-5,-35,-19,9
 FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-12-10,-27,0,-10,-40,-20,9
 FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-12-11,-32,0,-18,-41,-21,11
+FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-12-12,-30,1,-8,-41,-19,9
+FR,France,Provence-Alpes-Côte d'Azur,Vaucluse,,FR-84,,2020-12-13,-13,39,6,-51,-12,6
