@@ -302,6 +302,8 @@ BE,Belgium,,,,,,2020-12-10,-39,-1,-1,-35,-28,14
 BE,Belgium,,,,,,2020-12-11,-44,-1,-26,-35,-28,16
 BE,Belgium,,,,,,2020-12-12,-44,-4,-14,-34,-14,12
 BE,Belgium,,,,,,2020-12-13,-47,-8,16,-33,-14,8
+BE,Belgium,,,,,,2020-12-14,-31,-3,-6,-35,-29,13
+BE,Belgium,,,,,,2020-12-15,-30,3,1,-35,-31,13
 BE,Belgium,Brussels,,,BE-BRU,,2020-02-15,11,8,89,18,1,-1
 BE,Belgium,Brussels,,,BE-BRU,,2020-02-16,-1,-2,-1,8,-5,1
 BE,Belgium,Brussels,,,BE-BRU,,2020-02-17,2,1,15,4,4,0
@@ -605,6 +607,8 @@ BE,Belgium,Brussels,,,BE-BRU,,2020-12-10,-53,-13,-12,-48,-43,16
 BE,Belgium,Brussels,,,BE-BRU,,2020-12-11,-54,-15,-33,-44,-43,17
 BE,Belgium,Brussels,,,BE-BRU,,2020-12-12,-51,-17,-7,-36,-22,10
 BE,Belgium,Brussels,,,BE-BRU,,2020-12-13,-51,-17,20,-36,-24,7
+BE,Belgium,Brussels,,,BE-BRU,,2020-12-14,-48,-17,-15,-46,-47,15
+BE,Belgium,Brussels,,,BE-BRU,,2020-12-15,-48,-11,-12,-47,-44,15
 BE,Belgium,Flanders,,,BE-VLG,,2020-02-15,2,1,15,6,1,-1
 BE,Belgium,Flanders,,,BE-VLG,,2020-02-16,-11,-3,-42,-5,-3,1
 BE,Belgium,Flanders,,,BE-VLG,,2020-02-17,0,2,10,6,3,0
@@ -908,6 +912,8 @@ BE,Belgium,Flanders,,,BE-VLG,,2020-12-10,-40,3,4,-35,-25,15
 BE,Belgium,Flanders,,,BE-VLG,,2020-12-11,-46,3,-27,-36,-26,16
 BE,Belgium,Flanders,,,BE-VLG,,2020-12-12,-46,-1,-18,-37,-14,13
 BE,Belgium,Flanders,,,BE-VLG,,2020-12-13,-50,-4,7,-33,-13,9
+BE,Belgium,Flanders,,,BE-VLG,,2020-12-14,-32,0,2,-35,-28,13
+BE,Belgium,Flanders,,,BE-VLG,,2020-12-15,-30,8,7,-36,-31,14
 BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-02-15,2,1,6,0,1,-1
 BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-02-16,-9,-4,-38,-6,-5,1
 BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-02-17,-3,0,1,4,3,0
@@ -1211,6 +1217,8 @@ BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-12-10,-43,2,-1,-39,-27,15
 BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-12-11,-48,2,-24,-38,-26,16
 BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-12-12,-49,-3,-10,-43,-12,13
 BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-12-13,-51,-3,20,-33,-11,9
+BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-12-14,-35,-1,-9,-36,-29,13
+BE,Belgium,Flanders,Antwerp,,BE-VAN,,2020-12-15,-34,5,-1,-35,-31,14
 BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-02-15,1,0,15,4,1,-1
 BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-02-16,-3,0,-35,-4,0,1
 BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-02-17,3,3,5,8,4,0
@@ -1514,6 +1522,8 @@ BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-12-10,-38,4,2,-31,-26,15
 BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-12-11,-43,7,-31,-33,-26,17
 BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-12-12,-45,1,-13,-36,-9,13
 BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-12-13,-46,0,13,-25,-10,9
+BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-12-14,-30,4,0,-33,-29,14
+BE,Belgium,Flanders,East Flanders,,BE-VOV,,2020-12-15,-29,11,6,-35,-32,14
 BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-02-15,-1,-1,13,5,0,-1
 BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-02-16,-10,-3,-31,0,-3,1
 BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-02-17,4,3,7,8,5,0
@@ -1817,6 +1827,8 @@ BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-12-10,-37,-2,-7,-43,-33,18
 BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-12-11,-42,-1,-27,-41,-33,19
 BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-12-12,-41,-7,-2,-33,-15,13
 BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-12-13,-45,-11,49,-44,-12,9
+BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-12-14,-28,-4,7,-44,-37,16
+BE,Belgium,Flanders,Flemish Brabant,,BE-VBR,,2020-12-15,-29,2,4,-47,-41,17
 BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-02-15,2,-1,18,9,-1,-1
 BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-02-16,-4,0,-39,-6,-3,1
 BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-02-17,0,0,11,5,3,0
@@ -2120,6 +2132,8 @@ BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-12-10,-38,4,7,-23,-19,13
 BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-12-11,-42,7,-16,-27,-21,15
 BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-12-12,-46,-1,-7,-27,-17,13
 BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-12-13,-50,-5,29,-14,-13,9
+BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-12-14,-31,0,1,-22,-19,12
+BE,Belgium,Flanders,Limburg,,BE-VLI,,2020-12-15,-28,11,-4,-22,-22,13
 BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-02-15,5,1,11,10,2,-1
 BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-02-16,-13,-7,-43,-12,-2,2
 BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-02-17,2,1,17,4,3,1
@@ -2423,6 +2437,8 @@ BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-12-10,-35,11,7,-18,-18,13
 BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-12-11,-44,9,-33,-25,-20,15
 BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-12-12,-45,4,-42,-35,-13,13
 BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-12-13,-47,2,-8,-23,-15,10
+BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-12-14,-27,8,6,-22,-22,12
+BE,Belgium,Flanders,West Flanders,,BE-VWV,,2020-12-15,-23,16,24,-20,-22,11
 BE,Belgium,Wallonia,,,BE-WAL,,2020-02-15,3,1,25,7,2,-1
 BE,Belgium,Wallonia,,,BE-WAL,,2020-02-16,0,-4,-14,-3,-2,1
 BE,Belgium,Wallonia,,,BE-WAL,,2020-02-17,1,2,4,1,2,0
@@ -2726,6 +2742,8 @@ BE,Belgium,Wallonia,,,BE-WAL,,2020-12-10,-28,-4,-4,-28,-26,12
 BE,Belgium,Wallonia,,,BE-WAL,,2020-12-11,-35,-4,-22,-31,-26,14
 BE,Belgium,Wallonia,,,BE-WAL,,2020-12-12,-36,-6,-7,-30,-15,11
 BE,Belgium,Wallonia,,,BE-WAL,,2020-12-13,-36,-11,32,-31,-16,7
+BE,Belgium,Wallonia,,,BE-WAL,,2020-12-14,-22,-6,-13,-30,-28,11
+BE,Belgium,Wallonia,,,BE-WAL,,2020-12-15,-21,-1,-6,-29,-27,11
 BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-02-15,2,-1,13,5,1,0
 BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-02-16,-3,-4,-29,-6,-3,1
 BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-02-17,1,1,2,2,2,0
@@ -3029,6 +3047,8 @@ BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-12-10,-25,-6,0,-32,-24,11
 BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-12-11,-33,-4,-28,-35,-25,13
 BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-12-12,-37,-8,-2,-31,-15,11
 BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-12-13,-39,-11,38,-42,-15,7
+BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-12-14,-20,-5,-15,-36,-26,10
+BE,Belgium,Wallonia,Hainaut,,BE-WHT,,2020-12-15,-19,0,-4,-34,-25,10
 BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-02-15,3,-1,25,7,1,0
 BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-02-16,0,-6,-8,1,-2,0
 BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-02-17,1,1,5,-1,0,1
@@ -3332,6 +3352,8 @@ BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-12-10,-29,-6,-19,-25,-26,12
 BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-12-11,-37,-3,-29,-27,-25,14
 BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-12-12,-36,-5,-19,-28,-17,11
 BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-12-13,-35,-12,19,-20,-15,6
+BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-12-14,-23,-7,-25,-29,-28,11
+BE,Belgium,Wallonia,Liege,,BE-WLG,,2020-12-15,-22,-2,-23,-23,-26,11
 BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-02-15,4,1,22,2,2,-1
 BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-02-16,0,-2,2,-1,0,0
 BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-02-17,3,2,15,-1,0,1
@@ -3635,6 +3657,8 @@ BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-12-10,-27,4,10,-15,-21,12
 BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-12-11,-33,2,-14,-20,-24,15
 BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-12-12,-36,-4,-10,-29,-14,11
 BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-12-13,-46,-3,10,-27,-20,8
+BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-12-14,-22,0,13,-13,-23,11
+BE,Belgium,Wallonia,Luxembourg,,BE-WLX,,2020-12-15,-19,5,9,-12,-23,12
 BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-02-15,4,3,26,12,2,-1
 BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-02-16,-2,-2,-7,-2,0,1
 BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-02-17,0,1,13,1,4,0
@@ -3938,6 +3962,8 @@ BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-12-10,-28,-3,-2,-28,-27,12
 BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-12-11,-34,0,-15,-30,-26,15
 BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-12-12,-33,0,-16,-30,-11,11
 BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-12-13,-31,-8,26,-25,-14,7
+BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-12-14,-20,-9,-4,-30,-30,12
+BE,Belgium,Wallonia,Province of Namur,,BE-WNA,,2020-12-15,-22,0,-4,-30,-29,12
 BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-02-15,3,1,21,10,1,-1
 BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-02-16,-5,-3,-51,-6,-7,1
 BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-02-17,3,2,5,0,4,0
@@ -4241,3 +4267,5 @@ BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-12-10,-29,-3,46,-32,-36,16
 BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-12-11,-34,-2,9,-30,-37,18
 BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-12-12,-33,-4,16,-32,-16,12
 BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-12-13,-25,-5,55,-15,-15,7
+BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-12-14,-23,-3,35,-34,-38,15
+BE,Belgium,Wallonia,Walloon Brabant,,BE-WBR,,2020-12-15,-23,2,32,-34,-36,16
