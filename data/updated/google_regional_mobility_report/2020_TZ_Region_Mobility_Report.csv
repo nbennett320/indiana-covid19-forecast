@@ -304,6 +304,11 @@ TZ,Tanzania,,,,,,2020-12-12,-5,12,9,13,-14,6
 TZ,Tanzania,,,,,,2020-12-13,-8,-10,13,10,-20,7
 TZ,Tanzania,,,,,,2020-12-14,-8,9,10,9,-15,7
 TZ,Tanzania,,,,,,2020-12-15,-3,11,9,14,-16,6
+TZ,Tanzania,,,,,,2020-12-16,-1,14,10,14,-13,6
+TZ,Tanzania,,,,,,2020-12-17,1,16,10,18,-14,6
+TZ,Tanzania,,,,,,2020-12-18,-2,9,10,14,-16,6
+TZ,Tanzania,,,,,,2020-12-19,-2,13,13,16,-15,5
+TZ,Tanzania,,,,,,2020-12-20,-5,-8,15,14,-20,6
 TZ,Tanzania,Arusha Region,,,TZ-01,,2020-02-15,-1,6,5,-1,2,0
 TZ,Tanzania,Arusha Region,,,TZ-01,,2020-02-16,-3,0,12,2,-3,
 TZ,Tanzania,Arusha Region,,,TZ-01,,2020-02-17,0,5,4,1,2,-1
@@ -606,6 +611,11 @@ TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-12,-10,-4,-14,16,-15,3
 TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-13,-17,-24,-12,6,-20,4
 TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-14,-12,-7,-17,9,-14,4
 TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-15,-13,-14,-16,8,-16,4
+TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-16,-12,-11,-16,12,-16,4
+TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-17,-15,-13,-13,6,-18,5
+TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-18,-13,-12,-11,9,-17,4
+TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-19,-11,-11,-6,14,-17,2
+TZ,Tanzania,Arusha Region,,,TZ-01,,2020-12-20,-13,-21,-8,10,-18,3
 TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-02-15,,,,0,-1,
 TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-02-16,,,,5,1,
 TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-02-17,,,,7,2,
@@ -886,6 +896,11 @@ TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-12,,,,-50,-15,
 TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-13,,,,-59,-17,
 TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-14,,,,-55,-10,
 TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-15,,,,-60,-12,
+TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-16,,,,-56,-10,
+TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-17,,,,-55,-14,
+TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-18,,,,-53,-13,
+TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-19,,,,-57,-17,
+TZ,Tanzania,Arusha Region,Arusha Rural,,,,2020-12-20,,,,-57,-15,
 TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-02-15,1,3,-9,-3,1,1
 TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-02-16,-2,-4,2,5,-4,-1
 TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-02-17,1,5,3,1,1,0
@@ -1189,6 +1204,11 @@ TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-12,-7,3,8,24,-18,7
 TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-13,-16,-23,26,17,-24,4
 TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-14,-12,2,7,18,-16,5
 TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-15,-12,-4,8,18,-18,6
+TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-16,-9,0,9,21,-19,4
+TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-17,-13,-2,4,14,-22,5
+TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-18,-9,-3,6,22,-21,7
+TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-19,-9,-2,16,22,-21,4
+TZ,Tanzania,Arusha Region,Arusha Urban,,,,2020-12-20,-11,-17,14,24,-21,3
 TZ,Tanzania,Arusha Region,Meru,,,,2020-02-15,,,,-6,,
 TZ,Tanzania,Arusha Region,Meru,,,,2020-02-19,,,,23,,
 TZ,Tanzania,Arusha Region,Meru,,,,2020-02-22,,,,9,,
@@ -1418,6 +1438,11 @@ TZ,Tanzania,Arusha Region,Meru,,,,2020-12-12,,,,11,-23,
 TZ,Tanzania,Arusha Region,Meru,,,,2020-12-13,,,,,-35,
 TZ,Tanzania,Arusha Region,Meru,,,,2020-12-14,,,,,-28,
 TZ,Tanzania,Arusha Region,Meru,,,,2020-12-15,,,,,-32,
+TZ,Tanzania,Arusha Region,Meru,,,,2020-12-16,,,,12,-32,
+TZ,Tanzania,Arusha Region,Meru,,,,2020-12-17,,,,,-31,
+TZ,Tanzania,Arusha Region,Meru,,,,2020-12-18,,,,,-33,
+TZ,Tanzania,Arusha Region,Meru,,,,2020-12-19,,,,14,-22,
+TZ,Tanzania,Arusha Region,Meru,,,,2020-12-20,,,,,-34,
 TZ,Tanzania,Dar es Salam,,,,,2020-02-15,-3,-5,4,-5,2,1
 TZ,Tanzania,Dar es Salam,,,,,2020-02-16,-2,-5,-2,-2,4,1
 TZ,Tanzania,Dar es Salam,,,,,2020-02-17,-4,-4,-3,-2,1,1
@@ -1723,6 +1748,11 @@ TZ,Tanzania,Dar es Salam,,,,,2020-12-12,2,-22,49,10,-10,6
 TZ,Tanzania,Dar es Salam,,,,,2020-12-13,-2,-26,32,9,-16,7
 TZ,Tanzania,Dar es Salam,,,,,2020-12-14,1,-24,46,7,-12,7
 TZ,Tanzania,Dar es Salam,,,,,2020-12-15,2,-21,49,12,-12,7
+TZ,Tanzania,Dar es Salam,,,,,2020-12-16,2,-18,44,13,-9,6
+TZ,Tanzania,Dar es Salam,,,,,2020-12-17,7,-17,52,17,-9,7
+TZ,Tanzania,Dar es Salam,,,,,2020-12-18,3,-22,49,13,-11,6
+TZ,Tanzania,Dar es Salam,,,,,2020-12-19,4,-21,52,13,-10,5
+TZ,Tanzania,Dar es Salam,,,,,2020-12-20,2,-25,32,11,-14,6
 TZ,Tanzania,Dar es Salam,Ilala,,,,2020-02-15,-7,-7,15,-8,0,2
 TZ,Tanzania,Dar es Salam,Ilala,,,,2020-02-16,-2,-10,18,-2,3,2
 TZ,Tanzania,Dar es Salam,Ilala,,,,2020-02-17,-10,-6,0,-1,2,0
@@ -2028,6 +2058,11 @@ TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-12,-2,-45,53,8,-8,7
 TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-13,-8,-50,40,5,-11,7
 TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-14,0,-42,55,10,-6,7
 TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-15,5,-39,48,19,-9,7
+TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-16,4,-38,46,14,-7,6
+TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-17,1,-39,57,17,-6,6
+TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-18,1,-43,60,14,-8,7
+TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-19,0,-46,57,10,-8,6
+TZ,Tanzania,Dar es Salam,Ilala,,,,2020-12-20,-6,-50,38,6,-11,6
 TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-02-15,2,-2,-4,-3,3,0
 TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-02-16,0,-4,-7,-4,4,1
 TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-02-17,-3,-4,-5,-2,1,1
@@ -2333,6 +2368,11 @@ TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-12,13,0,39,23,-10,6
 TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-13,8,-11,29,15,-13,7
 TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-14,3,-13,37,15,-13,8
 TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-15,7,-5,42,19,-14,8
+TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-16,6,-2,30,21,-9,7
+TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-17,10,2,37,25,-12,8
+TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-18,10,-2,30,23,-13,5
+TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-19,13,1,37,29,-10,5
+TZ,Tanzania,Dar es Salam,Kinondoni,,,,2020-12-20,13,-8,28,20,-11,6
 TZ,Tanzania,Dar es Salam,Temeke,,,,2020-02-15,-3,-8,2,0,1,2
 TZ,Tanzania,Dar es Salam,Temeke,,,,2020-02-16,-9,-5,-11,1,2,0
 TZ,Tanzania,Dar es Salam,Temeke,,,,2020-02-17,-2,-5,,-5,-1,1
@@ -2638,6 +2678,11 @@ TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-12,-2,-9,,-9,-16,7
 TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-13,-10,-12,,-5,-21,8
 TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-14,-1,-4,,-9,-13,7
 TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-15,0,-5,,-4,-15,8
+TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-16,4,-1,,-6,-13,8
+TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-17,10,-2,,-1,-13,7
+TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-18,5,-17,,-7,-12,7
+TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-19,10,-6,,-6,-16,6
+TZ,Tanzania,Dar es Salam,Temeke,,,,2020-12-20,-6,-15,,-6,-21,8
 TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-02-15,-4,,,-7,7,
 TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-02-16,0,,,-5,7,
 TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-02-17,3,,,0,3,8
@@ -2937,6 +2982,11 @@ TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-12,7,,,16,-21,-1
 TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-13,14,,,33,-29,
 TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-14,15,,,23,-18,0
 TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-15,23,,,36,-19,3
+TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-16,20,,,40,-15,2
+TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-17,34,,,47,-20,0
+TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-18,29,,,39,-18,-1
+TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-19,22,,,37,-23,
+TZ,Tanzania,Dodoma Region,,,TZ-03,,2020-12-20,9,,,26,-33,
 TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-02-15,-6,,,-5,9,2
 TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-02-16,1,,,-5,9,3
 TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-02-17,3,,,-1,2,10
@@ -3241,6 +3291,11 @@ TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-12,10,,,17,-24,1
 TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-13,18,,,33,-33,5
 TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-14,18,,,25,-21,4
 TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-15,28,,,38,-24,3
+TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-16,22,,,44,-22,3
+TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-17,37,,,50,-25,2
+TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-18,34,,,40,-23,2
+TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-19,26,,,38,-28,4
+TZ,Tanzania,Dodoma Region,Dodoma Urban,,,,2020-12-20,13,,,28,-39,6
 TZ,Tanzania,Geita Region,,,,,2020-02-17,,,,,-2,
 TZ,Tanzania,Geita Region,,,,,2020-02-18,,,,,-2,
 TZ,Tanzania,Geita Region,,,,,2020-02-19,,,,,0,
@@ -3450,6 +3505,10 @@ TZ,Tanzania,Geita Region,,,,,2020-12-11,,,,,-18,
 TZ,Tanzania,Geita Region,,,,,2020-12-12,,,,,-14,
 TZ,Tanzania,Geita Region,,,,,2020-12-14,,,,,-18,
 TZ,Tanzania,Geita Region,,,,,2020-12-15,,,,,-22,
+TZ,Tanzania,Geita Region,,,,,2020-12-16,,,,,-19,
+TZ,Tanzania,Geita Region,,,,,2020-12-17,,,,,-17,
+TZ,Tanzania,Geita Region,,,,,2020-12-18,,,,,-23,
+TZ,Tanzania,Geita Region,,,,,2020-12-19,,,,,-24,
 TZ,Tanzania,Geita Region,Geita,,,,2020-02-18,,,,,-6,
 TZ,Tanzania,Geita Region,Geita,,,,2020-02-19,,,,,-7,
 TZ,Tanzania,Geita Region,Geita,,,,2020-02-26,,,,,0,
@@ -3634,6 +3693,11 @@ TZ,Tanzania,Geita Region,Geita,,,,2020-12-12,,,,,-10,
 TZ,Tanzania,Geita Region,Geita,,,,2020-12-13,,,,,-12,
 TZ,Tanzania,Geita Region,Geita,,,,2020-12-14,,,,,-14,
 TZ,Tanzania,Geita Region,Geita,,,,2020-12-15,,,,,-21,
+TZ,Tanzania,Geita Region,Geita,,,,2020-12-16,,,,,-16,
+TZ,Tanzania,Geita Region,Geita,,,,2020-12-17,,,,,-15,
+TZ,Tanzania,Geita Region,Geita,,,,2020-12-18,,,,,-12,
+TZ,Tanzania,Geita Region,Geita,,,,2020-12-19,,,,,-23,
+TZ,Tanzania,Geita Region,Geita,,,,2020-12-20,,,,,-19,
 TZ,Tanzania,Iringa Region,,,TZ-04,,2020-02-15,,,,6,5,
 TZ,Tanzania,Iringa Region,,,TZ-04,,2020-02-16,,,,6,7,
 TZ,Tanzania,Iringa Region,,,TZ-04,,2020-02-17,,,,2,-8,
@@ -3914,6 +3978,11 @@ TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-12,,,,15,-20,
 TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-13,,,,21,-24,
 TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-14,,,,16,-24,
 TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-15,,,,16,-30,
+TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-16,,,,18,-25,
+TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-17,,,,16,-22,
+TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-18,,,,13,-27,
+TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-19,,,,11,-28,
+TZ,Tanzania,Iringa Region,,,TZ-04,,2020-12-20,,,,12,-23,
 TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-02-15,,,,8,10,
 TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-02-16,,,,3,6,
 TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-02-17,,,,3,-7,
@@ -4194,6 +4263,11 @@ TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-12,,,,21,-24,
 TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-13,,,,21,-28,
 TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-14,,,,15,-25,
 TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-15,,,,12,-28,
+TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-16,,,,19,-24,
+TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-17,,,,12,-24,
+TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-18,,,,11,-27,
+TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-19,,,,11,-24,
+TZ,Tanzania,Iringa Region,Iringa Urban,,,,2020-12-20,,,,8,-23,
 TZ,Tanzania,Kagera Region,,,TZ-05,,2020-02-15,,,,-17,-2,
 TZ,Tanzania,Kagera Region,,,TZ-05,,2020-02-16,,,,-15,,
 TZ,Tanzania,Kagera Region,,,TZ-05,,2020-02-17,,,,3,2,
@@ -4459,6 +4533,11 @@ TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-12,,,,-26,-18,
 TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-13,,,,-18,,
 TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-14,,,,-11,-24,
 TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-15,,,,-13,-26,
+TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-16,,,,-1,-22,
+TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-17,,,,,-18,
+TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-18,,,,-13,-23,
+TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-19,,,,-19,-19,
+TZ,Tanzania,Kagera Region,,,TZ-05,,2020-12-20,,,,-16,,
 TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-02-15,,,,-29,,
 TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-02-16,,,,-25,,
 TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-02-17,,,,9,,
@@ -4731,6 +4810,11 @@ TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-12,,,,-41,-23,
 TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-13,,,,-30,,
 TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-14,,,,-13,-18,
 TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-15,,,,-25,-20,
+TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-16,,,,-16,-20,
+TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-17,,,,-1,-24,
+TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-18,,,,-18,-22,
+TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-19,,,,-30,-32,
+TZ,Tanzania,Kagera Region,Bukoba Urban,,,,2020-12-20,,,,-37,,
 TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-02-15,,,,,-11,
 TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-02-17,,,,,0,
 TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-02-18,,,,,2,
@@ -4971,6 +5055,10 @@ TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-11,,,,,-25,
 TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-12,,,,,-22,
 TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-14,,,,,-26,
 TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-15,,,,,-22,
+TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-16,,,,,-17,
+TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-17,,,,,-27,
+TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-18,,,,,-25,
+TZ,Tanzania,Kigoma Region,,,TZ-08,,2020-12-19,,,,,-26,
 TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-02-15,,,,-4,,
 TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-02-16,,,,5,,
 TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-02-17,,,,4,,
@@ -5250,6 +5338,11 @@ TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-12,,,,-14,-19,
 TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-13,,,,-26,,
 TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-14,,,,-11,-16,
 TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-15,,,,-10,-22,
+TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-16,,,,-11,-12,
+TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-17,,,,-16,-25,
+TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-18,,,,-6,-22,
+TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-19,,,,-7,-20,
+TZ,Tanzania,Kigoma Region,Kigoma Urban,,,,2020-12-20,,,,-14,,
 TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-02-15,,,-6,-6,-7,
 TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-02-16,,,-8,-1,-3,
 TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-02-17,,,-3,-4,-5,
@@ -5530,6 +5623,11 @@ TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-12,-25,,32,1,-23,
 TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-13,,,41,-5,-33,
 TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-14,,,33,-5,-29,
 TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-15,,,28,1,-27,
+TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-16,,,25,3,-24,
+TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-17,,,32,8,-26,
+TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-18,-34,,20,-1,-28,
+TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-19,-29,,35,5,-29,
+TZ,Tanzania,Kilimanjaro Region,,,TZ-09,,2020-12-20,,,49,3,-29,
 TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-02-15,,,,-2,,
 TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-02-16,,,,14,,
 TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-02-17,,,,1,,
@@ -5810,6 +5908,11 @@ TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-12,,,,-10,,
 TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-13,,,,-10,,
 TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-14,,,,-13,,
 TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-15,,,,-18,,
+TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-16,,,,-20,-31,
+TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-17,,,,-8,,
+TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-18,,,,-14,,
+TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-19,,,,-20,,
+TZ,Tanzania,Kilimanjaro Region,Hai,,,,2020-12-20,,,,-14,,
 TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-02-17,,,,,-26,
 TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-02-18,,,,,-20,
 TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-02-19,,,,,-22,
@@ -6044,6 +6147,11 @@ TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-12,,,,,-28,
 TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-13,,,,,-39,
 TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-14,,,,,-31,
 TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-15,,,,,-25,
+TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-16,,,,,-25,
+TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-17,,,,,-30,
+TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-18,,,,,-27,
+TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-19,,,,,-25,
+TZ,Tanzania,Kilimanjaro Region,Moshi Rural,,,,2020-12-20,,,,,-33,
 TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-02-15,-10,,,-4,3,
 TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-02-16,-3,,,-1,4,
 TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-02-17,-9,,,-4,2,
@@ -6324,6 +6432,11 @@ TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-12,-21,,,3,-15,
 TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-13,,,,-4,-24,
 TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-14,-29,,,-3,-25,
 TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-15,-35,,,4,-22,
+TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-16,-27,,,6,-19,
+TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-17,-27,,,16,-21,
+TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-18,-29,,,4,-23,
+TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-19,-27,,,8,-20,
+TZ,Tanzania,Kilimanjaro Region,Moshi Urban,,,,2020-12-20,,,,10,-23,
 TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-02-15,,,-7,,,
 TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-02-16,,,-10,,,
 TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-02-17,,,-7,,,
@@ -6604,6 +6717,11 @@ TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-12,,,71,,,
 TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-13,,,90,,,
 TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-14,,,73,,,
 TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-15,,,65,,,
+TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-16,,,73,,,
+TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-17,,,78,,,
+TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-18,,,54,,,
+TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-19,,,70,,,
+TZ,Tanzania,Kilimanjaro Region,Same,,,,2020-12-20,,,95,,,
 TZ,Tanzania,Manyara Region,,,TZ-26,,2020-09-23,,,,,-26,
 TZ,Tanzania,Manyara Region,,,TZ-26,,2020-09-24,,,,,-21,
 TZ,Tanzania,Manyara Region,,,TZ-26,,2020-09-30,,,,,-28,
@@ -6634,6 +6752,8 @@ TZ,Tanzania,Manyara Region,,,TZ-26,,2020-12-02,,,,,-26,
 TZ,Tanzania,Manyara Region,,,TZ-26,,2020-12-03,,,,,-21,
 TZ,Tanzania,Manyara Region,,,TZ-26,,2020-12-09,,,,,-34,
 TZ,Tanzania,Manyara Region,,,TZ-26,,2020-12-10,,,,,-23,
+TZ,Tanzania,Manyara Region,,,TZ-26,,2020-12-16,,,,,-25,
+TZ,Tanzania,Manyara Region,,,TZ-26,,2020-12-17,,,,,-25,
 TZ,Tanzania,Mara Region,,,TZ-13,,2020-02-15,,,,-8,0,
 TZ,Tanzania,Mara Region,,,TZ-13,,2020-02-16,,,,-10,-5,
 TZ,Tanzania,Mara Region,,,TZ-13,,2020-02-17,,,,-3,4,
@@ -6914,6 +7034,11 @@ TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-12,,,,-15,-32,
 TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-13,,,,-1,-21,
 TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-14,,,,-1,-19,
 TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-15,,,,0,-26,
+TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-16,,,,9,-19,
+TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-17,,,,9,-22,
+TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-18,,,,-1,-20,
+TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-19,,,,5,-17,
+TZ,Tanzania,Mara Region,,,TZ-13,,2020-12-20,,,,3,-20,
 TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-02-15,,,,-7,,
 TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-02-16,,,,-7,,
 TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-02-17,,,,-6,,
@@ -7192,6 +7317,11 @@ TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-12,,,,-29,-34,
 TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-13,,,,-16,,
 TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-14,,,,-20,-19,
 TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-15,,,,-16,-25,
+TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-16,,,,-15,-17,
+TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-17,,,,-18,-27,
+TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-18,,,,-14,-12,
+TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-19,,,,-14,,
+TZ,Tanzania,Mara Region,Musoma Urban,,,,2020-12-20,,,,-16,,
 TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-02-15,,0,,0,-1,
 TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-02-16,,3,,-2,-1,
 TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-02-17,,-6,,2,0,
@@ -7472,6 +7602,11 @@ TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-12,,14,,13,-21,
 TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-13,,,,8,-23,
 TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-14,,,,13,-19,
 TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-15,,,,15,-21,
+TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-16,,,,16,-19,
+TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-17,,,,15,-18,
+TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-18,,,,10,-22,
+TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-19,,13,,16,-18,
+TZ,Tanzania,Mbeya Region,,,TZ-14,,2020-12-20,,,,15,-19,
 TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-02-15,-13,2,,0,2,
 TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-02-16,-11,,,-6,-2,
 TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-02-17,-8,-3,,-1,-3,2
@@ -7771,6 +7906,11 @@ TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-12,-7,15,,16,-18,3
 TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-13,17,,,9,-23,
 TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-14,-19,10,,15,-19,4
 TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-15,-14,9,,17,-17,-2
+TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-16,-6,14,,20,-15,5
+TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-17,-2,14,,18,-16,2
+TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-18,-5,6,,12,-18,0
+TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-19,-8,13,,17,-16,2
+TZ,Tanzania,Mbeya Region,Mbeya Urban,,,,2020-12-20,-19,,,10,-19,
 TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-02-15,6,-9,37,3,-2,
 TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-02-16,5,0,38,14,4,
 TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-02-17,-5,-2,14,12,1,-1
@@ -8068,6 +8208,11 @@ TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-12,-17,0,-32,21,-24,3
 TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-13,-18,1,-25,15,-25,
 TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-14,-23,-4,-19,20,-20,2
 TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-15,-16,-2,-29,14,-19,3
+TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-16,-16,-3,-19,18,-15,3
+TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-17,-14,1,-26,23,-16,4
+TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-18,-25,-5,-27,12,-16,6
+TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-19,-16,-3,-18,29,-21,3
+TZ,Tanzania,Mjini Magharibi Region,,,TZ-15,,2020-12-20,-15,-1,-18,23,-24,
 TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-02-15,,,,7,-4,0
 TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-02-16,,,,16,5,
 TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-02-17,,,,19,4,-1
@@ -8367,6 +8512,11 @@ TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-12,,,,32,-22,2
 TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-13,,,,11,-23,
 TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-14,,,,20,-18,0
 TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-15,,,,12,-15,0
+TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-16,,,,9,-13,4
+TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-17,,,,27,-14,2
+TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-18,,,,3,-12,5
+TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-19,,,,40,-18,2
+TZ,Tanzania,Mjini Magharibi Region,Magharibi,,,,2020-12-20,,-37,,13,-25,
 TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-02-15,7,-8,57,2,5,
 TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-02-16,3,-4,44,16,0,
 TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-02-17,-5,-6,19,2,0,
@@ -8647,6 +8797,11 @@ TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-12,-17,62,-26,15,-19,
 TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-13,-22,,-26,23,-28,
 TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-14,-24,45,-16,21,-22,
 TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-15,-20,41,-36,22,-23,
+TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-16,-18,49,-17,32,-15,2
+TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-17,-17,54,-24,19,-17,
+TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-18,-26,48,-28,22,-22,
+TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-19,-16,56,-13,23,-22,
+TZ,Tanzania,Mjini Magharibi Region,Mjini,,,,2020-12-20,-17,,-15,39,-24,
 TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-02-15,,,-4,-14,1,
 TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-02-16,,,-7,-9,9,
 TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-02-17,,,-3,-4,0,
@@ -8927,6 +9082,11 @@ TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-12,-34,,-6,19,-35,
 TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-13,-33,,-5,19,-33,
 TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-14,-38,,-9,19,-34,
 TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-15,,,-8,21,-34,
+TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-16,,,-2,27,-28,
+TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-17,,,-5,41,-34,
+TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-18,-21,,-3,33,-36,
+TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-19,-26,,-4,28,-32,
+TZ,Tanzania,Morogoro Region,,,TZ-16,,2020-12-20,,,-5,26,-38,
 TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-02-15,,,-5,,,
 TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-02-16,,,-10,,,
 TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-02-17,,,-5,,,
@@ -9207,6 +9367,11 @@ TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-12,,,-2,,,
 TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-13,,,0,,,
 TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-14,,,-4,,,
 TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-15,,,-3,,,
+TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-16,,,3,,,
+TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-17,,,0,,,
+TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-18,,,0,,,
+TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-19,,,1,,,
+TZ,Tanzania,Morogoro Region,Kilosa,,,,2020-12-20,,,-1,,,
 TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-02-15,,,,-15,4,
 TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-02-16,,,,-10,9,
 TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-02-17,-6,,,-2,-1,-2
@@ -9506,6 +9671,11 @@ TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-12,-33,,,20,-36,
 TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-13,-33,,,20,-32,
 TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-14,-34,,,22,-33,5
 TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-15,-27,,,22,-33,8
+TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-16,-28,,,30,-27,5
+TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-17,-23,,,44,-32,6
+TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-18,-13,,,36,-38,9
+TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-19,,,,30,-30,
+TZ,Tanzania,Morogoro Region,Morogoro Urban,,,,2020-12-20,,,-61,28,-39,
 TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-02-15,,,,,2,
 TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-02-16,,,,,0,
 TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-02-17,,,,,3,
@@ -9785,6 +9955,11 @@ TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-12,,,,,-23,
 TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-13,,,,,-39,
 TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-14,,,,,-27,
 TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-15,,,,,-24,
+TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-16,,,,,-25,
+TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-17,,,,,-27,
+TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-18,,,,,-25,
+TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-19,,,,,-25,
+TZ,Tanzania,Mtwara Region,,,TZ-17,,2020-12-20,,,,,-37,
 TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-04-07,,,,,-41,
 TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-04-10,,,,,-36,
 TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-04-13,,,,,-43,
@@ -9955,6 +10130,11 @@ TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-12,,,,,-17,
 TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-13,,,,,-26,
 TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-14,,,,,-22,
 TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-15,,,,,-17,
+TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-16,,,,,-21,
+TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-17,,,,,-19,
+TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-18,,,,,-21,
+TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-19,,,,,-26,
+TZ,Tanzania,Mtwara Region,Mtwara Urban,,,,2020-12-20,,,,,-35,
 TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-02-15,0,-3,-2,-5,2,0
 TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-02-16,-1,2,-3,-2,2,
 TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-02-17,-4,-3,-11,-4,1,1
@@ -10254,6 +10434,11 @@ TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-12,-10,13,-31,6,-22,7
 TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-13,-5,5,-11,11,-16,
 TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-14,1,17,-25,15,-18,8
 TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-15,2,19,-23,28,-16,5
+TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-16,3,9,-19,9,-15,7
+TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-17,6,18,-26,24,-18,4
+TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-18,11,19,-30,24,-18,6
+TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-19,8,18,-21,15,-21,5
+TZ,Tanzania,Mwanza Region,,,TZ-18,,2020-12-20,3,18,3,23,-19,
 TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-02-15,2,-12,,-5,3,
 TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-02-16,-2,,,5,7,
 TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-02-17,-3,,,-4,-1,2
@@ -10535,6 +10720,11 @@ TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-12,-15,-32,,18,-10,
 TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-13,-7,-31,,30,-7,
 TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-14,-2,-30,,38,-11,11
 TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-15,0,,,55,-6,3
+TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-16,5,-41,,26,-7,6
+TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-17,5,,,47,-9,5
+TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-18,13,-21,,50,-8,4
+TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-19,12,-26,,43,-7,
+TZ,Tanzania,Mwanza Region,Ilemela,,,,2020-12-20,0,-27,,46,-10,
 TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-02-15,-3,-2,-1,-7,-1,3
 TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-02-16,-6,,-7,-6,4,
 TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-02-17,-6,-3,-13,-6,5,2
@@ -10834,6 +11024,11 @@ TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-12,-7,,-37,-11,-28,9
 TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-13,-3,,-18,-2,-18,
 TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-14,2,,-33,-4,-22,7
 TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-15,5,,-27,15,-24,7
+TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-16,4,,-21,2,-22,8
+TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-17,9,,-36,8,-26,9
+TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-18,10,,-34,9,-27,7
+TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-19,6,,-26,-5,-29,3
+TZ,Tanzania,Mwanza Region,Nyamagana,,,,2020-12-20,8,,-5,4,-25,
 TZ,Tanzania,Njombe Region,,,,,2020-02-17,,,,,-2,
 TZ,Tanzania,Njombe Region,,,,,2020-02-18,,,,,4,
 TZ,Tanzania,Njombe Region,,,,,2020-02-19,,,,,0,
@@ -11044,6 +11239,10 @@ TZ,Tanzania,Njombe Region,,,,,2020-12-11,,,,,-12,
 TZ,Tanzania,Njombe Region,,,,,2020-12-12,,,,,-21,
 TZ,Tanzania,Njombe Region,,,,,2020-12-14,,,,,-16,
 TZ,Tanzania,Njombe Region,,,,,2020-12-15,,,,,-21,
+TZ,Tanzania,Njombe Region,,,,,2020-12-16,,,,,-13,
+TZ,Tanzania,Njombe Region,,,,,2020-12-17,,,,,-21,
+TZ,Tanzania,Njombe Region,,,,,2020-12-18,,,,,-22,
+TZ,Tanzania,Njombe Region,,,,,2020-12-19,,,,,-24,
 TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-06-08,,,,,11,
 TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-06-09,,,,,1,
 TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-06-10,,,,,-1,
@@ -11172,6 +11371,10 @@ TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-11,,,,,-15,
 TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-12,,,,,-24,
 TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-14,,,,,-12,
 TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-15,,,,,-20,
+TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-16,,,,,-13,
+TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-17,,,,,-22,
+TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-18,,,,,-17,
+TZ,Tanzania,Njombe Region,Njombe Urban,,,,2020-12-19,,,,,-25,
 TZ,Tanzania,Pwani Region,,,TZ-19,,2020-02-15,,,,-4,2,
 TZ,Tanzania,Pwani Region,,,TZ-19,,2020-02-16,,,,-9,5,
 TZ,Tanzania,Pwani Region,,,TZ-19,,2020-02-17,,,,0,2,
@@ -11452,6 +11655,11 @@ TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-12,,,,42,-14,
 TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-13,,,,34,-14,
 TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-14,,,,,-11,
 TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-15,,,,,-12,
+TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-16,,,,32,-12,
+TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-17,,,,,-14,
+TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-18,,,,44,-14,
+TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-19,,,,39,-13,
+TZ,Tanzania,Pwani Region,,,TZ-19,,2020-12-20,,,,35,-21,
 TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-06-08,,,,,1,
 TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-06-09,,,,,4,
 TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-06-10,,,,,4,
@@ -11578,6 +11786,9 @@ TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-12-10,,,,,-3,
 TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-12-11,,,,,-8,
 TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-12-14,,,,,-15,
 TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-12-15,,,,,-11,
+TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-12-16,,,,,-10,
+TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-12-17,,,,,-15,
+TZ,Tanzania,Pwani Region,Bagamoyo,,,,2020-12-18,,,,,-14,
 TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-02-15,,,,-13,,
 TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-02-22,,,,-5,,
 TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-03-06,,,,-5,,
@@ -11723,6 +11934,10 @@ TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-11,,,,,-5,
 TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-12,,,,,-18,
 TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-14,,,,,-12,
 TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-15,,,,,-12,
+TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-16,,,,,-12,
+TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-17,,,,,-10,
+TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-18,,,,,-7,
+TZ,Tanzania,Pwani Region,Kibaha Urban,,,,2020-12-19,,,,,-13,
 TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-02-17,,,,,8,
 TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-02-18,,,,,6,
 TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-02-19,,,,,2,
@@ -11923,6 +12138,10 @@ TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-10,,,,,-20,
 TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-11,,,,,-21,
 TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-14,,,,,-25,
 TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-15,,,,,-21,
+TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-16,,,,,-14,
+TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-17,,,,,-19,
+TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-18,,,,,-25,
+TZ,Tanzania,Ruvuma Region,,,TZ-21,,2020-12-19,,,,,-27,
 TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-06-08,,,,,-10,
 TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-06-09,,,,,0,
 TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-06-10,,,,,1,
@@ -12073,6 +12292,11 @@ TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-12,,,,,-14,
 TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-13,,,,,-31,
 TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-14,,,,,-24,
 TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-15,,,,,-22,
+TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-16,,,,,-7,
+TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-17,,,,,-22,
+TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-18,,,,,-26,
+TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-19,,,,,-29,
+TZ,Tanzania,Ruvuma Region,Songea Urban,,,,2020-12-20,,,,,-21,
 TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-02-15,,,,1,-3,
 TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-02-16,,,,-3,,
 TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-02-17,,,,6,3,
@@ -12353,6 +12577,11 @@ TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-12,,,,28,-15,
 TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-13,,,,,-6,
 TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-14,,,,27,-17,
 TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-15,,,,17,-14,
+TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-16,,,,18,-12,
+TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-17,,,,20,-15,
+TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-18,,,,12,-18,
+TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-19,,,,15,-16,
+TZ,Tanzania,Shinyanga Region,,,TZ-22,,2020-12-20,,,,22,-13,
 TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-02-15,,,,-1,,
 TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-02-16,,,,2,,
 TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-02-17,,,,0,,
@@ -12632,6 +12861,11 @@ TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-12,,,,21,-2,
 TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-13,,,,19,-6,
 TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-14,,,,26,-2,
 TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-15,,,,29,-9,
+TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-16,,,,26,-5,
+TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-17,,,,27,-9,
+TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-18,,,,13,-6,
+TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-19,,,,11,-7,
+TZ,Tanzania,Shinyanga Region,Kahama Urban,,,,2020-12-20,,,,20,-6,
 TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-04-25,,,,-12,,
 TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-06-08,,,,,11,
 TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-06-09,,,,,14,
@@ -12753,6 +12987,9 @@ TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-12-10,,,,,-5,
 TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-12-11,,,,,-9,
 TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-12-14,,,,,-22,
 TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-12-15,,,,,-9,
+TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-12-16,,,,,-14,
+TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-12-17,,,,,-13,
+TZ,Tanzania,Shinyanga Region,Shinyanga Urban,,,,2020-12-18,,,,,-14,
 TZ,Tanzania,Singida Region,,,TZ-23,,2020-02-17,,,,,0,
 TZ,Tanzania,Singida Region,,,TZ-23,,2020-02-18,,,,,-2,
 TZ,Tanzania,Singida Region,,,TZ-23,,2020-02-19,,,,,-2,
@@ -12953,6 +13190,9 @@ TZ,Tanzania,Singida Region,,,TZ-23,,2020-12-10,,,,,-12,
 TZ,Tanzania,Singida Region,,,TZ-23,,2020-12-11,,,,,-26,
 TZ,Tanzania,Singida Region,,,TZ-23,,2020-12-14,,,,,-18,
 TZ,Tanzania,Singida Region,,,TZ-23,,2020-12-15,,,,,-21,
+TZ,Tanzania,Singida Region,,,TZ-23,,2020-12-16,,,,,-24,
+TZ,Tanzania,Singida Region,,,TZ-23,,2020-12-17,,,,,-16,
+TZ,Tanzania,Singida Region,,,TZ-23,,2020-12-18,,,,,-24,
 TZ,Tanzania,Singida Region,Singida Urban,,,,2020-06-08,,,,,2,
 TZ,Tanzania,Singida Region,Singida Urban,,,,2020-06-09,,,,,3,
 TZ,Tanzania,Singida Region,Singida Urban,,,,2020-06-10,,,,,7,
@@ -13108,6 +13348,11 @@ TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-12,,,,,-9,
 TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-13,,,,,-10,
 TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-14,,,,,-5,
 TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-15,,,,,-11,
+TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-16,,,,,-16,
+TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-17,,,,,-13,
+TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-18,,,,,-17,
+TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-19,,,,,-12,
+TZ,Tanzania,Singida Region,Singida Urban,,,,2020-12-20,,,,,-12,
 TZ,Tanzania,Songwe Region,,,TZ-31,,2020-10-27,,,,,-44,
 TZ,Tanzania,Songwe Region,,,TZ-31,,2020-10-28,,,,,-78,
 TZ,Tanzania,Songwe Region,,,TZ-31,,2020-10-29,,,,,-78,
@@ -13124,6 +13369,7 @@ TZ,Tanzania,Songwe Region,,,TZ-31,,2020-11-24,,,,,-30,
 TZ,Tanzania,Songwe Region,,,TZ-31,,2020-12-09,,,,,-33,
 TZ,Tanzania,Songwe Region,,,TZ-31,,2020-12-11,,,,,-30,
 TZ,Tanzania,Songwe Region,,,TZ-31,,2020-12-15,,,,,-34,
+TZ,Tanzania,Songwe Region,,,TZ-31,,2020-12-16,,,,,-31,
 TZ,Tanzania,Tabora Region,,,TZ-24,,2020-02-15,,,,,0,
 TZ,Tanzania,Tabora Region,,,TZ-24,,2020-02-16,,,,,-4,
 TZ,Tanzania,Tabora Region,,,TZ-24,,2020-02-17,,,,,0,
@@ -13404,6 +13650,11 @@ TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-12,,,,,-20,
 TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-13,,,,,-29,
 TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-14,,,,,-23,
 TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-15,,,,,-22,
+TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-16,,,,,-22,
+TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-17,,,,,-25,
+TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-18,,,,,-22,
+TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-19,,,,,-34,
+TZ,Tanzania,Tabora Region,,,TZ-24,,2020-12-20,,,,,-29,
 TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-02-15,,,,-21,,
 TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-02-16,,,,0,,
 TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-02-19,,,,,-13,
@@ -13652,6 +13903,11 @@ TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-12,,,,,-19,
 TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-13,,,,,-29,
 TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-14,,,,,-19,
 TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-15,,,,,-15,
+TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-16,,,,,-16,
+TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-17,,,,16,-23,
+TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-18,,,,,-18,
+TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-19,,,,15,-35,
+TZ,Tanzania,Tabora Region,Tabora Urban,,,,2020-12-20,,,,,-26,
 TZ,Tanzania,Tanga Region,,,TZ-25,,2020-02-15,,,,-12,1,
 TZ,Tanzania,Tanga Region,,,TZ-25,,2020-02-16,,,,-8,4,
 TZ,Tanzania,Tanga Region,,,TZ-25,,2020-02-17,,,,-11,2,
@@ -13932,6 +14188,11 @@ TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-12,,,,5,-15,
 TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-13,,,-51,9,-23,
 TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-14,,,-55,10,-16,
 TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-15,,,,17,-20,
+TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-16,,,-52,12,-17,
+TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-17,,,-53,14,-19,
+TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-18,,,-55,26,-18,
+TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-19,,,-51,11,-23,
+TZ,Tanzania,Tanga Region,,,TZ-25,,2020-12-20,,,-56,13,-24,
 TZ,Tanzania,Tanga Region,Lushoto,,,,2020-02-15,,,-14,,,
 TZ,Tanzania,Tanga Region,Lushoto,,,,2020-02-16,,,-17,,,
 TZ,Tanzania,Tanga Region,Lushoto,,,,2020-02-17,,,-13,,,
@@ -14205,6 +14466,11 @@ TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-12,,,-71,,,
 TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-13,,,-68,,,
 TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-14,,,-73,,,
 TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-15,,,-70,,,
+TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-16,,,-73,,,
+TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-17,,,-74,,,
+TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-18,,,-75,,,
+TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-19,,,-73,,,
+TZ,Tanzania,Tanga Region,Lushoto,,,,2020-12-20,,,-76,,,
 TZ,Tanzania,Tanga Region,Tanga,,,,2020-02-15,-11,-13,,-15,3,
 TZ,Tanzania,Tanga Region,Tanga,,,,2020-02-16,,,,-7,2,
 TZ,Tanzania,Tanga Region,Tanga,,,,2020-02-17,,,,-13,4,
@@ -14485,6 +14751,11 @@ TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-12,-8,,,26,-10,
 TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-13,,,,28,-16,
 TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-14,,,,36,-14,
 TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-15,,,,44,-17,
+TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-16,,,,34,-13,
+TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-17,,,,31,-14,
+TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-18,,,,39,-13,
+TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-19,-12,,,24,-18,
+TZ,Tanzania,Tanga Region,Tanga,,,,2020-12-20,,,,35,-15,
 TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-02-15,,,0,,,
 TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-02-16,,,-6,,,
 TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-02-17,,,-3,,,
@@ -14765,6 +15036,11 @@ TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-12,,,83,,,
 TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-13,,,81,,,
 TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-14,,,84,,,
 TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-15,,,77,,,
+TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-16,,,90,,,
+TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-17,,,86,,,
+TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-18,,,81,,,
+TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-19,,,80,,,
+TZ,Tanzania,Unguja South Region,,,TZ-11,,2020-12-20,,,81,,,
 TZ,Tanzania,Unguja South Region,Kati,,,,2020-02-15,,,0,,,
 TZ,Tanzania,Unguja South Region,Kati,,,,2020-02-16,,,-7,,,
 TZ,Tanzania,Unguja South Region,Kati,,,,2020-02-17,,,-3,,,
@@ -15045,3 +15321,8 @@ TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-12,,,83,,,
 TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-13,,,83,,,
 TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-14,,,86,,,
 TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-15,,,76,,,
+TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-16,,,92,,,
+TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-17,,,87,,,
+TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-18,,,82,,,
+TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-19,,,78,,,
+TZ,Tanzania,Unguja South Region,Kati,,,,2020-12-20,,,82,,,

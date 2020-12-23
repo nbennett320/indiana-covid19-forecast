@@ -304,6 +304,11 @@ EC,Ecuador,,,,,,2020-12-12,-16,12,-18,-8,4,9
 EC,Ecuador,,,,,,2020-12-13,-16,5,-14,-1,13,6
 EC,Ecuador,,,,,,2020-12-14,-17,8,-25,-15,-28,15
 EC,Ecuador,,,,,,2020-12-15,-15,13,-23,-13,-28,14
+EC,Ecuador,,,,,,2020-12-16,-14,15,-21,-13,-26,14
+EC,Ecuador,,,,,,2020-12-17,-13,16,-22,-12,-27,14
+EC,Ecuador,,,,,,2020-12-18,-14,18,-22,-12,-25,15
+EC,Ecuador,,,,,,2020-12-19,-10,21,-13,-1,7,6
+EC,Ecuador,,,,,,2020-12-20,-8,16,-10,8,19,4
 EC,Ecuador,Azuay,,,EC-A,,2020-02-15,4,1,7,25,-3,-1
 EC,Ecuador,Azuay,,,EC-A,,2020-02-16,4,-2,6,24,-1,0
 EC,Ecuador,Azuay,,,EC-A,,2020-02-17,3,1,4,14,-8,2
@@ -609,6 +614,11 @@ EC,Ecuador,Azuay,,,EC-A,,2020-12-12,-20,6,-24,-30,2,8
 EC,Ecuador,Azuay,,,EC-A,,2020-12-13,-16,4,-13,-23,10,5
 EC,Ecuador,Azuay,,,EC-A,,2020-12-14,-15,10,-21,-36,-28,13
 EC,Ecuador,Azuay,,,EC-A,,2020-12-15,-16,10,-26,-36,-28,14
+EC,Ecuador,Azuay,,,EC-A,,2020-12-16,-15,17,-20,-33,-26,13
+EC,Ecuador,Azuay,,,EC-A,,2020-12-17,-13,19,-24,-31,-30,14
+EC,Ecuador,Azuay,,,EC-A,,2020-12-18,-16,13,-22,-34,-25,14
+EC,Ecuador,Azuay,,,EC-A,,2020-12-19,-10,24,-8,-20,6,5
+EC,Ecuador,Azuay,,,EC-A,,2020-12-20,-11,13,-10,-19,17,4
 EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-06-08,,,,,-37,
 EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-06-09,,,,,-32,
 EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-06-10,,,,,-35,
@@ -735,6 +745,9 @@ EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-12-10,,,,,-21,
 EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-12-11,,,,,-10,
 EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-12-14,,,,,-13,
 EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-12-15,,,,,-14,
+EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-12-16,,,,,-15,
+EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-12-17,,,,,-15,
+EC,Ecuador,Azuay,Camilo Ponce Enriquez,,,,2020-12-18,,,,,-9,
 EC,Ecuador,Azuay,Cuenca,,,,2020-02-15,3,0,5,25,-4,-1
 EC,Ecuador,Azuay,Cuenca,,,,2020-02-16,1,-5,4,24,-1,0
 EC,Ecuador,Azuay,Cuenca,,,,2020-02-17,3,0,2,15,-8,2
@@ -1040,6 +1053,11 @@ EC,Ecuador,Azuay,Cuenca,,,,2020-12-12,-19,5,-26,-33,0,9
 EC,Ecuador,Azuay,Cuenca,,,,2020-12-13,-15,8,-10,-28,14,5
 EC,Ecuador,Azuay,Cuenca,,,,2020-12-14,-15,13,-22,-40,-30,15
 EC,Ecuador,Azuay,Cuenca,,,,2020-12-15,-14,7,-29,-40,-29,16
+EC,Ecuador,Azuay,Cuenca,,,,2020-12-16,-12,18,-19,-36,-26,15
+EC,Ecuador,Azuay,Cuenca,,,,2020-12-17,-13,20,-25,-34,-29,15
+EC,Ecuador,Azuay,Cuenca,,,,2020-12-18,-14,18,-20,-37,-26,16
+EC,Ecuador,Azuay,Cuenca,,,,2020-12-19,-7,25,-9,-21,5,5
+EC,Ecuador,Azuay,Cuenca,,,,2020-12-20,-8,19,-6,-24,21,4
 EC,Ecuador,Azuay,Gualaceo,,,,2020-02-16,24,11,20,18,,
 EC,Ecuador,Azuay,Gualaceo,,,,2020-02-17,,,,1,-7,
 EC,Ecuador,Azuay,Gualaceo,,,,2020-02-18,,,,0,-8,
@@ -1318,6 +1336,11 @@ EC,Ecuador,Azuay,Gualaceo,,,,2020-12-12,-11,,-13,,-6,
 EC,Ecuador,Azuay,Gualaceo,,,,2020-12-13,-15,-7,-22,1,-12,
 EC,Ecuador,Azuay,Gualaceo,,,,2020-12-14,,,,-3,-30,
 EC,Ecuador,Azuay,Gualaceo,,,,2020-12-15,,,,4,-31,
+EC,Ecuador,Azuay,Gualaceo,,,,2020-12-16,,,,,-35,
+EC,Ecuador,Azuay,Gualaceo,,,,2020-12-17,,,,-17,-34,
+EC,Ecuador,Azuay,Gualaceo,,,,2020-12-18,,,-2,-15,-21,
+EC,Ecuador,Azuay,Gualaceo,,,,2020-12-19,-2,,-4,,2,
+EC,Ecuador,Azuay,Gualaceo,,,,2020-12-20,-9,-3,-20,4,-6,
 EC,Ecuador,Azuay,Paute,,,,2020-02-15,,,64,,,
 EC,Ecuador,Azuay,Paute,,,,2020-02-16,,,39,,,
 EC,Ecuador,Azuay,Paute,,,,2020-02-17,,,9,,,
@@ -1598,6 +1621,11 @@ EC,Ecuador,Azuay,Paute,,,,2020-12-12,,,-13,,,
 EC,Ecuador,Azuay,Paute,,,,2020-12-13,,,-14,,,
 EC,Ecuador,Azuay,Paute,,,,2020-12-14,,,4,,-16,
 EC,Ecuador,Azuay,Paute,,,,2020-12-15,,,25,,-18,
+EC,Ecuador,Azuay,Paute,,,,2020-12-16,,,-5,,-22,
+EC,Ecuador,Azuay,Paute,,,,2020-12-17,,,-12,,-24,
+EC,Ecuador,Azuay,Paute,,,,2020-12-18,,,4,,-15,
+EC,Ecuador,Azuay,Paute,,,,2020-12-19,,,8,,,
+EC,Ecuador,Azuay,Paute,,,,2020-12-20,,,-14,,,
 EC,Ecuador,Azuay,Santa Isabel,,,,2020-06-08,,,,,-25,
 EC,Ecuador,Azuay,Santa Isabel,,,,2020-06-09,,,,,-28,
 EC,Ecuador,Azuay,Santa Isabel,,,,2020-06-10,,,,,-29,
@@ -1716,6 +1744,9 @@ EC,Ecuador,Azuay,Santa Isabel,,,,2020-12-10,,,,,-26,
 EC,Ecuador,Azuay,Santa Isabel,,,,2020-12-11,,,,,-19,
 EC,Ecuador,Azuay,Santa Isabel,,,,2020-12-14,,,,,-26,
 EC,Ecuador,Azuay,Santa Isabel,,,,2020-12-15,,,,,-18,
+EC,Ecuador,Azuay,Santa Isabel,,,,2020-12-16,,,,,-19,
+EC,Ecuador,Azuay,Santa Isabel,,,,2020-12-17,,,,,-25,
+EC,Ecuador,Azuay,Santa Isabel,,,,2020-12-18,,,,,-14,
 EC,Ecuador,Azuay,Sigsig,,,,2020-02-15,,,20,,,
 EC,Ecuador,Azuay,Sigsig,,,,2020-02-16,,,8,,,
 EC,Ecuador,Azuay,Sigsig,,,,2020-02-19,,,1,,,
@@ -1988,6 +2019,11 @@ EC,Ecuador,Azuay,Sigsig,,,,2020-12-12,,,-14,,,
 EC,Ecuador,Azuay,Sigsig,,,,2020-12-13,,,-16,,,
 EC,Ecuador,Azuay,Sigsig,,,,2020-12-14,,,-9,,-26,
 EC,Ecuador,Azuay,Sigsig,,,,2020-12-15,,,-12,,-27,
+EC,Ecuador,Azuay,Sigsig,,,,2020-12-16,,,-15,,-25,
+EC,Ecuador,Azuay,Sigsig,,,,2020-12-17,,,-21,,-30,
+EC,Ecuador,Azuay,Sigsig,,,,2020-12-18,,,-26,,-27,
+EC,Ecuador,Azuay,Sigsig,,,,2020-12-19,,,-7,,,
+EC,Ecuador,Azuay,Sigsig,,,,2020-12-20,,,-17,,,
 EC,Ecuador,Bolivar,,,EC-B,,2020-02-15,26,,39,,11,
 EC,Ecuador,Bolivar,,,EC-B,,2020-02-16,11,,19,,2,
 EC,Ecuador,Bolivar,,,EC-B,,2020-02-17,,,17,,-5,2
@@ -2268,6 +2304,11 @@ EC,Ecuador,Bolivar,,,EC-B,,2020-12-12,-11,,-6,,0,
 EC,Ecuador,Bolivar,,,EC-B,,2020-12-13,-10,,0,,1,
 EC,Ecuador,Bolivar,,,EC-B,,2020-12-14,-7,,-5,,-37,17
 EC,Ecuador,Bolivar,,,EC-B,,2020-12-15,-13,,-5,,-38,16
+EC,Ecuador,Bolivar,,,EC-B,,2020-12-16,-8,,-3,,-34,15
+EC,Ecuador,Bolivar,,,EC-B,,2020-12-17,-10,,-6,,-33,15
+EC,Ecuador,Bolivar,,,EC-B,,2020-12-18,-12,,-6,,-33,19
+EC,Ecuador,Bolivar,,,EC-B,,2020-12-19,-6,,-1,,3,
+EC,Ecuador,Bolivar,,,EC-B,,2020-12-20,-9,,-1,,-1,
 EC,Ecuador,Bolivar,Guaranda,,,,2020-02-15,50,,49,,14,
 EC,Ecuador,Bolivar,Guaranda,,,,2020-02-16,,,21,,,
 EC,Ecuador,Bolivar,Guaranda,,,,2020-02-17,11,,13,,-4,1
@@ -2548,6 +2589,11 @@ EC,Ecuador,Bolivar,Guaranda,,,,2020-12-12,-14,,-11,,4,
 EC,Ecuador,Bolivar,Guaranda,,,,2020-12-13,,,-7,,9,
 EC,Ecuador,Bolivar,Guaranda,,,,2020-12-14,-16,,-15,,-37,19
 EC,Ecuador,Bolivar,Guaranda,,,,2020-12-15,-19,,-15,,-38,17
+EC,Ecuador,Bolivar,Guaranda,,,,2020-12-16,-14,,-15,,-32,17
+EC,Ecuador,Bolivar,Guaranda,,,,2020-12-17,-18,,-22,,-34,17
+EC,Ecuador,Bolivar,Guaranda,,,,2020-12-18,-19,,-20,,-31,21
+EC,Ecuador,Bolivar,Guaranda,,,,2020-12-19,-6,,-5,,7,
+EC,Ecuador,Bolivar,Guaranda,,,,2020-12-20,,,-5,,-1,
 EC,Ecuador,Bolivar,San Miguel,,,,2020-02-15,,,37,,,
 EC,Ecuador,Bolivar,San Miguel,,,,2020-02-24,,,,,-69,
 EC,Ecuador,Bolivar,San Miguel,,,,2020-02-25,,,,,-78,
@@ -2797,6 +2843,10 @@ EC,Ecuador,Bolivar,San Miguel,,,,2020-12-11,,,31,,-33,
 EC,Ecuador,Bolivar,San Miguel,,,,2020-12-12,,,12,,,
 EC,Ecuador,Bolivar,San Miguel,,,,2020-12-14,,,,,-45,
 EC,Ecuador,Bolivar,San Miguel,,,,2020-12-15,,,,,-41,
+EC,Ecuador,Bolivar,San Miguel,,,,2020-12-16,,,,,-38,
+EC,Ecuador,Bolivar,San Miguel,,,,2020-12-17,,,,,-34,
+EC,Ecuador,Bolivar,San Miguel,,,,2020-12-18,,,39,,-32,
+EC,Ecuador,Bolivar,San Miguel,,,,2020-12-19,,,9,,,
 EC,Ecuador,Cañar,,,EC-F,,2020-02-15,1,2,0,0,-3,
 EC,Ecuador,Cañar,,,EC-F,,2020-02-16,-5,6,3,-2,-2,
 EC,Ecuador,Cañar,,,EC-F,,2020-02-17,5,9,7,-2,-7,1
@@ -3096,6 +3146,11 @@ EC,Ecuador,Cañar,,,EC-F,,2020-12-12,-11,11,13,-23,1,8
 EC,Ecuador,Cañar,,,EC-F,,2020-12-13,-9,0,17,-10,14,5
 EC,Ecuador,Cañar,,,EC-F,,2020-12-14,-5,11,18,-21,-26,11
 EC,Ecuador,Cañar,,,EC-F,,2020-12-15,-6,14,17,-22,-28,11
+EC,Ecuador,Cañar,,,EC-F,,2020-12-16,-1,20,17,-25,-25,11
+EC,Ecuador,Cañar,,,EC-F,,2020-12-17,-5,12,11,-27,-27,12
+EC,Ecuador,Cañar,,,EC-F,,2020-12-18,-6,18,12,-21,-24,12
+EC,Ecuador,Cañar,,,EC-F,,2020-12-19,0,23,23,-15,8,4
+EC,Ecuador,Cañar,,,EC-F,,2020-12-20,-2,10,24,-3,13,3
 EC,Ecuador,Cañar,Azogues,,,,2020-02-15,0,,10,1,-2,
 EC,Ecuador,Cañar,Azogues,,,,2020-02-16,-4,,2,0,3,
 EC,Ecuador,Cañar,Azogues,,,,2020-02-17,5,,3,-7,-7,3
@@ -3395,6 +3450,11 @@ EC,Ecuador,Cañar,Azogues,,,,2020-12-12,-19,,34,-16,-4,11
 EC,Ecuador,Cañar,Azogues,,,,2020-12-13,-16,,36,-2,15,
 EC,Ecuador,Cañar,Azogues,,,,2020-12-14,-13,,45,-25,-29,15
 EC,Ecuador,Cañar,Azogues,,,,2020-12-15,-15,,29,-30,-29,15
+EC,Ecuador,Cañar,Azogues,,,,2020-12-16,-14,,40,-34,-26,15
+EC,Ecuador,Cañar,Azogues,,,,2020-12-17,-9,,24,-29,-30,15
+EC,Ecuador,Cañar,Azogues,,,,2020-12-18,-9,,40,-22,-27,15
+EC,Ecuador,Cañar,Azogues,,,,2020-12-19,-2,,64,-7,10,5
+EC,Ecuador,Cañar,Azogues,,,,2020-12-20,-10,,40,-5,16,
 EC,Ecuador,Cañar,Biblian,,,,2020-02-15,,,17,,,
 EC,Ecuador,Cañar,Biblian,,,,2020-02-16,,,3,,,
 EC,Ecuador,Cañar,Biblian,,,,2020-02-23,,,28,,,
@@ -3652,6 +3712,10 @@ EC,Ecuador,Cañar,Biblian,,,,2020-12-12,,,8,,,
 EC,Ecuador,Cañar,Biblian,,,,2020-12-13,,,4,,,
 EC,Ecuador,Cañar,Biblian,,,,2020-12-14,,,-3,,-27,
 EC,Ecuador,Cañar,Biblian,,,,2020-12-15,,,,,-35,
+EC,Ecuador,Cañar,Biblian,,,,2020-12-16,,,,,-32,
+EC,Ecuador,Cañar,Biblian,,,,2020-12-17,,,4,,-32,
+EC,Ecuador,Cañar,Biblian,,,,2020-12-18,,,,,-29,
+EC,Ecuador,Cañar,Biblian,,,,2020-12-20,,,19,,,
 EC,Ecuador,Cañar,Cañar,,,,2020-02-15,,,-4,,,
 EC,Ecuador,Cañar,Cañar,,,,2020-02-16,,,8,,,
 EC,Ecuador,Cañar,Cañar,,,,2020-02-17,,,5,,-11,
@@ -3932,6 +3996,11 @@ EC,Ecuador,Cañar,Cañar,,,,2020-12-12,,,-12,,-2,
 EC,Ecuador,Cañar,Cañar,,,,2020-12-13,,,0,,,
 EC,Ecuador,Cañar,Cañar,,,,2020-12-14,,,0,,-28,
 EC,Ecuador,Cañar,Cañar,,,,2020-12-15,,,-3,,-29,
+EC,Ecuador,Cañar,Cañar,,,,2020-12-16,,,-2,,-27,
+EC,Ecuador,Cañar,Cañar,,,,2020-12-17,,,-3,,-26,
+EC,Ecuador,Cañar,Cañar,,,,2020-12-18,,,-5,,-27,
+EC,Ecuador,Cañar,Cañar,,,,2020-12-19,,,-9,,,
+EC,Ecuador,Cañar,Cañar,,,,2020-12-20,,,12,,,
 EC,Ecuador,Cañar,La Troncal,,,,2020-02-15,3,,-10,,-10,
 EC,Ecuador,Cañar,La Troncal,,,,2020-02-16,-1,,-1,,,
 EC,Ecuador,Cañar,La Troncal,,,,2020-02-17,3,,7,,0,
@@ -4212,6 +4281,11 @@ EC,Ecuador,Cañar,La Troncal,,,,2020-12-12,8,,29,,17,
 EC,Ecuador,Cañar,La Troncal,,,,2020-12-13,1,,38,,24,
 EC,Ecuador,Cañar,La Troncal,,,,2020-12-14,4,,7,,-8,7
 EC,Ecuador,Cañar,La Troncal,,,,2020-12-15,5,,,,-9,6
+EC,Ecuador,Cañar,La Troncal,,,,2020-12-16,13,,,,-4,6
+EC,Ecuador,Cañar,La Troncal,,,,2020-12-17,4,,10,,-8,8
+EC,Ecuador,Cañar,La Troncal,,,,2020-12-18,2,,-12,,-7,9
+EC,Ecuador,Cañar,La Troncal,,,,2020-12-19,17,,30,,16,
+EC,Ecuador,Cañar,La Troncal,,,,2020-12-20,7,,35,,16,
 EC,Ecuador,Carchi,,,EC-C,,2020-02-15,0,0,-5,,-3,
 EC,Ecuador,Carchi,,,EC-C,,2020-02-16,-2,-5,-4,,2,
 EC,Ecuador,Carchi,,,EC-C,,2020-02-17,2,5,7,,-1,1
@@ -4493,6 +4567,11 @@ EC,Ecuador,Carchi,,,EC-C,,2020-12-12,-1,28,5,,13,9
 EC,Ecuador,Carchi,,,EC-C,,2020-12-13,3,10,10,,21,
 EC,Ecuador,Carchi,,,EC-C,,2020-12-14,3,18,1,,-22,17
 EC,Ecuador,Carchi,,,EC-C,,2020-12-15,1,16,1,,-23,16
+EC,Ecuador,Carchi,,,EC-C,,2020-12-16,4,16,-1,,-21,15
+EC,Ecuador,Carchi,,,EC-C,,2020-12-17,2,4,4,,-21,16
+EC,Ecuador,Carchi,,,EC-C,,2020-12-18,6,16,6,,-19,16
+EC,Ecuador,Carchi,,,EC-C,,2020-12-19,4,29,11,,14,8
+EC,Ecuador,Carchi,,,EC-C,,2020-12-20,11,6,16,,26,
 EC,Ecuador,Carchi,Espejo,,,,2020-02-15,,,-10,,,
 EC,Ecuador,Carchi,Espejo,,,,2020-02-16,,,0,,,
 EC,Ecuador,Carchi,Espejo,,,,2020-02-17,,,9,,,
@@ -4766,6 +4845,11 @@ EC,Ecuador,Carchi,Espejo,,,,2020-12-12,,,-18,,,
 EC,Ecuador,Carchi,Espejo,,,,2020-12-13,,,-17,,,
 EC,Ecuador,Carchi,Espejo,,,,2020-12-14,,,-27,,,
 EC,Ecuador,Carchi,Espejo,,,,2020-12-15,,,-22,,,
+EC,Ecuador,Carchi,Espejo,,,,2020-12-16,,,-24,,,
+EC,Ecuador,Carchi,Espejo,,,,2020-12-17,,,-23,,,
+EC,Ecuador,Carchi,Espejo,,,,2020-12-18,,,-21,,,
+EC,Ecuador,Carchi,Espejo,,,,2020-12-19,,,-19,,,
+EC,Ecuador,Carchi,Espejo,,,,2020-12-20,,,-21,,,
 EC,Ecuador,Carchi,Montufar,,,,2020-02-15,,,6,,,
 EC,Ecuador,Carchi,Montufar,,,,2020-02-16,,,-2,,,
 EC,Ecuador,Carchi,Montufar,,,,2020-02-17,,,13,,,
@@ -5046,6 +5130,11 @@ EC,Ecuador,Carchi,Montufar,,,,2020-12-12,,,25,,,
 EC,Ecuador,Carchi,Montufar,,,,2020-12-13,,,14,,,
 EC,Ecuador,Carchi,Montufar,,,,2020-12-14,,,9,,-26,
 EC,Ecuador,Carchi,Montufar,,,,2020-12-15,,,12,,-24,
+EC,Ecuador,Carchi,Montufar,,,,2020-12-16,,,4,,-21,
+EC,Ecuador,Carchi,Montufar,,,,2020-12-17,,,12,,-30,
+EC,Ecuador,Carchi,Montufar,,,,2020-12-18,,,36,,-19,
+EC,Ecuador,Carchi,Montufar,,,,2020-12-19,,,28,,,
+EC,Ecuador,Carchi,Montufar,,,,2020-12-20,,,49,,,
 EC,Ecuador,Carchi,Tulcan,,,,2020-02-15,6,-4,4,,0,
 EC,Ecuador,Carchi,Tulcan,,,,2020-02-16,7,-1,0,,7,
 EC,Ecuador,Carchi,Tulcan,,,,2020-02-17,4,3,5,,0,0
@@ -5345,6 +5434,11 @@ EC,Ecuador,Carchi,Tulcan,,,,2020-12-12,5,25,20,,19,9
 EC,Ecuador,Carchi,Tulcan,,,,2020-12-13,11,2,26,,25,7
 EC,Ecuador,Carchi,Tulcan,,,,2020-12-14,-2,11,4,-57,-17,17
 EC,Ecuador,Carchi,Tulcan,,,,2020-12-15,0,9,3,-55,-19,17
+EC,Ecuador,Carchi,Tulcan,,,,2020-12-16,-3,13,0,-58,-15,16
+EC,Ecuador,Carchi,Tulcan,,,,2020-12-17,-4,4,13,-39,-15,17
+EC,Ecuador,Carchi,Tulcan,,,,2020-12-18,1,14,6,-49,-13,18
+EC,Ecuador,Carchi,Tulcan,,,,2020-12-19,8,26,29,,20,8
+EC,Ecuador,Carchi,Tulcan,,,,2020-12-20,20,6,31,,36,7
 EC,Ecuador,Chimborazo,,,EC-H,,2020-02-15,3,-6,1,-1,-1,0
 EC,Ecuador,Chimborazo,,,EC-H,,2020-02-16,-2,-8,-3,-14,1,1
 EC,Ecuador,Chimborazo,,,EC-H,,2020-02-17,5,0,3,4,-6,2
@@ -5650,6 +5744,11 @@ EC,Ecuador,Chimborazo,,,EC-H,,2020-12-12,-21,3,-25,-17,15,9
 EC,Ecuador,Chimborazo,,,EC-H,,2020-12-13,-26,-8,-22,-25,21,7
 EC,Ecuador,Chimborazo,,,EC-H,,2020-12-14,-22,4,-24,-7,-30,18
 EC,Ecuador,Chimborazo,,,EC-H,,2020-12-15,-21,6,-26,-1,-29,18
+EC,Ecuador,Chimborazo,,,EC-H,,2020-12-16,-21,6,-25,1,-28,18
+EC,Ecuador,Chimborazo,,,EC-H,,2020-12-17,-19,8,-24,-1,-28,19
+EC,Ecuador,Chimborazo,,,EC-H,,2020-12-18,-18,14,-27,-10,-26,20
+EC,Ecuador,Chimborazo,,,EC-H,,2020-12-19,-14,14,-23,-13,20,7
+EC,Ecuador,Chimborazo,,,EC-H,,2020-12-20,-21,2,-19,-12,27,6
 EC,Ecuador,Chimborazo,Alausi,,,,2020-02-16,,,-3,-18,,
 EC,Ecuador,Chimborazo,Alausi,,,,2020-02-27,,,,-24,,
 EC,Ecuador,Chimborazo,Alausi,,,,2020-03-01,,,-9,-37,,
@@ -5876,6 +5975,11 @@ EC,Ecuador,Chimborazo,Alausi,,,,2020-12-12,,,-48,,,
 EC,Ecuador,Chimborazo,Alausi,,,,2020-12-13,,,-50,-59,,
 EC,Ecuador,Chimborazo,Alausi,,,,2020-12-14,,,-40,,-15,
 EC,Ecuador,Chimborazo,Alausi,,,,2020-12-15,,,-45,-40,-12,
+EC,Ecuador,Chimborazo,Alausi,,,,2020-12-16,,,-47,,-16,
+EC,Ecuador,Chimborazo,Alausi,,,,2020-12-17,,,-47,-36,-20,
+EC,Ecuador,Chimborazo,Alausi,,,,2020-12-18,,,-54,-48,-3,
+EC,Ecuador,Chimborazo,Alausi,,,,2020-12-19,,,-47,,,
+EC,Ecuador,Chimborazo,Alausi,,,,2020-12-20,,,-52,-52,,
 EC,Ecuador,Chimborazo,Guano,,,,2020-02-15,,,-15,,,
 EC,Ecuador,Chimborazo,Guano,,,,2020-02-16,,,-5,,,
 EC,Ecuador,Chimborazo,Guano,,,,2020-02-17,,,-9,,-2,
@@ -6145,6 +6249,11 @@ EC,Ecuador,Chimborazo,Guano,,,,2020-12-12,,,-37,,25,
 EC,Ecuador,Chimborazo,Guano,,,,2020-12-13,,,-24,,,
 EC,Ecuador,Chimborazo,Guano,,,,2020-12-14,,,-34,,-18,
 EC,Ecuador,Chimborazo,Guano,,,,2020-12-15,,,-29,,-20,
+EC,Ecuador,Chimborazo,Guano,,,,2020-12-16,,,-37,,-25,
+EC,Ecuador,Chimborazo,Guano,,,,2020-12-17,,,-32,,-22,
+EC,Ecuador,Chimborazo,Guano,,,,2020-12-18,,,-34,,-17,
+EC,Ecuador,Chimborazo,Guano,,,,2020-12-19,,,-28,,28,
+EC,Ecuador,Chimborazo,Guano,,,,2020-12-20,,,-17,,,
 EC,Ecuador,Chimborazo,Riobamba,,,,2020-02-15,4,-7,1,-2,-3,-1
 EC,Ecuador,Chimborazo,Riobamba,,,,2020-02-16,-2,-10,-6,-13,1,0
 EC,Ecuador,Chimborazo,Riobamba,,,,2020-02-17,4,-2,3,8,-6,2
@@ -6450,6 +6559,11 @@ EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-12,-23,-5,-29,-13,13,9
 EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-13,-31,-16,-30,-15,21,7
 EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-14,-25,-6,-27,-2,-31,19
 EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-15,-23,-3,-31,10,-31,19
+EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-16,-23,-2,-30,10,-29,19
+EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-17,-22,-1,-31,9,-29,20
+EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-18,-21,3,-32,-3,-27,21
+EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-19,-16,5,-27,-7,18,7
+EC,Ecuador,Chimborazo,Riobamba,,,,2020-12-20,-25,-5,-29,0,28,5
 EC,Ecuador,Cotopaxi,,,EC-X,,2020-02-15,15,2,-2,5,-2,-1
 EC,Ecuador,Cotopaxi,,,EC-X,,2020-02-16,4,4,4,3,-3,0
 EC,Ecuador,Cotopaxi,,,EC-X,,2020-02-17,0,4,4,-6,-4,2
@@ -6755,6 +6869,11 @@ EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-12,1,8,-7,-17,10,9
 EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-13,-3,10,-10,-29,12,7
 EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-14,-6,7,-17,-26,-29,18
 EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-15,-3,11,-15,-21,-29,17
+EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-16,-2,9,-14,-22,-29,17
+EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-17,0,13,-17,-25,-29,19
+EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-18,-2,12,-15,-25,-26,19
+EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-19,5,15,-11,-13,10,8
+EC,Ecuador,Cotopaxi,,,EC-X,,2020-12-20,0,12,-10,-30,15,6
 EC,Ecuador,Cotopaxi,La Mana,,,,2020-02-15,,,-9,,,
 EC,Ecuador,Cotopaxi,La Mana,,,,2020-02-16,,,-1,,,
 EC,Ecuador,Cotopaxi,La Mana,,,,2020-02-17,,,-2,,-14,
@@ -7035,6 +7154,11 @@ EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-12,,,-17,,11,
 EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-13,,,-17,,17,
 EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-14,,,-24,,-15,
 EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-15,,,-25,,-12,
+EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-16,,,-23,,-14,
+EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-17,,,-21,,-19,
+EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-18,,,-21,,-15,
+EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-19,,,-16,,14,
+EC,Ecuador,Cotopaxi,La Mana,,,,2020-12-20,,,-13,,,
 EC,Ecuador,Cotopaxi,Latacunga,,,,2020-02-15,19,0,9,25,-2,-1
 EC,Ecuador,Cotopaxi,Latacunga,,,,2020-02-16,6,1,12,15,-3,2
 EC,Ecuador,Cotopaxi,Latacunga,,,,2020-02-17,-1,2,7,0,-3,3
@@ -7340,6 +7464,11 @@ EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-12,-8,13,9,-4,10,10
 EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-13,-15,18,-2,-19,12,8
 EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-14,-19,9,-9,-19,-30,20
 EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-15,-16,14,-3,-15,-31,19
+EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-16,-14,17,-5,-15,-29,19
+EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-17,-12,21,-8,-11,-30,20
+EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-18,-13,20,-1,-15,-27,22
+EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-19,-3,22,5,1,11,9
+EC,Ecuador,Cotopaxi,Latacunga,,,,2020-12-20,-10,28,-4,-23,13,8
 EC,Ecuador,Cotopaxi,Pujili,,,,2020-02-15,,,,-4,,
 EC,Ecuador,Cotopaxi,Pujili,,,,2020-02-16,,,-9,-9,,
 EC,Ecuador,Cotopaxi,Pujili,,,,2020-02-17,,,,-18,-7,
@@ -7611,6 +7740,11 @@ EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-12,,,,-23,9,
 EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-13,-22,,8,-38,,
 EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-14,,,,-37,-30,
 EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-15,,,,-36,-30,
+EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-16,,,,-35,-29,
+EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-17,,,,-44,-31,
+EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-18,,,,-37,-30,
+EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-19,,,,-21,7,
+EC,Ecuador,Cotopaxi,Pujili,,,,2020-12-20,-21,,6,-40,,
 EC,Ecuador,Cotopaxi,Salcedo,,,,2020-02-15,,,-6,,,
 EC,Ecuador,Cotopaxi,Salcedo,,,,2020-02-16,-6,,-3,,,
 EC,Ecuador,Cotopaxi,Salcedo,,,,2020-02-17,,,1,,2,
@@ -7891,6 +8025,11 @@ EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-12,,,-28,,3,
 EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-13,17,,-26,,17,
 EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-14,,,-23,,-33,
 EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-15,,,-20,,-30,
+EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-16,,,-25,,-27,
+EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-17,,,-28,,-28,
+EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-18,,,-30,,-28,
+EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-19,,,-36,,4,
+EC,Ecuador,Cotopaxi,Salcedo,,,,2020-12-20,19,,-21,,18,
 EC,Ecuador,Cotopaxi,Saquisili,,,,2020-02-15,,,-7,,,
 EC,Ecuador,Cotopaxi,Saquisili,,,,2020-02-16,,,-20,,,
 EC,Ecuador,Cotopaxi,Saquisili,,,,2020-02-20,,,-13,,,
@@ -8073,6 +8212,11 @@ EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-12,,,-65,,,
 EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-13,,,-59,,,
 EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-14,,,,,-21,
 EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-15,,,,,-32,
+EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-16,,,-60,,-31,
+EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-17,,,-67,,-28,
+EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-18,,,-54,,-24,
+EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-19,,,-62,,,
+EC,Ecuador,Cotopaxi,Saquisili,,,,2020-12-20,,,-69,,,
 EC,Ecuador,El Oro,,,EC-O,,2020-02-15,18,1,-3,-4,-4,0
 EC,Ecuador,El Oro,,,EC-O,,2020-02-16,14,-3,-2,-1,-1,-1
 EC,Ecuador,El Oro,,,EC-O,,2020-02-17,21,5,-1,6,-5,1
@@ -8378,6 +8522,11 @@ EC,Ecuador,El Oro,,,EC-O,,2020-12-12,-10,19,-23,-14,-1,7
 EC,Ecuador,El Oro,,,EC-O,,2020-12-13,-14,11,-22,-14,7,6
 EC,Ecuador,El Oro,,,EC-O,,2020-12-14,-5,15,-23,-20,-22,11
 EC,Ecuador,El Oro,,,EC-O,,2020-12-15,-3,20,-23,-13,-23,11
+EC,Ecuador,El Oro,,,EC-O,,2020-12-16,-5,18,-24,-14,-22,10
+EC,Ecuador,El Oro,,,EC-O,,2020-12-17,-5,18,-22,-14,-23,10
+EC,Ecuador,El Oro,,,EC-O,,2020-12-18,-7,20,-26,-21,-22,11
+EC,Ecuador,El Oro,,,EC-O,,2020-12-19,-3,28,-17,-9,2,5
+EC,Ecuador,El Oro,,,EC-O,,2020-12-20,-5,23,-18,-13,12,5
 EC,Ecuador,El Oro,Arenillas,,,,2020-02-15,,,-15,,,
 EC,Ecuador,El Oro,Arenillas,,,,2020-02-16,,,-3,,,
 EC,Ecuador,El Oro,Arenillas,,,,2020-02-17,,,,,-12,
@@ -8658,6 +8807,11 @@ EC,Ecuador,El Oro,Arenillas,,,,2020-12-12,,,-22,,2,
 EC,Ecuador,El Oro,Arenillas,,,,2020-12-13,,,-28,,,
 EC,Ecuador,El Oro,Arenillas,,,,2020-12-14,,,-31,,-29,
 EC,Ecuador,El Oro,Arenillas,,,,2020-12-15,,,-22,,-29,
+EC,Ecuador,El Oro,Arenillas,,,,2020-12-16,,,-27,,-27,
+EC,Ecuador,El Oro,Arenillas,,,,2020-12-17,,,-37,,-26,
+EC,Ecuador,El Oro,Arenillas,,,,2020-12-18,,,-42,,-27,
+EC,Ecuador,El Oro,Arenillas,,,,2020-12-19,,,-19,,11,
+EC,Ecuador,El Oro,Arenillas,,,,2020-12-20,,,-25,,,
 EC,Ecuador,El Oro,Balsas,,,,2020-02-15,,,8,,,
 EC,Ecuador,El Oro,Balsas,,,,2020-02-16,,,-4,,,
 EC,Ecuador,El Oro,Balsas,,,,2020-02-19,,,-6,,,
@@ -8911,6 +9065,11 @@ EC,Ecuador,El Oro,Balsas,,,,2020-12-12,,,-24,,,
 EC,Ecuador,El Oro,Balsas,,,,2020-12-13,,,-39,,,
 EC,Ecuador,El Oro,Balsas,,,,2020-12-14,,,-39,,,
 EC,Ecuador,El Oro,Balsas,,,,2020-12-15,,,-39,,,
+EC,Ecuador,El Oro,Balsas,,,,2020-12-16,,,-40,,,
+EC,Ecuador,El Oro,Balsas,,,,2020-12-17,,,-37,,,
+EC,Ecuador,El Oro,Balsas,,,,2020-12-18,,,-34,,,
+EC,Ecuador,El Oro,Balsas,,,,2020-12-19,,,-28,,,
+EC,Ecuador,El Oro,Balsas,,,,2020-12-20,,,-34,,,
 EC,Ecuador,El Oro,El Guabo,,,,2020-02-15,,,6,,-6,
 EC,Ecuador,El Oro,El Guabo,,,,2020-02-16,,,2,,,
 EC,Ecuador,El Oro,El Guabo,,,,2020-02-17,,,6,,-10,
@@ -9191,6 +9350,11 @@ EC,Ecuador,El Oro,El Guabo,,,,2020-12-12,,,-29,,-6,
 EC,Ecuador,El Oro,El Guabo,,,,2020-12-13,,,-37,,1,
 EC,Ecuador,El Oro,El Guabo,,,,2020-12-14,,,-21,,-24,
 EC,Ecuador,El Oro,El Guabo,,,,2020-12-15,,,-20,,-24,
+EC,Ecuador,El Oro,El Guabo,,,,2020-12-16,,,-26,,-24,
+EC,Ecuador,El Oro,El Guabo,,,,2020-12-17,,,-27,,-25,
+EC,Ecuador,El Oro,El Guabo,,,,2020-12-18,,,-32,,-22,
+EC,Ecuador,El Oro,El Guabo,,,,2020-12-19,,,-20,,2,
+EC,Ecuador,El Oro,El Guabo,,,,2020-12-20,,,-31,,6,
 EC,Ecuador,El Oro,Huaquillas,,,,2020-02-15,,,0,,-3,
 EC,Ecuador,El Oro,Huaquillas,,,,2020-02-16,,,-3,,2,
 EC,Ecuador,El Oro,Huaquillas,,,,2020-02-17,,,4,,-2,
@@ -9471,6 +9635,11 @@ EC,Ecuador,El Oro,Huaquillas,,,,2020-12-12,,,-16,,2,
 EC,Ecuador,El Oro,Huaquillas,,,,2020-12-13,,,-27,,14,
 EC,Ecuador,El Oro,Huaquillas,,,,2020-12-14,,,9,,-8,11
 EC,Ecuador,El Oro,Huaquillas,,,,2020-12-15,,,1,,-11,10
+EC,Ecuador,El Oro,Huaquillas,,,,2020-12-16,,,-4,,-7,11
+EC,Ecuador,El Oro,Huaquillas,,,,2020-12-17,,,-1,,-10,11
+EC,Ecuador,El Oro,Huaquillas,,,,2020-12-18,,,-8,,-10,11
+EC,Ecuador,El Oro,Huaquillas,,,,2020-12-19,,,-13,,4,
+EC,Ecuador,El Oro,Huaquillas,,,,2020-12-20,,,-24,,19,
 EC,Ecuador,El Oro,Machala,,,,2020-02-15,31,2,-5,2,-2,0
 EC,Ecuador,El Oro,Machala,,,,2020-02-16,26,-2,-2,,-1,-1
 EC,Ecuador,El Oro,Machala,,,,2020-02-17,33,8,-1,10,-4,1
@@ -9776,6 +9945,11 @@ EC,Ecuador,El Oro,Machala,,,,2020-12-12,4,31,-29,-5,-1,8
 EC,Ecuador,El Oro,Machala,,,,2020-12-13,0,21,-30,,9,7
 EC,Ecuador,El Oro,Machala,,,,2020-12-14,11,28,-28,-9,-24,12
 EC,Ecuador,El Oro,Machala,,,,2020-12-15,12,29,-29,9,-24,12
+EC,Ecuador,El Oro,Machala,,,,2020-12-16,8,30,-29,3,-23,11
+EC,Ecuador,El Oro,Machala,,,,2020-12-17,8,31,-27,8,-25,11
+EC,Ecuador,El Oro,Machala,,,,2020-12-18,7,36,-31,9,-20,12
+EC,Ecuador,El Oro,Machala,,,,2020-12-19,14,46,-24,9,3,6
+EC,Ecuador,El Oro,Machala,,,,2020-12-20,15,40,-21,,15,5
 EC,Ecuador,El Oro,Pasaje,,,,2020-02-15,6,3,3,-4,-6,
 EC,Ecuador,El Oro,Pasaje,,,,2020-02-16,-2,,5,-2,-6,
 EC,Ecuador,El Oro,Pasaje,,,,2020-02-17,1,,2,-7,-8,2
@@ -10056,6 +10230,11 @@ EC,Ecuador,El Oro,Pasaje,,,,2020-12-12,-2,6,10,-32,0,9
 EC,Ecuador,El Oro,Pasaje,,,,2020-12-13,-20,,20,-35,11,
 EC,Ecuador,El Oro,Pasaje,,,,2020-12-14,-4,,9,-37,-26,13
 EC,Ecuador,El Oro,Pasaje,,,,2020-12-15,6,,9,-35,-25,11
+EC,Ecuador,El Oro,Pasaje,,,,2020-12-16,6,,3,-30,-25,11
+EC,Ecuador,El Oro,Pasaje,,,,2020-12-17,12,,5,-32,-24,11
+EC,Ecuador,El Oro,Pasaje,,,,2020-12-18,7,,4,-32,-24,12
+EC,Ecuador,El Oro,Pasaje,,,,2020-12-19,2,7,15,-36,0,6
+EC,Ecuador,El Oro,Pasaje,,,,2020-12-20,-9,,18,-30,13,
 EC,Ecuador,El Oro,Piñas,,,,2020-02-15,,,-19,,,
 EC,Ecuador,El Oro,Piñas,,,,2020-02-16,,,-13,,,
 EC,Ecuador,El Oro,Piñas,,,,2020-02-17,,,2,,-10,
@@ -10326,6 +10505,11 @@ EC,Ecuador,El Oro,Piñas,,,,2020-12-12,,,-21,,-12,
 EC,Ecuador,El Oro,Piñas,,,,2020-12-13,,,-34,,-3,
 EC,Ecuador,El Oro,Piñas,,,,2020-12-14,,,-24,-36,-22,
 EC,Ecuador,El Oro,Piñas,,,,2020-12-15,,,-21,-28,-28,
+EC,Ecuador,El Oro,Piñas,,,,2020-12-16,,,-26,,-26,
+EC,Ecuador,El Oro,Piñas,,,,2020-12-17,,,-15,,-30,
+EC,Ecuador,El Oro,Piñas,,,,2020-12-18,,,-27,-27,-29,
+EC,Ecuador,El Oro,Piñas,,,,2020-12-19,,,-9,-15,-10,
+EC,Ecuador,El Oro,Piñas,,,,2020-12-20,,,-33,,-9,
 EC,Ecuador,El Oro,Santa Rosa,,,,2020-02-15,-4,,1,-17,-6,
 EC,Ecuador,El Oro,Santa Rosa,,,,2020-02-16,4,,0,-7,13,
 EC,Ecuador,El Oro,Santa Rosa,,,,2020-02-17,3,,2,11,-5,0
@@ -10606,6 +10790,11 @@ EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-12,-36,,0,-14,-2,6
 EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-13,-39,,9,-13,5,
 EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-14,-31,,11,-17,-29,9
 EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-15,-33,,10,-11,-30,10
+EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-16,-32,,-4,-23,-29,10
+EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-17,-33,,0,-23,-30,11
+EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-18,-36,,-4,-27,-29,13
+EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-19,-30,,9,4,0,6
+EC,Ecuador,El Oro,Santa Rosa,,,,2020-12-20,-36,,15,-11,6,
 EC,Ecuador,El Oro,Zaruma,,,,2020-02-15,,,-2,,,
 EC,Ecuador,El Oro,Zaruma,,,,2020-02-16,,,1,,,
 EC,Ecuador,El Oro,Zaruma,,,,2020-02-17,,,-1,,,
@@ -10867,6 +11056,11 @@ EC,Ecuador,El Oro,Zaruma,,,,2020-12-12,,,-30,,,
 EC,Ecuador,El Oro,Zaruma,,,,2020-12-13,,,-27,,,
 EC,Ecuador,El Oro,Zaruma,,,,2020-12-14,,,-36,,-34,
 EC,Ecuador,El Oro,Zaruma,,,,2020-12-15,,,-32,,-30,
+EC,Ecuador,El Oro,Zaruma,,,,2020-12-16,,,-25,,-24,
+EC,Ecuador,El Oro,Zaruma,,,,2020-12-17,,,-22,,-27,
+EC,Ecuador,El Oro,Zaruma,,,,2020-12-18,,,-35,,-37,
+EC,Ecuador,El Oro,Zaruma,,,,2020-12-19,,,-24,,,
+EC,Ecuador,El Oro,Zaruma,,,,2020-12-20,,,-36,,,
 EC,Ecuador,Esmeraldas,,,EC-E,,2020-02-15,-3,-9,-6,5,-5,2
 EC,Ecuador,Esmeraldas,,,EC-E,,2020-02-16,-1,-4,-6,-1,0,1
 EC,Ecuador,Esmeraldas,,,EC-E,,2020-02-17,2,1,4,11,-4,2
@@ -11172,6 +11366,11 @@ EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-12,-6,1,-5,14,3,7
 EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-13,-12,-10,-1,4,4,6
 EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-14,-4,-3,-10,-1,-26,13
 EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-15,-1,5,-5,9,-26,11
+EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-16,0,2,-10,5,-25,12
+EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-17,1,6,-9,3,-25,12
+EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-18,-1,2,-11,4,-23,12
+EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-19,-1,7,0,9,5,5
+EC,Ecuador,Esmeraldas,,,EC-E,,2020-12-20,-5,-2,3,9,11,5
 EC,Ecuador,Esmeraldas,Atacames,,,,2020-02-15,,-1,14,,-13,
 EC,Ecuador,Esmeraldas,Atacames,,,,2020-02-16,,1,20,,,
 EC,Ecuador,Esmeraldas,Atacames,,,,2020-02-17,,11,,,-7,
@@ -11447,6 +11646,11 @@ EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-12,,,19,,4,
 EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-13,,,32,,7,
 EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-14,,,,,-14,
 EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-15,,,,,-16,
+EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-16,,,,,-15,
+EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-17,,,,,-12,
+EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-18,,,,,-14,
+EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-19,,,31,,0,
+EC,Ecuador,Esmeraldas,Atacames,,,,2020-12-20,,,26,,10,
 EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-02-15,-2,-14,-14,4,-5,2
 EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-02-16,0,-4,-14,-1,4,1
 EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-02-17,0,3,3,13,-4,1
@@ -11752,6 +11956,11 @@ EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-12,-3,-3,-12,7,-4,7
 EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-13,-12,-23,-15,-3,4,6
 EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-14,-6,-1,-20,-7,-33,14
 EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-15,-3,1,-14,5,-32,13
+EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-16,3,1,-17,-4,-32,13
+EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-17,5,11,-12,-3,-31,13
+EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-18,6,10,-16,-1,-29,13
+EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-19,3,6,-11,1,2,6
+EC,Ecuador,Esmeraldas,Esmeraldas,,,,2020-12-20,-4,-6,-5,0,14,4
 EC,Ecuador,Esmeraldas,La Concordia,,,,2020-02-15,,,2,,,
 EC,Ecuador,Esmeraldas,La Concordia,,,,2020-02-16,,,0,,,
 EC,Ecuador,Esmeraldas,La Concordia,,,,2020-02-17,,,6,,-5,
@@ -12031,6 +12240,11 @@ EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-12,,,-12,,3,
 EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-13,,,-14,,6,
 EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-14,,,-25,,-27,
 EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-15,,,-18,,-23,
+EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-16,,,-19,,-26,
+EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-17,,,-19,,-25,
+EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-18,,,-30,,-23,
+EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-19,,,-17,,5,
+EC,Ecuador,Esmeraldas,La Concordia,,,,2020-12-20,,,-19,,3,
 EC,Ecuador,Esmeraldas,Quininde,,,,2020-02-15,-5,,-10,,-9,
 EC,Ecuador,Esmeraldas,Quininde,,,,2020-02-16,3,,-5,,-5,
 EC,Ecuador,Esmeraldas,Quininde,,,,2020-02-17,,,3,,-8,
@@ -12311,6 +12525,11 @@ EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-12,11,,20,,4,
 EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-13,10,,48,,-4,
 EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-14,,,21,,-29,13
 EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-15,,,16,,-28,12
+EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-16,,,18,,-27,12
+EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-17,,,20,,-27,12
+EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-18,15,,12,,-24,14
+EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-19,21,,34,,0,
+EC,Ecuador,Esmeraldas,Quininde,,,,2020-12-20,17,,52,,-4,
 EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-02-15,,,-12,,,
 EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-02-16,,,-15,,,
 EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-02-17,,,-10,,,
@@ -12590,6 +12809,11 @@ EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-12,,,-28,,,
 EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-13,,,-9,,,
 EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-14,,,-19,,-11,
 EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-15,,,-16,,-11,
+EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-16,,,-36,,-11,
+EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-17,,,-32,,-10,
+EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-18,,,-37,,-13,
+EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-19,,,-25,,18,
+EC,Ecuador,Esmeraldas,San Lorenzo,,,,2020-12-20,,,-21,,,
 EC,Ecuador,Galápagos Islands,,,EC-W,,2020-02-15,,,31,-12,5,
 EC,Ecuador,Galápagos Islands,,,EC-W,,2020-02-16,,,38,,-2,
 EC,Ecuador,Galápagos Islands,,,EC-W,,2020-02-17,,,14,,-25,
@@ -12870,6 +13094,11 @@ EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-12,,,-37,-58,-35,
 EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-13,,,-33,-49,-38,
 EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-14,,,-35,,-37,
 EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-15,,,-37,-58,-38,
+EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-16,,,-37,-64,-36,
+EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-17,,,-39,-59,-34,
+EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-18,,,-33,-54,-34,
+EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-19,,,-33,-56,-32,
+EC,Ecuador,Galápagos Islands,,,EC-W,,2020-12-20,,,-24,-50,-31,
 EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-02-15,,,19,,,
 EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-02-16,,,35,,,
 EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-02-17,,,9,,,
@@ -13107,6 +13336,11 @@ EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-12,,,-35,,-29,
 EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-13,,,-43,,,
 EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-14,,,-41,,-20,
 EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-15,,,-50,,-27,
+EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-16,,,-38,,-21,
+EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-17,,,-40,,-27,
+EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-18,,,-36,,-21,
+EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-19,,,-32,,-24,
+EC,Ecuador,Galápagos Islands,San Cristobal,,,,2020-12-20,,,-30,,,
 EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-02-15,,,46,-16,2,
 EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-02-16,,,37,-12,,
 EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-02-17,,,23,-24,-27,
@@ -13387,6 +13621,11 @@ EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-12,,,-32,-63,-34,
 EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-13,,,-27,-53,-37,
 EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-14,,,-28,-53,-33,
 EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-15,,,-25,-68,-36,
+EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-16,,,-29,-58,-34,
+EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-17,,,-34,-58,-36,
+EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-18,,,-26,-66,-36,
+EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-19,,,-30,-59,-32,
+EC,Ecuador,Galápagos Islands,Santa Cruz,,,,2020-12-20,,,-18,-57,-31,
 EC,Ecuador,Guayas,,,EC-G,,2020-02-15,2,2,-3,0,-2,1
 EC,Ecuador,Guayas,,,EC-G,,2020-02-16,5,2,0,4,0,0
 EC,Ecuador,Guayas,,,EC-G,,2020-02-17,4,5,1,4,-4,1
@@ -13692,6 +13931,11 @@ EC,Ecuador,Guayas,,,EC-G,,2020-12-12,-10,22,-10,-5,3,7
 EC,Ecuador,Guayas,,,EC-G,,2020-12-13,-9,16,-9,-6,18,6
 EC,Ecuador,Guayas,,,EC-G,,2020-12-14,-16,13,-22,-17,-23,12
 EC,Ecuador,Guayas,,,EC-G,,2020-12-15,-9,21,-18,-13,-22,11
+EC,Ecuador,Guayas,,,EC-G,,2020-12-16,-8,23,-13,-13,-21,11
+EC,Ecuador,Guayas,,,EC-G,,2020-12-17,-7,25,-13,-10,-21,10
+EC,Ecuador,Guayas,,,EC-G,,2020-12-18,-9,26,-14,-13,-20,11
+EC,Ecuador,Guayas,,,EC-G,,2020-12-19,-3,32,-2,3,6,5
+EC,Ecuador,Guayas,,,EC-G,,2020-12-20,2,29,3,7,25,4
 EC,Ecuador,Guayas,Balzar,,,,2020-02-24,,,,,-55,
 EC,Ecuador,Guayas,Balzar,,,,2020-03-17,,,,,-56,
 EC,Ecuador,Guayas,Balzar,,,,2020-03-18,,,,,-60,
@@ -13872,6 +14116,10 @@ EC,Ecuador,Guayas,Balzar,,,,2020-12-11,,,,,-19,
 EC,Ecuador,Guayas,Balzar,,,,2020-12-12,,,,,3,
 EC,Ecuador,Guayas,Balzar,,,,2020-12-14,,,,,-31,
 EC,Ecuador,Guayas,Balzar,,,,2020-12-15,,,,,-16,
+EC,Ecuador,Guayas,Balzar,,,,2020-12-16,,,,,-23,
+EC,Ecuador,Guayas,Balzar,,,,2020-12-17,,,,,-15,
+EC,Ecuador,Guayas,Balzar,,,,2020-12-18,,,,,-16,
+EC,Ecuador,Guayas,Balzar,,,,2020-12-19,,,,,1,
 EC,Ecuador,Guayas,Daule Canton,,,,2020-02-15,4,-2,-3,,-2,0
 EC,Ecuador,Guayas,Daule Canton,,,,2020-02-16,1,-5,-5,,-1,0
 EC,Ecuador,Guayas,Daule Canton,,,,2020-02-17,5,3,2,,-5,3
@@ -14177,6 +14425,11 @@ EC,Ecuador,Guayas,Daule Canton,,,,2020-12-12,-7,35,-11,,6,7
 EC,Ecuador,Guayas,Daule Canton,,,,2020-12-13,-13,19,-12,,27,5
 EC,Ecuador,Guayas,Daule Canton,,,,2020-12-14,-8,32,-20,,-24,18
 EC,Ecuador,Guayas,Daule Canton,,,,2020-12-15,-1,49,-21,,-24,17
+EC,Ecuador,Guayas,Daule Canton,,,,2020-12-16,2,50,-21,,-23,17
+EC,Ecuador,Guayas,Daule Canton,,,,2020-12-17,4,54,-19,,-23,16
+EC,Ecuador,Guayas,Daule Canton,,,,2020-12-18,1,52,-11,,-21,16
+EC,Ecuador,Guayas,Daule Canton,,,,2020-12-19,-1,47,-5,,12,5
+EC,Ecuador,Guayas,Daule Canton,,,,2020-12-20,-4,34,-1,,34,3
 EC,Ecuador,Guayas,Duran,,,,2020-02-15,3,1,-5,-16,-2,2
 EC,Ecuador,Guayas,Duran,,,,2020-02-16,1,4,-8,-3,-2,0
 EC,Ecuador,Guayas,Duran,,,,2020-02-17,5,5,-5,-9,-5,1
@@ -14482,6 +14735,11 @@ EC,Ecuador,Guayas,Duran,,,,2020-12-12,11,19,13,-16,2,7
 EC,Ecuador,Guayas,Duran,,,,2020-12-13,7,20,4,-18,13,6
 EC,Ecuador,Guayas,Duran,,,,2020-12-14,-2,13,0,-24,-20,12
 EC,Ecuador,Guayas,Duran,,,,2020-12-15,9,29,14,-14,-20,11
+EC,Ecuador,Guayas,Duran,,,,2020-12-16,12,27,6,-15,-18,11
+EC,Ecuador,Guayas,Duran,,,,2020-12-17,18,31,12,-12,-18,11
+EC,Ecuador,Guayas,Duran,,,,2020-12-18,10,19,7,-18,-17,11
+EC,Ecuador,Guayas,Duran,,,,2020-12-19,24,30,14,-7,5,5
+EC,Ecuador,Guayas,Duran,,,,2020-12-20,29,36,6,0,17,4
 EC,Ecuador,Guayas,El Triunfo,,,,2020-02-17,,,,,-5,
 EC,Ecuador,Guayas,El Triunfo,,,,2020-02-19,,,,,-4,
 EC,Ecuador,Guayas,El Triunfo,,,,2020-02-20,,,,,-6,
@@ -14731,6 +14989,11 @@ EC,Ecuador,Guayas,El Triunfo,,,,2020-12-12,,,,,6,
 EC,Ecuador,Guayas,El Triunfo,,,,2020-12-13,,,,,13,
 EC,Ecuador,Guayas,El Triunfo,,,,2020-12-14,,,,,-16,
 EC,Ecuador,Guayas,El Triunfo,,,,2020-12-15,,,,,-11,
+EC,Ecuador,Guayas,El Triunfo,,,,2020-12-16,,,,,-10,
+EC,Ecuador,Guayas,El Triunfo,,,,2020-12-17,,,,,-15,
+EC,Ecuador,Guayas,El Triunfo,,,,2020-12-18,,,,,-13,
+EC,Ecuador,Guayas,El Triunfo,,,,2020-12-19,,,,,14,
+EC,Ecuador,Guayas,El Triunfo,,,,2020-12-20,,,,,19,
 EC,Ecuador,Guayas,Empalme,,,,2020-02-17,,,,,-3,
 EC,Ecuador,Guayas,Empalme,,,,2020-02-18,,,,,-9,
 EC,Ecuador,Guayas,Empalme,,,,2020-02-19,,,,,-8,
@@ -14995,6 +15258,11 @@ EC,Ecuador,Guayas,Empalme,,,,2020-12-12,,,,,4,
 EC,Ecuador,Guayas,Empalme,,,,2020-12-13,,,,,-1,
 EC,Ecuador,Guayas,Empalme,,,,2020-12-14,,,,,-19,
 EC,Ecuador,Guayas,Empalme,,,,2020-12-15,,,,,-21,
+EC,Ecuador,Guayas,Empalme,,,,2020-12-16,,,,,-19,
+EC,Ecuador,Guayas,Empalme,,,,2020-12-17,,,,,-20,
+EC,Ecuador,Guayas,Empalme,,,,2020-12-18,,,,,-17,
+EC,Ecuador,Guayas,Empalme,,,,2020-12-19,,,,,5,
+EC,Ecuador,Guayas,Empalme,,,,2020-12-20,,,,,6,
 EC,Ecuador,Guayas,Guayaquil,,,,2020-02-15,2,3,-2,0,-2,1
 EC,Ecuador,Guayas,Guayaquil,,,,2020-02-16,6,3,2,4,1,0
 EC,Ecuador,Guayas,Guayaquil,,,,2020-02-17,4,5,2,3,-4,1
@@ -15300,6 +15568,11 @@ EC,Ecuador,Guayas,Guayaquil,,,,2020-12-12,-11,22,-11,-2,4,7
 EC,Ecuador,Guayas,Guayaquil,,,,2020-12-13,-9,16,-8,-4,17,6
 EC,Ecuador,Guayas,Guayaquil,,,,2020-12-14,-17,11,-25,-19,-23,12
 EC,Ecuador,Guayas,Guayaquil,,,,2020-12-15,-11,19,-20,-14,-23,12
+EC,Ecuador,Guayas,Guayaquil,,,,2020-12-16,-10,22,-14,-11,-21,11
+EC,Ecuador,Guayas,Guayaquil,,,,2020-12-17,-10,23,-17,-10,-21,11
+EC,Ecuador,Guayas,Guayaquil,,,,2020-12-18,-11,24,-18,-12,-20,12
+EC,Ecuador,Guayas,Guayaquil,,,,2020-12-19,-4,32,-3,6,6,5
+EC,Ecuador,Guayas,Guayaquil,,,,2020-12-20,2,29,7,8,24,4
 EC,Ecuador,Guayas,Milagro,,,,2020-02-15,0,1,-9,-5,-4,3
 EC,Ecuador,Guayas,Milagro,,,,2020-02-16,5,2,-3,2,2,0
 EC,Ecuador,Guayas,Milagro,,,,2020-02-17,5,5,-6,3,-4,1
@@ -15605,6 +15878,11 @@ EC,Ecuador,Guayas,Milagro,,,,2020-12-12,-1,27,13,-17,4,7
 EC,Ecuador,Guayas,Milagro,,,,2020-12-13,-4,21,14,-13,10,5
 EC,Ecuador,Guayas,Milagro,,,,2020-12-14,-5,27,-1,-17,-24,11
 EC,Ecuador,Guayas,Milagro,,,,2020-12-15,5,36,6,-16,-24,9
+EC,Ecuador,Guayas,Milagro,,,,2020-12-16,4,37,5,-21,-21,10
+EC,Ecuador,Guayas,Milagro,,,,2020-12-17,8,45,8,-19,-21,10
+EC,Ecuador,Guayas,Milagro,,,,2020-12-18,-1,42,4,-19,-20,11
+EC,Ecuador,Guayas,Milagro,,,,2020-12-19,6,40,24,6,6,5
+EC,Ecuador,Guayas,Milagro,,,,2020-12-20,9,41,26,27,21,4
 EC,Ecuador,Guayas,Naranjal,,,,2020-02-15,-5,,-4,,-1,
 EC,Ecuador,Guayas,Naranjal,,,,2020-02-16,-1,,-15,,,
 EC,Ecuador,Guayas,Naranjal,,,,2020-02-17,-2,,,,-1,
@@ -15885,6 +16163,11 @@ EC,Ecuador,Guayas,Naranjal,,,,2020-12-12,6,,,,7,
 EC,Ecuador,Guayas,Naranjal,,,,2020-12-13,-1,,34,,12,
 EC,Ecuador,Guayas,Naranjal,,,,2020-12-14,11,,,,-17,
 EC,Ecuador,Guayas,Naranjal,,,,2020-12-15,8,,,,-14,
+EC,Ecuador,Guayas,Naranjal,,,,2020-12-16,5,,,,-16,
+EC,Ecuador,Guayas,Naranjal,,,,2020-12-17,10,,,,-17,
+EC,Ecuador,Guayas,Naranjal,,,,2020-12-18,3,,,,-18,
+EC,Ecuador,Guayas,Naranjal,,,,2020-12-19,22,,,,16,
+EC,Ecuador,Guayas,Naranjal,,,,2020-12-20,16,,36,,9,
 EC,Ecuador,Guayas,Naranjito,,,,2020-02-17,,,,,-3,
 EC,Ecuador,Guayas,Naranjito,,,,2020-02-18,,,,,-2,
 EC,Ecuador,Guayas,Naranjito,,,,2020-02-19,,,,,-8,
@@ -16120,6 +16403,10 @@ EC,Ecuador,Guayas,Naranjito,,,,2020-12-11,,,,,-12,
 EC,Ecuador,Guayas,Naranjito,,,,2020-12-12,,,,,11,
 EC,Ecuador,Guayas,Naranjito,,,,2020-12-14,,,,,-23,
 EC,Ecuador,Guayas,Naranjito,,,,2020-12-15,,,,,-17,
+EC,Ecuador,Guayas,Naranjito,,,,2020-12-16,,,,,-16,
+EC,Ecuador,Guayas,Naranjito,,,,2020-12-17,,,,,-13,
+EC,Ecuador,Guayas,Naranjito,,,,2020-12-18,,,,,-11,
+EC,Ecuador,Guayas,Naranjito,,,,2020-12-19,,,,,5,
 EC,Ecuador,Guayas,Nobol,,,,2020-06-08,,,,,-23,
 EC,Ecuador,Guayas,Nobol,,,,2020-06-09,,,,,-28,
 EC,Ecuador,Guayas,Nobol,,,,2020-06-10,,,,,-33,
@@ -16238,6 +16525,9 @@ EC,Ecuador,Guayas,Nobol,,,,2020-12-10,,,,,-24,
 EC,Ecuador,Guayas,Nobol,,,,2020-12-11,,,,,-22,
 EC,Ecuador,Guayas,Nobol,,,,2020-12-14,,,,,-25,
 EC,Ecuador,Guayas,Nobol,,,,2020-12-15,,,,,-21,
+EC,Ecuador,Guayas,Nobol,,,,2020-12-16,,,,,-19,
+EC,Ecuador,Guayas,Nobol,,,,2020-12-17,,,,,-13,
+EC,Ecuador,Guayas,Nobol,,,,2020-12-18,,,,,-19,
 EC,Ecuador,Guayas,Palestina,,,,2020-02-15,,,-10,,,
 EC,Ecuador,Guayas,Palestina,,,,2020-02-16,,,-14,,,
 EC,Ecuador,Guayas,Palestina,,,,2020-02-17,,,-7,,,
@@ -16518,6 +16808,11 @@ EC,Ecuador,Guayas,Palestina,,,,2020-12-12,,,36,,,
 EC,Ecuador,Guayas,Palestina,,,,2020-12-13,,,32,,,
 EC,Ecuador,Guayas,Palestina,,,,2020-12-14,,,18,,,
 EC,Ecuador,Guayas,Palestina,,,,2020-12-15,,,17,,,
+EC,Ecuador,Guayas,Palestina,,,,2020-12-16,,,23,,,
+EC,Ecuador,Guayas,Palestina,,,,2020-12-17,,,26,,,
+EC,Ecuador,Guayas,Palestina,,,,2020-12-18,,,25,,,
+EC,Ecuador,Guayas,Palestina,,,,2020-12-19,,,39,,,
+EC,Ecuador,Guayas,Palestina,,,,2020-12-20,,,49,,,
 EC,Ecuador,Guayas,Pedro Carbo,,,,2020-02-15,,,-10,,,
 EC,Ecuador,Guayas,Pedro Carbo,,,,2020-02-16,,,-9,,,
 EC,Ecuador,Guayas,Pedro Carbo,,,,2020-02-21,,,-7,,,
@@ -16771,6 +17066,11 @@ EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-12,,,8,,,
 EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-13,,,2,,,
 EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-14,,,,,-18,
 EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-15,,,,,-23,
+EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-16,,,,,-19,
+EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-17,,,,,-18,
+EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-18,,,,,-12,
+EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-19,,,12,,,
+EC,Ecuador,Guayas,Pedro Carbo,,,,2020-12-20,,,10,,,
 EC,Ecuador,Guayas,Playas,,,,2020-02-15,13,,0,,5,
 EC,Ecuador,Guayas,Playas,,,,2020-02-16,11,,19,,4,
 EC,Ecuador,Guayas,Playas,,,,2020-02-17,8,,17,,5,
@@ -17051,6 +17351,11 @@ EC,Ecuador,Guayas,Playas,,,,2020-12-12,1,,-22,,10,
 EC,Ecuador,Guayas,Playas,,,,2020-12-13,4,,-31,,5,
 EC,Ecuador,Guayas,Playas,,,,2020-12-14,29,,0,,-5,
 EC,Ecuador,Guayas,Playas,,,,2020-12-15,,,6,,-2,10
+EC,Ecuador,Guayas,Playas,,,,2020-12-16,46,,-2,,-3,10
+EC,Ecuador,Guayas,Playas,,,,2020-12-17,41,,0,,-4,10
+EC,Ecuador,Guayas,Playas,,,,2020-12-18,29,,-9,,-4,11
+EC,Ecuador,Guayas,Playas,,,,2020-12-19,1,,-28,,9,
+EC,Ecuador,Guayas,Playas,,,,2020-12-20,2,,-33,,19,
 EC,Ecuador,Guayas,Salitre,,,,2020-02-16,,,-24,,,
 EC,Ecuador,Guayas,Salitre,,,,2020-02-23,,,4,,,
 EC,Ecuador,Guayas,Salitre,,,,2020-03-01,,,-59,,,
@@ -17222,6 +17527,10 @@ EC,Ecuador,Guayas,Salitre,,,,2020-12-11,,,,,-15,
 EC,Ecuador,Guayas,Salitre,,,,2020-12-13,,,23,,,
 EC,Ecuador,Guayas,Salitre,,,,2020-12-14,,,,,-21,
 EC,Ecuador,Guayas,Salitre,,,,2020-12-15,,,,,-19,
+EC,Ecuador,Guayas,Salitre,,,,2020-12-16,,,,,-23,
+EC,Ecuador,Guayas,Salitre,,,,2020-12-17,,,,,-18,
+EC,Ecuador,Guayas,Salitre,,,,2020-12-18,,,,,-16,
+EC,Ecuador,Guayas,Salitre,,,,2020-12-20,,,17,,,
 EC,Ecuador,Guayas,Samborondon,,,,2020-02-15,-2,-1,-7,,-7,
 EC,Ecuador,Guayas,Samborondon,,,,2020-02-16,-1,-5,-3,,2,
 EC,Ecuador,Guayas,Samborondon,,,,2020-02-17,4,4,-5,,-3,2
@@ -17527,6 +17836,11 @@ EC,Ecuador,Guayas,Samborondon,,,,2020-12-12,5,32,-33,,-1,8
 EC,Ecuador,Guayas,Samborondon,,,,2020-12-13,-4,19,-47,,15,
 EC,Ecuador,Guayas,Samborondon,,,,2020-12-14,-8,28,-17,,-29,16
 EC,Ecuador,Guayas,Samborondon,,,,2020-12-15,-1,39,-16,,-29,15
+EC,Ecuador,Guayas,Samborondon,,,,2020-12-16,-3,33,-22,,-27,14
+EC,Ecuador,Guayas,Samborondon,,,,2020-12-17,0,42,-18,,-29,15
+EC,Ecuador,Guayas,Samborondon,,,,2020-12-18,5,40,-24,,-28,15
+EC,Ecuador,Guayas,Samborondon,,,,2020-12-19,14,45,-29,,-6,6
+EC,Ecuador,Guayas,Samborondon,,,,2020-12-20,6,36,-42,,14,
 EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-02-15,,2,-7,,-10,
 EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-02-16,,0,2,,,
 EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-02-17,,1,2,,0,
@@ -17807,6 +18121,11 @@ EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-12,,42,-9,,7,
 EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-13,,38,-13,,17,
 EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-14,,38,-17,,-27,
 EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-15,,37,-21,,-19,
+EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-16,,46,-22,,-22,
+EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-17,,64,-10,,-19,
+EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-18,,48,-13,,-15,
+EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-19,,48,-6,,3,
+EC,Ecuador,Guayas,San Jacinto de Yaguachi,,,,2020-12-20,,58,-2,,21,
 EC,Ecuador,Guayas,Santa Lucia,,,,2020-06-08,,,,,-31,
 EC,Ecuador,Guayas,Santa Lucia,,,,2020-06-09,,,,,-32,
 EC,Ecuador,Guayas,Santa Lucia,,,,2020-06-10,,,,,-41,
@@ -17925,6 +18244,9 @@ EC,Ecuador,Guayas,Santa Lucia,,,,2020-12-10,,,,,-26,
 EC,Ecuador,Guayas,Santa Lucia,,,,2020-12-11,,,,,-22,
 EC,Ecuador,Guayas,Santa Lucia,,,,2020-12-14,,,,,-19,
 EC,Ecuador,Guayas,Santa Lucia,,,,2020-12-15,,,,,-33,
+EC,Ecuador,Guayas,Santa Lucia,,,,2020-12-16,,,,,-23,
+EC,Ecuador,Guayas,Santa Lucia,,,,2020-12-17,,,,,-26,
+EC,Ecuador,Guayas,Santa Lucia,,,,2020-12-18,,,,,-26,
 EC,Ecuador,Imbabura,,,EC-I,,2020-02-15,4,2,7,-9,-3,0
 EC,Ecuador,Imbabura,,,EC-I,,2020-02-16,3,2,10,-7,1,0
 EC,Ecuador,Imbabura,,,EC-I,,2020-02-17,5,6,8,-6,-3,2
@@ -18230,6 +18552,11 @@ EC,Ecuador,Imbabura,,,EC-I,,2020-12-12,-11,5,-7,-9,9,8
 EC,Ecuador,Imbabura,,,EC-I,,2020-12-13,-12,1,0,-14,17,6
 EC,Ecuador,Imbabura,,,EC-I,,2020-12-14,-11,8,-17,-8,-24,15
 EC,Ecuador,Imbabura,,,EC-I,,2020-12-15,-10,8,-19,-9,-25,15
+EC,Ecuador,Imbabura,,,EC-I,,2020-12-16,-7,12,-15,-4,-23,14
+EC,Ecuador,Imbabura,,,EC-I,,2020-12-17,-9,13,-13,-3,-22,15
+EC,Ecuador,Imbabura,,,EC-I,,2020-12-18,-9,14,-11,-13,-21,16
+EC,Ecuador,Imbabura,,,EC-I,,2020-12-19,-6,13,-6,-2,12,7
+EC,Ecuador,Imbabura,,,EC-I,,2020-12-20,-9,12,1,-7,21,6
 EC,Ecuador,Imbabura,Antonio Ante,,,,2020-02-15,1,,28,,7,
 EC,Ecuador,Imbabura,Antonio Ante,,,,2020-02-16,-2,-2,23,,,
 EC,Ecuador,Imbabura,Antonio Ante,,,,2020-02-17,5,,32,,0,
@@ -18510,6 +18837,11 @@ EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-12,29,,40,,17,
 EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-13,11,-17,57,,12,
 EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-14,,,14,,-23,15
 EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-15,,,47,,-24,14
+EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-16,,,49,,-22,15
+EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-17,24,,31,,-22,15
+EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-18,32,,34,,-18,16
+EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-19,28,,59,,20,
+EC,Ecuador,Imbabura,Antonio Ante,,,,2020-12-20,14,-4,86,,15,
 EC,Ecuador,Imbabura,Cotacachi,,,,2020-02-15,,,4,,,
 EC,Ecuador,Imbabura,Cotacachi,,,,2020-02-16,,,7,,,
 EC,Ecuador,Imbabura,Cotacachi,,,,2020-02-17,,,,,0,
@@ -18774,6 +19106,11 @@ EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-12,,,6,,-4,
 EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-13,,,14,,,
 EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-14,,,,,-25,
 EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-15,,,,,-27,
+EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-16,,,,,-20,
+EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-17,,,,,-22,
+EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-18,,,,,-22,
+EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-19,,,13,,9,
+EC,Ecuador,Imbabura,Cotacachi,,,,2020-12-20,,,5,,,
 EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-02-15,3,2,5,-7,-2,0
 EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-02-16,0,1,4,-12,1,0
 EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-02-17,1,7,5,-7,-2,2
@@ -19079,6 +19416,11 @@ EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-12,-10,12,-13,-10,12,8
 EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-13,-13,5,-10,-23,22,6
 EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-14,-11,10,-22,-11,-23,15
 EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-15,-9,12,-27,-11,-24,15
+EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-16,-7,16,-24,-9,-22,14
+EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-17,-8,16,-24,-8,-22,16
+EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-18,-10,16,-20,-20,-21,17
+EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-19,-5,20,-15,-1,14,7
+EC,Ecuador,Imbabura,Ibarra Canton,,,,2020-12-20,-7,17,-14,-17,25,6
 EC,Ecuador,Imbabura,Otavalo,,,,2020-02-15,9,4,11,,2,0
 EC,Ecuador,Imbabura,Otavalo,,,,2020-02-16,18,3,18,,-2,
 EC,Ecuador,Imbabura,Otavalo,,,,2020-02-17,19,3,8,,-6,2
@@ -19380,6 +19722,11 @@ EC,Ecuador,Imbabura,Otavalo,,,,2020-12-12,-12,-7,-15,,17,10
 EC,Ecuador,Imbabura,Otavalo,,,,2020-12-13,-12,-1,-11,,10,9
 EC,Ecuador,Imbabura,Otavalo,,,,2020-12-14,-9,3,-29,,-25,16
 EC,Ecuador,Imbabura,Otavalo,,,,2020-12-15,-11,4,-30,,-24,17
+EC,Ecuador,Imbabura,Otavalo,,,,2020-12-16,-3,6,-26,,-21,15
+EC,Ecuador,Imbabura,Otavalo,,,,2020-12-17,-12,12,-22,,-20,16
+EC,Ecuador,Imbabura,Otavalo,,,,2020-12-18,-10,11,-23,,-21,18
+EC,Ecuador,Imbabura,Otavalo,,,,2020-12-19,-5,3,-14,,14,8
+EC,Ecuador,Imbabura,Otavalo,,,,2020-12-20,-12,9,-10,,17,7
 EC,Ecuador,Loja,,,EC-L,,2020-02-15,3,-1,0,-6,-7,-1
 EC,Ecuador,Loja,,,EC-L,,2020-02-16,1,-1,-4,-2,0,0
 EC,Ecuador,Loja,,,EC-L,,2020-02-17,0,4,-3,-3,-9,2
@@ -19685,6 +20032,11 @@ EC,Ecuador,Loja,,,EC-L,,2020-12-12,-10,5,-15,-23,-4,7
 EC,Ecuador,Loja,,,EC-L,,2020-12-13,-14,-9,-20,-19,0,6
 EC,Ecuador,Loja,,,EC-L,,2020-12-14,-14,6,-25,-23,-35,15
 EC,Ecuador,Loja,,,EC-L,,2020-12-15,-13,8,-25,-20,-35,14
+EC,Ecuador,Loja,,,EC-L,,2020-12-16,-12,7,-27,-20,-33,14
+EC,Ecuador,Loja,,,EC-L,,2020-12-17,-9,7,-26,-17,-34,15
+EC,Ecuador,Loja,,,EC-L,,2020-12-18,-8,14,-23,-20,-32,14
+EC,Ecuador,Loja,,,EC-L,,2020-12-19,-3,14,-7,-8,-2,4
+EC,Ecuador,Loja,,,EC-L,,2020-12-20,-6,-2,-13,-8,8,4
 EC,Ecuador,Loja,Calvas,,,,2020-02-15,,,4,,,
 EC,Ecuador,Loja,Calvas,,,,2020-02-16,,,3,,,
 EC,Ecuador,Loja,Calvas,,,,2020-02-17,,,1,,,
@@ -19965,6 +20317,11 @@ EC,Ecuador,Loja,Calvas,,,,2020-12-12,,,-27,,,
 EC,Ecuador,Loja,Calvas,,,,2020-12-13,,,-30,,,
 EC,Ecuador,Loja,Calvas,,,,2020-12-14,,,-23,,-30,
 EC,Ecuador,Loja,Calvas,,,,2020-12-15,,,-23,,-30,
+EC,Ecuador,Loja,Calvas,,,,2020-12-16,,,-22,,-29,
+EC,Ecuador,Loja,Calvas,,,,2020-12-17,,,-27,,-30,
+EC,Ecuador,Loja,Calvas,,,,2020-12-18,,,-26,,-24,
+EC,Ecuador,Loja,Calvas,,,,2020-12-19,,,-16,,,
+EC,Ecuador,Loja,Calvas,,,,2020-12-20,,,-22,,,
 EC,Ecuador,Loja,Catamayo,,,,2020-02-15,,,1,,,
 EC,Ecuador,Loja,Catamayo,,,,2020-02-16,,,-1,,,
 EC,Ecuador,Loja,Catamayo,,,,2020-02-17,,,1,,-7,
@@ -20245,6 +20602,11 @@ EC,Ecuador,Loja,Catamayo,,,,2020-12-12,,,-25,,1,
 EC,Ecuador,Loja,Catamayo,,,,2020-12-13,,,-22,,-3,
 EC,Ecuador,Loja,Catamayo,,,,2020-12-14,,,-17,,-25,
 EC,Ecuador,Loja,Catamayo,,,,2020-12-15,,,-14,,-29,
+EC,Ecuador,Loja,Catamayo,,,,2020-12-16,,,-14,,-28,
+EC,Ecuador,Loja,Catamayo,,,,2020-12-17,,,-19,,-30,
+EC,Ecuador,Loja,Catamayo,,,,2020-12-18,,,-25,,-25,
+EC,Ecuador,Loja,Catamayo,,,,2020-12-19,,,-14,,12,
+EC,Ecuador,Loja,Catamayo,,,,2020-12-20,,,-21,,12,
 EC,Ecuador,Loja,Celica,,,,2020-02-15,,,-15,,,
 EC,Ecuador,Loja,Celica,,,,2020-02-16,,,-4,,,
 EC,Ecuador,Loja,Celica,,,,2020-02-28,,,2,,,
@@ -20726,6 +21088,11 @@ EC,Ecuador,Loja,Loja,,,,2020-12-12,-13,1,-13,-24,-8,6
 EC,Ecuador,Loja,Loja,,,,2020-12-13,-19,-15,-16,-21,1,4
 EC,Ecuador,Loja,Loja,,,,2020-12-14,-18,-1,-29,-25,-38,16
 EC,Ecuador,Loja,Loja,,,,2020-12-15,-18,1,-29,-19,-37,16
+EC,Ecuador,Loja,Loja,,,,2020-12-16,-17,1,-29,-22,-36,16
+EC,Ecuador,Loja,Loja,,,,2020-12-17,-13,1,-28,-16,-37,16
+EC,Ecuador,Loja,Loja,,,,2020-12-18,-12,7,-24,-21,-34,15
+EC,Ecuador,Loja,Loja,,,,2020-12-19,-6,10,-3,-5,-5,4
+EC,Ecuador,Loja,Loja,,,,2020-12-20,-10,-7,-7,-6,11,2
 EC,Ecuador,Loja,Paltas,,,,2020-02-15,,,-14,,,
 EC,Ecuador,Loja,Paltas,,,,2020-02-16,,,1,,,
 EC,Ecuador,Loja,Paltas,,,,2020-02-19,,,-3,,,
@@ -20958,6 +21325,11 @@ EC,Ecuador,Loja,Paltas,,,,2020-12-12,,,-41,,,
 EC,Ecuador,Loja,Paltas,,,,2020-12-13,,,-50,,,
 EC,Ecuador,Loja,Paltas,,,,2020-12-14,,,-37,,,
 EC,Ecuador,Loja,Paltas,,,,2020-12-15,,,-44,,-40,
+EC,Ecuador,Loja,Paltas,,,,2020-12-16,,,-46,,,
+EC,Ecuador,Loja,Paltas,,,,2020-12-17,,,-49,,-35,
+EC,Ecuador,Loja,Paltas,,,,2020-12-18,,,-49,,-41,
+EC,Ecuador,Loja,Paltas,,,,2020-12-19,,,-46,,,
+EC,Ecuador,Loja,Paltas,,,,2020-12-20,,,-54,,,
 EC,Ecuador,Loja,Puyango,,,,2020-02-16,,,-14,,,
 EC,Ecuador,Loja,Puyango,,,,2020-02-21,,,-14,,,
 EC,Ecuador,Loja,Puyango,,,,2020-02-23,,,2,,,
@@ -21190,6 +21562,11 @@ EC,Ecuador,Loja,Puyango,,,,2020-12-10,,,-30,,,
 EC,Ecuador,Loja,Puyango,,,,2020-12-11,,,-35,,,
 EC,Ecuador,Loja,Puyango,,,,2020-12-12,,,-9,,,
 EC,Ecuador,Loja,Puyango,,,,2020-12-13,,,-29,,,
+EC,Ecuador,Loja,Puyango,,,,2020-12-16,,,-27,,,
+EC,Ecuador,Loja,Puyango,,,,2020-12-17,,,-25,,,
+EC,Ecuador,Loja,Puyango,,,,2020-12-18,,,-40,,,
+EC,Ecuador,Loja,Puyango,,,,2020-12-19,,,-17,,,
+EC,Ecuador,Loja,Puyango,,,,2020-12-20,,,-23,,,
 EC,Ecuador,Loja,Saraguro,,,,2020-02-16,,,15,,,
 EC,Ecuador,Loja,Saraguro,,,,2020-03-15,,,2,,,
 EC,Ecuador,Loja,Saraguro,,,,2020-03-29,,,-70,,,
@@ -21367,6 +21744,10 @@ EC,Ecuador,Loja,Saraguro,,,,2020-12-11,,,,,-24,
 EC,Ecuador,Loja,Saraguro,,,,2020-12-13,,,-14,,,
 EC,Ecuador,Loja,Saraguro,,,,2020-12-14,,,,,-29,
 EC,Ecuador,Loja,Saraguro,,,,2020-12-15,,,,,-35,
+EC,Ecuador,Loja,Saraguro,,,,2020-12-16,,,,,-33,
+EC,Ecuador,Loja,Saraguro,,,,2020-12-17,,,,,-31,
+EC,Ecuador,Loja,Saraguro,,,,2020-12-18,,,,,-14,
+EC,Ecuador,Loja,Saraguro,,,,2020-12-20,,,5,,,
 EC,Ecuador,Los Rios,,,EC-R,,2020-02-15,-3,-1,-7,-1,-3,1
 EC,Ecuador,Los Rios,,,EC-R,,2020-02-16,-1,-3,1,0,1,0
 EC,Ecuador,Los Rios,,,EC-R,,2020-02-17,0,0,-2,-2,-8,2
@@ -21672,6 +22053,11 @@ EC,Ecuador,Los Rios,,,EC-R,,2020-12-12,-1,22,-3,-2,8,8
 EC,Ecuador,Los Rios,,,EC-R,,2020-12-13,-3,13,3,-10,14,7
 EC,Ecuador,Los Rios,,,EC-R,,2020-12-14,-5,18,-11,-17,-19,13
 EC,Ecuador,Los Rios,,,EC-R,,2020-12-15,-1,26,-5,-6,-18,13
+EC,Ecuador,Los Rios,,,EC-R,,2020-12-16,0,23,-4,-10,-15,12
+EC,Ecuador,Los Rios,,,EC-R,,2020-12-17,3,27,-4,-19,-16,11
+EC,Ecuador,Los Rios,,,EC-R,,2020-12-18,0,22,-11,-21,-14,13
+EC,Ecuador,Los Rios,,,EC-R,,2020-12-19,5,30,-3,-3,13,7
+EC,Ecuador,Los Rios,,,EC-R,,2020-12-20,5,25,3,-6,19,6
 EC,Ecuador,Los Rios,Babahoyo,,,,2020-02-15,-8,1,-7,,-6,1
 EC,Ecuador,Los Rios,Babahoyo,,,,2020-02-16,-8,,0,,-1,
 EC,Ecuador,Los Rios,Babahoyo,,,,2020-02-17,-4,,-5,,-10,1
@@ -21974,6 +22360,11 @@ EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-12,-11,,-44,,11,9
 EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-13,-10,,-44,,16,8
 EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-14,-12,,-39,,-21,13
 EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-15,-5,,-36,,-21,13
+EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-16,-9,,-34,,-17,13
+EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-17,-9,,-36,,-19,13
+EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-18,-10,,-40,,-19,14
+EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-19,-2,,-36,,13,8
+EC,Ecuador,Los Rios,Babahoyo,,,,2020-12-20,-6,,-40,,27,5
 EC,Ecuador,Los Rios,Buena Fe,,,,2020-02-15,,,6,,,
 EC,Ecuador,Los Rios,Buena Fe,,,,2020-02-16,,,4,,,
 EC,Ecuador,Los Rios,Buena Fe,,,,2020-02-17,,,7,,-4,
@@ -22254,6 +22645,11 @@ EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-12,,,-19,,9,
 EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-13,,,-20,,16,
 EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-14,,,-26,,-16,
 EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-15,,,-20,,-15,
+EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-16,,,-30,,-11,
+EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-17,,,-29,,-11,
+EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-18,,,-31,,-8,
+EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-19,,,-15,,14,
+EC,Ecuador,Los Rios,Buena Fe,,,,2020-12-20,,,-18,,21,
 EC,Ecuador,Los Rios,Montalvo,,,,2020-02-15,,,-8,,,
 EC,Ecuador,Los Rios,Montalvo,,,,2020-02-16,,,-5,,,
 EC,Ecuador,Los Rios,Montalvo,,,,2020-02-29,,,-12,,,
@@ -22453,6 +22849,9 @@ EC,Ecuador,Los Rios,Montalvo,,,,2020-12-10,,,,,-21,
 EC,Ecuador,Los Rios,Montalvo,,,,2020-12-11,,,,,-23,
 EC,Ecuador,Los Rios,Montalvo,,,,2020-12-14,,,,,-28,
 EC,Ecuador,Los Rios,Montalvo,,,,2020-12-15,,,,,-22,
+EC,Ecuador,Los Rios,Montalvo,,,,2020-12-16,,,,,-12,
+EC,Ecuador,Los Rios,Montalvo,,,,2020-12-17,,,,,-11,
+EC,Ecuador,Los Rios,Montalvo,,,,2020-12-18,,,,,-27,
 EC,Ecuador,Los Rios,Puebloviejo,,,,2020-06-08,,,,,-33,
 EC,Ecuador,Los Rios,Puebloviejo,,,,2020-06-09,,,,,-37,
 EC,Ecuador,Los Rios,Puebloviejo,,,,2020-06-10,,,,,-30,
@@ -22571,6 +22970,9 @@ EC,Ecuador,Los Rios,Puebloviejo,,,,2020-12-10,,,,,-24,
 EC,Ecuador,Los Rios,Puebloviejo,,,,2020-12-11,,,,,-14,
 EC,Ecuador,Los Rios,Puebloviejo,,,,2020-12-14,,,,,-17,
 EC,Ecuador,Los Rios,Puebloviejo,,,,2020-12-15,,,,,-17,
+EC,Ecuador,Los Rios,Puebloviejo,,,,2020-12-16,,,,,-13,
+EC,Ecuador,Los Rios,Puebloviejo,,,,2020-12-17,,,,,-11,
+EC,Ecuador,Los Rios,Puebloviejo,,,,2020-12-18,,,,,-11,
 EC,Ecuador,Los Rios,Quevedo,,,,2020-02-15,-1,-1,0,3,-3,1
 EC,Ecuador,Los Rios,Quevedo,,,,2020-02-16,2,2,13,-1,2,0
 EC,Ecuador,Los Rios,Quevedo,,,,2020-02-17,0,1,7,-1,-9,3
@@ -22876,6 +23278,11 @@ EC,Ecuador,Los Rios,Quevedo,,,,2020-12-12,-1,19,7,-1,9,8
 EC,Ecuador,Los Rios,Quevedo,,,,2020-12-13,-1,17,31,-13,25,5
 EC,Ecuador,Los Rios,Quevedo,,,,2020-12-14,-3,13,-1,-20,-17,13
 EC,Ecuador,Los Rios,Quevedo,,,,2020-12-15,-1,20,8,-7,-15,13
+EC,Ecuador,Los Rios,Quevedo,,,,2020-12-16,4,25,9,-13,-11,12
+EC,Ecuador,Los Rios,Quevedo,,,,2020-12-17,7,28,13,-18,-10,12
+EC,Ecuador,Los Rios,Quevedo,,,,2020-12-18,2,21,0,-23,-10,12
+EC,Ecuador,Los Rios,Quevedo,,,,2020-12-19,6,27,9,-3,19,7
+EC,Ecuador,Los Rios,Quevedo,,,,2020-12-20,11,31,33,-11,27,5
 EC,Ecuador,Los Rios,Valencia,,,,2020-02-15,,,-11,,,
 EC,Ecuador,Los Rios,Valencia,,,,2020-02-16,,,6,,,
 EC,Ecuador,Los Rios,Valencia,,,,2020-02-17,,,-4,,,
@@ -23156,6 +23563,11 @@ EC,Ecuador,Los Rios,Valencia,,,,2020-12-12,,,-24,,,
 EC,Ecuador,Los Rios,Valencia,,,,2020-12-13,,,-9,,,
 EC,Ecuador,Los Rios,Valencia,,,,2020-12-14,,,-44,,-30,
 EC,Ecuador,Los Rios,Valencia,,,,2020-12-15,,,-36,,-20,
+EC,Ecuador,Los Rios,Valencia,,,,2020-12-16,,,-33,,-26,
+EC,Ecuador,Los Rios,Valencia,,,,2020-12-17,,,-40,,-23,
+EC,Ecuador,Los Rios,Valencia,,,,2020-12-18,,,-46,,-20,
+EC,Ecuador,Los Rios,Valencia,,,,2020-12-19,,,-30,,,
+EC,Ecuador,Los Rios,Valencia,,,,2020-12-20,,,-29,,,
 EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-02-15,,-6,,,,
 EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-02-17,,,,,-6,
 EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-02-18,,,,,-2,
@@ -23419,6 +23831,11 @@ EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-12,,,,,6,
 EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-13,,,,,13,
 EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-14,,,,,-18,
 EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-15,,,,,-17,
+EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-16,,,,,-11,
+EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-17,,,,,-15,
+EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-18,,,,,-11,
+EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-19,,,,,9,
+EC,Ecuador,Los Rios,Ventanas Canton,,,,2020-12-20,,,,,12,
 EC,Ecuador,Los Rios,Vinces,,,,2020-02-15,,,-12,,,
 EC,Ecuador,Los Rios,Vinces,,,,2020-02-16,,,-5,,,
 EC,Ecuador,Los Rios,Vinces,,,,2020-02-17,,,-12,,-5,
@@ -23699,6 +24116,11 @@ EC,Ecuador,Los Rios,Vinces,,,,2020-12-12,,,16,,12,
 EC,Ecuador,Los Rios,Vinces,,,,2020-12-13,,,21,,16,
 EC,Ecuador,Los Rios,Vinces,,,,2020-12-14,,,2,,-11,
 EC,Ecuador,Los Rios,Vinces,,,,2020-12-15,,,,,-13,
+EC,Ecuador,Los Rios,Vinces,,,,2020-12-16,,,,,-14,
+EC,Ecuador,Los Rios,Vinces,,,,2020-12-17,,,17,,-14,
+EC,Ecuador,Los Rios,Vinces,,,,2020-12-18,,,19,,-10,
+EC,Ecuador,Los Rios,Vinces,,,,2020-12-19,,,12,,14,
+EC,Ecuador,Los Rios,Vinces,,,,2020-12-20,,,28,,17,
 EC,Ecuador,Manabí,,,EC-M,,2020-02-15,-3,0,-8,-5,-5,1
 EC,Ecuador,Manabí,,,EC-M,,2020-02-16,-2,0,-6,-1,-1,0
 EC,Ecuador,Manabí,,,EC-M,,2020-02-17,-1,1,-7,-1,-10,3
@@ -24004,6 +24426,11 @@ EC,Ecuador,Manabí,,,EC-M,,2020-12-12,-22,7,-30,-26,2,8
 EC,Ecuador,Manabí,,,EC-M,,2020-12-13,-23,-1,-30,-32,4,7
 EC,Ecuador,Manabí,,,EC-M,,2020-12-14,-18,5,-28,-32,-27,12
 EC,Ecuador,Manabí,,,EC-M,,2020-12-15,-15,8,-26,-30,-29,11
+EC,Ecuador,Manabí,,,EC-M,,2020-12-16,-17,11,-29,-30,-26,11
+EC,Ecuador,Manabí,,,EC-M,,2020-12-17,-15,14,-29,-30,-26,11
+EC,Ecuador,Manabí,,,EC-M,,2020-12-18,-17,9,-33,-31,-22,12
+EC,Ecuador,Manabí,,,EC-M,,2020-12-19,-17,14,-31,-22,4,7
+EC,Ecuador,Manabí,,,EC-M,,2020-12-20,-16,7,-30,-26,10,6
 EC,Ecuador,Manabí,Bolivar,,,,2020-02-15,,,-15,,,
 EC,Ecuador,Manabí,Bolivar,,,,2020-02-16,,,-14,,,
 EC,Ecuador,Manabí,Bolivar,,,,2020-02-17,,,-11,,-7,
@@ -24278,6 +24705,11 @@ EC,Ecuador,Manabí,Bolivar,,,,2020-12-12,,,-35,,-2,
 EC,Ecuador,Manabí,Bolivar,,,,2020-12-13,,,-27,,,
 EC,Ecuador,Manabí,Bolivar,,,,2020-12-14,,,-44,,-41,
 EC,Ecuador,Manabí,Bolivar,,,,2020-12-15,,,-43,,-42,
+EC,Ecuador,Manabí,Bolivar,,,,2020-12-16,,,-40,,-36,
+EC,Ecuador,Manabí,Bolivar,,,,2020-12-17,,,-43,,-36,
+EC,Ecuador,Manabí,Bolivar,,,,2020-12-18,,,-42,,-28,
+EC,Ecuador,Manabí,Bolivar,,,,2020-12-19,,,-38,,3,
+EC,Ecuador,Manabí,Bolivar,,,,2020-12-20,,,-25,,,
 EC,Ecuador,Manabí,Chone,,,,2020-02-15,-8,,-10,-5,-6,
 EC,Ecuador,Manabí,Chone,,,,2020-02-16,-2,,1,4,-2,
 EC,Ecuador,Manabí,Chone,,,,2020-02-17,0,,1,1,-6,2
@@ -24558,6 +24990,11 @@ EC,Ecuador,Manabí,Chone,,,,2020-12-12,-13,,-18,-24,-9,8
 EC,Ecuador,Manabí,Chone,,,,2020-12-13,-21,,-18,-31,-6,
 EC,Ecuador,Manabí,Chone,,,,2020-12-14,-9,,-23,-31,-33,14
 EC,Ecuador,Manabí,Chone,,,,2020-12-15,-5,,-14,-24,-34,11
+EC,Ecuador,Manabí,Chone,,,,2020-12-16,-4,,-21,-35,-33,12
+EC,Ecuador,Manabí,Chone,,,,2020-12-17,-1,,-21,-37,-34,12
+EC,Ecuador,Manabí,Chone,,,,2020-12-18,-8,,-26,-26,-29,16
+EC,Ecuador,Manabí,Chone,,,,2020-12-19,-13,,-25,-19,-4,9
+EC,Ecuador,Manabí,Chone,,,,2020-12-20,-16,,-12,-27,1,
 EC,Ecuador,Manabí,El Carmen,,,,2020-02-15,-18,,1,,-2,
 EC,Ecuador,Manabí,El Carmen,,,,2020-02-16,-11,,2,,,
 EC,Ecuador,Manabí,El Carmen,,,,2020-02-17,-11,,14,,-12,
@@ -24838,6 +25275,11 @@ EC,Ecuador,Manabí,El Carmen,,,,2020-12-12,-8,,-5,,2,
 EC,Ecuador,Manabí,El Carmen,,,,2020-12-13,-3,,-10,,1,
 EC,Ecuador,Manabí,El Carmen,,,,2020-12-14,7,,-1,,-29,10
 EC,Ecuador,Manabí,El Carmen,,,,2020-12-15,3,,-3,,-28,10
+EC,Ecuador,Manabí,El Carmen,,,,2020-12-16,-2,,-5,,-30,12
+EC,Ecuador,Manabí,El Carmen,,,,2020-12-17,-3,,-19,,-30,11
+EC,Ecuador,Manabí,El Carmen,,,,2020-12-18,-9,,-22,,-28,13
+EC,Ecuador,Manabí,El Carmen,,,,2020-12-19,0,,6,,1,
+EC,Ecuador,Manabí,El Carmen,,,,2020-12-20,-1,,-13,,4,
 EC,Ecuador,Manabí,Jaramijo,,,,2020-02-24,,,,,-56,
 EC,Ecuador,Manabí,Jaramijo,,,,2020-02-25,,,,,-59,
 EC,Ecuador,Manabí,Jaramijo,,,,2020-03-17,,,,,-56,
@@ -25025,6 +25467,9 @@ EC,Ecuador,Manabí,Jaramijo,,,,2020-12-10,,,,,-24,
 EC,Ecuador,Manabí,Jaramijo,,,,2020-12-11,,,,,-17,
 EC,Ecuador,Manabí,Jaramijo,,,,2020-12-14,,,,,-20,
 EC,Ecuador,Manabí,Jaramijo,,,,2020-12-15,,,,,-24,
+EC,Ecuador,Manabí,Jaramijo,,,,2020-12-16,,,,,-20,
+EC,Ecuador,Manabí,Jaramijo,,,,2020-12-17,,,,,-20,
+EC,Ecuador,Manabí,Jaramijo,,,,2020-12-18,,,,,-7,
 EC,Ecuador,Manabí,Jipijapa,,,,2020-02-15,-8,,-17,,-6,
 EC,Ecuador,Manabí,Jipijapa,,,,2020-02-16,-2,,-10,,5,
 EC,Ecuador,Manabí,Jipijapa,,,,2020-02-17,-12,,-27,,-11,4
@@ -25305,6 +25750,11 @@ EC,Ecuador,Manabí,Jipijapa,,,,2020-12-12,-21,,-31,,3,
 EC,Ecuador,Manabí,Jipijapa,,,,2020-12-13,-31,,-39,,1,
 EC,Ecuador,Manabí,Jipijapa,,,,2020-12-14,-23,,-33,,-41,18
 EC,Ecuador,Manabí,Jipijapa,,,,2020-12-15,-22,,-32,,-42,16
+EC,Ecuador,Manabí,Jipijapa,,,,2020-12-16,-22,,-32,,-41,16
+EC,Ecuador,Manabí,Jipijapa,,,,2020-12-17,-20,,-38,,-38,16
+EC,Ecuador,Manabí,Jipijapa,,,,2020-12-18,-33,,-36,,-32,18
+EC,Ecuador,Manabí,Jipijapa,,,,2020-12-19,-25,,-28,,3,
+EC,Ecuador,Manabí,Jipijapa,,,,2020-12-20,-27,,-33,,1,
 EC,Ecuador,Manabí,Manta,,,,2020-02-15,0,-1,-14,-1,-6,1
 EC,Ecuador,Manabí,Manta,,,,2020-02-16,0,-2,-7,-2,0,-1
 EC,Ecuador,Manabí,Manta,,,,2020-02-17,4,-1,-6,-1,-12,2
@@ -25610,6 +26060,11 @@ EC,Ecuador,Manabí,Manta,,,,2020-12-12,-19,10,-45,-30,0,8
 EC,Ecuador,Manabí,Manta,,,,2020-12-13,-17,5,-47,-32,7,5
 EC,Ecuador,Manabí,Manta,,,,2020-12-14,-11,10,-38,-35,-28,11
 EC,Ecuador,Manabí,Manta,,,,2020-12-15,-9,15,-36,-35,-29,11
+EC,Ecuador,Manabí,Manta,,,,2020-12-16,-9,16,-39,-33,-26,11
+EC,Ecuador,Manabí,Manta,,,,2020-12-17,-7,19,-39,-34,-29,11
+EC,Ecuador,Manabí,Manta,,,,2020-12-18,-11,13,-43,-33,-23,11
+EC,Ecuador,Manabí,Manta,,,,2020-12-19,-11,22,-44,-25,1,7
+EC,Ecuador,Manabí,Manta,,,,2020-12-20,-6,22,-45,-24,12,5
 EC,Ecuador,Manabí,Montecristi,,,,2020-02-15,-3,-2,-2,,-7,
 EC,Ecuador,Manabí,Montecristi,,,,2020-02-16,-3,1,-10,,-4,
 EC,Ecuador,Manabí,Montecristi,,,,2020-02-17,-2,0,-11,,-12,3
@@ -25909,6 +26364,11 @@ EC,Ecuador,Manabí,Montecristi,,,,2020-12-12,-7,-12,-23,,7,9
 EC,Ecuador,Manabí,Montecristi,,,,2020-12-13,-20,-11,-33,,15,
 EC,Ecuador,Manabí,Montecristi,,,,2020-12-14,-11,-9,-28,,-25,13
 EC,Ecuador,Manabí,Montecristi,,,,2020-12-15,-8,-8,-27,,-27,13
+EC,Ecuador,Manabí,Montecristi,,,,2020-12-16,-10,1,-21,,-26,13
+EC,Ecuador,Manabí,Montecristi,,,,2020-12-17,-5,-15,-26,,-24,11
+EC,Ecuador,Manabí,Montecristi,,,,2020-12-18,-15,-21,-33,,-22,12
+EC,Ecuador,Manabí,Montecristi,,,,2020-12-19,-6,-5,-24,,10,5
+EC,Ecuador,Manabí,Montecristi,,,,2020-12-20,-10,-18,-38,,21,5
 EC,Ecuador,Manabí,Pedernales,,,,2020-02-15,,,-4,,,
 EC,Ecuador,Manabí,Pedernales,,,,2020-02-16,,,3,,,
 EC,Ecuador,Manabí,Pedernales,,,,2020-02-17,,,-14,,-10,
@@ -26180,6 +26640,11 @@ EC,Ecuador,Manabí,Pedernales,,,,2020-12-12,,,16,,-8,
 EC,Ecuador,Manabí,Pedernales,,,,2020-12-13,,,6,,-4,
 EC,Ecuador,Manabí,Pedernales,,,,2020-12-14,,,-30,,-17,
 EC,Ecuador,Manabí,Pedernales,,,,2020-12-15,,,-29,,-23,
+EC,Ecuador,Manabí,Pedernales,,,,2020-12-16,,,-37,,-19,
+EC,Ecuador,Manabí,Pedernales,,,,2020-12-17,,,-24,,-16,
+EC,Ecuador,Manabí,Pedernales,,,,2020-12-18,,,-25,,-9,
+EC,Ecuador,Manabí,Pedernales,,,,2020-12-19,,,-26,,0,
+EC,Ecuador,Manabí,Pedernales,,,,2020-12-20,,,-3,,2,
 EC,Ecuador,Manabí,Portoviejo,,,,2020-02-15,-3,0,-9,-6,-4,2
 EC,Ecuador,Manabí,Portoviejo,,,,2020-02-16,-7,0,-9,-3,-1,1
 EC,Ecuador,Manabí,Portoviejo,,,,2020-02-17,-4,2,-9,-3,-6,3
@@ -26485,6 +26950,11 @@ EC,Ecuador,Manabí,Portoviejo,,,,2020-12-12,-21,7,-34,-22,4,9
 EC,Ecuador,Manabí,Portoviejo,,,,2020-12-13,-26,-4,-34,-31,7,7
 EC,Ecuador,Manabí,Portoviejo,,,,2020-12-14,-23,8,-29,-30,-26,13
 EC,Ecuador,Manabí,Portoviejo,,,,2020-12-15,-20,12,-26,-24,-25,12
+EC,Ecuador,Manabí,Portoviejo,,,,2020-12-16,-21,14,-29,-26,-24,11
+EC,Ecuador,Manabí,Portoviejo,,,,2020-12-17,-18,17,-31,-25,-23,11
+EC,Ecuador,Manabí,Portoviejo,,,,2020-12-18,-20,13,-36,-30,-22,12
+EC,Ecuador,Manabí,Portoviejo,,,,2020-12-19,-16,14,-33,-13,5,8
+EC,Ecuador,Manabí,Portoviejo,,,,2020-12-20,-17,6,-33,-25,13,6
 EC,Ecuador,Manabí,Puerto Lopez,,,,2020-02-15,,,10,,,
 EC,Ecuador,Manabí,Puerto Lopez,,,,2020-02-16,,,9,,,
 EC,Ecuador,Manabí,Puerto Lopez,,,,2020-02-18,,,-7,,,
@@ -26741,6 +27211,11 @@ EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-12,,,-38,,,
 EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-13,,,-36,,,
 EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-14,,,-42,,-17,
 EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-15,,,-37,,-14,
+EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-16,,,-47,,-10,
+EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-17,,,-36,,-19,
+EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-18,,,-29,,-15,
+EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-19,,,-44,,,
+EC,Ecuador,Manabí,Puerto Lopez,,,,2020-12-20,,,-38,,,
 EC,Ecuador,Manabí,Rocafuerte,,,,2020-02-15,,,-12,,,
 EC,Ecuador,Manabí,Rocafuerte,,,,2020-02-16,,,-10,,,
 EC,Ecuador,Manabí,Rocafuerte,,,,2020-02-17,,,-11,,-5,
@@ -27017,6 +27492,11 @@ EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-12,,,-37,,3,
 EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-13,,,-42,,-4,
 EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-14,,,-43,,-28,
 EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-15,,,-50,,-30,
+EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-16,,,-49,,-29,
+EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-17,,,-45,,-30,
+EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-18,,,-49,,-21,
+EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-19,,,-38,,-3,
+EC,Ecuador,Manabí,Rocafuerte,,,,2020-12-20,,,-42,,,
 EC,Ecuador,Manabí,San Vicente,,,,2020-06-08,,,,,-38,
 EC,Ecuador,Manabí,San Vicente,,,,2020-06-09,,,,,-48,
 EC,Ecuador,Manabí,San Vicente,,,,2020-06-10,,,,,-45,
@@ -27135,6 +27615,9 @@ EC,Ecuador,Manabí,San Vicente,,,,2020-12-10,,,,,-36,
 EC,Ecuador,Manabí,San Vicente,,,,2020-12-11,,,,,-38,
 EC,Ecuador,Manabí,San Vicente,,,,2020-12-14,,,,,-34,
 EC,Ecuador,Manabí,San Vicente,,,,2020-12-15,,,,,-45,
+EC,Ecuador,Manabí,San Vicente,,,,2020-12-16,,,,,-35,
+EC,Ecuador,Manabí,San Vicente,,,,2020-12-17,,,,,-39,
+EC,Ecuador,Manabí,San Vicente,,,,2020-12-18,,,,,-29,
 EC,Ecuador,Manabí,Santa Ana,,,,2020-02-15,,,-15,,,
 EC,Ecuador,Manabí,Santa Ana,,,,2020-02-16,,,-16,,,
 EC,Ecuador,Manabí,Santa Ana,,,,2020-02-17,,,-9,,,
@@ -27415,6 +27898,11 @@ EC,Ecuador,Manabí,Santa Ana,,,,2020-12-12,,,-25,,,
 EC,Ecuador,Manabí,Santa Ana,,,,2020-12-13,,,-29,,,
 EC,Ecuador,Manabí,Santa Ana,,,,2020-12-14,,,-31,,-18,
 EC,Ecuador,Manabí,Santa Ana,,,,2020-12-15,,,-32,,-26,
+EC,Ecuador,Manabí,Santa Ana,,,,2020-12-16,,,-38,,-22,
+EC,Ecuador,Manabí,Santa Ana,,,,2020-12-17,,,-30,,-20,
+EC,Ecuador,Manabí,Santa Ana,,,,2020-12-18,,,-38,,-14,
+EC,Ecuador,Manabí,Santa Ana,,,,2020-12-19,,,-28,,,
+EC,Ecuador,Manabí,Santa Ana,,,,2020-12-20,,,-30,,,
 EC,Ecuador,Manabí,Sucre,,,,2020-02-15,-4,,0,,-13,
 EC,Ecuador,Manabí,Sucre,,,,2020-02-16,-4,,0,,,
 EC,Ecuador,Manabí,Sucre,,,,2020-02-17,,,-14,,-12,
@@ -27695,6 +28183,11 @@ EC,Ecuador,Manabí,Sucre,,,,2020-12-12,,,-39,,-11,
 EC,Ecuador,Manabí,Sucre,,,,2020-12-13,,,-33,,-6,
 EC,Ecuador,Manabí,Sucre,,,,2020-12-14,,,-29,,-29,
 EC,Ecuador,Manabí,Sucre,,,,2020-12-15,,,-21,,-33,
+EC,Ecuador,Manabí,Sucre,,,,2020-12-16,,,-25,,-29,
+EC,Ecuador,Manabí,Sucre,,,,2020-12-17,,,-25,,-26,
+EC,Ecuador,Manabí,Sucre,,,,2020-12-18,,,-30,,-27,
+EC,Ecuador,Manabí,Sucre,,,,2020-12-19,,,-38,,-5,
+EC,Ecuador,Manabí,Sucre,,,,2020-12-20,,,-36,,-4,
 EC,Ecuador,Manabí,Tosagua,,,,2020-02-24,,,,,-64,
 EC,Ecuador,Manabí,Tosagua,,,,2020-03-15,,,-14,,,
 EC,Ecuador,Manabí,Tosagua,,,,2020-03-17,,,,,-56,
@@ -27887,6 +28380,9 @@ EC,Ecuador,Manabí,Tosagua,,,,2020-12-10,,,,,-22,
 EC,Ecuador,Manabí,Tosagua,,,,2020-12-11,,,,,-17,
 EC,Ecuador,Manabí,Tosagua,,,,2020-12-14,,,,,-28,
 EC,Ecuador,Manabí,Tosagua,,,,2020-12-15,,,,,-28,
+EC,Ecuador,Manabí,Tosagua,,,,2020-12-16,,,,,-26,
+EC,Ecuador,Manabí,Tosagua,,,,2020-12-17,,,,,-31,
+EC,Ecuador,Manabí,Tosagua,,,,2020-12-18,,,,,-27,
 EC,Ecuador,Morona-Santiago,,,EC-S,,2020-02-15,,,3,-8,-8,
 EC,Ecuador,Morona-Santiago,,,EC-S,,2020-02-16,,,1,0,-1,
 EC,Ecuador,Morona-Santiago,,,EC-S,,2020-02-17,,,9,0,-2,0
@@ -28167,6 +28663,11 @@ EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-12,,,0,-3,-5,
 EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-13,,,5,-24,1,
 EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-14,,,-13,1,-25,9
 EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-15,,,-12,-5,-24,9
+EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-16,,,-14,-15,-22,10
+EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-17,,,-20,-9,-24,10
+EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-18,,,-8,5,-21,9
+EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-19,,,8,-4,-3,
+EC,Ecuador,Morona-Santiago,,,EC-S,,2020-12-20,,,-1,-10,-2,
 EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-03-13,,,-9,,,
 EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-03-17,,,-61,,,
 EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-03-26,,,,,-74,
@@ -28334,6 +28835,9 @@ EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-12-10,,,,,-18,
 EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-12-11,,,,,-11,
 EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-12-14,,,,,-16,
 EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-12-15,,,,,-22,
+EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-12-16,,,,,-13,
+EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-12-17,,,,,-16,
+EC,Ecuador,Morona-Santiago,Gualaquiza,,,,2020-12-18,,,,,0,
 EC,Ecuador,Morona-Santiago,Morona,,,,2020-02-15,,,6,-4,-9,
 EC,Ecuador,Morona-Santiago,Morona,,,,2020-02-16,,,-11,-5,,
 EC,Ecuador,Morona-Santiago,Morona,,,,2020-02-17,,,6,2,0,
@@ -28614,6 +29118,11 @@ EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-12,,,-23,4,-12,
 EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-13,,,-23,-22,-1,
 EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-14,,,-43,7,-22,11
 EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-15,,,-41,-2,-20,11
+EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-16,,,-39,-7,-20,13
+EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-17,,,-45,0,-19,14
+EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-18,,,-35,19,-18,10
+EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-19,,,-10,12,-6,
+EC,Ecuador,Morona-Santiago,Morona,,,,2020-12-20,,,-12,-8,4,
 EC,Ecuador,Morona-Santiago,Sucua,,,,2020-02-15,,,6,,,
 EC,Ecuador,Morona-Santiago,Sucua,,,,2020-02-16,,,4,,,
 EC,Ecuador,Morona-Santiago,Sucua,,,,2020-02-17,,,8,,,
@@ -28894,6 +29403,11 @@ EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-12,,,-3,,,
 EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-13,,,10,,,
 EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-14,,,0,,-19,
 EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-15,,,-8,,-14,
+EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-16,,,-5,,-17,
+EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-17,,,-14,,-24,
+EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-18,,,0,,-8,
+EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-19,,,5,,,
+EC,Ecuador,Morona-Santiago,Sucua,,,,2020-12-20,,,4,,,
 EC,Ecuador,Napo,,,EC-N,,2020-02-15,-11,-11,-1,-17,-6,
 EC,Ecuador,Napo,,,EC-N,,2020-02-16,-8,,3,,4,
 EC,Ecuador,Napo,,,EC-N,,2020-02-17,0,3,10,,-3,
@@ -29174,6 +29688,11 @@ EC,Ecuador,Napo,,,EC-N,,2020-12-12,0,7,-6,,10,
 EC,Ecuador,Napo,,,EC-N,,2020-12-13,-3,,1,,17,
 EC,Ecuador,Napo,,,EC-N,,2020-12-14,-5,2,-9,-13,-25,16
 EC,Ecuador,Napo,,,EC-N,,2020-12-15,6,4,-19,,-26,15
+EC,Ecuador,Napo,,,EC-N,,2020-12-16,0,5,-17,,-22,15
+EC,Ecuador,Napo,,,EC-N,,2020-12-17,0,5,-22,,-26,17
+EC,Ecuador,Napo,,,EC-N,,2020-12-18,1,6,-12,-2,-22,16
+EC,Ecuador,Napo,,,EC-N,,2020-12-19,8,14,-4,-14,7,
+EC,Ecuador,Napo,,,EC-N,,2020-12-20,1,,3,,13,
 EC,Ecuador,Napo,Archidona Canton,,,,2020-03-18,,,,,-74,
 EC,Ecuador,Napo,Archidona Canton,,,,2020-03-19,,,,,-73,
 EC,Ecuador,Napo,Archidona Canton,,,,2020-03-23,,,,,-69,
@@ -29332,6 +29851,9 @@ EC,Ecuador,Napo,Archidona Canton,,,,2020-12-10,,,,,-23,
 EC,Ecuador,Napo,Archidona Canton,,,,2020-12-11,,,,,-31,
 EC,Ecuador,Napo,Archidona Canton,,,,2020-12-14,,,,,-31,
 EC,Ecuador,Napo,Archidona Canton,,,,2020-12-15,,,,,-24,
+EC,Ecuador,Napo,Archidona Canton,,,,2020-12-16,,,,,-21,
+EC,Ecuador,Napo,Archidona Canton,,,,2020-12-17,,,,,-27,
+EC,Ecuador,Napo,Archidona Canton,,,,2020-12-18,,,,,-16,
 EC,Ecuador,Napo,El Chaco,,,,2020-02-15,,,-8,,,
 EC,Ecuador,Napo,El Chaco,,,,2020-02-16,,,5,,,
 EC,Ecuador,Napo,El Chaco,,,,2020-02-17,,,-2,,,
@@ -29612,6 +30134,11 @@ EC,Ecuador,Napo,El Chaco,,,,2020-12-12,,,-17,,,
 EC,Ecuador,Napo,El Chaco,,,,2020-12-13,,,13,,,
 EC,Ecuador,Napo,El Chaco,,,,2020-12-14,,,-10,,,
 EC,Ecuador,Napo,El Chaco,,,,2020-12-15,,,-18,,,
+EC,Ecuador,Napo,El Chaco,,,,2020-12-16,,,-16,,,
+EC,Ecuador,Napo,El Chaco,,,,2020-12-17,,,-19,,,
+EC,Ecuador,Napo,El Chaco,,,,2020-12-18,,,-17,,,
+EC,Ecuador,Napo,El Chaco,,,,2020-12-19,,,-12,,,
+EC,Ecuador,Napo,El Chaco,,,,2020-12-20,,,6,,,
 EC,Ecuador,Napo,Tena,,,,2020-02-15,-16,-10,13,-14,-11,
 EC,Ecuador,Napo,Tena,,,,2020-02-16,-8,,13,1,1,
 EC,Ecuador,Napo,Tena,,,,2020-02-17,-5,3,26,-1,-4,1
@@ -29892,6 +30419,11 @@ EC,Ecuador,Napo,Tena,,,,2020-12-12,1,5,10,5,9,
 EC,Ecuador,Napo,Tena,,,,2020-12-13,-1,,9,-13,17,
 EC,Ecuador,Napo,Tena,,,,2020-12-14,-9,4,-8,-8,-25,17
 EC,Ecuador,Napo,Tena,,,,2020-12-15,4,7,-13,1,-25,16
+EC,Ecuador,Napo,Tena,,,,2020-12-16,-2,9,-14,-4,-22,17
+EC,Ecuador,Napo,Tena,,,,2020-12-17,0,7,-23,-5,-25,18
+EC,Ecuador,Napo,Tena,,,,2020-12-18,-3,9,-2,-3,-21,16
+EC,Ecuador,Napo,Tena,,,,2020-12-19,9,16,11,-11,7,
+EC,Ecuador,Napo,Tena,,,,2020-12-20,3,,14,-14,16,
 EC,Ecuador,Orellana,,,EC-D,,2020-02-15,0,1,9,-5,-2,
 EC,Ecuador,Orellana,,,EC-D,,2020-02-16,-1,3,8,,4,
 EC,Ecuador,Orellana,,,EC-D,,2020-02-17,4,8,-2,1,2,0
@@ -30172,6 +30704,11 @@ EC,Ecuador,Orellana,,,EC-D,,2020-12-12,1,,-10,-13,1,6
 EC,Ecuador,Orellana,,,EC-D,,2020-12-13,-9,,-6,-3,-1,
 EC,Ecuador,Orellana,,,EC-D,,2020-12-14,4,,-19,-14,-14,11
 EC,Ecuador,Orellana,,,EC-D,,2020-12-15,5,,-15,-8,-15,12
+EC,Ecuador,Orellana,,,EC-D,,2020-12-16,1,,-7,-14,-15,12
+EC,Ecuador,Orellana,,,EC-D,,2020-12-17,-3,,-15,-12,-16,15
+EC,Ecuador,Orellana,,,EC-D,,2020-12-18,3,,-5,-7,-11,11
+EC,Ecuador,Orellana,,,EC-D,,2020-12-19,3,,-2,-4,5,4
+EC,Ecuador,Orellana,,,EC-D,,2020-12-20,-8,,-3,,9,
 EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-02-15,,1,-3,-2,-8,
 EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-02-16,,,4,6,-2,
 EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-02-17,,7,-10,6,2,1
@@ -30471,6 +31008,11 @@ EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-12,,22,-14,-12,3,8
 EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-13,,,-10,-6,-3,7
 EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-14,,25,-20,-13,-11,12
 EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-15,,31,-19,-10,-12,12
+EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-16,,32,-10,-17,-13,12
+EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-17,,25,-16,-11,-14,15
+EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-18,,34,-8,-8,-9,11
+EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-19,,33,-7,-3,5,5
+EC,Ecuador,Orellana,Francisco de Orellana,,,,2020-12-20,,,-6,-4,8,6
 EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-02-15,1,,,,-9,
 EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-02-16,-3,,,,,
 EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-02-17,,,,,4,
@@ -30746,6 +31288,11 @@ EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-12,-21,,,,3,
 EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-13,,,,,-2,
 EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-14,,,,,-9,
 EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-15,,,,,-12,
+EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-16,,,,,-9,
+EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-17,,,,,-15,
+EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-18,,,,,-12,
+EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-19,-18,,,,8,
+EC,Ecuador,Orellana,La Joya de los Sachas,,,,2020-12-20,-24,,,,11,
 EC,Ecuador,Pastaza,,,EC-Y,,2020-02-15,-6,,-1,-4,-2,
 EC,Ecuador,Pastaza,,,EC-Y,,2020-02-16,0,,-4,-1,2,
 EC,Ecuador,Pastaza,,,EC-Y,,2020-02-17,-6,,-8,5,-2,
@@ -31026,6 +31573,11 @@ EC,Ecuador,Pastaza,,,EC-Y,,2020-12-12,-17,,-10,8,11,
 EC,Ecuador,Pastaza,,,EC-Y,,2020-12-13,-16,,-8,13,13,
 EC,Ecuador,Pastaza,,,EC-Y,,2020-12-14,-21,,-17,0,-22,12
 EC,Ecuador,Pastaza,,,EC-Y,,2020-12-15,-14,,-12,7,-22,13
+EC,Ecuador,Pastaza,,,EC-Y,,2020-12-16,-14,,-18,13,-20,13
+EC,Ecuador,Pastaza,,,EC-Y,,2020-12-17,-19,,-19,-5,-21,14
+EC,Ecuador,Pastaza,,,EC-Y,,2020-12-18,-15,,-9,-4,-17,13
+EC,Ecuador,Pastaza,,,EC-Y,,2020-12-19,-13,,-3,9,16,
+EC,Ecuador,Pastaza,,,EC-Y,,2020-12-20,-15,,-5,5,12,
 EC,Ecuador,Pastaza,Mera,,,,2020-02-15,,,-5,-15,,
 EC,Ecuador,Pastaza,Mera,,,,2020-02-16,,,-7,-3,,
 EC,Ecuador,Pastaza,Mera,,,,2020-02-17,,,-14,-14,,
@@ -31298,6 +31850,11 @@ EC,Ecuador,Pastaza,Mera,,,,2020-12-12,,,13,2,,
 EC,Ecuador,Pastaza,Mera,,,,2020-12-13,,,21,,,
 EC,Ecuador,Pastaza,Mera,,,,2020-12-14,,,,9,-20,
 EC,Ecuador,Pastaza,Mera,,,,2020-12-15,,,,2,-26,
+EC,Ecuador,Pastaza,Mera,,,,2020-12-16,,,,21,-24,
+EC,Ecuador,Pastaza,Mera,,,,2020-12-17,,,-10,-19,-29,
+EC,Ecuador,Pastaza,Mera,,,,2020-12-18,,,3,-7,-26,
+EC,Ecuador,Pastaza,Mera,,,,2020-12-19,,,27,1,,
+EC,Ecuador,Pastaza,Mera,,,,2020-12-20,,,5,,,
 EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-02-15,-3,-4,-5,0,-6,
 EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-02-16,2,-3,-3,3,4,
 EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-02-17,-7,-3,-4,16,0,2
@@ -31580,6 +32137,11 @@ EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-12,-14,13,-22,10,10,
 EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-13,-17,1,-23,10,10,
 EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-14,-23,8,-25,1,-22,13
 EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-15,-14,17,-19,16,-19,13
+EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-16,-14,,-26,12,-19,13
+EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-17,-20,8,-29,-5,-19,16
+EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-18,-17,22,-19,-7,-17,14
+EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-19,-13,,-18,10,18,
+EC,Ecuador,Pastaza,Pastaza Canton,,,,2020-12-20,-15,4,-17,1,19,
 EC,Ecuador,Pichincha,,,EC-P,,2020-02-15,1,4,7,5,-2,0
 EC,Ecuador,Pichincha,,,EC-P,,2020-02-16,-1,3,2,4,0,0
 EC,Ecuador,Pichincha,,,EC-P,,2020-02-17,1,5,2,3,-1,1
@@ -31885,6 +32447,11 @@ EC,Ecuador,Pichincha,,,EC-P,,2020-12-12,-23,8,-28,-5,4,11
 EC,Ecuador,Pichincha,,,EC-P,,2020-12-13,-21,1,-22,4,18,6
 EC,Ecuador,Pichincha,,,EC-P,,2020-12-14,-24,6,-35,-12,-34,18
 EC,Ecuador,Pichincha,,,EC-P,,2020-12-15,-22,9,-35,-11,-35,18
+EC,Ecuador,Pichincha,,,EC-P,,2020-12-16,-21,15,-31,-11,-32,18
+EC,Ecuador,Pichincha,,,EC-P,,2020-12-17,-20,14,-32,-10,-33,19
+EC,Ecuador,Pichincha,,,EC-P,,2020-12-18,-22,14,-32,-9,-31,19
+EC,Ecuador,Pichincha,,,EC-P,,2020-12-19,-17,16,-24,1,6,8
+EC,Ecuador,Pichincha,,,EC-P,,2020-12-20,-12,15,-21,13,25,4
 EC,Ecuador,Pichincha,Cayambe,,,,2020-02-15,5,0,10,-5,-4,0
 EC,Ecuador,Pichincha,Cayambe,,,,2020-02-16,8,4,5,-7,-12,
 EC,Ecuador,Pichincha,Cayambe,,,,2020-02-17,7,-2,12,,0,2
@@ -32184,6 +32751,11 @@ EC,Ecuador,Pichincha,Cayambe,,,,2020-12-12,-9,4,24,-46,10,9
 EC,Ecuador,Pichincha,Cayambe,,,,2020-12-13,-10,-11,18,-44,7,7
 EC,Ecuador,Pichincha,Cayambe,,,,2020-12-14,-1,8,33,-46,-21,18
 EC,Ecuador,Pichincha,Cayambe,,,,2020-12-15,1,18,21,-36,-24,19
+EC,Ecuador,Pichincha,Cayambe,,,,2020-12-16,0,16,30,-47,-19,19
+EC,Ecuador,Pichincha,Cayambe,,,,2020-12-17,-6,17,32,-42,-18,18
+EC,Ecuador,Pichincha,Cayambe,,,,2020-12-18,-2,13,32,-45,-17,20
+EC,Ecuador,Pichincha,Cayambe,,,,2020-12-19,-3,13,40,-37,16,6
+EC,Ecuador,Pichincha,Cayambe,,,,2020-12-20,-3,-2,26,-28,13,5
 EC,Ecuador,Pichincha,Mejía,,,,2020-02-15,3,6,-9,12,0,-1
 EC,Ecuador,Pichincha,Mejía,,,,2020-02-16,2,0,3,21,1,
 EC,Ecuador,Pichincha,Mejía,,,,2020-02-17,8,1,8,11,-2,2
@@ -32483,6 +33055,11 @@ EC,Ecuador,Pichincha,Mejía,,,,2020-12-12,-22,-10,-15,24,12,10
 EC,Ecuador,Pichincha,Mejía,,,,2020-12-13,-27,-43,10,32,17,7
 EC,Ecuador,Pichincha,Mejía,,,,2020-12-14,-15,-8,0,32,-27,19
 EC,Ecuador,Pichincha,Mejía,,,,2020-12-15,-12,-3,-2,34,-28,20
+EC,Ecuador,Pichincha,Mejía,,,,2020-12-16,-13,0,2,36,-27,19
+EC,Ecuador,Pichincha,Mejía,,,,2020-12-17,-11,-8,1,36,-27,20
+EC,Ecuador,Pichincha,Mejía,,,,2020-12-18,-21,-10,-14,34,-24,19
+EC,Ecuador,Pichincha,Mejía,,,,2020-12-19,-20,-2,-15,50,15,7
+EC,Ecuador,Pichincha,Mejía,,,,2020-12-20,-26,-37,10,40,21,5
 EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-02-15,1,5,8,5,-2,0
 EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-02-16,-1,4,2,4,1,0
 EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-02-17,0,6,1,3,-1,1
@@ -32788,6 +33365,11 @@ EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-12,-23,8,-31,-5,4
 EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-13,-21,5,-23,4,17,6
 EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-14,-25,5,-39,-12,-34,19
 EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-15,-23,10,-36,-11,-35,18
+EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-16,-22,14,-34,-11,-33,19
+EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-17,-21,15,-35,-10,-33,19
+EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-18,-23,15,-35,-9,-32,20
+EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-19,-17,16,-26,1,6,9
+EC,Ecuador,Pichincha,Metropolitan District of Quito,,,,2020-12-20,-12,19,-22,13,23,4
 EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-02-15,0,,1,,,
 EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-02-16,1,,-5,,,
 EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-02-17,,,,,3,
@@ -33068,6 +33650,11 @@ EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-12,-3,,8,,17,
 EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-13,8,,2,,-4,
 EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-14,,,,,-20,
 EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-15,,,17,,-25,
+EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-16,,,25,,-21,
+EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-17,,,22,,-21,
+EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-18,2,,25,,-19,
+EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-19,-2,,-1,,8,
+EC,Ecuador,Pichincha,Pedro Moncayo,,,,2020-12-20,3,,16,,-7,
 EC,Ecuador,Pichincha,Rumiðahui,,,,2020-02-15,-1,8,2,,-3,-2
 EC,Ecuador,Pichincha,Rumiðahui,,,,2020-02-16,-3,0,3,,0,0
 EC,Ecuador,Pichincha,Rumiðahui,,,,2020-02-17,2,1,2,,-2,1
@@ -33373,6 +33960,11 @@ EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-12,-12,41,-21,-14,8,10
 EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-13,-14,-8,-23,,21,6
 EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-14,-10,26,-24,,-34,20
 EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-15,-9,39,-24,,-34,19
+EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-16,-4,52,-22,,-30,19
+EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-17,-2,38,-24,,-31,20
+EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-18,-7,45,-24,,-27,20
+EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-19,-6,54,-19,-8,10,8
+EC,Ecuador,Pichincha,Rumiðahui,,,,2020-12-20,-5,13,-22,,35,5
 EC,Ecuador,Santa Elena,,,EC-SE,,2020-02-15,11,7,5,-8,-4,0
 EC,Ecuador,Santa Elena,,,EC-SE,,2020-02-16,15,6,17,,1,0
 EC,Ecuador,Santa Elena,,,EC-SE,,2020-02-17,13,7,14,,-2,1
@@ -33678,6 +34270,11 @@ EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-12,-20,5,-44,-40,7,9
 EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-13,-22,6,-36,-27,14,8
 EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-14,-8,12,-23,,-21,13
 EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-15,-2,23,-22,,-22,12
+EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-16,-2,18,-24,,-18,12
+EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-17,2,26,-21,,-20,12
+EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-18,-6,19,-33,,-16,12
+EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-19,-15,13,-43,-43,10,7
+EC,Ecuador,Santa Elena,,,EC-SE,,2020-12-20,-16,14,-32,-26,20,7
 EC,Ecuador,Santa Elena,La Libertad,,,,2020-02-15,20,6,12,,-3,0
 EC,Ecuador,Santa Elena,La Libertad,,,,2020-02-16,29,5,,,4,
 EC,Ecuador,Santa Elena,La Libertad,,,,2020-02-17,24,10,,,-2,2
@@ -33980,6 +34577,11 @@ EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-12,38,29,,,15,9
 EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-13,45,19,,,25,8
 EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-14,34,24,,,-21,14
 EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-15,49,29,,,-21,12
+EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-16,55,35,,,-17,12
+EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-17,50,38,,,-18,13
+EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-18,48,38,,,-15,13
+EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-19,57,41,,,16,7
+EC,Ecuador,Santa Elena,La Libertad,,,,2020-12-20,65,37,,,34,7
 EC,Ecuador,Santa Elena,Salinas,,,,2020-02-15,8,12,14,,-2,
 EC,Ecuador,Santa Elena,Salinas,,,,2020-02-16,13,16,15,,-3,
 EC,Ecuador,Santa Elena,Salinas,,,,2020-02-17,8,10,16,,-1,1
@@ -34285,6 +34887,11 @@ EC,Ecuador,Santa Elena,Salinas,,,,2020-12-12,-30,-3,-64,,9,10
 EC,Ecuador,Santa Elena,Salinas,,,,2020-12-13,-29,3,-61,,11,10
 EC,Ecuador,Santa Elena,Salinas,,,,2020-12-14,-17,12,-55,,-18,15
 EC,Ecuador,Santa Elena,Salinas,,,,2020-12-15,-14,26,-46,,-17,13
+EC,Ecuador,Santa Elena,Salinas,,,,2020-12-16,-10,25,-47,,-15,12
+EC,Ecuador,Santa Elena,Salinas,,,,2020-12-17,-4,35,-43,,-18,13
+EC,Ecuador,Santa Elena,Salinas,,,,2020-12-18,-14,18,-51,,-13,14
+EC,Ecuador,Santa Elena,Salinas,,,,2020-12-19,-26,6,-65,,13,9
+EC,Ecuador,Santa Elena,Salinas,,,,2020-12-20,-22,12,-59,,20,8
 EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-02-15,7,3,-1,3,-4,0
 EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-02-16,13,1,14,6,4,0
 EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-02-17,9,,10,,0,0
@@ -34588,6 +35195,11 @@ EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-12,-34,9,-32,-24,5,11
 EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-13,-38,,-21,-21,13,10
 EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-14,-24,,-15,,-24,15
 EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-15,-19,,-15,,-26,13
+EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-16,-20,,-18,,-22,13
+EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-17,-17,,-19,,-23,14
+EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-18,-24,18,-23,,-19,14
+EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-19,-36,11,-33,-27,9,9
+EC,Ecuador,Santa Elena,Santa Elena Canton,,,,2020-12-20,-37,,-21,-17,18,8
 EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-02-15,7,-1,8,-6,-1,-1
 EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-02-16,5,-2,9,0,1,-1
 EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-02-17,9,-2,4,-3,-6,0
@@ -34893,6 +35505,11 @@ EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-12,-4,31,-3,-30,3,6
 EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-13,-9,24,-6,-25,4,6
 EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-14,-5,25,-16,-27,-18,11
 EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-15,2,36,-9,-25,-18,10
+EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-16,-3,34,-13,-29,-16,11
+EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-17,-3,32,-11,-18,-17,11
+EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-18,-5,34,-13,-21,-17,11
+EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-19,2,44,5,-21,7,5
+EC,Ecuador,Santo Domingo de los Tsachilas,,,EC-SD,,2020-12-20,-5,34,1,-23,11,5
 EC,Ecuador,Sucumbios,,,EC-U,,2020-02-15,11,,-3,-6,-8,
 EC,Ecuador,Sucumbios,,,EC-U,,2020-02-16,0,,5,,-2,
 EC,Ecuador,Sucumbios,,,EC-U,,2020-02-17,2,,2,10,-1,0
@@ -35176,6 +35793,11 @@ EC,Ecuador,Sucumbios,,,EC-U,,2020-12-12,20,,-17,3,-2,8
 EC,Ecuador,Sucumbios,,,EC-U,,2020-12-13,19,,-16,,2,
 EC,Ecuador,Sucumbios,,,EC-U,,2020-12-14,7,,-25,-2,-16,11
 EC,Ecuador,Sucumbios,,,EC-U,,2020-12-15,4,,-29,-7,-18,12
+EC,Ecuador,Sucumbios,,,EC-U,,2020-12-16,6,,-29,-5,-15,12
+EC,Ecuador,Sucumbios,,,EC-U,,2020-12-17,3,,-35,-16,-19,14
+EC,Ecuador,Sucumbios,,,EC-U,,2020-12-18,12,,-24,-1,-18,12
+EC,Ecuador,Sucumbios,,,EC-U,,2020-12-19,25,,-20,10,-2,6
+EC,Ecuador,Sucumbios,,,EC-U,,2020-12-20,24,,-15,,7,
 EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-02-15,11,,-7,-14,-6,
 EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-02-16,-4,,4,2,1,
 EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-02-17,1,,-3,7,2,1
@@ -35475,6 +36097,11 @@ EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-12,21,,-22,-7,6,8
 EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-13,24,,-21,-1,9,6
 EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-14,11,,-34,-14,-10,13
 EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-15,6,,-37,-28,-11,13
+EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-16,10,,-37,-19,-9,13
+EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-17,10,,-42,-28,-13,16
+EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-18,17,,-32,-15,-12,13
+EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-19,27,,-27,1,3,7
+EC,Ecuador,Sucumbios,Lago Agrio Canton,,,,2020-12-20,29,,-19,8,13,7
 EC,Ecuador,Sucumbios,Shushufindi,,,,2020-02-15,,,13,,,
 EC,Ecuador,Sucumbios,Shushufindi,,,,2020-02-16,,,14,,,
 EC,Ecuador,Sucumbios,Shushufindi,,,,2020-02-17,,,7,,-4,
@@ -35755,6 +36382,11 @@ EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-12,,,1,,-5,
 EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-13,,,-7,,-10,
 EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-14,,,-17,,-18,
 EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-15,,,-15,,-20,
+EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-16,,,-19,,-19,
+EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-17,,,-25,,-20,
+EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-18,,,2,,-15,
+EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-19,,,-1,,5,
+EC,Ecuador,Sucumbios,Shushufindi,,,,2020-12-20,,,6,,6,
 EC,Ecuador,Tungurahua,,,EC-T,,2020-02-15,6,1,17,-1,0,-1
 EC,Ecuador,Tungurahua,,,EC-T,,2020-02-16,2,-1,-1,-8,-1,0
 EC,Ecuador,Tungurahua,,,EC-T,,2020-02-17,4,2,6,-4,-1,2
@@ -36060,6 +36692,11 @@ EC,Ecuador,Tungurahua,,,EC-T,,2020-12-12,-16,5,-8,-12,7,8
 EC,Ecuador,Tungurahua,,,EC-T,,2020-12-13,-20,-4,-10,-22,14,6
 EC,Ecuador,Tungurahua,,,EC-T,,2020-12-14,-16,-2,-17,-17,-26,17
 EC,Ecuador,Tungurahua,,,EC-T,,2020-12-15,-14,6,-15,-23,-27,15
+EC,Ecuador,Tungurahua,,,EC-T,,2020-12-16,-14,3,-16,-23,-26,17
+EC,Ecuador,Tungurahua,,,EC-T,,2020-12-17,-14,5,-21,-26,-26,17
+EC,Ecuador,Tungurahua,,,EC-T,,2020-12-18,-14,3,-18,-25,-25,18
+EC,Ecuador,Tungurahua,,,EC-T,,2020-12-19,-11,9,-5,-7,8,7
+EC,Ecuador,Tungurahua,,,EC-T,,2020-12-20,-13,6,-5,-16,19,6
 EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-02-15,8,2,22,0,1,-2
 EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-02-16,6,-1,8,-9,-2,0
 EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-02-17,4,1,9,-3,-1,2
@@ -36365,6 +37002,11 @@ EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-12,-18,5,-9,-9,6,8
 EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-13,-20,-2,-10,-22,16,6
 EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-14,-19,-2,-23,-16,-27,17
 EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-15,-16,7,-21,-22,-25,16
+EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-16,-15,5,-21,-23,-27,18
+EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-17,-16,8,-25,-25,-25,18
+EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-18,-13,10,-23,-25,-26,19
+EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-19,-12,9,-6,-4,7,7
+EC,Ecuador,Tungurahua,Ambato Canton,,,,2020-12-20,-13,11,-2,-15,22,6
 EC,Ecuador,Tungurahua,Baños Canton,,,,2020-02-15,19,,21,,,
 EC,Ecuador,Tungurahua,Baños Canton,,,,2020-02-16,5,,4,,,
 EC,Ecuador,Tungurahua,Baños Canton,,,,2020-02-17,,,8,,0,
@@ -36645,6 +37287,11 @@ EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-12,-33,,-11,,-9,
 EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-13,-35,,-6,,-3,
 EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-14,,,-15,,-30,
 EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-15,,,-21,,-30,
+EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-16,,,-20,,-26,
+EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-17,,,-27,,-30,
+EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-18,-40,,-22,,-32,
+EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-19,-34,,-12,,-7,
+EC,Ecuador,Tungurahua,Baños Canton,,,,2020-12-20,-38,,-8,,-4,
 EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-02-15,,,3,,,
 EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-02-16,,,6,,,
 EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-02-19,,,2,,,
@@ -36892,6 +37539,11 @@ EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-12,,,-3,,,
 EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-13,,,6,,,
 EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-14,,,-19,,-25,
 EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-15,,,-20,,-23,
+EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-16,,,-24,,-27,
+EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-17,,,-38,,-23,
+EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-18,,,-16,,-23,
+EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-19,,,-12,,,
+EC,Ecuador,Tungurahua,Cevallos Canton,,,,2020-12-20,,,-5,,,
 EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-02-15,,,14,,0,
 EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-02-16,-3,,-12,,,
 EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-02-17,,,-3,,0,
@@ -37172,6 +37824,11 @@ EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-12,,,-14,,11,
 EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-13,,,-14,,12,
 EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-14,,,-15,,-25,
 EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-15,,,-4,,-23,
+EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-16,,,-12,,-29,14
+EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-17,,,-22,,-29,
+EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-18,,,-17,,-26,
+EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-19,,,-6,,14,
+EC,Ecuador,Tungurahua,Pelileo Canton,,,,2020-12-20,,,-8,,9,
 EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-02-15,,,-1,,,
 EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-02-16,,,-1,,,
 EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-02-17,,,4,,-8,
@@ -37452,6 +38109,11 @@ EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-12,,,20,,15,
 EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-13,,,13,,,
 EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-14,,,23,,-25,
 EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-15,,,29,,-31,
+EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-16,,,21,,-25,
+EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-17,,,18,,-27,
+EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-18,,,18,,-23,
+EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-19,,,25,,14,
+EC,Ecuador,Tungurahua,Píllaro Canton,,,,2020-12-20,,,16,,,
 EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-02-15,,,5,8,-3,
 EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-02-16,11,,6,6,-6,
 EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-02-17,,,0,10,-6,
@@ -37732,6 +38394,11 @@ EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-12,,,19,-5,-8,
 EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-13,-30,,22,21,2,
 EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-14,,,7,-9,-28,9
 EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-15,,,5,1,-27,8
+EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-16,,,7,-2,-27,9
+EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-17,,,2,-4,-31,9
+EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-18,,,16,-4,-26,10
+EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-19,,,20,14,-6,
+EC,Ecuador,Zamora Chinchipe,,,EC-Z,,2020-12-20,-28,,17,22,1,
 EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-02-15,,,23,,,
 EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-02-16,,,23,,,
 EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-02-17,,,5,,,
@@ -38003,6 +38670,10 @@ EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-10,,,13,,,
 EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-12,,,12,,,
 EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-13,,,19,,,
 EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-15,,,8,,,
+EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-16,,,9,,,
+EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-17,,,6,,,
+EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-19,,,26,,,
+EC,Ecuador,Zamora Chinchipe,El Pangui,,,,2020-12-20,,,27,,,
 EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-02-17,,,,1,1,
 EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-02-18,,,,,-3,
 EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-02-19,,,,,-7,
@@ -38249,6 +38920,11 @@ EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-12,,,,,-23,
 EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-13,,,,,-11,
 EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-14,,,,1,-28,
 EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-15,,,,,-31,
+EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-16,,,,,-31,
+EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-17,,,,,-33,
+EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-18,,,,,-30,
+EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-19,,,,,-17,
+EC,Ecuador,Zamora Chinchipe,Yantzaza Canton,,,,2020-12-20,,,,,-2,
 EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-02-15,,,7,11,,
 EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-02-16,,,2,5,,
 EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-02-17,,,5,18,-2,
@@ -38529,3 +39205,8 @@ EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-12,,,52,-27,-2,
 EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-13,,,53,-19,14,
 EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-14,,,7,-31,-21,
 EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-15,,,-1,-26,-19,
+EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-16,,,10,-27,-17,
+EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-17,,,-5,-31,-20,
+EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-18,,,19,-30,-17,
+EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-19,,,37,-24,0,
+EC,Ecuador,Zamora Chinchipe,Zamora Canton,,,,2020-12-20,,,30,-27,5,

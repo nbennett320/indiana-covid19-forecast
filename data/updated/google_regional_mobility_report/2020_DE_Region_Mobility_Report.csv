@@ -304,6 +304,11 @@ DE,Germany,,,,,,2020-12-12,-31,0,-15,-37,-12,8
 DE,Germany,,,,,,2020-12-13,-60,-17,-8,-44,-19,7
 DE,Germany,,,,,,2020-12-14,-2,13,-2,-29,-20,8
 DE,Germany,,,,,,2020-12-15,-6,14,-6,-28,-21,9
+DE,Germany,,,,,,2020-12-16,-52,-4,4,-42,-29,13
+DE,Germany,,,,,,2020-12-17,-53,-2,-10,-44,-31,14
+DE,Germany,,,,,,2020-12-18,-54,-2,0,-45,-32,15
+DE,Germany,,,,,,2020-12-19,-63,-11,9,-43,-21,10
+DE,Germany,,,,,,2020-12-20,-63,-23,-6,-47,-22,8
 DE,Germany,Baden-Württemberg,,,DE-BW,,2020-02-15,6,1,52,10,3,-1
 DE,Germany,Baden-Württemberg,,,DE-BW,,2020-02-16,23,43,64,20,1,-2
 DE,Germany,Baden-Württemberg,,,DE-BW,,2020-02-17,0,-1,-11,0,-1,1
@@ -609,6 +614,11 @@ DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-12,-39,-8,-30,-45,-14,10
 DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-13,-65,-29,-15,-50,-24,9
 DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-14,-1,8,1,-27,-16,8
 DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-15,-7,11,-4,-26,-17,9
+DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-16,-54,-9,6,-45,-30,14
+DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-17,-56,-6,-13,-47,-32,15
+DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-18,-57,-5,-9,-48,-34,16
+DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-19,-65,-15,-1,-48,-22,11
+DE,Germany,Baden-Württemberg,,,DE-BW,,2020-12-20,-66,-30,-15,-51,-26,9
 DE,Germany,Bavaria,,,DE-BY,,2020-02-15,7,2,37,13,1,-1
 DE,Germany,Bavaria,,,DE-BY,,2020-02-16,14,32,33,12,1,-1
 DE,Germany,Bavaria,,,DE-BY,,2020-02-17,1,2,10,1,0,0
@@ -914,6 +924,11 @@ DE,Germany,Bavaria,,,DE-BY,,2020-12-12,-33,-1,-28,-45,-13,9
 DE,Germany,Bavaria,,,DE-BY,,2020-12-13,-67,-37,-32,-55,-22,9
 DE,Germany,Bavaria,,,DE-BY,,2020-12-14,1,11,5,-34,-21,9
 DE,Germany,Bavaria,,,DE-BY,,2020-12-15,-3,13,8,-31,-21,9
+DE,Germany,Bavaria,,,DE-BY,,2020-12-16,-55,-9,-8,-47,-31,14
+DE,Germany,Bavaria,,,DE-BY,,2020-12-17,-55,-4,-14,-49,-33,15
+DE,Germany,Bavaria,,,DE-BY,,2020-12-18,-58,-4,-14,-49,-34,16
+DE,Germany,Bavaria,,,DE-BY,,2020-12-19,-66,-12,-27,-51,-23,11
+DE,Germany,Bavaria,,,DE-BY,,2020-12-20,-69,-40,-17,-56,-25,9
 DE,Germany,Berlin,,,DE-BE,,2020-02-15,5,6,46,5,1,-1
 DE,Germany,Berlin,,,DE-BE,,2020-02-16,1,3,-2,1,-2,0
 DE,Germany,Berlin,,,DE-BE,,2020-02-17,6,3,15,4,1,0
@@ -1219,6 +1234,11 @@ DE,Germany,Berlin,,,DE-BE,,2020-12-12,-38,1,-13,-39,-20,8
 DE,Germany,Berlin,,,DE-BE,,2020-12-13,-63,-25,-22,-47,-26,7
 DE,Germany,Berlin,,,DE-BE,,2020-12-14,-14,8,-18,-31,-28,10
 DE,Germany,Berlin,,,DE-BE,,2020-12-15,-17,10,-19,-31,-28,10
+DE,Germany,Berlin,,,DE-BE,,2020-12-16,-58,-8,-27,-46,-40,16
+DE,Germany,Berlin,,,DE-BE,,2020-12-17,-58,-5,-28,-48,-42,17
+DE,Germany,Berlin,,,DE-BE,,2020-12-18,-59,-6,-25,-49,-42,17
+DE,Germany,Berlin,,,DE-BE,,2020-12-19,-64,-9,-5,-48,-26,10
+DE,Germany,Berlin,,,DE-BE,,2020-12-20,-68,-33,-15,-51,-26,8
 DE,Germany,Brandenburg,,,DE-BB,,2020-02-15,10,5,48,9,1,0
 DE,Germany,Brandenburg,,,DE-BB,,2020-02-16,3,0,-14,0,0,0
 DE,Germany,Brandenburg,,,DE-BB,,2020-02-17,3,4,9,1,0,1
@@ -1524,6 +1544,11 @@ DE,Germany,Brandenburg,,,DE-BB,,2020-12-12,-20,10,0,-23,-10,7
 DE,Germany,Brandenburg,,,DE-BB,,2020-12-13,-52,20,-11,-32,-13,6
 DE,Germany,Brandenburg,,,DE-BB,,2020-12-14,13,25,-10,-20,-18,7
 DE,Germany,Brandenburg,,,DE-BB,,2020-12-15,9,24,-4,-20,-19,8
+DE,Germany,Brandenburg,,,DE-BB,,2020-12-16,-44,0,-10,-33,-24,11
+DE,Germany,Brandenburg,,,DE-BB,,2020-12-17,-42,4,-10,-34,-26,12
+DE,Germany,Brandenburg,,,DE-BB,,2020-12-18,-45,-1,-12,-35,-28,13
+DE,Germany,Brandenburg,,,DE-BB,,2020-12-19,-55,-5,21,-32,-17,10
+DE,Germany,Brandenburg,,,DE-BB,,2020-12-20,-57,-5,6,-34,-16,7
 DE,Germany,Bremen,,,DE-HB,,2020-02-15,4,3,93,13,0,-1
 DE,Germany,Bremen,,,DE-HB,,2020-02-16,-12,-20,7,-8,-3,0
 DE,Germany,Bremen,,,DE-HB,,2020-02-17,-2,0,14,1,0,0
@@ -1829,6 +1854,11 @@ DE,Germany,Bremen,,,DE-HB,,2020-12-12,-36,3,-4,-44,-13,8
 DE,Germany,Bremen,,,DE-HB,,2020-12-13,-67,-20,26,-52,-25,7
 DE,Germany,Bremen,,,DE-HB,,2020-12-14,-8,16,-4,-32,-18,6
 DE,Germany,Bremen,,,DE-HB,,2020-12-15,-6,19,-14,-30,-19,7
+DE,Germany,Bremen,,,DE-HB,,2020-12-16,-55,-5,8,-45,-31,12
+DE,Germany,Bremen,,,DE-HB,,2020-12-17,-56,-1,-18,-48,-33,13
+DE,Germany,Bremen,,,DE-HB,,2020-12-18,-57,-3,21,-45,-33,14
+DE,Germany,Bremen,,,DE-HB,,2020-12-19,-67,-10,15,-48,-23,10
+DE,Germany,Bremen,,,DE-HB,,2020-12-20,-69,-21,42,-53,-23,7
 DE,Germany,Hamburg,,,DE-HH,,2020-02-15,6,2,51,10,1,-1
 DE,Germany,Hamburg,,,DE-HH,,2020-02-16,-2,9,-2,0,0,1
 DE,Germany,Hamburg,,,DE-HH,,2020-02-17,4,2,23,2,1,0
@@ -2134,6 +2164,11 @@ DE,Germany,Hamburg,,,DE-HH,,2020-12-12,-39,0,-22,-40,-15,8
 DE,Germany,Hamburg,,,DE-HH,,2020-12-13,-64,-14,-18,-50,-26,8
 DE,Germany,Hamburg,,,DE-HH,,2020-12-14,-12,10,-15,-34,-27,11
 DE,Germany,Hamburg,,,DE-HH,,2020-12-15,-14,13,-16,-31,-27,11
+DE,Germany,Hamburg,,,DE-HH,,2020-12-16,-56,-3,-9,-47,-37,16
+DE,Germany,Hamburg,,,DE-HH,,2020-12-17,-57,-3,-27,-48,-40,18
+DE,Germany,Hamburg,,,DE-HH,,2020-12-18,-55,-1,26,-48,-39,16
+DE,Germany,Hamburg,,,DE-HH,,2020-12-19,-63,-10,31,-48,-23,10
+DE,Germany,Hamburg,,,DE-HH,,2020-12-20,-65,-19,-7,-53,-26,9
 DE,Germany,Hessen,,,DE-HE,,2020-02-15,7,3,42,7,2,0
 DE,Germany,Hessen,,,DE-HE,,2020-02-16,11,16,35,7,0,-1
 DE,Germany,Hessen,,,DE-HE,,2020-02-17,-1,0,5,-1,1,0
@@ -2439,6 +2474,11 @@ DE,Germany,Hessen,,,DE-HE,,2020-12-12,-32,-2,-6,-41,-11,9
 DE,Germany,Hessen,,,DE-HE,,2020-12-13,-57,-21,24,-49,-20,7
 DE,Germany,Hessen,,,DE-HE,,2020-12-14,-2,11,7,-36,-20,8
 DE,Germany,Hessen,,,DE-HE,,2020-12-15,-7,11,-5,-34,-21,9
+DE,Germany,Hessen,,,DE-HE,,2020-12-16,-53,-6,4,-48,-32,14
+DE,Germany,Hessen,,,DE-HE,,2020-12-17,-54,-3,-11,-48,-34,15
+DE,Germany,Hessen,,,DE-HE,,2020-12-18,-56,-4,-4,-48,-35,15
+DE,Germany,Hessen,,,DE-HE,,2020-12-19,-61,-12,23,-45,-20,10
+DE,Germany,Hessen,,,DE-HE,,2020-12-20,-66,-34,-18,-54,-24,9
 DE,Germany,Lower Saxony,,,DE-NI,,2020-02-15,9,1,50,17,0,-1
 DE,Germany,Lower Saxony,,,DE-NI,,2020-02-16,2,8,-5,2,-2,0
 DE,Germany,Lower Saxony,,,DE-NI,,2020-02-17,1,2,14,3,0,0
@@ -2744,6 +2784,11 @@ DE,Germany,Lower Saxony,,,DE-NI,,2020-12-12,-27,2,8,-34,-10,7
 DE,Germany,Lower Saxony,,,DE-NI,,2020-12-13,-58,-23,3,-40,-18,7
 DE,Germany,Lower Saxony,,,DE-NI,,2020-12-14,9,18,12,-28,-18,7
 DE,Germany,Lower Saxony,,,DE-NI,,2020-12-15,2,16,9,-29,-20,8
+DE,Germany,Lower Saxony,,,DE-NI,,2020-12-16,-51,-2,17,-40,-29,12
+DE,Germany,Lower Saxony,,,DE-NI,,2020-12-17,-53,0,-7,-44,-31,13
+DE,Germany,Lower Saxony,,,DE-NI,,2020-12-18,-53,-1,13,-44,-32,14
+DE,Germany,Lower Saxony,,,DE-NI,,2020-12-19,-62,-9,28,-37,-18,9
+DE,Germany,Lower Saxony,,,DE-NI,,2020-12-20,-59,-23,10,-42,-20,7
 DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-02-15,6,-1,51,15,-2,-2
 DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-02-16,-7,-8,-26,-7,-1,0
 DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-02-17,8,-1,45,-8,-17,2
@@ -3049,6 +3094,11 @@ DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-12,-26,3,-14,-31,-16,6
 DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-13,-58,-21,-19,-39,-22,5
 DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-14,5,17,-7,-20,-19,7
 DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-15,3,21,8,-19,-19,7
+DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-16,-44,-2,-1,-34,-26,10
+DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-17,-43,1,-8,-34,-27,11
+DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-18,-47,-5,5,-38,-29,12
+DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-19,-57,-10,0,-33,-23,8
+DE,Germany,Mecklenburg-Vorpommern,,,DE-MV,,2020-12-20,-64,-30,-28,-48,-26,7
 DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-02-15,5,2,61,11,1,-1
 DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-02-16,0,2,-9,3,-2,1
 DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-02-17,1,2,2,2,2,-1
@@ -3354,6 +3404,11 @@ DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-12,-29,4,-7,-35,-10,8
 DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-13,-56,-7,14,-41,-17,7
 DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-14,-1,13,-14,-33,-22,8
 DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-15,-5,16,-18,-32,-25,10
+DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-16,-53,0,18,-42,-28,13
+DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-17,-54,1,-6,-43,-30,13
+DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-18,-54,2,24,-44,-30,14
+DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-19,-63,-8,38,-42,-19,10
+DE,Germany,North Rhine-Westphalia,,,DE-NW,,2020-12-20,-58,-12,26,-44,-20,7
 DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-02-15,2,0,36,6,-2,-1
 DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-02-16,16,19,32,11,0,-1
 DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-02-17,0,-1,1,-10,-15,2
@@ -3659,6 +3714,11 @@ DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-12,-29,3,-11,-43,-11,8
 DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-13,-52,-7,23,-43,-18,7
 DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-14,6,18,6,-31,-14,7
 DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-15,-1,18,-2,-31,-15,8
+DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-16,-50,-2,3,-46,-27,13
+DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-17,-51,3,-1,-47,-30,13
+DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-18,-53,0,3,-48,-30,15
+DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-19,-61,-8,17,-45,-20,10
+DE,Germany,Rhineland-Palatinate,,,DE-RP,,2020-12-20,-61,-20,-10,-51,-23,8
 DE,Germany,Saarland,,,DE-SL,,2020-02-15,4,-3,36,4,-4,-1
 DE,Germany,Saarland,,,DE-SL,,2020-02-16,10,-7,20,2,0,-1
 DE,Germany,Saarland,,,DE-SL,,2020-02-17,0,-2,-6,-14,-14,3
@@ -3964,6 +4024,11 @@ DE,Germany,Saarland,,,DE-SL,,2020-12-12,-26,2,-9,-41,-18,9
 DE,Germany,Saarland,,,DE-SL,,2020-12-13,-58,-31,4,-47,-18,7
 DE,Germany,Saarland,,,DE-SL,,2020-12-14,13,22,13,-31,-14,6
 DE,Germany,Saarland,,,DE-SL,,2020-12-15,2,18,-13,-29,-18,7
+DE,Germany,Saarland,,,DE-SL,,2020-12-16,-54,-6,-12,-50,-30,13
+DE,Germany,Saarland,,,DE-SL,,2020-12-17,-53,-2,-3,-50,-33,14
+DE,Germany,Saarland,,,DE-SL,,2020-12-18,-56,-3,4,-51,-32,14
+DE,Germany,Saarland,,,DE-SL,,2020-12-19,-61,-12,38,-47,-25,10
+DE,Germany,Saarland,,,DE-SL,,2020-12-20,-62,-32,-7,-48,-21,7
 DE,Germany,Saxony,,,DE-SN,,2020-02-15,4,-1,33,14,-3,-2
 DE,Germany,Saxony,,,DE-SN,,2020-02-16,6,13,4,2,-1,-1
 DE,Germany,Saxony,,,DE-SN,,2020-02-17,5,-2,11,-8,-18,3
@@ -4269,6 +4334,11 @@ DE,Germany,Saxony,,,DE-SN,,2020-12-12,-30,-3,-21,-31,-10,8
 DE,Germany,Saxony,,,DE-SN,,2020-12-13,-59,-12,-10,-39,-15,7
 DE,Germany,Saxony,,,DE-SN,,2020-12-14,-41,-7,-3,-39,-28,13
 DE,Germany,Saxony,,,DE-SN,,2020-12-15,-40,-1,-1,-37,-30,13
+DE,Germany,Saxony,,,DE-SN,,2020-12-16,-46,-3,6,-38,-31,13
+DE,Germany,Saxony,,,DE-SN,,2020-12-17,-46,-3,-9,-39,-31,14
+DE,Germany,Saxony,,,DE-SN,,2020-12-18,-49,-7,-14,-42,-33,15
+DE,Germany,Saxony,,,DE-SN,,2020-12-19,-62,-14,-4,-43,-20,11
+DE,Germany,Saxony,,,DE-SN,,2020-12-20,-63,-22,-4,-46,-20,8
 DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-02-15,2,-1,34,8,-3,-1
 DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-02-16,0,16,-5,-2,-1,-1
 DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-02-17,4,4,12,2,0,0
@@ -4574,6 +4644,11 @@ DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-12,-27,0,-7,-22,-9,6
 DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-13,-52,-13,-9,-30,-10,5
 DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-14,15,22,7,-10,-12,4
 DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-15,7,20,6,-8,-11,5
+DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-16,-46,-7,13,-26,-24,10
+DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-17,-47,-3,-12,-30,-26,11
+DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-18,-48,-7,-1,-30,-27,12
+DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-19,-60,-12,14,-26,-16,8
+DE,Germany,Saxony-Anhalt,,,DE-ST,,2020-12-20,-58,-20,-14,-36,-15,6
 DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-02-15,6,2,31,14,3,0
 DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-02-16,-5,-19,-40,-4,-2,1
 DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-02-17,3,2,19,1,-1,0
@@ -4879,6 +4954,11 @@ DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-12,-25,7,0,-18,-10,7
 DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-13,-56,-29,-13,-31,-17,7
 DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-14,3,19,-6,-20,-22,8
 DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-15,3,22,3,-19,-24,9
+DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-16,-51,3,20,-31,-29,12
+DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-17,-53,2,-11,-36,-32,14
+DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-18,-54,4,35,-36,-32,14
+DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-19,-61,-3,51,-24,-20,9
+DE,Germany,Schleswig-Holstein,,,DE-SH,,2020-12-20,-58,-34,-3,-35,-20,8
 DE,Germany,Thuringia,,,DE-TH,,2020-02-15,4,1,47,13,-3,-2
 DE,Germany,Thuringia,,,DE-TH,,2020-02-16,5,16,5,10,-1,-1
 DE,Germany,Thuringia,,,DE-TH,,2020-02-17,1,3,5,4,0,1
@@ -5184,3 +5264,8 @@ DE,Germany,Thuringia,,,DE-TH,,2020-12-12,-28,-2,-6,-17,-10,7
 DE,Germany,Thuringia,,,DE-TH,,2020-12-13,-55,-7,-8,-27,-15,5
 DE,Germany,Thuringia,,,DE-TH,,2020-12-14,11,14,2,-8,-15,7
 DE,Germany,Thuringia,,,DE-TH,,2020-12-15,5,15,5,-9,-17,7
+DE,Germany,Thuringia,,,DE-TH,,2020-12-16,-47,-7,12,-26,-26,11
+DE,Germany,Thuringia,,,DE-TH,,2020-12-17,-48,-5,-5,-32,-29,12
+DE,Germany,Thuringia,,,DE-TH,,2020-12-18,-50,-9,-3,-32,-30,14
+DE,Germany,Thuringia,,,DE-TH,,2020-12-19,-61,-14,6,-25,-19,9
+DE,Germany,Thuringia,,,DE-TH,,2020-12-20,-62,-19,-18,-36,-24,7
