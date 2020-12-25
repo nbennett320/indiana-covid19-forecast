@@ -309,6 +309,8 @@ MU,Mauritius,,,,,,2020-12-17,6,4,-16,-14,-22,1
 MU,Mauritius,,,,,,2020-12-18,8,11,-16,-11,-11,0
 MU,Mauritius,,,,,,2020-12-19,12,15,-21,-5,28,-6
 MU,Mauritius,,,,,,2020-12-20,31,28,-9,-5,1,-5
+MU,Mauritius,,,,,,2020-12-21,24,20,-11,-13,-24,0
+MU,Mauritius,,,,,,2020-12-22,29,21,-2,-8,-26,0
 MU,Mauritius,Flacq District,,,MU-FL,,2020-02-15,1,-3,-23,,27,
 MU,Mauritius,Flacq District,,,MU-FL,,2020-02-16,-4,3,0,,3,
 MU,Mauritius,Flacq District,,,MU-FL,,2020-02-17,-11,6,,,2,0
@@ -613,6 +615,8 @@ MU,Mauritius,Flacq District,,,MU-FL,,2020-12-17,2,6,,,-23,-1
 MU,Mauritius,Flacq District,,,MU-FL,,2020-12-18,3,12,-12,,-9,-2
 MU,Mauritius,Flacq District,,,MU-FL,,2020-12-19,10,11,-17,,20,-8
 MU,Mauritius,Flacq District,,,MU-FL,,2020-12-20,13,12,5,,-4,-6
+MU,Mauritius,Flacq District,,,MU-FL,,2020-12-21,18,24,,,-25,-1
+MU,Mauritius,Flacq District,,,MU-FL,,2020-12-22,25,23,,,-28,-2
 MU,Mauritius,Grand Port District,,,MU-GP,,2020-02-15,-4,8,-14,-3,26,
 MU,Mauritius,Grand Port District,,,MU-GP,,2020-02-16,-4,8,20,-9,0,
 MU,Mauritius,Grand Port District,,,MU-GP,,2020-02-17,-9,-8,,-4,4,-1
@@ -917,6 +921,8 @@ MU,Mauritius,Grand Port District,,,MU-GP,,2020-12-17,-3,12,-33,-58,-29,0
 MU,Mauritius,Grand Port District,,,MU-GP,,2020-12-18,8,22,-31,-54,-18,-2
 MU,Mauritius,Grand Port District,,,MU-GP,,2020-12-19,10,31,-47,-56,18,
 MU,Mauritius,Grand Port District,,,MU-GP,,2020-12-20,21,42,-23,-50,-10,
+MU,Mauritius,Grand Port District,,,MU-GP,,2020-12-21,34,41,-33,-49,-28,-3
+MU,Mauritius,Grand Port District,,,MU-GP,,2020-12-22,32,32,-37,-51,-28,-2
 MU,Mauritius,Moka District,,,MU-MO,,2020-02-15,17,22,,,41,
 MU,Mauritius,Moka District,,,MU-MO,,2020-02-16,-5,19,,,-2,
 MU,Mauritius,Moka District,,,MU-MO,,2020-02-17,-8,,,13,4,-1
@@ -1221,6 +1227,8 @@ MU,Mauritius,Moka District,,,MU-MO,,2020-12-17,-5,,,20,-23,0
 MU,Mauritius,Moka District,,,MU-MO,,2020-12-18,2,,,,-11,-2
 MU,Mauritius,Moka District,,,MU-MO,,2020-12-19,15,,,,41,
 MU,Mauritius,Moka District,,,MU-MO,,2020-12-20,29,,,10,7,
+MU,Mauritius,Moka District,,,MU-MO,,2020-12-21,7,,,11,-23,-3
+MU,Mauritius,Moka District,,,MU-MO,,2020-12-22,16,,,25,-27,-2
 MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-02-15,2,-8,-24,,30,0
 MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-02-16,1,-4,-6,,4,
 MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-02-17,-4,2,,,0,-1
@@ -1528,6 +1536,8 @@ MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-12-17,54,3,-22,,-23,-1
 MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-12-18,65,2,-12,,-12,-1
 MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-12-19,70,10,-38,-27,23,-7
 MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-12-20,81,14,-15,,-4,-6
+MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-12-21,75,14,,,-25,0
+MU,Mauritius,Pamplemousses District,,,MU-PA,,2020-12-22,78,21,-20,,-26,-1
 MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-02-15,15,3,,6,36,1
 MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-02-16,7,-6,,5,-1,2
 MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-02-17,-1,-8,,-1,3,0
@@ -1838,6 +1848,8 @@ MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-12-17,11,5,,-20,-19,2
 MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-12-18,15,10,,-11,-9,1
 MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-12-19,23,11,,-5,33,-4
 MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-12-20,39,28,,5,9,-5
+MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-12-21,30,18,,-23,-22,1
+MU,Mauritius,Plaines Wilhems District,,,MU-PW,,2020-12-22,38,23,,-13,-23,1
 MU,Mauritius,Port Louis District,,,MU-PL,,2020-02-15,8,9,,7,43,
 MU,Mauritius,Port Louis District,,,MU-PL,,2020-02-16,1,8,,2,3,
 MU,Mauritius,Port Louis District,,,MU-PL,,2020-02-17,-5,1,,3,7,0
@@ -2142,6 +2154,8 @@ MU,Mauritius,Port Louis District,,,MU-PL,,2020-12-17,2,32,-23,3,-18,3
 MU,Mauritius,Port Louis District,,,MU-PL,,2020-12-18,7,36,-20,-1,-9,2
 MU,Mauritius,Port Louis District,,,MU-PL,,2020-12-19,22,61,15,11,35,-3
 MU,Mauritius,Port Louis District,,,MU-PL,,2020-12-20,36,119,,21,9,
+MU,Mauritius,Port Louis District,,,MU-PL,,2020-12-21,19,57,-17,1,-16,1
+MU,Mauritius,Port Louis District,,,MU-PL,,2020-12-22,28,60,-1,6,-21,2
 MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-02-15,-3,4,-18,,23,
 MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-02-16,-8,-13,-1,,-2,
 MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-02-17,-7,-10,-15,,1,-1
@@ -2446,6 +2460,8 @@ MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-12-17,28,-3,-26,,-22,0
 MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-12-18,27,4,-30,,-10,-2
 MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-12-19,36,12,-34,,18,-8
 MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-12-20,50,24,-24,,-4,
+MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-12-21,50,20,-27,,-24,-1
+MU,Mauritius,Rivière du Rempart District,,,MU-RR,,2020-12-22,54,19,-21,,-26,-3
 MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-02-15,-2,-10,-22,,37,
 MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-02-16,-4,0,5,,2,
 MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-02-17,-1,-5,-9,,4,0
@@ -2750,6 +2766,8 @@ MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-12-17,6,16,-42,,-21,1
 MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-12-18,1,14,-39,-9,-9,-1
 MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-12-19,8,17,-47,-17,27,-6
 MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-12-20,13,23,-35,,3,-6
+MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-12-21,4,14,-39,,-24,0
+MU,Mauritius,Rivière Noire District,,,MU-BL,,2020-12-22,4,14,-30,,-26,-1
 MU,Mauritius,Rodrigues District,,,MU-RO,,2020-02-17,,,,,6,
 MU,Mauritius,Rodrigues District,,,MU-RO,,2020-02-18,,,,,6,
 MU,Mauritius,Rodrigues District,,,MU-RO,,2020-02-19,,,,,8,
@@ -2985,6 +3003,8 @@ MU,Mauritius,Rodrigues District,,,MU-RO,,2020-12-15,,,,,-20,
 MU,Mauritius,Rodrigues District,,,MU-RO,,2020-12-16,,,,,-19,
 MU,Mauritius,Rodrigues District,,,MU-RO,,2020-12-17,,,,,-19,
 MU,Mauritius,Rodrigues District,,,MU-RO,,2020-12-18,,,9,,-12,
+MU,Mauritius,Rodrigues District,,,MU-RO,,2020-12-21,,,,,-16,
+MU,Mauritius,Rodrigues District,,,MU-RO,,2020-12-22,,,,,-18,
 MU,Mauritius,Savanne District,,,MU-SA,,2020-02-15,0,-3,,,20,
 MU,Mauritius,Savanne District,,,MU-SA,,2020-02-16,3,,,,5,
 MU,Mauritius,Savanne District,,,MU-SA,,2020-02-17,-6,-12,,,4,
@@ -3270,3 +3290,5 @@ MU,Mauritius,Savanne District,,,MU-SA,,2020-12-17,,,,,-23,0
 MU,Mauritius,Savanne District,,,MU-SA,,2020-12-18,,,,,-13,-1
 MU,Mauritius,Savanne District,,,MU-SA,,2020-12-19,,,,,17,
 MU,Mauritius,Savanne District,,,MU-SA,,2020-12-20,,,,,-3,
+MU,Mauritius,Savanne District,,,MU-SA,,2020-12-21,,,,,-26,-2
+MU,Mauritius,Savanne District,,,MU-SA,,2020-12-22,,,,,-29,-1

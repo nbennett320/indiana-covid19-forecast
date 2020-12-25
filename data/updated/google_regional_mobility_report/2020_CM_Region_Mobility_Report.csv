@@ -309,6 +309,8 @@ CM,Cameroon,,,,,,2020-12-17,4,24,-1,39,-6,3
 CM,Cameroon,,,,,,2020-12-18,4,25,1,44,-7,2
 CM,Cameroon,,,,,,2020-12-19,-1,17,1,37,-11,1
 CM,Cameroon,,,,,,2020-12-20,-4,16,4,41,-8,1
+CM,Cameroon,,,,,,2020-12-21,4,24,1,46,-8,2
+CM,Cameroon,,,,,,2020-12-22,8,31,5,52,-11,2
 CM,Cameroon,Adamawa,,,CM-AD,,2020-02-15,,,,,1,
 CM,Cameroon,Adamawa,,,CM-AD,,2020-02-16,,,,,-1,
 CM,Cameroon,Adamawa,,,CM-AD,,2020-02-17,,,,,7,
@@ -594,6 +596,8 @@ CM,Cameroon,Adamawa,,,CM-AD,,2020-12-17,,,,,-6,
 CM,Cameroon,Adamawa,,,CM-AD,,2020-12-18,,,,,-3,
 CM,Cameroon,Adamawa,,,CM-AD,,2020-12-19,,,,,-4,
 CM,Cameroon,Adamawa,,,CM-AD,,2020-12-20,,,,,-13,
+CM,Cameroon,Adamawa,,,CM-AD,,2020-12-21,,,,,-7,
+CM,Cameroon,Adamawa,,,CM-AD,,2020-12-22,,,,,-1,
 CM,Cameroon,Adamawa,Vina,,,,2020-02-15,,6,,,6,
 CM,Cameroon,Adamawa,Vina,,,,2020-02-16,,,,,3,
 CM,Cameroon,Adamawa,Vina,,,,2020-02-17,,8,,,5,
@@ -879,6 +883,8 @@ CM,Cameroon,Adamawa,Vina,,,,2020-12-17,,,,,-1,-1
 CM,Cameroon,Adamawa,Vina,,,,2020-12-18,,,,,0,
 CM,Cameroon,Adamawa,Vina,,,,2020-12-19,,,,,3,
 CM,Cameroon,Adamawa,Vina,,,,2020-12-20,,,,,-5,
+CM,Cameroon,Adamawa,Vina,,,,2020-12-21,,,,,-5,0
+CM,Cameroon,Adamawa,Vina,,,,2020-12-22,,,,,3,-3
 CM,Cameroon,Centre,,,CM-CE,,2020-02-15,0,2,-8,1,3,2
 CM,Cameroon,Centre,,,CM-CE,,2020-02-16,-4,2,-4,-1,-1,1
 CM,Cameroon,Centre,,,CM-CE,,2020-02-17,2,3,-4,0,3,0
@@ -1189,6 +1195,8 @@ CM,Cameroon,Centre,,,CM-CE,,2020-12-17,5,27,-33,43,-6,3
 CM,Cameroon,Centre,,,CM-CE,,2020-12-18,3,34,-36,49,-7,2
 CM,Cameroon,Centre,,,CM-CE,,2020-12-19,3,25,-37,39,-9,1
 CM,Cameroon,Centre,,,CM-CE,,2020-12-20,-9,23,-37,38,-13,0
+CM,Cameroon,Centre,,,CM-CE,,2020-12-21,5,34,-24,44,-7,3
+CM,Cameroon,Centre,,,CM-CE,,2020-12-22,9,38,-23,53,-11,3
 CM,Cameroon,Centre,Lekie,,,,2020-02-15,-1,2,-8,0,3,2
 CM,Cameroon,Centre,Lekie,,,,2020-02-16,-5,2,-1,-2,-2,1
 CM,Cameroon,Centre,Lekie,,,,2020-02-17,2,4,-4,0,2,1
@@ -1499,6 +1507,8 @@ CM,Cameroon,Centre,Lekie,,,,2020-12-17,12,22,-44,48,-4,5
 CM,Cameroon,Centre,Lekie,,,,2020-12-18,10,21,-50,52,-7,3
 CM,Cameroon,Centre,Lekie,,,,2020-12-19,10,20,-51,49,-8,3
 CM,Cameroon,Centre,Lekie,,,,2020-12-20,-3,20,-55,44,-13,2
+CM,Cameroon,Centre,Lekie,,,,2020-12-21,13,29,-38,52,-11,5
+CM,Cameroon,Centre,Lekie,,,,2020-12-22,19,38,-35,57,-11,4
 CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-02-15,-2,2,-5,3,2,2
 CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-02-16,-2,0,-6,6,-1,1
 CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-02-17,-5,2,-2,4,4,0
@@ -1809,6 +1819,8 @@ CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-12-17,-3,44,29,52,-2,4
 CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-12-18,-12,50,26,68,-4,3
 CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-12-19,-18,49,23,37,-10,2
 CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-12-20,-22,38,34,47,-11,2
+CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-12-21,-19,55,,49,-6,4
+CM,Cameroon,Centre,Mefou-et-Afamba,,,,2020-12-22,-15,57,38,64,-10,5
 CM,Cameroon,East,,,CM-ES,,2020-02-15,,,,,7,
 CM,Cameroon,East,,,CM-ES,,2020-02-16,,,,,0,
 CM,Cameroon,East,,,CM-ES,,2020-02-17,,,,,0,
@@ -2079,6 +2091,8 @@ CM,Cameroon,East,,,CM-ES,,2020-12-17,,,,,-5,
 CM,Cameroon,East,,,CM-ES,,2020-12-18,,,,,-4,
 CM,Cameroon,East,,,CM-ES,,2020-12-19,,,,,-14,
 CM,Cameroon,East,,,CM-ES,,2020-12-20,,,,,-10,
+CM,Cameroon,East,,,CM-ES,,2020-12-21,,,,,-9,
+CM,Cameroon,East,,,CM-ES,,2020-12-22,,,,,-10,
 CM,Cameroon,East,Lom -Et- Djerem,,,,2020-02-15,,,,,9,
 CM,Cameroon,East,Lom -Et- Djerem,,,,2020-02-17,,,,,1,
 CM,Cameroon,East,Lom -Et- Djerem,,,,2020-02-18,,,,,3,
@@ -2345,6 +2359,8 @@ CM,Cameroon,East,Lom -Et- Djerem,,,,2020-12-17,,,,,-1,
 CM,Cameroon,East,Lom -Et- Djerem,,,,2020-12-18,,,,,-1,
 CM,Cameroon,East,Lom -Et- Djerem,,,,2020-12-19,,,,,-11,
 CM,Cameroon,East,Lom -Et- Djerem,,,,2020-12-20,,,,,-4,
+CM,Cameroon,East,Lom -Et- Djerem,,,,2020-12-21,,,,,-7,
+CM,Cameroon,East,Lom -Et- Djerem,,,,2020-12-22,,,,,-6,
 CM,Cameroon,Far North,,,CM-EN,,2020-02-15,,,,,4,
 CM,Cameroon,Far North,,,CM-EN,,2020-02-16,,,,,1,
 CM,Cameroon,Far North,,,CM-EN,,2020-02-17,,,,,3,
@@ -2630,6 +2646,8 @@ CM,Cameroon,Far North,,,CM-EN,,2020-12-17,,,,,-25,
 CM,Cameroon,Far North,,,CM-EN,,2020-12-18,,,,,-20,
 CM,Cameroon,Far North,,,CM-EN,,2020-12-19,,,,,-20,
 CM,Cameroon,Far North,,,CM-EN,,2020-12-20,,-32,,,-23,
+CM,Cameroon,Far North,,,CM-EN,,2020-12-21,,,,,-26,
+CM,Cameroon,Far North,,,CM-EN,,2020-12-22,,,,,-22,
 CM,Cameroon,Far North,Diamare,,,,2020-02-15,,-4,,,7,
 CM,Cameroon,Far North,Diamare,,,,2020-02-16,,-6,,,-1,
 CM,Cameroon,Far North,Diamare,,,,2020-02-17,,-4,,,10,
@@ -2915,6 +2933,8 @@ CM,Cameroon,Far North,Diamare,,,,2020-12-17,,-33,,,-21,
 CM,Cameroon,Far North,Diamare,,,,2020-12-18,,-14,,,-13,
 CM,Cameroon,Far North,Diamare,,,,2020-12-19,,-23,,,-14,
 CM,Cameroon,Far North,Diamare,,,,2020-12-20,,-29,,,-14,
+CM,Cameroon,Far North,Diamare,,,,2020-12-21,,-7,,,-18,
+CM,Cameroon,Far North,Diamare,,,,2020-12-22,,-11,,,-16,
 CM,Cameroon,Littoral,,,CM-LT,,2020-02-15,1,1,3,12,2,0
 CM,Cameroon,Littoral,,,CM-LT,,2020-02-16,-3,1,-1,5,-1,-1
 CM,Cameroon,Littoral,,,CM-LT,,2020-02-17,-3,-1,-3,12,1,1
@@ -3225,6 +3245,8 @@ CM,Cameroon,Littoral,,,CM-LT,,2020-12-17,0,21,18,37,-5,6
 CM,Cameroon,Littoral,,,CM-LT,,2020-12-18,3,26,22,39,-5,5
 CM,Cameroon,Littoral,,,CM-LT,,2020-12-19,3,14,19,43,-9,3
 CM,Cameroon,Littoral,,,CM-LT,,2020-12-20,3,11,28,44,-8,4
+CM,Cameroon,Littoral,,,CM-LT,,2020-12-21,6,23,18,50,-7,5
+CM,Cameroon,Littoral,,,CM-LT,,2020-12-22,10,27,19,47,-10,4
 CM,Cameroon,Littoral,Moungo,,,,2020-02-15,,-15,,,,
 CM,Cameroon,Littoral,Moungo,,,,2020-02-16,,-24,,,,
 CM,Cameroon,Littoral,Moungo,,,,2020-02-17,,-13,,,3,
@@ -3510,6 +3532,8 @@ CM,Cameroon,Littoral,Moungo,,,,2020-12-17,,-6,,,-10,
 CM,Cameroon,Littoral,Moungo,,,,2020-12-18,,-12,,,-13,
 CM,Cameroon,Littoral,Moungo,,,,2020-12-19,,-16,,,-13,
 CM,Cameroon,Littoral,Moungo,,,,2020-12-20,,-5,,,-18,
+CM,Cameroon,Littoral,Moungo,,,,2020-12-21,,-7,,,-19,
+CM,Cameroon,Littoral,Moungo,,,,2020-12-22,,-4,,,-22,
 CM,Cameroon,Littoral,Nkam,,,,2020-02-15,,,2,,,
 CM,Cameroon,Littoral,Nkam,,,,2020-02-16,,,-5,,,
 CM,Cameroon,Littoral,Nkam,,,,2020-02-17,,,-8,,,
@@ -4092,6 +4116,8 @@ CM,Cameroon,Littoral,Wouri,,,,2020-12-17,1,26,-11,39,-4,7
 CM,Cameroon,Littoral,Wouri,,,,2020-12-18,3,32,-3,41,-5,6
 CM,Cameroon,Littoral,Wouri,,,,2020-12-19,2,21,-10,44,-7,4
 CM,Cameroon,Littoral,Wouri,,,,2020-12-20,2,17,-9,45,-2,4
+CM,Cameroon,Littoral,Wouri,,,,2020-12-21,4,26,-11,48,-7,6
+CM,Cameroon,Littoral,Wouri,,,,2020-12-22,10,32,-10,45,-9,5
 CM,Cameroon,North,,,CM-NO,,2020-02-15,,,,,8,
 CM,Cameroon,North,,,CM-NO,,2020-02-16,,,,,-2,
 CM,Cameroon,North,,,CM-NO,,2020-02-17,,,,,-2,
@@ -4377,6 +4403,8 @@ CM,Cameroon,North,,,CM-NO,,2020-12-17,,,,,-23,
 CM,Cameroon,North,,,CM-NO,,2020-12-18,,,,,-15,
 CM,Cameroon,North,,,CM-NO,,2020-12-19,,,,,-18,
 CM,Cameroon,North,,,CM-NO,,2020-12-20,,,,,-21,
+CM,Cameroon,North,,,CM-NO,,2020-12-21,,,,,-19,
+CM,Cameroon,North,,,CM-NO,,2020-12-22,,,,,-19,
 CM,Cameroon,North,Bénoué,,,,2020-02-15,,,-3,,8,
 CM,Cameroon,North,Bénoué,,,,2020-02-16,,,-12,,1,
 CM,Cameroon,North,Bénoué,,,,2020-02-17,,-6,,,0,
@@ -4662,6 +4690,8 @@ CM,Cameroon,North,Bénoué,,,,2020-12-17,,,,,-19,
 CM,Cameroon,North,Bénoué,,,,2020-12-18,,25,-8,,-15,
 CM,Cameroon,North,Bénoué,,,,2020-12-19,,,,,-16,
 CM,Cameroon,North,Bénoué,,,,2020-12-20,,,8,,-18,
+CM,Cameroon,North,Bénoué,,,,2020-12-21,,,,,-17,
+CM,Cameroon,North,Bénoué,,,,2020-12-22,,,,,-17,
 CM,Cameroon,Northwest,,,CM-NW,,2020-02-15,,-4,,-42,-4,
 CM,Cameroon,Northwest,,,CM-NW,,2020-02-16,,-10,,,-4,
 CM,Cameroon,Northwest,,,CM-NW,,2020-02-17,,,,,0,
@@ -4947,6 +4977,8 @@ CM,Cameroon,Northwest,,,CM-NW,,2020-12-17,,32,,-39,-10,
 CM,Cameroon,Northwest,,,CM-NW,,2020-12-18,,30,,,-9,
 CM,Cameroon,Northwest,,,CM-NW,,2020-12-19,,9,,,-13,
 CM,Cameroon,Northwest,,,CM-NW,,2020-12-20,,,,,-4,
+CM,Cameroon,Northwest,,,CM-NW,,2020-12-21,,,,,-28,
+CM,Cameroon,Northwest,,,CM-NW,,2020-12-22,,34,,,-18,
 CM,Cameroon,Northwest,Momo,,,,2020-02-15,1,-2,,-45,-2,
 CM,Cameroon,Northwest,Momo,,,,2020-02-16,,-7,,-38,-4,
 CM,Cameroon,Northwest,Momo,,,,2020-02-17,,,,,1,
@@ -5239,6 +5271,8 @@ CM,Cameroon,Northwest,Momo,,,,2020-12-17,,,,-40,-6,0
 CM,Cameroon,Northwest,Momo,,,,2020-12-18,,28,,-25,-3,-1
 CM,Cameroon,Northwest,Momo,,,,2020-12-19,,12,,-24,-10,-6
 CM,Cameroon,Northwest,Momo,,,,2020-12-20,,,,-12,4,
+CM,Cameroon,Northwest,Momo,,,,2020-12-21,,,,,-29,
+CM,Cameroon,Northwest,Momo,,,,2020-12-22,,35,,1,-12,-2
 CM,Cameroon,South,,,CM-SU,,2020-02-15,,,,,-6,
 CM,Cameroon,South,,,CM-SU,,2020-02-16,,,,,-4,
 CM,Cameroon,South,,,CM-SU,,2020-02-17,,,,,3,
@@ -5524,6 +5558,8 @@ CM,Cameroon,South,,,CM-SU,,2020-12-17,,,,,-15,
 CM,Cameroon,South,,,CM-SU,,2020-12-18,,,,,-15,
 CM,Cameroon,South,,,CM-SU,,2020-12-19,,,,,-15,
 CM,Cameroon,South,,,CM-SU,,2020-12-20,,,,,-13,
+CM,Cameroon,South,,,CM-SU,,2020-12-21,,,,,-16,
+CM,Cameroon,South,,,CM-SU,,2020-12-22,,,,,-17,
 CM,Cameroon,South,Mvila,,,,2020-06-08,,,,,-7,
 CM,Cameroon,South,Mvila,,,,2020-06-09,,,,,0,
 CM,Cameroon,South,Mvila,,,,2020-06-10,,,,,-6,
@@ -5648,6 +5684,8 @@ CM,Cameroon,South,Mvila,,,,2020-12-15,,,,,-9,
 CM,Cameroon,South,Mvila,,,,2020-12-16,,,,,-18,
 CM,Cameroon,South,Mvila,,,,2020-12-17,,,,,-16,
 CM,Cameroon,South,Mvila,,,,2020-12-18,,,,,-12,
+CM,Cameroon,South,Mvila,,,,2020-12-21,,,,,-11,
+CM,Cameroon,South,Mvila,,,,2020-12-22,,,,,-15,
 CM,Cameroon,South,Ocean,,,,2020-04-08,,,,,-17,
 CM,Cameroon,South,Ocean,,,,2020-04-11,,,-37,,,
 CM,Cameroon,South,Ocean,,,,2020-04-14,,,,,-15,
@@ -5807,6 +5845,8 @@ CM,Cameroon,South,Ocean,,,,2020-12-16,,,,,-25,
 CM,Cameroon,South,Ocean,,,,2020-12-17,,,,,-9,
 CM,Cameroon,South,Ocean,,,,2020-12-18,,,,,-14,
 CM,Cameroon,South,Ocean,,,,2020-12-19,,,,,6,
+CM,Cameroon,South,Ocean,,,,2020-12-21,,,,,-11,
+CM,Cameroon,South,Ocean,,,,2020-12-22,,,,,-15,
 CM,Cameroon,Southwest,,,CM-SW,,2020-02-15,-1,7,17,,14,
 CM,Cameroon,Southwest,,,CM-SW,,2020-02-16,-16,16,13,,7,
 CM,Cameroon,Southwest,,,CM-SW,,2020-02-17,,,,,6,
@@ -6099,6 +6139,8 @@ CM,Cameroon,Southwest,,,CM-SW,,2020-12-17,12,41,,,-9,-3
 CM,Cameroon,Southwest,,,CM-SW,,2020-12-18,,63,0,,-13,-2
 CM,Cameroon,Southwest,,,CM-SW,,2020-12-19,,50,4,,-15,-4
 CM,Cameroon,Southwest,,,CM-SW,,2020-12-20,2,34,-6,,-15,
+CM,Cameroon,Southwest,,,CM-SW,,2020-12-21,,,,,-16,-7
+CM,Cameroon,Southwest,,,CM-SW,,2020-12-22,,66,,,-22,-3
 CM,Cameroon,Southwest,Fako,,,,2020-02-15,-1,9,,,12,-2
 CM,Cameroon,Southwest,Fako,,,,2020-02-16,-15,23,,,5,0
 CM,Cameroon,Southwest,Fako,,,,2020-02-17,-19,1,,,7,0
@@ -6407,6 +6449,8 @@ CM,Cameroon,Southwest,Fako,,,,2020-12-17,12,43,,,-5,-1
 CM,Cameroon,Southwest,Fako,,,,2020-12-18,32,58,,,-8,0
 CM,Cameroon,Southwest,Fako,,,,2020-12-19,20,38,,,-14,-1
 CM,Cameroon,Southwest,Fako,,,,2020-12-20,2,36,,,-13,-3
+CM,Cameroon,Southwest,Fako,,,,2020-12-21,19,34,,,-9,-5
+CM,Cameroon,Southwest,Fako,,,,2020-12-22,20,57,,,-21,0
 CM,Cameroon,Southwest,Meme,,,,2020-06-09,,,,,13,
 CM,Cameroon,Southwest,Meme,,,,2020-06-10,,,,,12,
 CM,Cameroon,Southwest,Meme,,,,2020-06-11,,,,,18,
@@ -6530,6 +6574,7 @@ CM,Cameroon,Southwest,Meme,,,,2020-12-16,,,,,-13,
 CM,Cameroon,Southwest,Meme,,,,2020-12-17,,,,,-11,
 CM,Cameroon,Southwest,Meme,,,,2020-12-18,,,,,-19,
 CM,Cameroon,Southwest,Meme,,,,2020-12-19,,,,,-6,
+CM,Cameroon,Southwest,Meme,,,,2020-12-22,,,,,-17,
 CM,Cameroon,West,,,CM-OU,,2020-02-15,-3,-6,,-7,3,
 CM,Cameroon,West,,,CM-OU,,2020-02-16,-7,-1,,,0,
 CM,Cameroon,West,,,CM-OU,,2020-02-17,-4,-6,,,1,0
@@ -6833,6 +6878,8 @@ CM,Cameroon,West,,,CM-OU,,2020-12-17,8,28,-48,,-14,-2
 CM,Cameroon,West,,,CM-OU,,2020-12-18,8,17,-33,,-9,-1
 CM,Cameroon,West,,,CM-OU,,2020-12-19,0,9,-41,,-19,-2
 CM,Cameroon,West,,,CM-OU,,2020-12-20,16,20,,,-11,
+CM,Cameroon,West,,,CM-OU,,2020-12-21,13,19,-38,,-13,-3
+CM,Cameroon,West,,,CM-OU,,2020-12-22,7,31,,,-15,-3
 CM,Cameroon,West,Menoua,,,,2020-02-17,,,,,5,
 CM,Cameroon,West,Menoua,,,,2020-02-18,,,,,1,
 CM,Cameroon,West,Menoua,,,,2020-02-19,,,,,5,
@@ -7083,6 +7130,8 @@ CM,Cameroon,West,Menoua,,,,2020-12-17,,,,,2,
 CM,Cameroon,West,Menoua,,,,2020-12-18,,,,,3,
 CM,Cameroon,West,Menoua,,,,2020-12-19,,,,,-8,
 CM,Cameroon,West,Menoua,,,,2020-12-20,,,,,-7,
+CM,Cameroon,West,Menoua,,,,2020-12-21,,,,,-7,
+CM,Cameroon,West,Menoua,,,,2020-12-22,,,,,-8,
 CM,Cameroon,West,Mifi,,,,2020-02-15,-15,-10,,0,3,
 CM,Cameroon,West,Mifi,,,,2020-02-16,-11,-8,,,-2,
 CM,Cameroon,West,Mifi,,,,2020-02-17,-14,-8,,-7,-2,1
@@ -7381,6 +7430,8 @@ CM,Cameroon,West,Mifi,,,,2020-12-17,,50,,,-7,1
 CM,Cameroon,West,Mifi,,,,2020-12-18,25,36,,,-6,3
 CM,Cameroon,West,Mifi,,,,2020-12-19,7,31,,,-16,
 CM,Cameroon,West,Mifi,,,,2020-12-20,,42,,,-2,
+CM,Cameroon,West,Mifi,,,,2020-12-21,,46,,,-9,1
+CM,Cameroon,West,Mifi,,,,2020-12-22,,62,,,-10,1
 CM,Cameroon,West,Noun,,,,2020-06-08,,,,,0,
 CM,Cameroon,West,Noun,,,,2020-06-09,,,,,2,
 CM,Cameroon,West,Noun,,,,2020-06-10,,,,,9,
@@ -7551,3 +7602,5 @@ CM,Cameroon,West,Noun,,,,2020-12-17,,,,,-41,
 CM,Cameroon,West,Noun,,,,2020-12-18,,,,,-37,
 CM,Cameroon,West,Noun,,,,2020-12-19,,,,,-43,
 CM,Cameroon,West,Noun,,,,2020-12-20,,,,,-30,
+CM,Cameroon,West,Noun,,,,2020-12-21,,,,,-29,
+CM,Cameroon,West,Noun,,,,2020-12-22,,,,,-31,
