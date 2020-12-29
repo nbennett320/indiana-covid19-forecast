@@ -311,11 +311,15 @@ TG,Togo,,,,,,2020-12-19,0,40,54,14,5,8
 TG,Togo,,,,,,2020-12-20,-8,20,47,8,0,11
 TG,Togo,,,,,,2020-12-21,-7,44,50,19,1,11
 TG,Togo,,,,,,2020-12-22,-5,50,53,19,1,11
+TG,Togo,,,,,,2020-12-23,0,56,51,24,1,11
+TG,Togo,,,,,,2020-12-24,12,82,62,43,-6,10
+TG,Togo,,,,,,2020-12-25,-19,13,40,-14,-56,27
 TG,Togo,Centrale Region,,,TG-C,,2020-10-01,,,,,-45,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-05,,,,,-48,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-06,,,,,-44,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-07,,,,,-40,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-08,,,,,-46,
+TG,Togo,Centrale Region,,,TG-C,,2020-12-25,,,,,-54,
 TG,Togo,Kara Region,,,TG-K,,2020-02-17,,,,,-4,
 TG,Togo,Kara Region,,,TG-K,,2020-02-18,,,,,-11,
 TG,Togo,Kara Region,,,TG-K,,2020-02-19,,,,,-1,
@@ -531,6 +535,9 @@ TG,Togo,Kara Region,,,TG-K,,2020-12-17,,,,,-29,
 TG,Togo,Kara Region,,,TG-K,,2020-12-18,,,,,-19,
 TG,Togo,Kara Region,,,TG-K,,2020-12-21,,,,,-27,
 TG,Togo,Kara Region,,,TG-K,,2020-12-22,,,,,-25,
+TG,Togo,Kara Region,,,TG-K,,2020-12-23,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,2020-12-24,,,,,-38,
+TG,Togo,Kara Region,,,TG-K,,2020-12-25,,,,,-60,
 TG,Togo,Maritime Region,,,TG-M,,2020-02-15,-3,0,-11,-2,2,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-16,-4,-2,-12,-7,-1,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-17,-7,2,-9,-8,0,1
@@ -843,6 +850,9 @@ TG,Togo,Maritime Region,,,TG-M,,2020-12-19,-1,38,87,10,6,8
 TG,Togo,Maritime Region,,,TG-M,,2020-12-20,-10,19,71,7,3,11
 TG,Togo,Maritime Region,,,TG-M,,2020-12-21,-8,44,86,18,3,11
 TG,Togo,Maritime Region,,,TG-M,,2020-12-22,-7,49,96,18,0,11
+TG,Togo,Maritime Region,,,TG-M,,2020-12-23,0,55,86,23,3,11
+TG,Togo,Maritime Region,,,TG-M,,2020-12-24,11,79,102,47,-3,10
+TG,Togo,Maritime Region,,,TG-M,,2020-12-25,-21,12,66,-13,-58,27
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-15,,,,,2,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-17,,,,,0,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-18,,,,,2,
@@ -1065,4 +1075,7 @@ TG,Togo,Plateaux Region,,,TG-P,,2020-12-18,,,,,-2,
 TG,Togo,Plateaux Region,,,TG-P,,2020-12-19,,,,,-10,
 TG,Togo,Plateaux Region,,,TG-P,,2020-12-21,,,,,-8,
 TG,Togo,Plateaux Region,,,TG-P,,2020-12-22,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-23,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-24,,,,,-10,
+TG,Togo,Plateaux Region,,,TG-P,,2020-12-25,,,,,-44,
 TG,Togo,Savanes Region,,,TG-S,,2020-07-31,,,,,-50,

@@ -311,6 +311,9 @@ CI,Côte d'Ivoire,,,,,,2020-12-19,5,45,5,13,-6,3
 CI,Côte d'Ivoire,,,,,,2020-12-20,8,57,3,19,3,5
 CI,Côte d'Ivoire,,,,,,2020-12-21,5,53,7,26,-10,8
 CI,Côte d'Ivoire,,,,,,2020-12-22,13,64,11,28,-11,6
+CI,Côte d'Ivoire,,,,,,2020-12-23,18,68,11,35,-10,5
+CI,Côte d'Ivoire,,,,,,2020-12-24,29,85,7,34,-15,6
+CI,Côte d'Ivoire,,,,,,2020-12-25,-11,36,-21,-8,-58,19
 CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-02-15,3,1,8,3,-1,-1
 CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-02-16,3,1,4,5,1,0
 CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-02-17,1,-1,7,1,-2,1
@@ -623,6 +626,9 @@ CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-12-19,4,47,-5,8,-5,2
 CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-12-20,7,55,-5,16,5,4
 CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-12-21,5,53,-3,22,-11,7
 CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-12-22,15,62,3,25,-11,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-12-23,20,70,4,30,-9,5
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-12-24,30,84,-2,28,-17,6
+CI,Côte d'Ivoire,Abidjan Autonomous District,,,CI-AB,,2020-12-25,-11,36,-34,-11,-63,20
 CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-02-15,,3,11,2,-1,
 CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-02-16,,0,-2,,-2,
 CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-02-17,,1,7,-4,-6,
@@ -910,6 +916,9 @@ CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-12-19,,29,13,3,-4,
 CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-12-20,,35,10,,-3,
 CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-12-21,,45,19,,-11,
 CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-12-22,,49,22,,-10,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-12-23,,48,13,3,-10,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-12-24,,67,15,,-11,
+CI,Côte d'Ivoire,Bas-Sassandra District,,,CI-BS,,2020-12-25,,23,9,0,-46,
 CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-02-15,10,6,14,,0,
 CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-02-16,,2,10,,3,
 CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-02-17,,9,8,,-4,0
@@ -1199,6 +1208,9 @@ CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-12-19,24,15,-13,,-7,
 CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-12-20,,16,-11,,-5,
 CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-12-21,,21,-11,,-11,7
 CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-12-22,,35,-12,,-15,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-12-23,,28,-18,,-10,2
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-12-24,,64,-5,,-14,0
+CI,Côte d'Ivoire,Comoé District,,,CI-CM,,2020-12-25,,23,-13,,-53,13
 CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-02-15,,4,,,-3,
 CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-02-16,,,,,3,
 CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-02-17,,,,,-6,
@@ -1486,6 +1498,9 @@ CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-12-19,,11,,,-20,
 CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-12-20,,,,,-15,
 CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-12-21,,,,,-25,
 CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-12-22,,,,,-26,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-12-23,,6,,,-23,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-12-24,,,,,-24,
+CI,Côte d'Ivoire,Gôh-Djiboua District,,,CI-GD,,2020-12-25,,-6,,,-47,
 CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-02-15,,,,,0,
 CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-02-16,,,,,-2,
 CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-02-17,,,,,-9,
@@ -1762,6 +1777,9 @@ CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-12-19,,,,,-11,
 CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-12-20,,,,,-3,
 CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-12-21,,,,,-23,
 CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-12-22,,,,,-22,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-12-23,,,,,-12,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-12-24,,,,,-18,
+CI,Côte d'Ivoire,Lacs District,,,CI-LC,,2020-12-25,,,,,-39,
 CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-02-15,,5,,,3,
 CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-02-16,,,,,3,
 CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-02-17,,,,,-5,
@@ -2049,6 +2067,9 @@ CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-12-19,,,,,-17,
 CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-12-20,,,,,-17,
 CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-12-21,,,,,-24,
 CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-12-22,,,,,-26,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-12-23,,,,,-24,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-12-24,,,,,-25,
+CI,Côte d'Ivoire,Lagunes District,,,CI-LG,,2020-12-25,,,,,-46,
 CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-02-15,,,,,2,
 CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-02-16,,,,,7,
 CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-02-17,,,,,-4,
@@ -2336,6 +2357,9 @@ CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-12-19,,,,,-8,
 CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-12-20,,,,,-14,
 CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-12-21,,,,,-19,
 CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-12-22,,,,,-18,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-12-23,,,,,-14,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-12-24,,,,,-19,
+CI,Côte d'Ivoire,Montagnes District,,,CI-MG,,2020-12-25,,,,,-37,
 CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-02-15,,1,,,1,
 CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-02-16,,7,,,3,
 CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-02-17,,4,,,-8,
@@ -2623,6 +2647,9 @@ CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-12-19,,40,,,-15,
 CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-12-20,,48,,,-12,
 CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-12-21,,52,,,-23,
 CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-12-22,,52,,,-22,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-12-23,,50,,,-22,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-12-24,,74,,,-25,
+CI,Côte d'Ivoire,Sassandra-Marahoué District,,,CI-SM,,2020-12-25,,17,,,-47,
 CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-02-15,,-4,,,1,
 CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-02-16,,5,,,-3,
 CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-02-17,,5,,,-6,
@@ -2910,6 +2937,9 @@ CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-12-19,,25,,,-14,
 CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-12-20,,29,,,-9,
 CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-12-21,,33,,,-14,
 CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-12-22,,29,,,-16,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-12-23,,38,,,-14,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-12-24,,43,,,-15,
+CI,Côte d'Ivoire,Savanes District,,,CI-SV,,2020-12-25,,12,,,-38,
 CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-02-15,0,6,,10,2,
 CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-02-16,,4,,14,3,
 CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-02-17,6,11,,22,-2,
@@ -3197,6 +3227,9 @@ CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-12-19,17,35,,48,0,
 CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-12-20,,43,,46,3,
 CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-12-21,,32,,63,-6,6
 CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-12-22,,25,,57,-11,5
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-12-23,24,32,,61,-6,3
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-12-24,,47,,70,-12,2
+CI,Côte d'Ivoire,Vallée du Bandama District,,,CI-VB,,2020-12-25,2,17,,21,-36,
 CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-02-15,,11,,,1,
 CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-02-16,,,,,-2,
 CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-02-17,,3,,,-6,
@@ -3484,6 +3517,9 @@ CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-12-19,,40,,,-11,
 CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-12-20,,,,,2,
 CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-12-21,,43,,,-13,
 CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-12-22,,,,,-14,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-12-23,,40,,,-17,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-12-24,,,,,-28,
+CI,Côte d'Ivoire,Yamoussoukro District,,,CI-YM,,2020-12-25,,16,,,-52,
 CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-02-17,,,,,-4,
 CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-02-18,,,,,-9,
 CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-02-19,,,,,-2,
@@ -3581,3 +3617,6 @@ CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-12-16,,,,,-13,
 CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-12-17,,,,,-7,
 CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-12-21,,,,,-19,
 CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-12-22,,,,,-25,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-12-23,,,,,-26,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-12-24,,,,,-31,
+CI,Côte d'Ivoire,Zanzan District,,,CI-ZZ,,2020-12-25,,,,,-38,
