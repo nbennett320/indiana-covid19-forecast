@@ -314,6 +314,8 @@ MY,Malaysia,,,,,,2020-12-22,-20,0,-9,-34,-24,11
 MY,Malaysia,,,,,,2020-12-23,-19,4,-6,-32,-24,11
 MY,Malaysia,,,,,,2020-12-24,-16,7,3,-26,-28,10
 MY,Malaysia,,,,,,2020-12-25,-22,3,15,-35,-58,18
+MY,Malaysia,,,,,,2020-12-26,-31,-13,-3,-34,-22,11
+MY,Malaysia,,,,,,2020-12-27,-26,-10,8,-26,-23,7
 MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-02-15,-6,-6,-7,-4,2,2
 MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-02-16,-8,-8,-5,0,-1,3
 MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-02-17,-6,-4,-8,-4,2,2
@@ -629,6 +631,8 @@ MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-12-22,-28,-14,-22,-5
 MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-12-23,-27,-6,-23,-54,-29,13
 MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-12-24,-23,-3,-15,-52,-33,11
 MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-12-25,-32,-10,-19,-67,-66,22
+MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-12-26,-41,-27,-44,-61,-24,12
+MY,Malaysia,Federal Territory of Kuala Lumpur,,,MY-14,,2020-12-27,-37,-26,-29,-55,-21,8
 MY,Malaysia,Johor,,,MY-01,,2020-02-15,-6,-3,-10,-6,0,3
 MY,Malaysia,Johor,,,MY-01,,2020-02-16,-9,-5,-9,-9,-1,3
 MY,Malaysia,Johor,,,MY-01,,2020-02-17,-6,-3,-7,-6,2,2
@@ -944,6 +948,8 @@ MY,Malaysia,Johor,,,MY-01,,2020-12-22,-30,-5,-15,-33,-24,12
 MY,Malaysia,Johor,,,MY-01,,2020-12-23,-28,-4,-22,-28,-24,12
 MY,Malaysia,Johor,,,MY-01,,2020-12-24,-25,1,-12,-24,-26,12
 MY,Malaysia,Johor,,,MY-01,,2020-12-25,-28,0,-5,-27,-52,18
+MY,Malaysia,Johor,,,MY-01,,2020-12-26,-39,-18,-24,-34,-28,13
+MY,Malaysia,Johor,,,MY-01,,2020-12-27,-35,-14,-12,-29,-37,10
 MY,Malaysia,Kedah,,,MY-02,,2020-02-15,-6,-4,-5,-4,1,1
 MY,Malaysia,Kedah,,,MY-02,,2020-02-16,-5,-4,-2,-2,1,1
 MY,Malaysia,Kedah,,,MY-02,,2020-02-17,-6,-5,-2,-4,2,1
@@ -1259,6 +1265,8 @@ MY,Malaysia,Kedah,,,MY-02,,2020-12-22,-9,16,16,11,-21,9
 MY,Malaysia,Kedah,,,MY-02,,2020-12-23,-10,14,15,24,-20,9
 MY,Malaysia,Kedah,,,MY-02,,2020-12-24,-7,18,19,28,-23,8
 MY,Malaysia,Kedah,,,MY-02,,2020-12-25,-10,14,31,35,-41,9
+MY,Malaysia,Kedah,,,MY-02,,2020-12-26,-19,0,18,21,-21,8
+MY,Malaysia,Kedah,,,MY-02,,2020-12-27,-8,10,40,29,-38,6
 MY,Malaysia,Kelantan,,,MY-03,,2020-02-15,-5,-5,1,6,2,0
 MY,Malaysia,Kelantan,,,MY-03,,2020-02-16,-3,-5,-4,-2,2,1
 MY,Malaysia,Kelantan,,,MY-03,,2020-02-17,-6,-6,-6,-8,2,1
@@ -1574,6 +1582,8 @@ MY,Malaysia,Kelantan,,,MY-03,,2020-12-22,4,7,27,-12,-20,12
 MY,Malaysia,Kelantan,,,MY-03,,2020-12-23,6,12,27,-7,-19,12
 MY,Malaysia,Kelantan,,,MY-03,,2020-12-24,5,10,37,-6,-21,13
 MY,Malaysia,Kelantan,,,MY-03,,2020-12-25,9,11,38,6,-13,9
+MY,Malaysia,Kelantan,,,MY-03,,2020-12-26,8,7,45,-10,-13,10
+MY,Malaysia,Kelantan,,,MY-03,,2020-12-27,17,17,52,7,-24,11
 MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-02-15,4,-1,5,-10,7,-1
 MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-02-16,-2,-7,2,-19,0,
 MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-02-17,-6,-5,-1,-16,2,2
@@ -1886,6 +1896,8 @@ MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-12-22,-13,-20,3,-52,-21,16
 MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-12-23,-13,-11,1,-43,-23,16
 MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-12-24,-13,-6,9,-51,-25,15
 MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-12-25,-29,-14,15,-70,-63,28
+MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-12-26,-24,-17,-3,-65,-22,11
+MY,Malaysia,Labuan Federal Territory,,,MY-15,,2020-12-27,-25,-21,-5,-69,-22,14
 MY,Malaysia,Malacca,,,MY-04,,2020-02-15,-6,-6,-4,0,1,1
 MY,Malaysia,Malacca,,,MY-04,,2020-02-16,-5,-5,-2,3,0,1
 MY,Malaysia,Malacca,,,MY-04,,2020-02-17,-6,-4,-8,-4,3,2
@@ -2201,6 +2213,8 @@ MY,Malaysia,Malacca,,,MY-04,,2020-12-22,-12,10,15,-18,-18,8
 MY,Malaysia,Malacca,,,MY-04,,2020-12-23,-11,10,19,-15,-17,8
 MY,Malaysia,Malacca,,,MY-04,,2020-12-24,-6,13,27,-2,-21,6
 MY,Malaysia,Malacca,,,MY-04,,2020-12-25,1,23,68,-9,-51,15
+MY,Malaysia,Malacca,,,MY-04,,2020-12-26,-12,-2,23,-17,-18,7
+MY,Malaysia,Malacca,,,MY-04,,2020-12-27,-5,2,39,-10,-12,3
 MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-02-15,-2,-4,16,-3,3,1
 MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-02-16,-3,-5,15,-1,1,1
 MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-02-17,-6,-5,15,-4,2,2
@@ -2516,6 +2530,8 @@ MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-12-22,-23,-5,-5,-16,-22,10
 MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-12-23,-22,2,8,-14,-22,10
 MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-12-24,-15,7,12,-5,-24,8
 MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-12-25,-18,12,57,-9,-55,17
+MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-12-26,-31,-10,10,-18,-20,9
+MY,Malaysia,Negeri Sembilan,,,MY-05,,2020-12-27,-25,-9,22,-8,-15,5
 MY,Malaysia,Pahang,,,MY-06,,2020-02-15,-6,-1,1,0,3,1
 MY,Malaysia,Pahang,,,MY-06,,2020-02-16,-7,0,3,0,1,1
 MY,Malaysia,Pahang,,,MY-06,,2020-02-17,-7,-4,-4,-1,1,1
@@ -2831,6 +2847,8 @@ MY,Malaysia,Pahang,,,MY-06,,2020-12-22,-11,9,15,-20,-19,9
 MY,Malaysia,Pahang,,,MY-06,,2020-12-23,-10,9,18,-17,-19,9
 MY,Malaysia,Pahang,,,MY-06,,2020-12-24,-4,11,19,-10,-21,7
 MY,Malaysia,Pahang,,,MY-06,,2020-12-25,-3,18,46,-15,-49,14
+MY,Malaysia,Pahang,,,MY-06,,2020-12-26,-15,2,24,-20,-18,8
+MY,Malaysia,Pahang,,,MY-06,,2020-12-27,-11,2,29,-8,-15,5
 MY,Malaysia,Penang,,,MY-07,,2020-02-15,-3,-5,-1,-6,0,3
 MY,Malaysia,Penang,,,MY-07,,2020-02-16,-5,-5,2,-4,-2,2
 MY,Malaysia,Penang,,,MY-07,,2020-02-17,-6,-6,-3,-8,2,2
@@ -3146,6 +3164,8 @@ MY,Malaysia,Penang,,,MY-07,,2020-12-22,-17,7,-10,-25,-19,10
 MY,Malaysia,Penang,,,MY-07,,2020-12-23,-17,8,-8,-23,-18,11
 MY,Malaysia,Penang,,,MY-07,,2020-12-24,-12,13,2,-18,-21,9
 MY,Malaysia,Penang,,,MY-07,,2020-12-25,-15,10,11,-29,-58,19
+MY,Malaysia,Penang,,,MY-07,,2020-12-26,-25,-7,-13,-28,-18,11
+MY,Malaysia,Penang,,,MY-07,,2020-12-27,-22,-8,1,-26,-15,7
 MY,Malaysia,Perak,,,MY-08,,2020-02-15,-5,-7,-5,4,1,2
 MY,Malaysia,Perak,,,MY-08,,2020-02-16,-6,-6,-4,4,0,1
 MY,Malaysia,Perak,,,MY-08,,2020-02-17,-7,-3,-6,-3,1,1
@@ -3461,6 +3481,8 @@ MY,Malaysia,Perak,,,MY-08,,2020-12-22,-15,5,5,11,-20,9
 MY,Malaysia,Perak,,,MY-08,,2020-12-23,-14,6,4,21,-20,9
 MY,Malaysia,Perak,,,MY-08,,2020-12-24,-9,9,17,39,-23,7
 MY,Malaysia,Perak,,,MY-08,,2020-12-25,-8,14,45,33,-49,14
+MY,Malaysia,Perak,,,MY-08,,2020-12-26,-20,-5,17,14,-18,9
+MY,Malaysia,Perak,,,MY-08,,2020-12-27,-16,-8,26,29,-13,5
 MY,Malaysia,Perlis,,,MY-09,,2020-02-15,-5,-5,-16,-27,1,2
 MY,Malaysia,Perlis,,,MY-09,,2020-02-16,-2,-6,-12,-22,2,1
 MY,Malaysia,Perlis,,,MY-09,,2020-02-17,-4,-4,11,-29,3,1
@@ -3776,6 +3798,8 @@ MY,Malaysia,Perlis,,,MY-09,,2020-12-22,4,2,14,9,-25,6
 MY,Malaysia,Perlis,,,MY-09,,2020-12-23,-2,8,-3,11,-25,7
 MY,Malaysia,Perlis,,,MY-09,,2020-12-24,7,8,24,19,-28,6
 MY,Malaysia,Perlis,,,MY-09,,2020-12-25,10,9,34,7,-53,11
+MY,Malaysia,Perlis,,,MY-09,,2020-12-26,7,2,22,9,-22,5
+MY,Malaysia,Perlis,,,MY-09,,2020-12-27,11,4,53,30,-25,3
 MY,Malaysia,Putrajaya,,,MY-16,,2020-02-15,2,1,16,-1,13,1
 MY,Malaysia,Putrajaya,,,MY-16,,2020-02-16,1,-4,-8,5,7,
 MY,Malaysia,Putrajaya,,,MY-16,,2020-02-17,0,-1,12,4,0,1
@@ -4089,6 +4113,8 @@ MY,Malaysia,Putrajaya,,,MY-16,,2020-12-22,-14,35,-12,-55,-25,12
 MY,Malaysia,Putrajaya,,,MY-16,,2020-12-23,-11,35,-15,-51,-28,12
 MY,Malaysia,Putrajaya,,,MY-16,,2020-12-24,-11,36,-13,-44,-33,10
 MY,Malaysia,Putrajaya,,,MY-16,,2020-12-25,-23,42,9,-70,-79,18
+MY,Malaysia,Putrajaya,,,MY-16,,2020-12-26,-31,2,-32,-63,-23,5
+MY,Malaysia,Putrajaya,,,MY-16,,2020-12-27,-23,9,8,-56,-19,-1
 MY,Malaysia,Sabah,,,MY-12,,2020-02-15,-3,-4,0,-6,2,1
 MY,Malaysia,Sabah,,,MY-12,,2020-02-16,-4,-1,1,-9,0,1
 MY,Malaysia,Sabah,,,MY-12,,2020-02-17,-5,-5,1,-14,1,1
@@ -4404,6 +4430,8 @@ MY,Malaysia,Sabah,,,MY-12,,2020-12-22,-23,-3,-28,-47,-32,13
 MY,Malaysia,Sabah,,,MY-12,,2020-12-23,-21,2,-28,-42,-32,14
 MY,Malaysia,Sabah,,,MY-12,,2020-12-24,-23,5,-16,-47,-53,16
 MY,Malaysia,Sabah,,,MY-12,,2020-12-25,-38,-14,-17,-59,-62,21
+MY,Malaysia,Sabah,,,MY-12,,2020-12-26,-36,-17,-21,-54,-32,14
+MY,Malaysia,Sabah,,,MY-12,,2020-12-27,-35,-19,-26,-51,-24,12
 MY,Malaysia,Sarawak,,,MY-13,,2020-02-15,-5,-4,1,-14,3,2
 MY,Malaysia,Sarawak,,,MY-13,,2020-02-16,-6,-2,1,-10,0,1
 MY,Malaysia,Sarawak,,,MY-13,,2020-02-17,-9,-8,-7,-13,1,2
@@ -4719,6 +4747,8 @@ MY,Malaysia,Sarawak,,,MY-13,,2020-12-22,-13,10,-18,-36,-20,7
 MY,Malaysia,Sarawak,,,MY-13,,2020-12-23,-11,17,-11,-34,-21,7
 MY,Malaysia,Sarawak,,,MY-13,,2020-12-24,-6,26,-4,-33,-27,5
 MY,Malaysia,Sarawak,,,MY-13,,2020-12-25,-27,-5,3,-50,-62,15
+MY,Malaysia,Sarawak,,,MY-13,,2020-12-26,-28,-10,-1,-53,-26,7
+MY,Malaysia,Sarawak,,,MY-13,,2020-12-27,-25,-11,-2,-46,-20,5
 MY,Malaysia,Selangor,,,MY-10,,2020-02-15,-4,-4,-4,-2,3,2
 MY,Malaysia,Selangor,,,MY-10,,2020-02-16,-6,-5,-4,-6,-1,2
 MY,Malaysia,Selangor,,,MY-10,,2020-02-17,-4,-5,-3,-5,2,2
@@ -5034,6 +5064,8 @@ MY,Malaysia,Selangor,,,MY-10,,2020-12-22,-23,-2,-22,-49,-26,13
 MY,Malaysia,Selangor,,,MY-10,,2020-12-23,-21,2,-16,-48,-25,13
 MY,Malaysia,Selangor,,,MY-10,,2020-12-24,-18,5,-13,-44,-29,11
 MY,Malaysia,Selangor,,,MY-10,,2020-12-25,-27,1,-1,-54,-65,22
+MY,Malaysia,Selangor,,,MY-10,,2020-12-26,-38,-19,-33,-51,-22,11
+MY,Malaysia,Selangor,,,MY-10,,2020-12-27,-32,-16,-16,-47,-17,6
 MY,Malaysia,Terengganu,,,MY-11,,2020-02-15,-3,-5,6,2,2,0
 MY,Malaysia,Terengganu,,,MY-11,,2020-02-16,-3,-4,6,4,2,0
 MY,Malaysia,Terengganu,,,MY-11,,2020-02-17,-6,-8,-6,-5,2,1
@@ -5349,3 +5381,5 @@ MY,Malaysia,Terengganu,,,MY-11,,2020-12-22,1,7,43,-10,-20,7
 MY,Malaysia,Terengganu,,,MY-11,,2020-12-23,5,16,48,-7,-19,7
 MY,Malaysia,Terengganu,,,MY-11,,2020-12-24,3,16,45,2,-22,8
 MY,Malaysia,Terengganu,,,MY-11,,2020-12-25,9,15,61,15,-14,4
+MY,Malaysia,Terengganu,,,MY-11,,2020-12-26,7,10,66,-3,-14,4
+MY,Malaysia,Terengganu,,,MY-11,,2020-12-27,14,22,75,9,-27,6

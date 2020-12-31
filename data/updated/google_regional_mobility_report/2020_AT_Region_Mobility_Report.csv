@@ -314,6 +314,8 @@ AT,Austria,,,,,,2020-12-22,-24,18,-20,-34,-32,10
 AT,Austria,,,,,,2020-12-23,-23,35,-11,-34,-39,10
 AT,Austria,,,,,,2020-12-24,-63,-24,-41,-60,-76,20
 AT,Austria,,,,,,2020-12-25,-90,-92,-45,-73,-86,24
+AT,Austria,,,,,,2020-12-26,-86,-90,-17,-63,-56,14
+AT,Austria,,,,,,2020-12-27,-73,-39,-7,-53,-37,8
 AT,Austria,Burgenland,,,AT-1,,2020-02-15,-3,-3,57,21,-7,-2
 AT,Austria,Burgenland,,,AT-1,,2020-02-16,15,,47,11,-2,-1
 AT,Austria,Burgenland,,,AT-1,,2020-02-17,9,6,24,12,3,-2
@@ -629,6 +631,8 @@ AT,Austria,Burgenland,,,AT-1,,2020-12-22,-3,30,13,,-28,9
 AT,Austria,Burgenland,,,AT-1,,2020-12-23,0,49,16,,-38,11
 AT,Austria,Burgenland,,,AT-1,,2020-12-24,-55,-23,-1,,-73,21
 AT,Austria,Burgenland,,,AT-1,,2020-12-25,-89,-94,-1,,-82,23
+AT,Austria,Burgenland,,,AT-1,,2020-12-26,-90,-95,17,,-53,15
+AT,Austria,Burgenland,,,AT-1,,2020-12-27,-74,,36,,-34,10
 AT,Austria,Burgenland,Eisenstadt,,,,2020-02-15,-4,-9,,,,
 AT,Austria,Burgenland,Eisenstadt,,,,2020-02-17,3,4,,5,7,
 AT,Austria,Burgenland,Eisenstadt,,,,2020-02-18,0,2,,-4,7,
@@ -877,6 +881,7 @@ AT,Austria,Burgenland,Eisenstadt,,,,2020-12-22,-7,33,,-31,-31,
 AT,Austria,Burgenland,Eisenstadt,,,,2020-12-23,-10,43,,-39,-39,
 AT,Austria,Burgenland,Eisenstadt,,,,2020-12-24,-60,-34,,-71,-74,
 AT,Austria,Burgenland,Eisenstadt,,,,2020-12-25,-98,-100,,-80,-83,
+AT,Austria,Burgenland,Eisenstadt,,,,2020-12-26,-97,-100,,,-54,
 AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-02-15,,0,,,-6,
 AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-02-17,,4,,13,3,-2
 AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-02-18,,1,,5,3,0
@@ -1169,6 +1174,8 @@ AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-12-22,,22,,-18,-28,11
 AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-12-23,,39,,-10,-39,13
 AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-12-24,,-25,,-31,-74,22
 AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-12-25,,,,-49,-84,24
+AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-12-26,,,,-29,-52,
+AT,Austria,Burgenland,Eisenstadt-Umgebung District,,,,2020-12-27,,,,,-18,
 AT,Austria,Burgenland,Güssing District,,,,2020-02-15,,-1,,,,
 AT,Austria,Burgenland,Güssing District,,,,2020-02-17,,1,,,4,
 AT,Austria,Burgenland,Güssing District,,,,2020-02-18,,2,,,3,
@@ -1438,6 +1445,8 @@ AT,Austria,Burgenland,Güssing District,,,,2020-12-22,,52,,,-26,6
 AT,Austria,Burgenland,Güssing District,,,,2020-12-23,,,,,-38,9
 AT,Austria,Burgenland,Güssing District,,,,2020-12-24,,-7,,,-72,20
 AT,Austria,Burgenland,Güssing District,,,,2020-12-25,,,,,-81,
+AT,Austria,Burgenland,Güssing District,,,,2020-12-26,,,,,-57,
+AT,Austria,Burgenland,Güssing District,,,,2020-12-27,,,,,-40,
 AT,Austria,Burgenland,Jennersdorf District,,,,2020-02-17,,,,,-3,
 AT,Austria,Burgenland,Jennersdorf District,,,,2020-02-18,,,,,-5,
 AT,Austria,Burgenland,Jennersdorf District,,,,2020-02-19,,,,,-9,
@@ -1652,6 +1661,7 @@ AT,Austria,Burgenland,Jennersdorf District,,,,2020-12-22,,,,,-28,
 AT,Austria,Burgenland,Jennersdorf District,,,,2020-12-23,,,,,-38,
 AT,Austria,Burgenland,Jennersdorf District,,,,2020-12-24,,,,,-73,
 AT,Austria,Burgenland,Jennersdorf District,,,,2020-12-25,,,,,-81,
+AT,Austria,Burgenland,Jennersdorf District,,,,2020-12-26,,,,,-62,
 AT,Austria,Burgenland,Mattersburg District,,,,2020-02-15,10,0,,2,-10,
 AT,Austria,Burgenland,Mattersburg District,,,,2020-02-16,19,,,,,
 AT,Austria,Burgenland,Mattersburg District,,,,2020-02-17,,6,,19,1,-2
@@ -1949,6 +1959,8 @@ AT,Austria,Burgenland,Mattersburg District,,,,2020-12-22,,21,,-9,-28,10
 AT,Austria,Burgenland,Mattersburg District,,,,2020-12-23,,50,,-10,-39,12
 AT,Austria,Burgenland,Mattersburg District,,,,2020-12-24,-50,-27,,-45,-75,22
 AT,Austria,Burgenland,Mattersburg District,,,,2020-12-25,-89,-94,,-54,-85,25
+AT,Austria,Burgenland,Mattersburg District,,,,2020-12-26,-88,-94,,-48,-57,
+AT,Austria,Burgenland,Mattersburg District,,,,2020-12-27,,,,,-31,
 AT,Austria,Burgenland,Neusiedl am See District,,,,2020-02-15,-3,1,,-15,-7,
 AT,Austria,Burgenland,Neusiedl am See District,,,,2020-02-16,13,,,9,1,
 AT,Austria,Burgenland,Neusiedl am See District,,,,2020-02-17,14,11,,8,5,-1
@@ -2258,6 +2270,8 @@ AT,Austria,Burgenland,Neusiedl am See District,,,,2020-12-22,11,28,,13,-29,10
 AT,Austria,Burgenland,Neusiedl am See District,,,,2020-12-23,14,43,,10,-36,11
 AT,Austria,Burgenland,Neusiedl am See District,,,,2020-12-24,-54,-30,,-41,-71,22
 AT,Austria,Burgenland,Neusiedl am See District,,,,2020-12-25,-91,-95,,-74,-81,23
+AT,Austria,Burgenland,Neusiedl am See District,,,,2020-12-26,-92,-96,,-72,-52,14
+AT,Austria,Burgenland,Neusiedl am See District,,,,2020-12-27,-71,,,-54,-28,
 AT,Austria,Burgenland,Oberpullendorf District,,,,2020-02-15,11,0,,,,
 AT,Austria,Burgenland,Oberpullendorf District,,,,2020-02-17,,10,,12,4,-1
 AT,Austria,Burgenland,Oberpullendorf District,,,,2020-02-18,,7,,17,4,0
@@ -2557,6 +2571,8 @@ AT,Austria,Burgenland,Oberpullendorf District,,,,2020-12-22,,45,,-8,-26,10
 AT,Austria,Burgenland,Oberpullendorf District,,,,2020-12-23,,57,,3,-40,11
 AT,Austria,Burgenland,Oberpullendorf District,,,,2020-12-24,,-17,,-17,-74,23
 AT,Austria,Burgenland,Oberpullendorf District,,,,2020-12-25,,,,-29,-80,24
+AT,Austria,Burgenland,Oberpullendorf District,,,,2020-12-26,,,,-23,-44,
+AT,Austria,Burgenland,Oberpullendorf District,,,,2020-12-27,,,,-35,-27,
 AT,Austria,Burgenland,Oberwart District,,,,2020-02-15,-3,-4,,33,0,
 AT,Austria,Burgenland,Oberwart District,,,,2020-02-16,4,,,14,7,
 AT,Austria,Burgenland,Oberwart District,,,,2020-02-17,10,4,,16,4,-1
@@ -2866,6 +2882,8 @@ AT,Austria,Burgenland,Oberwart District,,,,2020-12-22,-5,46,,-22,-29,9
 AT,Austria,Burgenland,Oberwart District,,,,2020-12-23,-1,70,,-9,-40,11
 AT,Austria,Burgenland,Oberwart District,,,,2020-12-24,-62,-14,,-48,-75,21
 AT,Austria,Burgenland,Oberwart District,,,,2020-12-25,-92,-96,,-77,-83,24
+AT,Austria,Burgenland,Oberwart District,,,,2020-12-26,-94,-96,,-54,-54,
+AT,Austria,Burgenland,Oberwart District,,,,2020-12-27,-84,,,-50,-39,
 AT,Austria,Carinthia,,,AT-2,,2020-02-15,3,-1,-1,6,-3,0
 AT,Austria,Carinthia,,,AT-2,,2020-02-16,17,14,14,15,0,-1
 AT,Austria,Carinthia,,,AT-2,,2020-02-17,11,8,5,9,2,0
@@ -3181,6 +3199,8 @@ AT,Austria,Carinthia,,,AT-2,,2020-12-22,-17,25,-4,-18,-31,9
 AT,Austria,Carinthia,,,AT-2,,2020-12-23,-17,40,-11,-18,-36,9
 AT,Austria,Carinthia,,,AT-2,,2020-12-24,-60,-19,-38,-50,-72,19
 AT,Austria,Carinthia,,,AT-2,,2020-12-25,-92,-94,-46,-69,-85,25
+AT,Austria,Carinthia,,,AT-2,,2020-12-26,-85,-90,-3,-38,-56,14
+AT,Austria,Carinthia,,,AT-2,,2020-12-27,-67,-25,-8,-32,-38,8
 AT,Austria,Carinthia,Feldkirchen District,,,,2020-02-15,,1,,,-8,
 AT,Austria,Carinthia,Feldkirchen District,,,,2020-02-17,,14,,,6,-1
 AT,Austria,Carinthia,Feldkirchen District,,,,2020-02-18,,2,,,3,0
@@ -3460,6 +3480,8 @@ AT,Austria,Carinthia,Feldkirchen District,,,,2020-12-22,,28,,-21,-32,8
 AT,Austria,Carinthia,Feldkirchen District,,,,2020-12-23,,54,,,-37,11
 AT,Austria,Carinthia,Feldkirchen District,,,,2020-12-24,,-13,,-39,-73,22
 AT,Austria,Carinthia,Feldkirchen District,,,,2020-12-25,,-93,,-48,-84,27
+AT,Austria,Carinthia,Feldkirchen District,,,,2020-12-26,,-88,,,-51,
+AT,Austria,Carinthia,Feldkirchen District,,,,2020-12-27,,,,,-31,
 AT,Austria,Carinthia,Hermagor District,,,,2020-02-15,,,-22,,,
 AT,Austria,Carinthia,Hermagor District,,,,2020-02-16,,,-15,,,
 AT,Austria,Carinthia,Hermagor District,,,,2020-02-17,,,-14,,2,
@@ -3749,6 +3771,8 @@ AT,Austria,Carinthia,Hermagor District,,,,2020-12-22,,,-53,,-37,
 AT,Austria,Carinthia,Hermagor District,,,,2020-12-23,,,-50,,-39,
 AT,Austria,Carinthia,Hermagor District,,,,2020-12-24,,,-66,,-69,
 AT,Austria,Carinthia,Hermagor District,,,,2020-12-25,,,-72,,-82,
+AT,Austria,Carinthia,Hermagor District,,,,2020-12-26,,,-55,,-58,
+AT,Austria,Carinthia,Hermagor District,,,,2020-12-27,,,-47,,-59,
 AT,Austria,Carinthia,Klagenfurt,,,,2020-02-15,-4,-5,23,1,-3,-1
 AT,Austria,Carinthia,Klagenfurt,,,,2020-02-16,11,,29,16,4,
 AT,Austria,Carinthia,Klagenfurt,,,,2020-02-17,0,0,22,5,2,-1
@@ -4061,6 +4085,8 @@ AT,Austria,Carinthia,Klagenfurt,,,,2020-12-22,-11,25,-10,-25,-30,9
 AT,Austria,Carinthia,Klagenfurt,,,,2020-12-23,-13,42,-13,-23,-35,9
 AT,Austria,Carinthia,Klagenfurt,,,,2020-12-24,-61,-23,-50,-57,-73,17
 AT,Austria,Carinthia,Klagenfurt,,,,2020-12-25,-93,-95,-65,-76,-86,23
+AT,Austria,Carinthia,Klagenfurt,,,,2020-12-26,-88,-92,-6,-31,-54,13
+AT,Austria,Carinthia,Klagenfurt,,,,2020-12-27,-64,,-16,-31,-33,7
 AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-02-15,,1,-7,7,-1,
 AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-02-16,,,7,16,3,
 AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-02-17,,11,,5,0,0
@@ -4370,6 +4396,8 @@ AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-12-22,,27,,-9,-30,10
 AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-12-23,,44,,-18,-36,11
 AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-12-24,,-1,,-37,-76,23
 AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-12-25,,-94,,-59,-88,28
+AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-12-26,,-89,80,-6,-55,13
+AT,Austria,Carinthia,Klagenfurt-Land District,,,,2020-12-27,,,3,-21,-28,
 AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-02-15,6,-4,,1,-2,
 AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-02-16,,,,,3,
 AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-02-17,,3,,-1,2,0
@@ -4679,6 +4707,8 @@ AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-12-22,,29,,-15,-29,
 AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-12-23,-1,49,,-5,-35,9
 AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-12-24,-57,-17,,-45,-71,20
 AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-12-25,,-93,,-64,-84,25
+AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-12-26,-79,-90,,-36,-55,
+AT,Austria,Carinthia,Sankt Veit an der Glan District,,,,2020-12-27,,,,-34,-29,
 AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-02-15,8,9,7,23,-2,-1
 AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-02-16,28,,22,21,3,
 AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-02-17,30,18,12,25,5,-1
@@ -4991,6 +5021,8 @@ AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-12-22,-27,19,-39,-27,-
 AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-12-23,-30,31,-34,-21,-39,9
 AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-12-24,-70,-21,-56,-62,-72,20
 AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-12-25,-92,-94,-58,-66,-83,26
+AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-12-26,-86,-89,-22,-51,-62,15
+AT,Austria,Carinthia,Spittal an der Drau District,,,,2020-12-27,-70,,-10,-35,-50,8
 AT,Austria,Carinthia,Villach,,,,2020-02-15,3,2,,5,1,
 AT,Austria,Carinthia,Villach,,,,2020-02-16,5,,1,16,-1,
 AT,Austria,Carinthia,Villach,,,,2020-02-17,10,11,,8,3,0
@@ -5301,6 +5333,8 @@ AT,Austria,Carinthia,Villach,,,,2020-12-22,-11,40,,-30,-33,9
 AT,Austria,Carinthia,Villach,,,,2020-12-23,-8,55,,-36,-38,10
 AT,Austria,Carinthia,Villach,,,,2020-12-24,-57,-18,-33,-64,-69,16
 AT,Austria,Carinthia,Villach,,,,2020-12-25,-94,-96,-49,-76,-85,25
+AT,Austria,Carinthia,Villach,,,,2020-12-26,-90,-95,,-49,-55,13
+AT,Austria,Carinthia,Villach,,,,2020-12-27,-72,,3,-34,-34,
 AT,Austria,Carinthia,Villach-Land,,,,2020-02-15,13,5,-13,-6,1,
 AT,Austria,Carinthia,Villach-Land,,,,2020-02-16,16,,-10,13,1,
 AT,Austria,Carinthia,Villach-Land,,,,2020-02-17,24,8,3,6,3,0
@@ -5610,6 +5644,8 @@ AT,Austria,Carinthia,Villach-Land,,,,2020-12-22,-31,25,,-2,-27,9
 AT,Austria,Carinthia,Villach-Land,,,,2020-12-23,-33,45,-12,0,-32,10
 AT,Austria,Carinthia,Villach-Land,,,,2020-12-24,-59,-11,-31,-39,-71,21
 AT,Austria,Carinthia,Villach-Land,,,,2020-12-25,-93,-96,-56,-71,-84,28
+AT,Austria,Carinthia,Villach-Land,,,,2020-12-26,-71,-84,-27,-48,-55,14
+AT,Austria,Carinthia,Villach-Land,,,,2020-12-27,-58,,-33,-26,-40,
 AT,Austria,Carinthia,Völkermarkt District,,,,2020-02-15,13,-4,,,-7,
 AT,Austria,Carinthia,Völkermarkt District,,,,2020-02-17,,4,,7,2,1
 AT,Austria,Carinthia,Völkermarkt District,,,,2020-02-18,5,2,,8,-1,0
@@ -5912,6 +5948,8 @@ AT,Austria,Carinthia,Völkermarkt District,,,,2020-12-22,,22,,-13,-33,9
 AT,Austria,Carinthia,Völkermarkt District,,,,2020-12-23,-19,44,,-12,-41,9
 AT,Austria,Carinthia,Völkermarkt District,,,,2020-12-24,-63,-12,,-40,-75,22
 AT,Austria,Carinthia,Völkermarkt District,,,,2020-12-25,,-96,,-64,-87,27
+AT,Austria,Carinthia,Völkermarkt District,,,,2020-12-26,,-92,,,-59,
+AT,Austria,Carinthia,Völkermarkt District,,,,2020-12-27,,,,,-43,
 AT,Austria,Carinthia,Wolfsberg District,,,,2020-02-15,20,-4,,35,-3,
 AT,Austria,Carinthia,Wolfsberg District,,,,2020-02-16,14,,,32,-3,
 AT,Austria,Carinthia,Wolfsberg District,,,,2020-02-17,8,4,,12,2,0
@@ -6221,6 +6259,8 @@ AT,Austria,Carinthia,Wolfsberg District,,,,2020-12-22,5,20,,5,-30,8
 AT,Austria,Carinthia,Wolfsberg District,,,,2020-12-23,11,32,,5,-35,8
 AT,Austria,Carinthia,Wolfsberg District,,,,2020-12-24,-46,-28,,-37,-74,21
 AT,Austria,Carinthia,Wolfsberg District,,,,2020-12-25,-91,-96,,-60,-86,26
+AT,Austria,Carinthia,Wolfsberg District,,,,2020-12-26,-81,-94,,-54,-52,
+AT,Austria,Carinthia,Wolfsberg District,,,,2020-12-27,,,,-48,-37,
 AT,Austria,Lower Austria,,,AT-3,,2020-02-15,12,1,60,13,3,-2
 AT,Austria,Lower Austria,,,AT-3,,2020-02-16,14,18,49,11,3,-1
 AT,Austria,Lower Austria,,,AT-3,,2020-02-17,6,5,28,7,4,-1
@@ -6536,6 +6576,8 @@ AT,Austria,Lower Austria,,,AT-3,,2020-12-22,-7,29,13,-40,-30,10
 AT,Austria,Lower Austria,,,AT-3,,2020-12-23,-9,47,31,-39,-37,11
 AT,Austria,Lower Austria,,,AT-3,,2020-12-24,-57,-21,1,-65,-75,21
 AT,Austria,Lower Austria,,,AT-3,,2020-12-25,-89,-94,-1,-72,-85,24
+AT,Austria,Lower Austria,,,AT-3,,2020-12-26,-86,-93,31,-62,-52,14
+AT,Austria,Lower Austria,,,AT-3,,2020-12-27,-70,-19,43,-58,-30,9
 AT,Austria,Lower Austria,Amstetten District,,,,2020-02-15,4,1,,-4,0,-2
 AT,Austria,Lower Austria,Amstetten District,,,,2020-02-16,17,,,5,2,
 AT,Austria,Lower Austria,Amstetten District,,,,2020-02-17,6,3,,-4,-1,0
@@ -6848,6 +6890,8 @@ AT,Austria,Lower Austria,Amstetten District,,,,2020-12-22,-7,36,,-9,-34,10
 AT,Austria,Lower Austria,Amstetten District,,,,2020-12-23,-11,50,,-9,-41,11
 AT,Austria,Lower Austria,Amstetten District,,,,2020-12-24,-60,-21,,-44,-79,24
 AT,Austria,Lower Austria,Amstetten District,,,,2020-12-25,-91,-95,,-61,-88,24
+AT,Austria,Lower Austria,Amstetten District,,,,2020-12-26,-87,-95,,-59,-60,15
+AT,Austria,Lower Austria,Amstetten District,,,,2020-12-27,-66,,,-38,-36,7
 AT,Austria,Lower Austria,Baden District,,,,2020-02-15,17,6,73,23,4,-2
 AT,Austria,Lower Austria,Baden District,,,,2020-02-16,20,,59,28,2,-1
 AT,Austria,Lower Austria,Baden District,,,,2020-02-17,10,6,44,8,4,-2
@@ -7163,6 +7207,8 @@ AT,Austria,Lower Austria,Baden District,,,,2020-12-22,-14,41,-13,-32,-34,10
 AT,Austria,Lower Austria,Baden District,,,,2020-12-23,-14,55,13,-35,-40,12
 AT,Austria,Lower Austria,Baden District,,,,2020-12-24,-56,-16,-22,-60,-77,21
 AT,Austria,Lower Austria,Baden District,,,,2020-12-25,-84,-92,-24,-65,-86,24
+AT,Austria,Lower Austria,Baden District,,,,2020-12-26,-80,-93,21,-50,-56,14
+AT,Austria,Lower Austria,Baden District,,,,2020-12-27,-66,,11,-34,-34,9
 AT,Austria,Lower Austria,Gänserndorf District,,,,2020-02-15,14,1,,23,3,-1
 AT,Austria,Lower Austria,Gänserndorf District,,,,2020-02-16,16,,51,32,0,
 AT,Austria,Lower Austria,Gänserndorf District,,,,2020-02-17,8,0,,7,7,-2
@@ -7475,6 +7521,8 @@ AT,Austria,Lower Austria,Gänserndorf District,,,,2020-12-22,-7,43,,-36,-33,10
 AT,Austria,Lower Austria,Gänserndorf District,,,,2020-12-23,2,64,,-39,-40,12
 AT,Austria,Lower Austria,Gänserndorf District,,,,2020-12-24,-48,-14,-28,-63,-74,22
 AT,Austria,Lower Austria,Gänserndorf District,,,,2020-12-25,-83,-95,,-63,-84,24
+AT,Austria,Lower Austria,Gänserndorf District,,,,2020-12-26,-83,-96,6,-43,-47,15
+AT,Austria,Lower Austria,Gänserndorf District,,,,2020-12-27,-67,,-10,-31,-27,9
 AT,Austria,Lower Austria,Gmünd District,,,,2020-02-15,12,-3,,,,
 AT,Austria,Lower Austria,Gmünd District,,,,2020-02-16,5,,,,,
 AT,Austria,Lower Austria,Gmünd District,,,,2020-02-17,,9,,,0,-1
@@ -7773,6 +7821,8 @@ AT,Austria,Lower Austria,Gmünd District,,,,2020-12-22,,45,,,-29,7
 AT,Austria,Lower Austria,Gmünd District,,,,2020-12-23,,63,,,-38,10
 AT,Austria,Lower Austria,Gmünd District,,,,2020-12-24,-58,-14,,-19,-72,21
 AT,Austria,Lower Austria,Gmünd District,,,,2020-12-25,-90,-96,,-38,-81,24
+AT,Austria,Lower Austria,Gmünd District,,,,2020-12-26,,-95,,,-50,
+AT,Austria,Lower Austria,Gmünd District,,,,2020-12-27,,,,,-40,
 AT,Austria,Lower Austria,Hollabrunn District,,,,2020-02-15,12,-5,,6,1,
 AT,Austria,Lower Austria,Hollabrunn District,,,,2020-02-16,,,,12,,
 AT,Austria,Lower Austria,Hollabrunn District,,,,2020-02-17,6,3,,3,5,-1
@@ -8082,6 +8132,8 @@ AT,Austria,Lower Austria,Hollabrunn District,,,,2020-12-22,-2,29,,-26,-25,9
 AT,Austria,Lower Austria,Hollabrunn District,,,,2020-12-23,2,57,,-21,-28,11
 AT,Austria,Lower Austria,Hollabrunn District,,,,2020-12-24,-54,-18,,-43,-73,22
 AT,Austria,Lower Austria,Hollabrunn District,,,,2020-12-25,-79,-93,-15,-56,-83,24
+AT,Austria,Lower Austria,Hollabrunn District,,,,2020-12-26,-82,-93,,-38,-48,
+AT,Austria,Lower Austria,Hollabrunn District,,,,2020-12-27,,,,-23,-27,
 AT,Austria,Lower Austria,Horn District,,,,2020-02-15,8,5,,,,
 AT,Austria,Lower Austria,Horn District,,,,2020-02-16,7,,,,,
 AT,Austria,Lower Austria,Horn District,,,,2020-02-17,,4,,10,6,-1
@@ -8367,6 +8419,8 @@ AT,Austria,Lower Austria,Horn District,,,,2020-12-22,,29,,-14,-25,9
 AT,Austria,Lower Austria,Horn District,,,,2020-12-23,,42,,-4,-35,11
 AT,Austria,Lower Austria,Horn District,,,,2020-12-24,-61,-32,,-29,-73,22
 AT,Austria,Lower Austria,Horn District,,,,2020-12-25,-89,-95,,-47,-81,22
+AT,Austria,Lower Austria,Horn District,,,,2020-12-26,-93,-96,,,-49,
+AT,Austria,Lower Austria,Horn District,,,,2020-12-27,,,,,-36,
 AT,Austria,Lower Austria,Krems an der Donau,,,,2020-02-15,8,-5,,26,,
 AT,Austria,Lower Austria,Krems an der Donau,,,,2020-02-16,21,,,,,
 AT,Austria,Lower Austria,Krems an der Donau,,,,2020-02-17,-2,-2,,6,8,
@@ -8657,6 +8711,8 @@ AT,Austria,Lower Austria,Krems an der Donau,,,,2020-12-22,-1,42,,-35,-29,7
 AT,Austria,Lower Austria,Krems an der Donau,,,,2020-12-23,-3,49,,-40,-34,9
 AT,Austria,Lower Austria,Krems an der Donau,,,,2020-12-24,-55,-30,,-66,-68,16
 AT,Austria,Lower Austria,Krems an der Donau,,,,2020-12-25,-91,-96,,-79,-80,19
+AT,Austria,Lower Austria,Krems an der Donau,,,,2020-12-26,-90,-96,,-61,-50,
+AT,Austria,Lower Austria,Krems an der Donau,,,,2020-12-27,-70,,,-31,-20,
 AT,Austria,Lower Austria,Krems-Land District,,,,2020-02-15,,8,,37,-2,
 AT,Austria,Lower Austria,Krems-Land District,,,,2020-02-16,,,,21,,
 AT,Austria,Lower Austria,Krems-Land District,,,,2020-02-17,,6,,6,3,-1
@@ -8965,6 +9021,8 @@ AT,Austria,Lower Austria,Krems-Land District,,,,2020-12-22,,26,,-12,-31,8
 AT,Austria,Lower Austria,Krems-Land District,,,,2020-12-23,,55,,-4,-39,11
 AT,Austria,Lower Austria,Krems-Land District,,,,2020-12-24,,-11,,-35,-76,22
 AT,Austria,Lower Austria,Krems-Land District,,,,2020-12-25,-70,-95,,-49,-86,24
+AT,Austria,Lower Austria,Krems-Land District,,,,2020-12-26,-67,-95,,-25,-54,
+AT,Austria,Lower Austria,Krems-Land District,,,,2020-12-27,,,,-1,-35,
 AT,Austria,Lower Austria,Lilienfeld District,,,,2020-02-15,,3,,,,
 AT,Austria,Lower Austria,Lilienfeld District,,,,2020-02-17,,6,,0,2,
 AT,Austria,Lower Austria,Lilienfeld District,,,,2020-02-18,,1,,,-1,
@@ -9234,6 +9292,8 @@ AT,Austria,Lower Austria,Lilienfeld District,,,,2020-12-22,,33,,-16,-33,10
 AT,Austria,Lower Austria,Lilienfeld District,,,,2020-12-23,,61,,-8,-38,10
 AT,Austria,Lower Austria,Lilienfeld District,,,,2020-12-24,,-5,,-30,-75,21
 AT,Austria,Lower Austria,Lilienfeld District,,,,2020-12-25,,,,-54,-84,24
+AT,Austria,Lower Austria,Lilienfeld District,,,,2020-12-26,,,,,-57,
+AT,Austria,Lower Austria,Lilienfeld District,,,,2020-12-27,,,,,-43,
 AT,Austria,Lower Austria,Melk District,,,,2020-02-15,10,-2,,-3,3,
 AT,Austria,Lower Austria,Melk District,,,,2020-02-16,12,,,10,7,
 AT,Austria,Lower Austria,Melk District,,,,2020-02-17,9,3,,-2,4,-1
@@ -9543,6 +9603,8 @@ AT,Austria,Lower Austria,Melk District,,,,2020-12-22,-8,34,,-33,-27,8
 AT,Austria,Lower Austria,Melk District,,,,2020-12-23,-3,60,,-27,-36,10
 AT,Austria,Lower Austria,Melk District,,,,2020-12-24,-56,-10,,-56,-75,22
 AT,Austria,Lower Austria,Melk District,,,,2020-12-25,-89,-94,,-70,-83,24
+AT,Austria,Lower Austria,Melk District,,,,2020-12-26,-86,-94,,-72,-57,14
+AT,Austria,Lower Austria,Melk District,,,,2020-12-27,-70,,,-57,-37,8
 AT,Austria,Lower Austria,Mistelbach District,,,,2020-02-15,14,1,,12,2,
 AT,Austria,Lower Austria,Mistelbach District,,,,2020-02-16,12,,,8,-1,
 AT,Austria,Lower Austria,Mistelbach District,,,,2020-02-17,9,6,,8,5,-1
@@ -9852,6 +9914,8 @@ AT,Austria,Lower Austria,Mistelbach District,,,,2020-12-22,-5,42,,-20,-26,9
 AT,Austria,Lower Austria,Mistelbach District,,,,2020-12-23,3,69,,-15,-33,11
 AT,Austria,Lower Austria,Mistelbach District,,,,2020-12-24,-52,-18,,-50,-73,22
 AT,Austria,Lower Austria,Mistelbach District,,,,2020-12-25,-83,-95,,-55,-82,22
+AT,Austria,Lower Austria,Mistelbach District,,,,2020-12-26,-83,-95,,-54,-47,15
+AT,Austria,Lower Austria,Mistelbach District,,,,2020-12-27,-67,,,-35,-27,10
 AT,Austria,Lower Austria,Mödling District,,,,2020-02-15,7,3,,11,1,-2
 AT,Austria,Lower Austria,Mödling District,,,,2020-02-16,12,,90,10,4,
 AT,Austria,Lower Austria,Mödling District,,,,2020-02-17,4,7,36,6,5,-2
@@ -10165,6 +10229,8 @@ AT,Austria,Lower Austria,Mödling District,,,,2020-12-22,0,23,14,-31,-32,12
 AT,Austria,Lower Austria,Mödling District,,,,2020-12-23,-3,41,34,-34,-40,13
 AT,Austria,Lower Austria,Mödling District,,,,2020-12-24,-60,-28,-2,-61,-77,22
 AT,Austria,Lower Austria,Mödling District,,,,2020-12-25,-94,-95,11,-74,-87,24
+AT,Austria,Lower Austria,Mödling District,,,,2020-12-26,-93,-96,94,-58,-46,14
+AT,Austria,Lower Austria,Mödling District,,,,2020-12-27,-74,,37,-45,-26,9
 AT,Austria,Lower Austria,Neunkirchen District,,,,2020-02-15,12,1,28,22,0,0
 AT,Austria,Lower Austria,Neunkirchen District,,,,2020-02-16,15,,13,27,2,
 AT,Austria,Lower Austria,Neunkirchen District,,,,2020-02-17,2,4,,5,2,-1
@@ -10477,6 +10543,8 @@ AT,Austria,Lower Austria,Neunkirchen District,,,,2020-12-22,-21,35,,-7,-25,9
 AT,Austria,Lower Austria,Neunkirchen District,,,,2020-12-23,-19,58,,-22,-32,10
 AT,Austria,Lower Austria,Neunkirchen District,,,,2020-12-24,-59,-11,,-48,-71,19
 AT,Austria,Lower Austria,Neunkirchen District,,,,2020-12-25,-83,-95,,-50,-82,24
+AT,Austria,Lower Austria,Neunkirchen District,,,,2020-12-26,-76,-95,32,-44,-49,15
+AT,Austria,Lower Austria,Neunkirchen District,,,,2020-12-27,-60,,66,-18,-30,10
 AT,Austria,Lower Austria,Sankt Pölten,,,,2020-02-15,-5,2,,5,3,
 AT,Austria,Lower Austria,Sankt Pölten,,,,2020-02-16,20,,,14,5,
 AT,Austria,Lower Austria,Sankt Pölten,,,,2020-02-17,-2,10,,1,0,-1
@@ -10787,6 +10855,8 @@ AT,Austria,Lower Austria,Sankt Pölten,,,,2020-12-22,4,36,,-33,-30,9
 AT,Austria,Lower Austria,Sankt Pölten,,,,2020-12-23,-14,47,,-35,-34,10
 AT,Austria,Lower Austria,Sankt Pölten,,,,2020-12-24,-61,-29,,-67,-75,18
 AT,Austria,Lower Austria,Sankt Pölten,,,,2020-12-25,-94,-96,,-76,-84,22
+AT,Austria,Lower Austria,Sankt Pölten,,,,2020-12-26,-91,-95,,-69,-52,15
+AT,Austria,Lower Austria,Sankt Pölten,,,,2020-12-27,-73,,,-56,-27,
 AT,Austria,Lower Austria,Scheibbs District,,,,2020-02-15,18,5,,,3,
 AT,Austria,Lower Austria,Scheibbs District,,,,2020-02-17,,14,,8,7,-3
 AT,Austria,Lower Austria,Scheibbs District,,,,2020-02-18,,6,,-5,5,0
@@ -11082,6 +11152,8 @@ AT,Austria,Lower Austria,Scheibbs District,,,,2020-12-22,,38,,-38,-25,8
 AT,Austria,Lower Austria,Scheibbs District,,,,2020-12-23,,64,,-31,-33,10
 AT,Austria,Lower Austria,Scheibbs District,,,,2020-12-24,-54,-9,,-57,-79,24
 AT,Austria,Lower Austria,Scheibbs District,,,,2020-12-25,-91,,,-77,-87,24
+AT,Austria,Lower Austria,Scheibbs District,,,,2020-12-26,-87,-94,,-55,-54,
+AT,Austria,Lower Austria,Scheibbs District,,,,2020-12-27,,,,,-39,
 AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-02-15,,2,,,,
 AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-02-17,,,,,2,
 AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-02-18,,,,,4,
@@ -11335,6 +11407,8 @@ AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-12-22,,,,,-23,7
 AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-12-23,,,,,-38,11
 AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-12-24,,,,,-74,23
 AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-12-25,,,,,-83,25
+AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-12-26,,,,,-40,
+AT,Austria,Lower Austria,Waidhofen an der Thaya District,,,,2020-12-27,,,,,-30,
 AT,Austria,Lower Austria,Waidhofen an der Ybbs,,,,2020-02-19,,7,,,,
 AT,Austria,Lower Austria,Waidhofen an der Ybbs,,,,2020-02-21,,7,,,,
 AT,Austria,Lower Austria,Waidhofen an der Ybbs,,,,2020-02-26,,4,,,,
@@ -11837,6 +11911,8 @@ AT,Austria,Lower Austria,Wiener Neustadt,,,,2020-12-22,18,49,,-42,-31,10
 AT,Austria,Lower Austria,Wiener Neustadt,,,,2020-12-23,4,61,,-48,-38,10
 AT,Austria,Lower Austria,Wiener Neustadt,,,,2020-12-24,-48,-22,,-71,-75,18
 AT,Austria,Lower Austria,Wiener Neustadt,,,,2020-12-25,-95,-94,,-76,-86,24
+AT,Austria,Lower Austria,Wiener Neustadt,,,,2020-12-26,-95,-93,,-58,-54,
+AT,Austria,Lower Austria,Wiener Neustadt,,,,2020-12-27,-84,,,-48,-29,
 AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-02-15,28,1,,22,0,
 AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-02-16,15,,,13,4,
 AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-02-17,10,8,,18,2,-1
@@ -12146,6 +12222,8 @@ AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-12-22,7,22,,-35,-
 AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-12-23,-2,51,,-36,-36,10
 AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-12-24,-44,-10,,-58,-75,20
 AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-12-25,-78,-94,,-61,-85,24
+AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-12-26,-75,-94,,-56,-54,14
+AT,Austria,Lower Austria,Wiener Neustadt-Land District,,,,2020-12-27,-60,,,-47,-31,9
 AT,Austria,Lower Austria,Zwettl District,,,,2020-02-15,5,1,,,-1,
 AT,Austria,Lower Austria,Zwettl District,,,,2020-02-17,,8,,7,3,-2
 AT,Austria,Lower Austria,Zwettl District,,,,2020-02-18,,2,,6,1,0
@@ -12445,6 +12523,8 @@ AT,Austria,Lower Austria,Zwettl District,,,,2020-12-22,,67,,11,-28,8
 AT,Austria,Lower Austria,Zwettl District,,,,2020-12-23,,81,,-8,-35,9
 AT,Austria,Lower Austria,Zwettl District,,,,2020-12-24,-66,-14,,-42,-73,23
 AT,Austria,Lower Austria,Zwettl District,,,,2020-12-25,-94,-92,,-53,-82,24
+AT,Austria,Lower Austria,Zwettl District,,,,2020-12-26,,,,-28,-52,
+AT,Austria,Lower Austria,Zwettl District,,,,2020-12-27,,,,,-44,
 AT,Austria,Salzburg,,,AT-5,,2020-02-15,8,6,36,6,0,-2
 AT,Austria,Salzburg,,,AT-5,,2020-02-16,19,23,39,6,1,-2
 AT,Austria,Salzburg,,,AT-5,,2020-02-17,19,14,43,5,1,0
@@ -12760,6 +12840,8 @@ AT,Austria,Salzburg,,,AT-5,,2020-12-22,-40,5,-58,-43,-34,10
 AT,Austria,Salzburg,,,AT-5,,2020-12-23,-39,23,-53,-42,-40,11
 AT,Austria,Salzburg,,,AT-5,,2020-12-24,-71,-36,-72,-68,-76,21
 AT,Austria,Salzburg,,,AT-5,,2020-12-25,-92,-92,-72,-79,-87,24
+AT,Austria,Salzburg,,,AT-5,,2020-12-26,-88,-88,-49,-79,-64,14
+AT,Austria,Salzburg,,,AT-5,,2020-12-27,-77,-58,-29,-62,-50,7
 AT,Austria,Salzburg,Hallein District,,,,2020-02-15,27,4,,14,2,
 AT,Austria,Salzburg,Hallein District,,,,2020-02-16,28,,,7,5,
 AT,Austria,Salzburg,Hallein District,,,,2020-02-17,32,8,,10,0,0
@@ -13069,6 +13151,8 @@ AT,Austria,Salzburg,Hallein District,,,,2020-12-22,-32,20,,-37,-33,10
 AT,Austria,Salzburg,Hallein District,,,,2020-12-23,-30,43,,-39,-41,12
 AT,Austria,Salzburg,Hallein District,,,,2020-12-24,-68,-34,-33,-67,-77,24
 AT,Austria,Salzburg,Hallein District,,,,2020-12-25,-87,-96,,-83,-88,26
+AT,Austria,Salzburg,Hallein District,,,,2020-12-26,-80,-93,,-75,-60,14
+AT,Austria,Salzburg,Hallein District,,,,2020-12-27,,,,-57,-36,
 AT,Austria,Salzburg,Salzburg,,,,2020-02-15,-5,1,49,5,-5,-2
 AT,Austria,Salzburg,Salzburg,,,,2020-02-16,12,10,45,9,-4,-2
 AT,Austria,Salzburg,Salzburg,,,,2020-02-17,2,7,41,7,0,0
@@ -13384,6 +13468,8 @@ AT,Austria,Salzburg,Salzburg,,,,2020-12-22,-14,23,-33,-48,-33,10
 AT,Austria,Salzburg,Salzburg,,,,2020-12-23,-11,37,-13,-48,-37,9
 AT,Austria,Salzburg,Salzburg,,,,2020-12-24,-59,-30,-67,-71,-74,18
 AT,Austria,Salzburg,Salzburg,,,,2020-12-25,-91,-89,-72,-81,-86,23
+AT,Austria,Salzburg,Salzburg,,,,2020-12-26,-89,-85,-54,-81,-58,13
+AT,Austria,Salzburg,Salzburg,,,,2020-12-27,-70,-40,-37,-65,-37,6
 AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-02-15,13,0,92,15,-2,-3
 AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-02-16,41,,64,7,-4,-3
 AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-02-17,12,7,4,-6,1,0
@@ -13699,6 +13785,8 @@ AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-12-22,-10,31,18,-21,-30,1
 AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-12-23,-7,53,45,-17,-38,12
 AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-12-24,-58,-21,12,-52,-79,25
 AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-12-25,-91,-95,-22,-70,-89,27
+AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-12-26,-85,-93,57,-59,-60,14
+AT,Austria,Salzburg,Salzburg-Umgebung District,,,,2020-12-27,-54,,104,-43,-33,6
 AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-02-15,11,9,15,11,2,-2
 AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-02-16,19,35,30,4,-1,-2
 AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-02-17,24,22,22,1,1,0
@@ -14014,6 +14102,8 @@ AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-12-22,-66,-15,-71,-29,
 AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-12-23,-64,-5,-67,-35,-45,11
 AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-12-24,-83,-49,-74,-65,-75,21
 AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-12-25,-93,-93,-73,-75,-85,25
+AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-12-26,-88,-87,-57,-72,-70,15
+AT,Austria,Salzburg,St. Johann im Pongau District,,,,2020-12-27,-79,-67,-28,-50,-62,8
 AT,Austria,Salzburg,Tamsweg District,,,,2020-02-15,3,11,,,,
 AT,Austria,Salzburg,Tamsweg District,,,,2020-02-16,15,,,,,
 AT,Austria,Salzburg,Tamsweg District,,,,2020-02-17,,,,,1,
@@ -14302,6 +14392,8 @@ AT,Austria,Salzburg,Tamsweg District,,,,2020-12-22,,-5,,,-37,
 AT,Austria,Salzburg,Tamsweg District,,,,2020-12-23,,3,,,-44,
 AT,Austria,Salzburg,Tamsweg District,,,,2020-12-24,-80,-41,,,-79,
 AT,Austria,Salzburg,Tamsweg District,,,,2020-12-25,,-92,-48,,-86,
+AT,Austria,Salzburg,Tamsweg District,,,,2020-12-26,,-87,-38,,-68,
+AT,Austria,Salzburg,Tamsweg District,,,,2020-12-27,,,-23,,-64,
 AT,Austria,Salzburg,Zell am See District,,,,2020-02-15,17,8,18,11,0,-2
 AT,Austria,Salzburg,Zell am See District,,,,2020-02-16,20,26,36,8,2,-2
 AT,Austria,Salzburg,Zell am See District,,,,2020-02-17,28,25,48,16,3,-1
@@ -14617,6 +14709,8 @@ AT,Austria,Salzburg,Zell am See District,,,,2020-12-22,-69,-20,-80,-54,-38,10
 AT,Austria,Salzburg,Zell am See District,,,,2020-12-23,-67,-4,-79,-52,-43,10
 AT,Austria,Salzburg,Zell am See District,,,,2020-12-24,-85,-48,-85,-76,-75,21
 AT,Austria,Salzburg,Zell am See District,,,,2020-12-25,-93,-94,-82,-79,-84,25
+AT,Austria,Salzburg,Zell am See District,,,,2020-12-26,-89,-89,-64,-78,-69,15
+AT,Austria,Salzburg,Zell am See District,,,,2020-12-27,-87,-77,-57,-65,-63,8
 AT,Austria,Styria,,,AT-6,,2020-02-15,4,-3,29,11,1,-1
 AT,Austria,Styria,,,AT-6,,2020-02-16,11,10,23,9,0,-2
 AT,Austria,Styria,,,AT-6,,2020-02-17,6,0,19,-8,-19,1
@@ -14932,6 +15026,8 @@ AT,Austria,Styria,,,AT-6,,2020-12-22,-16,24,-3,-25,-32,9
 AT,Austria,Styria,,,AT-6,,2020-12-23,-16,40,4,-26,-40,10
 AT,Austria,Styria,,,AT-6,,2020-12-24,-62,-22,-29,-59,-76,20
 AT,Austria,Styria,,,AT-6,,2020-12-25,-91,-93,-39,-75,-86,25
+AT,Austria,Styria,,,AT-6,,2020-12-26,-86,-91,0,-55,-54,14
+AT,Austria,Styria,,,AT-6,,2020-12-27,-71,-35,-11,-50,-36,9
 AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-02-15,9,0,35,14,3,-2
 AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-02-16,14,,24,-1,3,
 AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-02-17,12,7,,-8,-14,1
@@ -15244,6 +15340,8 @@ AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-12-22,-15,30,,-37,-36,9
 AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-12-23,-14,43,,-37,-44,11
 AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-12-24,-61,-22,-2,-61,-75,18
 AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-12-25,-88,-92,,-69,-85,23
+AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-12-26,-84,-91,20,-56,-59,14
+AT,Austria,Styria,Bruck-Mürzzuschlag District,,,,2020-12-27,-62,,44,-51,-42,9
 AT,Austria,Styria,Deutschlandsberg District,,,,2020-02-15,12,-6,16,,5,
 AT,Austria,Styria,Deutschlandsberg District,,,,2020-02-16,14,,14,,-2,
 AT,Austria,Styria,Deutschlandsberg District,,,,2020-02-17,4,-1,,,-20,2
@@ -15553,6 +15651,8 @@ AT,Austria,Styria,Deutschlandsberg District,,,,2020-12-22,-6,26,,,-30,9
 AT,Austria,Styria,Deutschlandsberg District,,,,2020-12-23,-9,46,,,-41,11
 AT,Austria,Styria,Deutschlandsberg District,,,,2020-12-24,-57,-19,,,-77,23
 AT,Austria,Styria,Deutschlandsberg District,,,,2020-12-25,-94,-96,,,-87,28
+AT,Austria,Styria,Deutschlandsberg District,,,,2020-12-26,-88,-93,,,-55,16
+AT,Austria,Styria,Deutschlandsberg District,,,,2020-12-27,,,32,,-37,
 AT,Austria,Styria,Graz,,,,2020-02-15,-6,-4,26,1,4,-2
 AT,Austria,Styria,Graz,,,,2020-02-16,8,21,18,6,3,-2
 AT,Austria,Styria,Graz,,,,2020-02-17,-2,-7,14,-12,-18,1
@@ -15868,6 +15968,8 @@ AT,Austria,Styria,Graz,,,,2020-12-22,-23,19,-13,-28,-34,11
 AT,Austria,Styria,Graz,,,,2020-12-23,-23,30,-6,-28,-44,10
 AT,Austria,Styria,Graz,,,,2020-12-24,-67,-28,-55,-65,-76,16
 AT,Austria,Styria,Graz,,,,2020-12-25,-93,-93,-72,-83,-86,23
+AT,Austria,Styria,Graz,,,,2020-12-26,-88,-90,-28,-64,-49,13
+AT,Austria,Styria,Graz,,,,2020-12-27,-73,-39,-45,-60,-29,8
 AT,Austria,Styria,Graz-Umgebung District,,,,2020-02-15,-7,7,29,13,-2,-1
 AT,Austria,Styria,Graz-Umgebung District,,,,2020-02-16,20,,27,7,-3,-2
 AT,Austria,Styria,Graz-Umgebung District,,,,2020-02-17,14,8,,-10,-22,2
@@ -16183,6 +16285,8 @@ AT,Austria,Styria,Graz-Umgebung District,,,,2020-12-22,3,33,,-34,-27,11
 AT,Austria,Styria,Graz-Umgebung District,,,,2020-12-23,-2,57,,-40,-37,12
 AT,Austria,Styria,Graz-Umgebung District,,,,2020-12-24,-58,-15,,-68,-78,23
 AT,Austria,Styria,Graz-Umgebung District,,,,2020-12-25,-92,-93,,-76,-88,27
+AT,Austria,Styria,Graz-Umgebung District,,,,2020-12-26,-91,-88,,-51,-51,14
+AT,Austria,Styria,Graz-Umgebung District,,,,2020-12-27,-71,,13,-59,-26,9
 AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-02-15,-1,-7,37,22,2,0
 AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-02-16,14,,50,15,-3,
 AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-02-17,7,0,,-7,-19,1
@@ -16495,6 +16599,8 @@ AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-12-22,1,27,,-16,-32,8
 AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-12-23,-2,44,,-29,-42,11
 AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-12-24,-57,-23,5,-54,-77,24
 AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-12-25,-92,-95,9,-66,-86,27
+AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-12-26,-88,-94,27,-46,-57,16
+AT,Austria,Styria,Hartberg-Fürstenfeld District,,,,2020-12-27,-78,,18,-42,-43,10
 AT,Austria,Styria,Leibnitz,,,,2020-02-15,10,-2,43,0,-1,0
 AT,Austria,Styria,Leibnitz,,,,2020-02-16,15,,67,9,-3,
 AT,Austria,Styria,Leibnitz,,,,2020-02-17,8,0,,-15,-19,2
@@ -16807,6 +16913,8 @@ AT,Austria,Styria,Leibnitz,,,,2020-12-22,7,29,,-42,-32,8
 AT,Austria,Styria,Leibnitz,,,,2020-12-23,8,48,,-43,-41,9
 AT,Austria,Styria,Leibnitz,,,,2020-12-24,-49,-19,-6,-68,-77,21
 AT,Austria,Styria,Leibnitz,,,,2020-12-25,-88,-96,-53,-83,-87,27
+AT,Austria,Styria,Leibnitz,,,,2020-12-26,-80,-94,17,-65,-63,16
+AT,Austria,Styria,Leibnitz,,,,2020-12-27,-68,,-8,-58,-39,9
 AT,Austria,Styria,Leoben District,,,,2020-02-15,4,4,,13,1,
 AT,Austria,Styria,Leoben District,,,,2020-02-16,6,,,12,3,
 AT,Austria,Styria,Leoben District,,,,2020-02-17,4,-1,,8,-17,1
@@ -17116,6 +17224,8 @@ AT,Austria,Styria,Leoben District,,,,2020-12-22,-13,26,,-15,-33,9
 AT,Austria,Styria,Leoben District,,,,2020-12-23,-22,37,,-16,-39,10
 AT,Austria,Styria,Leoben District,,,,2020-12-24,-67,-27,,-51,-73,18
 AT,Austria,Styria,Leoben District,,,,2020-12-25,-91,-94,,-69,-83,23
+AT,Austria,Styria,Leoben District,,,,2020-12-26,-90,-89,,-53,-49,13
+AT,Austria,Styria,Leoben District,,,,2020-12-27,-77,,-4,-32,-37,
 AT,Austria,Styria,Liezen District,,,,2020-02-15,7,17,55,29,1,-2
 AT,Austria,Styria,Liezen District,,,,2020-02-16,16,,39,22,-3,
 AT,Austria,Styria,Liezen District,,,,2020-02-17,35,28,38,15,-16,2
@@ -17428,6 +17538,8 @@ AT,Austria,Styria,Liezen District,,,,2020-12-22,-40,3,-36,-48,-34,10
 AT,Austria,Styria,Liezen District,,,,2020-12-23,-37,27,-25,-44,-40,11
 AT,Austria,Styria,Liezen District,,,,2020-12-24,-73,-29,-45,-68,-73,20
 AT,Austria,Styria,Liezen District,,,,2020-12-25,-92,-95,-43,-75,-84,26
+AT,Austria,Styria,Liezen District,,,,2020-12-26,-89,-93,-22,-69,-58,14
+AT,Austria,Styria,Liezen District,,,,2020-12-27,-70,,2,-49,-50,7
 AT,Austria,Styria,Murau District,,,,2020-02-15,,7,17,,,
 AT,Austria,Styria,Murau District,,,,2020-02-16,,,18,,,
 AT,Austria,Styria,Murau District,,,,2020-02-17,,,,,-15,
@@ -17718,6 +17830,8 @@ AT,Austria,Styria,Murau District,,,,2020-12-22,,17,-34,,-30,6
 AT,Austria,Styria,Murau District,,,,2020-12-23,,36,-39,,-39,9
 AT,Austria,Styria,Murau District,,,,2020-12-24,,,-46,,-72,23
 AT,Austria,Styria,Murau District,,,,2020-12-25,,-94,-46,,-81,25
+AT,Austria,Styria,Murau District,,,,2020-12-26,,-94,-28,,-60,
+AT,Austria,Styria,Murau District,,,,2020-12-27,,,-11,,-45,
 AT,Austria,Styria,Murtal District,,,,2020-02-15,6,-4,,1,-1,
 AT,Austria,Styria,Murtal District,,,,2020-02-16,6,,,5,-2,
 AT,Austria,Styria,Murtal District,,,,2020-02-17,10,3,,-1,-20,2
@@ -18027,6 +18141,8 @@ AT,Austria,Styria,Murtal District,,,,2020-12-22,2,24,,-33,-33,8
 AT,Austria,Styria,Murtal District,,,,2020-12-23,2,39,,-31,-39,10
 AT,Austria,Styria,Murtal District,,,,2020-12-24,-56,-24,,-51,-75,19
 AT,Austria,Styria,Murtal District,,,,2020-12-25,-90,-95,,-70,-84,24
+AT,Austria,Styria,Murtal District,,,,2020-12-26,-83,-94,,-58,-50,14
+AT,Austria,Styria,Murtal District,,,,2020-12-27,,,,-46,-33,
 AT,Austria,Styria,Südoststeiermark,,,,2020-02-15,10,-2,26,14,2,-1
 AT,Austria,Styria,Südoststeiermark,,,,2020-02-16,22,,21,11,5,
 AT,Austria,Styria,Südoststeiermark,,,,2020-02-17,4,-5,,-13,-22,1
@@ -18339,6 +18455,8 @@ AT,Austria,Styria,Südoststeiermark,,,,2020-12-22,-9,24,,-21,-30,7
 AT,Austria,Styria,Südoststeiermark,,,,2020-12-23,-6,49,,-24,-39,10
 AT,Austria,Styria,Südoststeiermark,,,,2020-12-24,-54,-16,,-40,-76,23
 AT,Austria,Styria,Südoststeiermark,,,,2020-12-25,-91,-95,,-69,-88,28
+AT,Austria,Styria,Südoststeiermark,,,,2020-12-26,-83,-89,32,-30,-58,15
+AT,Austria,Styria,Südoststeiermark,,,,2020-12-27,-74,,-2,-37,-40,10
 AT,Austria,Styria,Voitsberg District,,,,2020-02-15,8,-2,,46,0,
 AT,Austria,Styria,Voitsberg District,,,,2020-02-16,11,,,,0,
 AT,Austria,Styria,Voitsberg District,,,,2020-02-17,14,-1,,7,-20,2
@@ -18648,6 +18766,8 @@ AT,Austria,Styria,Voitsberg District,,,,2020-12-22,-8,31,,-27,-31,9
 AT,Austria,Styria,Voitsberg District,,,,2020-12-23,-8,44,,-31,-37,11
 AT,Austria,Styria,Voitsberg District,,,,2020-12-24,-55,-15,,-65,-76,20
 AT,Austria,Styria,Voitsberg District,,,,2020-12-25,-90,-96,,-66,-85,27
+AT,Austria,Styria,Voitsberg District,,,,2020-12-26,-85,-95,,-66,-54,
+AT,Austria,Styria,Voitsberg District,,,,2020-12-27,,,,-49,-35,
 AT,Austria,Styria,Weiz District,,,,2020-02-15,2,-1,,21,0,-1
 AT,Austria,Styria,Weiz District,,,,2020-02-16,10,,,25,-2,
 AT,Austria,Styria,Weiz District,,,,2020-02-17,6,0,,-12,-18,2
@@ -18959,6 +19079,8 @@ AT,Austria,Styria,Weiz District,,,,2020-12-22,10,55,,-21,-29,9
 AT,Austria,Styria,Weiz District,,,,2020-12-23,13,74,,-14,-39,11
 AT,Austria,Styria,Weiz District,,,,2020-12-24,-54,-11,,-46,-79,23
 AT,Austria,Styria,Weiz District,,,,2020-12-25,-93,-95,,-66,-89,26
+AT,Austria,Styria,Weiz District,,,,2020-12-26,-86,-92,,-30,-63,15
+AT,Austria,Styria,Weiz District,,,,2020-12-27,-73,,,-38,-40,9
 AT,Austria,Tyrol,,,AT-7,,2020-02-15,9,3,20,17,-1,-2
 AT,Austria,Tyrol,,,AT-7,,2020-02-16,13,26,18,8,1,-2
 AT,Austria,Tyrol,,,AT-7,,2020-02-17,13,14,40,9,1,0
@@ -19274,6 +19396,8 @@ AT,Austria,Tyrol,,,AT-7,,2020-12-22,-44,0,-42,-56,-31,9
 AT,Austria,Tyrol,,,AT-7,,2020-12-23,-43,15,-44,-59,-38,11
 AT,Austria,Tyrol,,,AT-7,,2020-12-24,-72,-36,-61,-76,-74,21
 AT,Austria,Tyrol,,,AT-7,,2020-12-25,-91,-92,-62,-84,-85,25
+AT,Austria,Tyrol,,,AT-7,,2020-12-26,-86,-88,-47,-80,-64,14
+AT,Austria,Tyrol,,,AT-7,,2020-12-27,-78,-59,-39,-73,-53,8
 AT,Austria,Tyrol,East Tyrol,,,,2020-02-15,8,7,22,3,1,
 AT,Austria,Tyrol,East Tyrol,,,,2020-02-16,31,,1,9,0,
 AT,Austria,Tyrol,East Tyrol,,,,2020-02-17,29,15,,23,3,0
@@ -19583,6 +19707,8 @@ AT,Austria,Tyrol,East Tyrol,,,,2020-12-22,-33,17,-23,-42,-30,7
 AT,Austria,Tyrol,East Tyrol,,,,2020-12-23,-29,34,,-43,-38,8
 AT,Austria,Tyrol,East Tyrol,,,,2020-12-24,-70,-32,-26,-77,-75,21
 AT,Austria,Tyrol,East Tyrol,,,,2020-12-25,-89,-94,-46,-82,-84,26
+AT,Austria,Tyrol,East Tyrol,,,,2020-12-26,-80,-92,0,-80,-60,
+AT,Austria,Tyrol,East Tyrol,,,,2020-12-27,-68,,-13,-71,-49,
 AT,Austria,Tyrol,Imst District,,,,2020-02-15,7,8,24,30,0,-1
 AT,Austria,Tyrol,Imst District,,,,2020-02-16,13,,17,23,2,
 AT,Austria,Tyrol,Imst District,,,,2020-02-17,10,23,46,13,-3,1
@@ -19892,6 +20018,8 @@ AT,Austria,Tyrol,Imst District,,,,2020-12-22,-52,-12,-71,-48,-33,9
 AT,Austria,Tyrol,Imst District,,,,2020-12-23,-52,2,-78,-54,-39,11
 AT,Austria,Tyrol,Imst District,,,,2020-12-24,-79,-44,-76,-70,-74,23
 AT,Austria,Tyrol,Imst District,,,,2020-12-25,-93,-93,-78,-77,-86,27
+AT,Austria,Tyrol,Imst District,,,,2020-12-26,-88,-90,-43,-56,-72,15
+AT,Austria,Tyrol,Imst District,,,,2020-12-27,-84,,-47,-59,-64,9
 AT,Austria,Tyrol,Innsbruck,,,,2020-02-15,-10,-3,5,-2,-6,-1
 AT,Austria,Tyrol,Innsbruck,,,,2020-02-16,4,5,24,4,-1,-2
 AT,Austria,Tyrol,Innsbruck,,,,2020-02-17,3,3,21,-1,1,-1
@@ -20207,6 +20335,8 @@ AT,Austria,Tyrol,Innsbruck,,,,2020-12-22,-24,14,-6,-66,-30,9
 AT,Austria,Tyrol,Innsbruck,,,,2020-12-23,-22,28,-6,-66,-35,10
 AT,Austria,Tyrol,Innsbruck,,,,2020-12-24,-67,-35,-56,-81,-72,18
 AT,Austria,Tyrol,Innsbruck,,,,2020-12-25,-93,-91,-57,-85,-84,24
+AT,Austria,Tyrol,Innsbruck,,,,2020-12-26,-90,-89,-54,-79,-55,14
+AT,Austria,Tyrol,Innsbruck,,,,2020-12-27,-76,-48,-38,-73,-32,7
 AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-02-15,9,7,30,28,-1,-2
 AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-02-16,8,30,19,3,-1,-2
 AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-02-17,8,18,21,9,2,0
@@ -20522,6 +20652,8 @@ AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-12-22,-22,25,-25,-58,-30,10
 AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-12-23,-21,40,-24,-64,-38,12
 AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-12-24,-57,-19,-35,-79,-77,24
 AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-12-25,-87,-90,-28,-88,-86,26
+AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-12-26,-79,-87,20,-82,-61,13
+AT,Austria,Tyrol,Innsbruck-Land District,,,,2020-12-27,-66,,24,-75,-45,7
 AT,Austria,Tyrol,Kitzbühel District,,,,2020-02-15,21,1,32,6,1,-2
 AT,Austria,Tyrol,Kitzbühel District,,,,2020-02-16,14,,16,0,2,-2
 AT,Austria,Tyrol,Kitzbühel District,,,,2020-02-17,23,17,49,13,4,-1
@@ -20834,6 +20966,8 @@ AT,Austria,Tyrol,Kitzbühel District,,,,2020-12-22,-61,-9,-61,-67,-32,10
 AT,Austria,Tyrol,Kitzbühel District,,,,2020-12-23,-59,1,-61,-68,-36,11
 AT,Austria,Tyrol,Kitzbühel District,,,,2020-12-24,-82,-42,-73,-81,-70,23
 AT,Austria,Tyrol,Kitzbühel District,,,,2020-12-25,-91,-95,-74,-87,-84,27
+AT,Austria,Tyrol,Kitzbühel District,,,,2020-12-26,-86,-85,-61,-82,-68,16
+AT,Austria,Tyrol,Kitzbühel District,,,,2020-12-27,-82,,-54,-75,-63,9
 AT,Austria,Tyrol,Kufstein District,,,,2020-02-15,17,4,37,25,-3,-2
 AT,Austria,Tyrol,Kufstein District,,,,2020-02-16,23,,27,19,-1,-2
 AT,Austria,Tyrol,Kufstein District,,,,2020-02-17,21,14,37,12,1,-1
@@ -21149,6 +21283,8 @@ AT,Austria,Tyrol,Kufstein District,,,,2020-12-22,-33,14,-12,-41,-26,9
 AT,Austria,Tyrol,Kufstein District,,,,2020-12-23,-33,27,-20,-47,-33,10
 AT,Austria,Tyrol,Kufstein District,,,,2020-12-24,-63,-26,-29,-70,-73,22
 AT,Austria,Tyrol,Kufstein District,,,,2020-12-25,-90,-94,-48,-82,-85,27
+AT,Austria,Tyrol,Kufstein District,,,,2020-12-26,-85,-92,-29,-83,-56,14
+AT,Austria,Tyrol,Kufstein District,,,,2020-12-27,-74,,-35,-71,-39,7
 AT,Austria,Tyrol,Landeck District,,,,2020-02-15,9,2,11,8,0,-1
 AT,Austria,Tyrol,Landeck District,,,,2020-02-16,5,,18,7,0,-1
 AT,Austria,Tyrol,Landeck District,,,,2020-02-17,9,14,32,-8,0,0
@@ -21464,6 +21600,8 @@ AT,Austria,Tyrol,Landeck District,,,,2020-12-22,-79,-47,-76,-66,-41,9
 AT,Austria,Tyrol,Landeck District,,,,2020-12-23,-78,-37,-75,-66,-48,11
 AT,Austria,Tyrol,Landeck District,,,,2020-12-24,-89,-60,-80,-77,-74,22
 AT,Austria,Tyrol,Landeck District,,,,2020-12-25,-96,-95,-79,-83,-84,24
+AT,Austria,Tyrol,Landeck District,,,,2020-12-26,-92,-92,-68,-84,-74,17
+AT,Austria,Tyrol,Landeck District,,,,2020-12-27,-92,-90,-57,-78,-74,11
 AT,Austria,Tyrol,Reutte District,,,,2020-02-15,28,8,17,15,6,
 AT,Austria,Tyrol,Reutte District,,,,2020-02-16,,,10,-2,-3,
 AT,Austria,Tyrol,Reutte District,,,,2020-02-17,,23,48,16,1,1
@@ -21773,6 +21911,8 @@ AT,Austria,Tyrol,Reutte District,,,,2020-12-22,-43,-7,-55,-65,-34,11
 AT,Austria,Tyrol,Reutte District,,,,2020-12-23,-43,5,-52,-65,-38,12
 AT,Austria,Tyrol,Reutte District,,,,2020-12-24,-73,-42,-72,-80,-74,22
 AT,Austria,Tyrol,Reutte District,,,,2020-12-25,-94,-94,-76,-85,-84,25
+AT,Austria,Tyrol,Reutte District,,,,2020-12-26,-89,-95,-76,,-67,
+AT,Austria,Tyrol,Reutte District,,,,2020-12-27,,,-73,-83,-62,
 AT,Austria,Tyrol,Schwaz District,,,,2020-02-15,22,3,68,41,2,-2
 AT,Austria,Tyrol,Schwaz District,,,,2020-02-16,18,,28,10,5,-2
 AT,Austria,Tyrol,Schwaz District,,,,2020-02-17,20,15,28,14,3,0
@@ -22088,6 +22228,8 @@ AT,Austria,Tyrol,Schwaz District,,,,2020-12-22,-59,-11,-59,-55,-34,9
 AT,Austria,Tyrol,Schwaz District,,,,2020-12-23,-59,5,-60,-60,-42,11
 AT,Austria,Tyrol,Schwaz District,,,,2020-12-24,-80,-46,-70,-78,-75,24
 AT,Austria,Tyrol,Schwaz District,,,,2020-12-25,-93,-94,-74,-86,-86,26
+AT,Austria,Tyrol,Schwaz District,,,,2020-12-26,-85,-90,-60,-84,-66,13
+AT,Austria,Tyrol,Schwaz District,,,,2020-12-27,-80,-72,-60,-77,-58,7
 AT,Austria,Upper Austria,,,AT-4,,2020-02-15,5,-2,62,13,-1,-2
 AT,Austria,Upper Austria,,,AT-4,,2020-02-16,18,24,70,13,-1,-3
 AT,Austria,Upper Austria,,,AT-4,,2020-02-17,8,-1,19,-11,-19,1
@@ -22403,6 +22545,8 @@ AT,Austria,Upper Austria,,,AT-4,,2020-12-22,-15,26,2,-28,-28,10
 AT,Austria,Upper Austria,,,AT-4,,2020-12-23,-11,44,28,-26,-35,10
 AT,Austria,Upper Austria,,,AT-4,,2020-12-24,-59,-20,-21,-60,-79,22
 AT,Austria,Upper Austria,,,AT-4,,2020-12-25,-90,-93,-25,-73,-87,24
+AT,Austria,Upper Austria,,,AT-4,,2020-12-26,-88,-92,13,-61,-55,14
+AT,Austria,Upper Austria,,,AT-4,,2020-12-27,-66,-16,80,-38,-33,7
 AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-02-15,16,0,,25,2,-1
 AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-02-16,29,,,,0,
 AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-02-17,12,3,,-7,-15,1
@@ -22715,6 +22859,8 @@ AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-12-22,-7,40,,-38,-27,9
 AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-12-23,0,58,,-33,-34,10
 AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-12-24,-56,-10,,-65,-79,24
 AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-12-25,-89,-94,,-69,-88,26
+AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-12-26,-84,-93,,-57,-57,15
+AT,Austria,Upper Austria,Braunau am Inn District,,,,2020-12-27,-58,,,-27,-34,8
 AT,Austria,Upper Austria,Eferding District,,,,2020-02-15,,-4,,,,
 AT,Austria,Upper Austria,Eferding District,,,,2020-02-17,,0,,,-22,2
 AT,Austria,Upper Austria,Eferding District,,,,2020-02-18,,2,,,-21,3
@@ -22992,6 +23138,8 @@ AT,Austria,Upper Austria,Eferding District,,,,2020-12-22,,34,,,-26,10
 AT,Austria,Upper Austria,Eferding District,,,,2020-12-23,,50,,,-32,11
 AT,Austria,Upper Austria,Eferding District,,,,2020-12-24,,-23,,,-80,24
 AT,Austria,Upper Austria,Eferding District,,,,2020-12-25,,-93,,,-87,24
+AT,Austria,Upper Austria,Eferding District,,,,2020-12-26,,-90,,,-48,
+AT,Austria,Upper Austria,Eferding District,,,,2020-12-27,,,,,-30,
 AT,Austria,Upper Austria,Freistadt District,,,,2020-02-15,8,-7,,7,-2,
 AT,Austria,Upper Austria,Freistadt District,,,,2020-02-16,,,,32,-4,
 AT,Austria,Upper Austria,Freistadt District,,,,2020-02-17,4,0,,-15,-21,0
@@ -23301,6 +23449,8 @@ AT,Austria,Upper Austria,Freistadt District,,,,2020-12-22,-1,30,,-32,-26,10
 AT,Austria,Upper Austria,Freistadt District,,,,2020-12-23,-4,56,,-25,-31,11
 AT,Austria,Upper Austria,Freistadt District,,,,2020-12-24,-61,-22,,-55,-78,25
 AT,Austria,Upper Austria,Freistadt District,,,,2020-12-25,-91,-94,,-67,-85,23
+AT,Austria,Upper Austria,Freistadt District,,,,2020-12-26,-92,-94,,-54,-52,15
+AT,Austria,Upper Austria,Freistadt District,,,,2020-12-27,-67,,,-17,-27,
 AT,Austria,Upper Austria,Gmunden District,,,,2020-02-15,11,6,108,23,0,-2
 AT,Austria,Upper Austria,Gmunden District,,,,2020-02-16,33,,72,26,-6,
 AT,Austria,Upper Austria,Gmunden District,,,,2020-02-17,12,7,52,-5,-19,2
@@ -23613,6 +23763,8 @@ AT,Austria,Upper Austria,Gmunden District,,,,2020-12-22,-22,44,-32,-32,-24,9
 AT,Austria,Upper Austria,Gmunden District,,,,2020-12-23,-13,62,-17,-24,-30,9
 AT,Austria,Upper Austria,Gmunden District,,,,2020-12-24,-60,-11,-48,-60,-74,21
 AT,Austria,Upper Austria,Gmunden District,,,,2020-12-25,-89,-94,-45,-72,-85,25
+AT,Austria,Upper Austria,Gmunden District,,,,2020-12-26,-88,-93,9,-63,-56,14
+AT,Austria,Upper Austria,Gmunden District,,,,2020-12-27,-62,,42,-38,-37,7
 AT,Austria,Upper Austria,Grieskirchen District,,,,2020-02-15,3,-4,,19,9,
 AT,Austria,Upper Austria,Grieskirchen District,,,,2020-02-17,4,-3,,-10,-18,1
 AT,Austria,Upper Austria,Grieskirchen District,,,,2020-02-18,7,-1,,-11,-18,1
@@ -23920,6 +24072,8 @@ AT,Austria,Upper Austria,Grieskirchen District,,,,2020-12-22,-21,15,,37,-25,8
 AT,Austria,Upper Austria,Grieskirchen District,,,,2020-12-23,-20,42,,31,-33,9
 AT,Austria,Upper Austria,Grieskirchen District,,,,2020-12-24,-64,-20,,-11,-78,25
 AT,Austria,Upper Austria,Grieskirchen District,,,,2020-12-25,-92,-96,,-43,-88,25
+AT,Austria,Upper Austria,Grieskirchen District,,,,2020-12-26,-90,-96,,-19,-55,
+AT,Austria,Upper Austria,Grieskirchen District,,,,2020-12-27,,,,,-32,
 AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-02-15,25,6,,25,0,
 AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-02-16,20,,,9,-5,
 AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-02-17,,3,,-4,-20,0
@@ -24229,6 +24383,8 @@ AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-12-22,-35,35,,-
 AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-12-23,-37,58,,-27,-37,10
 AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-12-24,-68,-13,,-67,-78,24
 AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-12-25,-90,-95,,-75,-87,26
+AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-12-26,-83,-93,,-73,-57,
+AT,Austria,Upper Austria,Kirchdorf an der Krems District,,,,2020-12-27,,,,-47,-38,
 AT,Austria,Upper Austria,Linz,,,,2020-02-15,3,3,79,14,-1,-2
 AT,Austria,Upper Austria,Linz,,,,2020-02-16,23,17,62,7,3,-3
 AT,Austria,Upper Austria,Linz,,,,2020-02-17,-2,-3,1,-12,-15,1
@@ -24544,6 +24700,8 @@ AT,Austria,Upper Austria,Linz,,,,2020-12-22,-28,7,-35,-40,-35,10
 AT,Austria,Upper Austria,Linz,,,,2020-12-23,-25,26,-10,-40,-41,9
 AT,Austria,Upper Austria,Linz,,,,2020-12-24,-66,-30,-59,-71,-79,17
 AT,Austria,Upper Austria,Linz,,,,2020-12-25,-90,-92,-64,-80,-87,20
+AT,Austria,Upper Austria,Linz,,,,2020-12-26,-87,-89,-22,-61,-55,13
+AT,Austria,Upper Austria,Linz,,,,2020-12-27,-68,-55,25,-46,-30,6
 AT,Austria,Upper Austria,Linz-Land District,,,,2020-02-15,-6,1,,9,6,-2
 AT,Austria,Upper Austria,Linz-Land District,,,,2020-02-16,5,,,8,2,-3
 AT,Austria,Upper Austria,Linz-Land District,,,,2020-02-17,14,0,,-5,-20,1
@@ -24859,6 +25017,8 @@ AT,Austria,Upper Austria,Linz-Land District,,,,2020-12-22,4,34,,-15,-30,10
 AT,Austria,Upper Austria,Linz-Land District,,,,2020-12-23,2,52,,-15,-38,11
 AT,Austria,Upper Austria,Linz-Land District,,,,2020-12-24,-55,-17,,-57,-80,23
 AT,Austria,Upper Austria,Linz-Land District,,,,2020-12-25,-94,-96,,-74,-89,24
+AT,Austria,Upper Austria,Linz-Land District,,,,2020-12-26,-93,-95,,-66,-55,14
+AT,Austria,Upper Austria,Linz-Land District,,,,2020-12-27,-71,,,-41,-29,6
 AT,Austria,Upper Austria,Perg District,,,,2020-02-15,4,1,,6,4,
 AT,Austria,Upper Austria,Perg District,,,,2020-02-16,17,,,,1,
 AT,Austria,Upper Austria,Perg District,,,,2020-02-17,8,-2,,-25,-22,1
@@ -25168,6 +25328,8 @@ AT,Austria,Upper Austria,Perg District,,,,2020-12-22,3,44,,-29,-26,10
 AT,Austria,Upper Austria,Perg District,,,,2020-12-23,11,89,,-25,-33,10
 AT,Austria,Upper Austria,Perg District,,,,2020-12-24,-52,-9,,-54,-80,25
 AT,Austria,Upper Austria,Perg District,,,,2020-12-25,-93,-95,,-70,-88,25
+AT,Austria,Upper Austria,Perg District,,,,2020-12-26,-88,-91,,-53,-54,15
+AT,Austria,Upper Austria,Perg District,,,,2020-12-27,,,,,-33,
 AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-02-15,-7,-8,,0,1,
 AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-02-16,32,,,-1,3,
 AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-02-17,-3,-1,,-5,-16,1
@@ -25477,6 +25639,8 @@ AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-12-22,-8,52,,-24,-32,
 AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-12-23,-3,72,,-32,-37,11
 AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-12-24,-58,-11,,-59,-79,23
 AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-12-25,-93,-93,,-74,-87,25
+AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-12-26,-92,-92,,-66,-59,15
+AT,Austria,Upper Austria,Ried im Innkreis District,,,,2020-12-27,,,,-53,-35,
 AT,Austria,Upper Austria,Rohrbach District,,,,2020-02-15,21,3,,,-4,
 AT,Austria,Upper Austria,Rohrbach District,,,,2020-02-17,,-2,,,-22,1
 AT,Austria,Upper Austria,Rohrbach District,,,,2020-02-18,,-1,,,-25,2
@@ -25779,6 +25943,8 @@ AT,Austria,Upper Austria,Rohrbach District,,,,2020-12-22,,28,,,-26,10
 AT,Austria,Upper Austria,Rohrbach District,,,,2020-12-23,,49,,,-35,11
 AT,Austria,Upper Austria,Rohrbach District,,,,2020-12-24,-60,-23,,-60,-78,24
 AT,Austria,Upper Austria,Rohrbach District,,,,2020-12-25,-90,-93,,,-85,25
+AT,Austria,Upper Austria,Rohrbach District,,,,2020-12-26,,-95,,,-59,
+AT,Austria,Upper Austria,Rohrbach District,,,,2020-12-27,,,,,-35,
 AT,Austria,Upper Austria,Schärding District,,,,2020-02-15,,2,,26,-3,
 AT,Austria,Upper Austria,Schärding District,,,,2020-02-16,,,,10,,
 AT,Austria,Upper Austria,Schärding District,,,,2020-02-17,,-3,,-5,-19,1
@@ -26088,6 +26254,8 @@ AT,Austria,Upper Austria,Schärding District,,,,2020-12-22,,35,,-21,-28,9
 AT,Austria,Upper Austria,Schärding District,,,,2020-12-23,,60,,-1,-40,10
 AT,Austria,Upper Austria,Schärding District,,,,2020-12-24,-64,-5,,-32,-78,23
 AT,Austria,Upper Austria,Schärding District,,,,2020-12-25,-89,-93,,-55,-86,25
+AT,Austria,Upper Austria,Schärding District,,,,2020-12-26,-86,-93,,-61,-51,
+AT,Austria,Upper Austria,Schärding District,,,,2020-12-27,,,,-45,-35,
 AT,Austria,Upper Austria,Steyr,,,,2020-02-15,-1,-3,,,-9,
 AT,Austria,Upper Austria,Steyr,,,,2020-02-16,6,,,,,
 AT,Austria,Upper Austria,Steyr,,,,2020-02-17,2,-1,,-34,-13,0
@@ -26390,6 +26558,8 @@ AT,Austria,Upper Austria,Steyr,,,,2020-12-22,-5,31,,-23,-30,8
 AT,Austria,Upper Austria,Steyr,,,,2020-12-23,0,40,,-25,-38,8
 AT,Austria,Upper Austria,Steyr,,,,2020-12-24,-57,-29,,-74,-77,17
 AT,Austria,Upper Austria,Steyr,,,,2020-12-25,-90,-96,,,-87,22
+AT,Austria,Upper Austria,Steyr,,,,2020-12-26,-91,-96,,,-61,
+AT,Austria,Upper Austria,Steyr,,,,2020-12-27,-64,,,,-34,
 AT,Austria,Upper Austria,Steyr-Land District,,,,2020-02-15,13,-3,,,-5,
 AT,Austria,Upper Austria,Steyr-Land District,,,,2020-02-16,,,,,-4,
 AT,Austria,Upper Austria,Steyr-Land District,,,,2020-02-17,,6,,-8,-20,2
@@ -26695,6 +26865,8 @@ AT,Austria,Upper Austria,Steyr-Land District,,,,2020-12-22,,44,,-19,-31,10
 AT,Austria,Upper Austria,Steyr-Land District,,,,2020-12-23,,72,,-7,-39,11
 AT,Austria,Upper Austria,Steyr-Land District,,,,2020-12-24,,-11,,-38,-80,24
 AT,Austria,Upper Austria,Steyr-Land District,,,,2020-12-25,,-96,,-58,-88,25
+AT,Austria,Upper Austria,Steyr-Land District,,,,2020-12-26,,-94,,,-54,
+AT,Austria,Upper Austria,Steyr-Land District,,,,2020-12-27,,,,,-38,
 AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-02-15,21,6,,27,-1,
 AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-02-16,28,,,11,0,
 AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-02-17,10,1,,-11,-24,2
@@ -27004,6 +27176,8 @@ AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-12-22,-6,40,,-32,-28,1
 AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-12-23,8,67,,-22,-34,12
 AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-12-24,-53,-17,,-53,-81,26
 AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-12-25,-87,-95,,-61,-88,25
+AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-12-26,-77,-94,,-46,-50,14
+AT,Austria,Upper Austria,Urfahr-Umgebung District,,,,2020-12-27,-41,,,-3,-28,
 AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-02-15,0,-8,,15,0,-2
 AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-02-16,10,,,10,-6,-2
 AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-02-17,9,-4,,-9,-17,2
@@ -27319,6 +27493,8 @@ AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-12-22,-6,36,,-33,-25,10
 AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-12-23,-4,57,,-36,-33,11
 AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-12-24,-57,-16,3,-68,-76,23
 AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-12-25,-91,-95,5,-74,-86,25
+AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-12-26,-89,-95,,-75,-54,15
+AT,Austria,Upper Austria,Vöcklabruck District,,,,2020-12-27,-69,,,-59,-37,7
 AT,Austria,Upper Austria,Wels,,,,2020-02-15,-5,-3,,7,-1,
 AT,Austria,Upper Austria,Wels,,,,2020-02-16,10,,,6,7,
 AT,Austria,Upper Austria,Wels,,,,2020-02-17,11,-4,,-18,-15,0
@@ -27631,6 +27807,8 @@ AT,Austria,Upper Austria,Wels,,,,2020-12-22,-1,28,,-25,-26,7
 AT,Austria,Upper Austria,Wels,,,,2020-12-23,3,47,,-27,-32,7
 AT,Austria,Upper Austria,Wels,,,,2020-12-24,-53,-23,,-66,-77,18
 AT,Austria,Upper Austria,Wels,,,,2020-12-25,-92,-94,,-78,-88,23
+AT,Austria,Upper Austria,Wels,,,,2020-12-26,-91,-94,,-66,-56,15
+AT,Austria,Upper Austria,Wels,,,,2020-12-27,-64,,,-43,-27,
 AT,Austria,Upper Austria,Wels-Land District,,,,2020-02-15,4,-1,,,-3,
 AT,Austria,Upper Austria,Wels-Land District,,,,2020-02-16,,,,,0,
 AT,Austria,Upper Austria,Wels-Land District,,,,2020-02-17,14,-7,,-16,-19,1
@@ -27940,6 +28118,8 @@ AT,Austria,Upper Austria,Wels-Land District,,,,2020-12-22,-36,14,,-13,-27,9
 AT,Austria,Upper Austria,Wels-Land District,,,,2020-12-23,-32,39,,-27,-35,10
 AT,Austria,Upper Austria,Wels-Land District,,,,2020-12-24,-68,-21,,-48,-80,24
 AT,Austria,Upper Austria,Wels-Land District,,,,2020-12-25,-88,-94,,-67,-90,26
+AT,Austria,Upper Austria,Wels-Land District,,,,2020-12-26,,-93,,-40,-55,15
+AT,Austria,Upper Austria,Wels-Land District,,,,2020-12-27,,,,,-26,
 AT,Austria,Vienna,,,AT-9,,2020-02-15,11,5,57,11,2,-2
 AT,Austria,Vienna,,,AT-9,,2020-02-16,16,20,35,14,2,-2
 AT,Austria,Vienna,,,AT-9,,2020-02-17,7,4,42,7,2,-2
@@ -28255,6 +28435,8 @@ AT,Austria,Vienna,,,AT-9,,2020-12-22,-30,8,-23,-33,-37,10
 AT,Austria,Vienna,,,AT-9,,2020-12-23,-31,23,-15,-33,-43,10
 AT,Austria,Vienna,,,AT-9,,2020-12-24,-64,-28,-43,-58,-75,17
 AT,Austria,Vienna,,,AT-9,,2020-12-25,-89,-90,-45,-71,-85,22
+AT,Austria,Vienna,,,AT-9,,2020-12-26,-87,-88,-23,-63,-52,13
+AT,Austria,Vienna,,,AT-9,,2020-12-27,-77,-34,-38,-55,-29,9
 AT,Austria,Vorarlberg,,,AT-8,,2020-02-15,12,2,67,20,-2,-2
 AT,Austria,Vorarlberg,,,AT-8,,2020-02-16,20,44,35,27,2,-1
 AT,Austria,Vorarlberg,,,AT-8,,2020-02-17,10,8,20,7,1,0
@@ -28570,6 +28752,8 @@ AT,Austria,Vorarlberg,,,AT-8,,2020-12-22,-23,23,-33,-34,-30,10
 AT,Austria,Vorarlberg,,,AT-8,,2020-12-23,-21,38,-44,-37,-37,11
 AT,Austria,Vorarlberg,,,AT-8,,2020-12-24,-57,-10,-55,-62,-76,22
 AT,Austria,Vorarlberg,,,AT-8,,2020-12-25,-91,-92,-65,-78,-88,26
+AT,Austria,Vorarlberg,,,AT-8,,2020-12-26,-84,-89,-31,-67,-64,14
+AT,Austria,Vorarlberg,,,AT-8,,2020-12-27,-73,-33,-38,-59,-48,8
 AT,Austria,Vorarlberg,Bludenz District,,,,2020-02-15,25,9,69,22,0,-2
 AT,Austria,Vorarlberg,Bludenz District,,,,2020-02-16,19,,1,-1,1,
 AT,Austria,Vorarlberg,Bludenz District,,,,2020-02-17,23,16,9,4,3,0
@@ -28879,6 +29063,8 @@ AT,Austria,Vorarlberg,Bludenz District,,,,2020-12-22,-40,12,-64,-42,-34,10
 AT,Austria,Vorarlberg,Bludenz District,,,,2020-12-23,-38,25,-73,-47,-41,11
 AT,Austria,Vorarlberg,Bludenz District,,,,2020-12-24,-68,-21,-76,-68,-75,23
 AT,Austria,Vorarlberg,Bludenz District,,,,2020-12-25,-94,-94,-80,-80,-87,26
+AT,Austria,Vorarlberg,Bludenz District,,,,2020-12-26,-89,-93,-62,-72,-68,15
+AT,Austria,Vorarlberg,Bludenz District,,,,2020-12-27,-83,,-64,-66,-59,8
 AT,Austria,Vorarlberg,Bregenz District,,,,2020-02-15,27,3,58,30,-3,-3
 AT,Austria,Vorarlberg,Bregenz District,,,,2020-02-16,16,,39,26,-2,-1
 AT,Austria,Vorarlberg,Bregenz District,,,,2020-02-17,16,10,47,12,1,0
@@ -29194,6 +29380,8 @@ AT,Austria,Vorarlberg,Bregenz District,,,,2020-12-22,-33,24,-25,-38,-29,10
 AT,Austria,Vorarlberg,Bregenz District,,,,2020-12-23,-34,46,-30,-45,-35,10
 AT,Austria,Vorarlberg,Bregenz District,,,,2020-12-24,-65,-6,-48,-65,-76,22
 AT,Austria,Vorarlberg,Bregenz District,,,,2020-12-25,-89,-92,-59,-78,-87,27
+AT,Austria,Vorarlberg,Bregenz District,,,,2020-12-26,-76,-84,-11,-70,-64,14
+AT,Austria,Vorarlberg,Bregenz District,,,,2020-12-27,-70,,-23,-62,-49,8
 AT,Austria,Vorarlberg,Dornbirn District,,,,2020-02-15,-2,-4,,9,-5,-2
 AT,Austria,Vorarlberg,Dornbirn District,,,,2020-02-16,16,,,41,3,
 AT,Austria,Vorarlberg,Dornbirn District,,,,2020-02-17,1,6,,2,1,1
@@ -29506,6 +29694,8 @@ AT,Austria,Vorarlberg,Dornbirn District,,,,2020-12-22,-1,34,,-20,-29,10
 AT,Austria,Vorarlberg,Dornbirn District,,,,2020-12-23,-2,54,,-21,-36,11
 AT,Austria,Vorarlberg,Dornbirn District,,,,2020-12-24,-49,-8,,-51,-77,22
 AT,Austria,Vorarlberg,Dornbirn District,,,,2020-12-25,-92,-93,,-76,-90,27
+AT,Austria,Vorarlberg,Dornbirn District,,,,2020-12-26,-88,-92,,-51,-64,14
+AT,Austria,Vorarlberg,Dornbirn District,,,,2020-12-27,-69,,,-44,-41,8
 AT,Austria,Vorarlberg,Feldkirch District,,,,2020-02-15,13,-4,,7,-4,-3
 AT,Austria,Vorarlberg,Feldkirch District,,,,2020-02-16,36,,116,49,6,
 AT,Austria,Vorarlberg,Feldkirch District,,,,2020-02-17,4,2,-5,3,1,0
@@ -29818,3 +30008,5 @@ AT,Austria,Vorarlberg,Feldkirch District,,,,2020-12-22,-28,25,0,-38,-31,11
 AT,Austria,Vorarlberg,Feldkirch District,,,,2020-12-23,-26,42,0,-40,-37,11
 AT,Austria,Vorarlberg,Feldkirch District,,,,2020-12-24,-59,-13,-23,-67,-76,23
 AT,Austria,Vorarlberg,Feldkirch District,,,,2020-12-25,-91,-93,-47,-78,-89,27
+AT,Austria,Vorarlberg,Feldkirch District,,,,2020-12-26,-87,-92,4,-62,-61,14
+AT,Austria,Vorarlberg,Feldkirch District,,,,2020-12-27,-74,,-18,-52,-39,8
