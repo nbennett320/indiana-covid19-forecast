@@ -325,6 +325,9 @@ TG,Togo,,,,,,2021-01-02,-16,22,52,-6,-25,19
 TG,Togo,,,,,,2021-01-03,-7,23,53,6,-6,12
 TG,Togo,,,,,,2021-01-04,-8,46,60,17,-1,11
 TG,Togo,,,,,,2021-01-05,-5,43,56,17,3,11
+TG,Togo,,,,,,2021-01-06,-4,43,57,25,4,12
+TG,Togo,,,,,,2021-01-07,-2,45,50,27,2,12
+TG,Togo,,,,,,2021-01-08,1,38,51,19,6,10
 TG,Togo,Centrale Region,,,TG-C,,2020-10-01,,,,,-45,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-05,,,,,-48,
 TG,Togo,Centrale Region,,,TG-C,,2020-10-06,,,,,-44,
@@ -560,6 +563,9 @@ TG,Togo,Kara Region,,,TG-K,,2021-01-01,,,,,-65,
 TG,Togo,Kara Region,,,TG-K,,2021-01-02,,,,,-32,
 TG,Togo,Kara Region,,,TG-K,,2021-01-04,,,,,-27,
 TG,Togo,Kara Region,,,TG-K,,2021-01-05,,,,,-27,
+TG,Togo,Kara Region,,,TG-K,,2021-01-06,,,,,-23,
+TG,Togo,Kara Region,,,TG-K,,2021-01-07,,,,,-24,
+TG,Togo,Kara Region,,,TG-K,,2021-01-08,,,,,-21,
 TG,Togo,Maritime Region,,,TG-M,,2020-02-15,-3,0,-11,-2,2,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-16,-4,-2,-12,-7,-1,1
 TG,Togo,Maritime Region,,,TG-M,,2020-02-17,-7,2,-9,-8,0,1
@@ -886,6 +892,9 @@ TG,Togo,Maritime Region,,,TG-M,,2021-01-02,-17,20,82,-4,-26,20
 TG,Togo,Maritime Region,,,TG-M,,2021-01-03,-9,22,75,9,-5,12
 TG,Togo,Maritime Region,,,TG-M,,2021-01-04,-9,45,102,17,1,12
 TG,Togo,Maritime Region,,,TG-M,,2021-01-05,-6,42,99,18,1,11
+TG,Togo,Maritime Region,,,TG-M,,2021-01-06,-4,43,90,25,5,12
+TG,Togo,Maritime Region,,,TG-M,,2021-01-07,-3,43,83,31,5,12
+TG,Togo,Maritime Region,,,TG-M,,2021-01-08,-1,38,77,21,6,10
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-15,,,,,2,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-17,,,,,0,
 TG,Togo,Plateaux Region,,,TG-P,,2020-02-18,,,,,2,
@@ -1120,4 +1129,7 @@ TG,Togo,Plateaux Region,,,TG-P,,2021-01-01,,,,,-48,
 TG,Togo,Plateaux Region,,,TG-P,,2021-01-02,,,,,-20,
 TG,Togo,Plateaux Region,,,TG-P,,2021-01-04,,,,,-15,
 TG,Togo,Plateaux Region,,,TG-P,,2021-01-05,,,,,-4,
+TG,Togo,Plateaux Region,,,TG-P,,2021-01-06,,,,,-6,
+TG,Togo,Plateaux Region,,,TG-P,,2021-01-07,,,,,-8,
+TG,Togo,Plateaux Region,,,TG-P,,2021-01-08,,,,,-9,
 TG,Togo,Savanes Region,,,TG-S,,2020-07-31,,,,,-50,

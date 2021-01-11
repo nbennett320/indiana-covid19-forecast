@@ -325,6 +325,9 @@ BJ,Benin,,,,,,2021-01-02,-19,36,25,-24,-35,11
 BJ,Benin,,,,,,2021-01-03,-9,53,32,-11,-16,4
 BJ,Benin,,,,,,2021-01-04,-9,49,35,-6,-11,7
 BJ,Benin,,,,,,2021-01-05,-8,50,27,-7,-8,6
+BJ,Benin,,,,,,2021-01-06,-5,54,20,-4,-4,7
+BJ,Benin,,,,,,2021-01-07,-7,55,18,1,-5,6
+BJ,Benin,,,,,,2021-01-08,-7,55,28,0,-3,4
 BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-15,0,2,,,-1,0
 BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-16,0,0,,,1,
 BJ,Benin,Atlantique Department,,,BJ-AQ,,2020-02-17,-7,0,,,1,1
@@ -648,6 +651,9 @@ BJ,Benin,Atlantique Department,,,BJ-AQ,,2021-01-02,-10,59,,,-41,12
 BJ,Benin,Atlantique Department,,,BJ-AQ,,2021-01-03,-6,79,,,-18,3
 BJ,Benin,Atlantique Department,,,BJ-AQ,,2021-01-04,-12,76,,,-12,6
 BJ,Benin,Atlantique Department,,,BJ-AQ,,2021-01-05,-10,76,,,-9,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2021-01-06,-11,71,,,-5,8
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2021-01-07,-7,77,,,-5,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,2021-01-08,-5,67,,,-5,5
 BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-15,,,,,12,
 BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-16,,,,,7,
 BJ,Benin,Borgou Department,,,BJ-BO,,2020-02-17,,,,,3,
@@ -949,6 +955,9 @@ BJ,Benin,Borgou Department,,,BJ-BO,,2021-01-02,,,,,-31,
 BJ,Benin,Borgou Department,,,BJ-BO,,2021-01-03,,,,,-21,
 BJ,Benin,Borgou Department,,,BJ-BO,,2021-01-04,,,,,-11,
 BJ,Benin,Borgou Department,,,BJ-BO,,2021-01-05,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,2021-01-06,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,2021-01-07,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,2021-01-08,,,,,-10,
 BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-15,4,1,1,3,1,0
 BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-16,1,-1,4,-3,-1,0
 BJ,Benin,Littoral Department,,,BJ-LI,,2020-02-17,1,-2,,2,0,1
@@ -1275,6 +1284,9 @@ BJ,Benin,Littoral Department,,,BJ-LI,,2021-01-02,-14,20,,-31,-32,10
 BJ,Benin,Littoral Department,,,BJ-LI,,2021-01-03,-9,32,,-18,-10,4
 BJ,Benin,Littoral Department,,,BJ-LI,,2021-01-04,-8,36,,-12,-7,7
 BJ,Benin,Littoral Department,,,BJ-LI,,2021-01-05,-6,36,,-15,-5,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2021-01-06,0,39,,-9,-2,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2021-01-07,-5,44,,-6,-1,7
+BJ,Benin,Littoral Department,,,BJ-LI,,2021-01-08,0,42,,-6,0,4
 BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-15,,4,,,3,
 BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-16,,8,,,5,
 BJ,Benin,Ouémé Department,,,BJ-OU,,2020-02-17,,7,,,5,
@@ -1576,6 +1588,9 @@ BJ,Benin,Ouémé Department,,,BJ-OU,,2021-01-02,,51,,,-38,
 BJ,Benin,Ouémé Department,,,BJ-OU,,2021-01-03,,69,,,-10,
 BJ,Benin,Ouémé Department,,,BJ-OU,,2021-01-04,-26,56,,,-16,
 BJ,Benin,Ouémé Department,,,BJ-OU,,2021-01-05,,68,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2021-01-06,-24,76,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2021-01-07,-29,56,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,2021-01-08,,68,,,-5,
 BJ,Benin,Zou Department,,,BJ-ZO,,2020-02-17,,,,,2,
 BJ,Benin,Zou Department,,,BJ-ZO,,2020-02-24,,,,,-7,
 BJ,Benin,Zou Department,,,BJ-ZO,,2020-02-27,,,,,-2,
@@ -1677,3 +1692,5 @@ BJ,Benin,Zou Department,,,BJ-ZO,,2020-12-31,,,,,-28,
 BJ,Benin,Zou Department,,,BJ-ZO,,2021-01-01,,,,,-60,
 BJ,Benin,Zou Department,,,BJ-ZO,,2021-01-04,,,,,-25,
 BJ,Benin,Zou Department,,,BJ-ZO,,2021-01-05,,,,,-18,
+BJ,Benin,Zou Department,,,BJ-ZO,,2021-01-06,,,,,-12,
+BJ,Benin,Zou Department,,,BJ-ZO,,2021-01-07,,,,,-11,

@@ -325,6 +325,9 @@ UG,Uganda,,,,,,2021-01-02,-32,-14,-5,-29,-16,19
 UG,Uganda,,,,,,2021-01-03,-29,-5,1,-24,2,16
 UG,Uganda,,,,,,2021-01-04,-22,-4,-1,-19,-13,16
 UG,Uganda,,,,,,2021-01-05,-22,-5,-4,-19,-11,16
+UG,Uganda,,,,,,2021-01-06,-23,-5,-5,-19,-11,16
+UG,Uganda,,,,,,2021-01-07,-24,-5,-1,-20,-12,16
+UG,Uganda,,,,,,2021-01-08,-28,-6,-2,-22,-7,15
 UG,Uganda,Central Region,,,UG-C,,2020-02-15,4,3,-3,7,7,1
 UG,Uganda,Central Region,,,UG-C,,2020-02-16,3,2,-5,4,4,2
 UG,Uganda,Central Region,,,UG-C,,2020-02-17,1,0,-3,0,9,0
@@ -651,6 +654,9 @@ UG,Uganda,Central Region,,,UG-C,,2021-01-02,-34,-16,-11,-36,-17,20
 UG,Uganda,Central Region,,,UG-C,,2021-01-03,-29,-7,-4,-29,1,17
 UG,Uganda,Central Region,,,UG-C,,2021-01-04,-22,-5,-4,-26,-14,17
 UG,Uganda,Central Region,,,UG-C,,2021-01-05,-22,-6,-8,-23,-13,17
+UG,Uganda,Central Region,,,UG-C,,2021-01-06,-24,-7,-9,-26,-12,17
+UG,Uganda,Central Region,,,UG-C,,2021-01-07,-25,-5,-8,-26,-14,17
+UG,Uganda,Central Region,,,UG-C,,2021-01-08,-30,-9,-6,-27,-8,16
 UG,Uganda,Central Region,Buikwe,,,,2020-03-27,,,,,-23,
 UG,Uganda,Central Region,Buikwe,,,,2020-03-30,,,,,-23,
 UG,Uganda,Central Region,Buikwe,,,,2020-03-31,,,,,-32,
@@ -872,6 +878,9 @@ UG,Uganda,Central Region,Buikwe,,,,2021-01-02,,,,,-9,
 UG,Uganda,Central Region,Buikwe,,,,2021-01-03,,,,,13,
 UG,Uganda,Central Region,Buikwe,,,,2021-01-04,,,,,-7,
 UG,Uganda,Central Region,Buikwe,,,,2021-01-05,,,,,-3,
+UG,Uganda,Central Region,Buikwe,,,,2021-01-06,,,,,7,
+UG,Uganda,Central Region,Buikwe,,,,2021-01-07,,,,,-1,
+UG,Uganda,Central Region,Buikwe,,,,2021-01-08,,,,,10,
 UG,Uganda,Central Region,Buvuma,,,,2020-02-15,,,-8,,,
 UG,Uganda,Central Region,Buvuma,,,,2020-02-16,,,-2,,,
 UG,Uganda,Central Region,Buvuma,,,,2020-02-17,,,-4,,,
@@ -1173,6 +1182,9 @@ UG,Uganda,Central Region,Buvuma,,,,2021-01-02,,,-11,,,
 UG,Uganda,Central Region,Buvuma,,,,2021-01-03,,,1,,,
 UG,Uganda,Central Region,Buvuma,,,,2021-01-04,,,-10,,,
 UG,Uganda,Central Region,Buvuma,,,,2021-01-05,,,-17,,,
+UG,Uganda,Central Region,Buvuma,,,,2021-01-06,,,-17,,,
+UG,Uganda,Central Region,Buvuma,,,,2021-01-07,,,-5,,,
+UG,Uganda,Central Region,Buvuma,,,,2021-01-08,,,-4,,,
 UG,Uganda,Central Region,Kampala,,UG-102,,2020-02-15,7,5,1,8,8,0
 UG,Uganda,Central Region,Kampala,,UG-102,,2020-02-16,4,4,0,4,4,1
 UG,Uganda,Central Region,Kampala,,UG-102,,2020-02-17,2,1,-2,-1,10,0
@@ -1499,6 +1511,9 @@ UG,Uganda,Central Region,Kampala,,UG-102,,2021-01-02,-36,-19,-29,-39,-19,22
 UG,Uganda,Central Region,Kampala,,UG-102,,2021-01-03,-34,-11,-22,-36,-1,18
 UG,Uganda,Central Region,Kampala,,UG-102,,2021-01-04,-23,-7,-22,-29,-18,19
 UG,Uganda,Central Region,Kampala,,UG-102,,2021-01-05,-24,-9,-24,-27,-17,19
+UG,Uganda,Central Region,Kampala,,UG-102,,2021-01-06,-25,-9,-20,-30,-16,19
+UG,Uganda,Central Region,Kampala,,UG-102,,2021-01-07,-26,-8,-22,-32,-17,19
+UG,Uganda,Central Region,Kampala,,UG-102,,2021-01-08,-30,-10,-21,-34,-12,18
 UG,Uganda,Central Region,Luwero,,UG-104,,2020-06-08,,,,,0,
 UG,Uganda,Central Region,Luwero,,UG-104,,2020-06-09,,,,,-14,
 UG,Uganda,Central Region,Luwero,,UG-104,,2020-06-10,,,,,-8,
@@ -1661,6 +1676,9 @@ UG,Uganda,Central Region,Luwero,,UG-104,,2021-01-01,,,,,-34,
 UG,Uganda,Central Region,Luwero,,UG-104,,2021-01-02,,,,,-17,
 UG,Uganda,Central Region,Luwero,,UG-104,,2021-01-04,,,,,-18,
 UG,Uganda,Central Region,Luwero,,UG-104,,2021-01-05,,,,,-22,
+UG,Uganda,Central Region,Luwero,,UG-104,,2021-01-06,,,,,-14,
+UG,Uganda,Central Region,Luwero,,UG-104,,2021-01-07,,,,,-7,
+UG,Uganda,Central Region,Luwero,,UG-104,,2021-01-08,,,,,-2,
 UG,Uganda,Central Region,Masaka,,UG-105,,2020-02-20,,,,,5,
 UG,Uganda,Central Region,Masaka,,UG-105,,2020-03-05,,,,,5,
 UG,Uganda,Central Region,Masaka,,UG-105,,2020-03-12,,,,,4,
@@ -1898,6 +1916,9 @@ UG,Uganda,Central Region,Masaka,,UG-105,,2021-01-02,,,,,5,
 UG,Uganda,Central Region,Masaka,,UG-105,,2021-01-03,,,,,4,
 UG,Uganda,Central Region,Masaka,,UG-105,,2021-01-04,,,,,-5,
 UG,Uganda,Central Region,Masaka,,UG-105,,2021-01-05,,,,,-7,
+UG,Uganda,Central Region,Masaka,,UG-105,,2021-01-06,,,,,4,
+UG,Uganda,Central Region,Masaka,,UG-105,,2021-01-07,,,,,-3,
+UG,Uganda,Central Region,Masaka,,UG-105,,2021-01-08,,,,,9,
 UG,Uganda,Central Region,Mukono,,UG-108,,2020-02-15,,,-9,10,9,-2
 UG,Uganda,Central Region,Mukono,,UG-108,,2020-02-16,,,-16,-4,5,
 UG,Uganda,Central Region,Mukono,,UG-108,,2020-02-17,,,,2,12,-2
@@ -2220,6 +2241,9 @@ UG,Uganda,Central Region,Mukono,,UG-108,,2021-01-02,,,22,-18,-13,18
 UG,Uganda,Central Region,Mukono,,UG-108,,2021-01-03,,,27,2,9,
 UG,Uganda,Central Region,Mukono,,UG-108,,2021-01-04,,,,-4,-8,18
 UG,Uganda,Central Region,Mukono,,UG-108,,2021-01-05,,,,2,-6,18
+UG,Uganda,Central Region,Mukono,,UG-108,,2021-01-06,,,,6,-5,18
+UG,Uganda,Central Region,Mukono,,UG-108,,2021-01-07,,,,11,-6,16
+UG,Uganda,Central Region,Mukono,,UG-108,,2021-01-08,,,,12,-1,17
 UG,Uganda,Central Region,Nakasongola,,UG-109,,2020-02-15,,,-18,,,
 UG,Uganda,Central Region,Nakasongola,,UG-109,,2020-02-16,,,-16,,,
 UG,Uganda,Central Region,Nakasongola,,UG-109,,2020-02-17,,,-9,,,
@@ -2460,6 +2484,7 @@ UG,Uganda,Central Region,Nakasongola,,UG-109,,2020-12-19,,,37,,,
 UG,Uganda,Central Region,Nakasongola,,UG-109,,2020-12-20,,,45,,,
 UG,Uganda,Central Region,Nakasongola,,UG-109,,2021-01-02,,,42,,,
 UG,Uganda,Central Region,Nakasongola,,UG-109,,2021-01-03,,,59,,,
+UG,Uganda,Central Region,Nakasongola,,UG-109,,2021-01-08,,,25,,,
 UG,Uganda,Central Region,Wakiso,,UG-113,,2020-02-15,-3,-5,1,-1,5,0
 UG,Uganda,Central Region,Wakiso,,UG-113,,2020-02-16,-1,-6,-6,6,4,1
 UG,Uganda,Central Region,Wakiso,,UG-113,,2020-02-17,-1,-3,-4,4,7,-1
@@ -2786,6 +2811,9 @@ UG,Uganda,Central Region,Wakiso,,UG-113,,2021-01-02,-28,-2,-4,-23,-10,20
 UG,Uganda,Central Region,Wakiso,,UG-113,,2021-01-03,-22,2,-3,-17,-1,16
 UG,Uganda,Central Region,Wakiso,,UG-113,,2021-01-04,-24,4,9,-20,-8,17
 UG,Uganda,Central Region,Wakiso,,UG-113,,2021-01-05,-22,3,19,-14,-4,15
+UG,Uganda,Central Region,Wakiso,,UG-113,,2021-01-06,-24,1,15,-12,-7,17
+UG,Uganda,Central Region,Wakiso,,UG-113,,2021-01-07,-22,0,8,-11,-9,16
+UG,Uganda,Central Region,Wakiso,,UG-113,,2021-01-08,-23,-4,-6,-10,-3,15
 UG,Uganda,Eastern Region,,,UG-E,,2020-02-15,-2,-3,,,3,
 UG,Uganda,Eastern Region,,,UG-E,,2020-02-16,-3,,,,5,
 UG,Uganda,Eastern Region,,,UG-E,,2020-02-17,-6,-9,,,6,-1
@@ -3105,6 +3133,9 @@ UG,Uganda,Eastern Region,,,UG-E,,2021-01-02,-15,6,,,-4,12
 UG,Uganda,Eastern Region,,,UG-E,,2021-01-03,-13,,,,12,
 UG,Uganda,Eastern Region,,,UG-E,,2021-01-04,-8,,,,3,9
 UG,Uganda,Eastern Region,,,UG-E,,2021-01-05,-9,,,,1,8
+UG,Uganda,Eastern Region,,,UG-E,,2021-01-06,-7,,,,6,9
+UG,Uganda,Eastern Region,,,UG-E,,2021-01-07,-9,,,,5,8
+UG,Uganda,Eastern Region,,,UG-E,,2021-01-08,-12,,,,9,10
 UG,Uganda,Eastern Region,Iganga,,UG-203,,2020-06-08,,,,,8,
 UG,Uganda,Eastern Region,Iganga,,UG-203,,2020-06-09,,,,,-2,
 UG,Uganda,Eastern Region,Iganga,,UG-203,,2020-06-10,,,,,8,
@@ -3222,6 +3253,8 @@ UG,Uganda,Eastern Region,Iganga,,UG-203,,2020-12-31,,,,,-6,
 UG,Uganda,Eastern Region,Iganga,,UG-203,,2021-01-01,,,,,-31,
 UG,Uganda,Eastern Region,Iganga,,UG-203,,2021-01-04,,,,,2,
 UG,Uganda,Eastern Region,Iganga,,UG-203,,2021-01-05,,,,,6,
+UG,Uganda,Eastern Region,Iganga,,UG-203,,2021-01-06,,,,,6,
+UG,Uganda,Eastern Region,Iganga,,UG-203,,2021-01-07,,,,,5,
 UG,Uganda,Eastern Region,Jinja,,UG-204,,2020-02-15,,-7,,,-2,
 UG,Uganda,Eastern Region,Jinja,,UG-204,,2020-02-16,,,,,3,
 UG,Uganda,Eastern Region,Jinja,,UG-204,,2020-02-17,,-13,,,8,
@@ -3515,6 +3548,9 @@ UG,Uganda,Eastern Region,Jinja,,UG-204,,2021-01-02,-31,-9,,,-1,
 UG,Uganda,Eastern Region,Jinja,,UG-204,,2021-01-03,,,,,10,
 UG,Uganda,Eastern Region,Jinja,,UG-204,,2021-01-04,,-4,,,2,
 UG,Uganda,Eastern Region,Jinja,,UG-204,,2021-01-05,,,,,-1,
+UG,Uganda,Eastern Region,Jinja,,UG-204,,2021-01-06,,,,,3,
+UG,Uganda,Eastern Region,Jinja,,UG-204,,2021-01-07,,,,,5,
+UG,Uganda,Eastern Region,Jinja,,UG-204,,2021-01-08,,-4,,,9,
 UG,Uganda,Eastern Region,Mbale,,UG-209,,2020-02-15,,,,,6,
 UG,Uganda,Eastern Region,Mbale,,UG-209,,2020-02-17,,,,,4,
 UG,Uganda,Eastern Region,Mbale,,UG-209,,2020-02-18,,,,,10,
@@ -3799,6 +3835,9 @@ UG,Uganda,Eastern Region,Mbale,,UG-209,,2021-01-02,,,,,-2,
 UG,Uganda,Eastern Region,Mbale,,UG-209,,2021-01-03,,,,,23,
 UG,Uganda,Eastern Region,Mbale,,UG-209,,2021-01-04,,,,,10,
 UG,Uganda,Eastern Region,Mbale,,UG-209,,2021-01-05,,,,,10,
+UG,Uganda,Eastern Region,Mbale,,UG-209,,2021-01-06,,,,,12,
+UG,Uganda,Eastern Region,Mbale,,UG-209,,2021-01-07,,,,,11,
+UG,Uganda,Eastern Region,Mbale,,UG-209,,2021-01-08,,,,,15,
 UG,Uganda,Northern Region,,,UG-N,,2020-02-15,1,,-10,-2,4,
 UG,Uganda,Northern Region,,,UG-N,,2020-02-16,1,,-5,-2,3,
 UG,Uganda,Northern Region,,,UG-N,,2020-02-17,,,-1,-12,7,
@@ -4100,6 +4139,9 @@ UG,Uganda,Northern Region,,,UG-N,,2021-01-02,,,44,4,-15,
 UG,Uganda,Northern Region,,,UG-N,,2021-01-03,,,,,-2,
 UG,Uganda,Northern Region,,,UG-N,,2021-01-04,,,,,-9,
 UG,Uganda,Northern Region,,,UG-N,,2021-01-05,,,,,-5,
+UG,Uganda,Northern Region,,,UG-N,,2021-01-06,,,,0,-4,
+UG,Uganda,Northern Region,,,UG-N,,2021-01-07,,,,,-3,
+UG,Uganda,Northern Region,,,UG-N,,2021-01-08,,,,,-3,
 UG,Uganda,Northern Region,Arua,,UG-303,,2020-02-17,,,,,2,
 UG,Uganda,Northern Region,Arua,,UG-303,,2020-02-18,,,,,-5,
 UG,Uganda,Northern Region,Arua,,UG-303,,2020-02-19,,,,,-5,
@@ -4362,6 +4404,9 @@ UG,Uganda,Northern Region,Arua,,UG-303,,2021-01-02,,,,,-15,
 UG,Uganda,Northern Region,Arua,,UG-303,,2021-01-03,,,,,24,
 UG,Uganda,Northern Region,Arua,,UG-303,,2021-01-04,,,,,-1,
 UG,Uganda,Northern Region,Arua,,UG-303,,2021-01-05,,,,,-11,
+UG,Uganda,Northern Region,Arua,,UG-303,,2021-01-06,,,,,-4,
+UG,Uganda,Northern Region,Arua,,UG-303,,2021-01-07,,,,,-1,
+UG,Uganda,Northern Region,Arua,,UG-303,,2021-01-08,,,,,6,
 UG,Uganda,Northern Region,Gulu,,UG-304,,2020-02-17,,,,,9,
 UG,Uganda,Northern Region,Gulu,,UG-304,,2020-02-18,,,,,14,
 UG,Uganda,Northern Region,Gulu,,UG-304,,2020-02-19,,,,,11,
@@ -4629,6 +4674,9 @@ UG,Uganda,Northern Region,Gulu,,UG-304,,2021-01-02,,,,,-13,
 UG,Uganda,Northern Region,Gulu,,UG-304,,2021-01-03,,,,,-1,
 UG,Uganda,Northern Region,Gulu,,UG-304,,2021-01-04,,,,,-12,
 UG,Uganda,Northern Region,Gulu,,UG-304,,2021-01-05,,,,,1,
+UG,Uganda,Northern Region,Gulu,,UG-304,,2021-01-06,,,,,0,
+UG,Uganda,Northern Region,Gulu,,UG-304,,2021-01-07,,,,,3,
+UG,Uganda,Northern Region,Gulu,,UG-304,,2021-01-08,,,,,4,
 UG,Uganda,Northern Region,Lira,,UG-307,,2020-02-18,,,,,6,
 UG,Uganda,Northern Region,Lira,,UG-307,,2020-02-25,,,,,3,
 UG,Uganda,Northern Region,Lira,,UG-307,,2020-03-10,,,,,4,
@@ -4866,6 +4914,9 @@ UG,Uganda,Northern Region,Lira,,UG-307,,2021-01-02,,,,,9,
 UG,Uganda,Northern Region,Lira,,UG-307,,2021-01-03,,,,,13,
 UG,Uganda,Northern Region,Lira,,UG-307,,2021-01-04,,,,,5,
 UG,Uganda,Northern Region,Lira,,UG-307,,2021-01-05,,,,,4,
+UG,Uganda,Northern Region,Lira,,UG-307,,2021-01-06,,,,,7,
+UG,Uganda,Northern Region,Lira,,UG-307,,2021-01-07,,,,,17,
+UG,Uganda,Northern Region,Lira,,UG-307,,2021-01-08,,,,,13,
 UG,Uganda,Western Region,,,UG-W,,2020-02-15,13,4,4,8,7,1
 UG,Uganda,Western Region,,,UG-W,,2020-02-16,11,,-5,1,7,
 UG,Uganda,Western Region,,,UG-W,,2020-02-17,3,,-7,-4,12,1
@@ -5187,6 +5238,9 @@ UG,Uganda,Western Region,,,UG-W,,2021-01-02,-29,-7,22,-9,-12,13
 UG,Uganda,Western Region,,,UG-W,,2021-01-03,-21,,24,-5,2,9
 UG,Uganda,Western Region,,,UG-W,,2021-01-04,-22,,20,-2,-10,12
 UG,Uganda,Western Region,,,UG-W,,2021-01-05,-22,,19,-2,-8,11
+UG,Uganda,Western Region,,,UG-W,,2021-01-06,-19,,16,-1,-7,11
+UG,Uganda,Western Region,,,UG-W,,2021-01-07,-16,,19,-5,-9,10
+UG,Uganda,Western Region,,,UG-W,,2021-01-08,-20,8,16,-4,-2,9
 UG,Uganda,Western Region,Hoima,,UG-403,,2020-06-08,,,,,8,
 UG,Uganda,Western Region,Hoima,,UG-403,,2020-06-09,,,,,-5,
 UG,Uganda,Western Region,Hoima,,UG-403,,2020-06-10,,,,,0,
@@ -5347,6 +5401,9 @@ UG,Uganda,Western Region,Hoima,,UG-403,,2021-01-01,,,,,-22,
 UG,Uganda,Western Region,Hoima,,UG-403,,2021-01-02,,,,,-2,
 UG,Uganda,Western Region,Hoima,,UG-403,,2021-01-04,,,,,8,
 UG,Uganda,Western Region,Hoima,,UG-403,,2021-01-05,,,,,4,
+UG,Uganda,Western Region,Hoima,,UG-403,,2021-01-06,,,,,4,
+UG,Uganda,Western Region,Hoima,,UG-403,,2021-01-07,,,,,2,
+UG,Uganda,Western Region,Hoima,,UG-403,,2021-01-08,,,,,9,
 UG,Uganda,Western Region,Kabarole,,UG-405,,2020-02-15,,,,-7,,
 UG,Uganda,Western Region,Kabarole,,UG-405,,2020-02-16,,,,2,,
 UG,Uganda,Western Region,Kabarole,,UG-405,,2020-02-17,,,,2,,
@@ -5648,6 +5705,9 @@ UG,Uganda,Western Region,Kabarole,,UG-405,,2021-01-02,,,,-14,-15,
 UG,Uganda,Western Region,Kabarole,,UG-405,,2021-01-03,,,,-7,,
 UG,Uganda,Western Region,Kabarole,,UG-405,,2021-01-04,,,,-15,-3,
 UG,Uganda,Western Region,Kabarole,,UG-405,,2021-01-05,,,,-14,7,
+UG,Uganda,Western Region,Kabarole,,UG-405,,2021-01-06,,,,-19,1,
+UG,Uganda,Western Region,Kabarole,,UG-405,,2021-01-07,,,,-15,16,
+UG,Uganda,Western Region,Kabarole,,UG-405,,2021-01-08,,,,-10,12,
 UG,Uganda,Western Region,Kasese,,UG-406,,2020-06-08,,,,,9,
 UG,Uganda,Western Region,Kasese,,UG-406,,2020-06-09,,,,,-2,
 UG,Uganda,Western Region,Kasese,,UG-406,,2020-06-10,,,,,1,
@@ -5768,6 +5828,9 @@ UG,Uganda,Western Region,Kasese,,UG-406,,2020-12-31,,,,,-22,
 UG,Uganda,Western Region,Kasese,,UG-406,,2021-01-01,,,,,-55,
 UG,Uganda,Western Region,Kasese,,UG-406,,2021-01-04,,,,,1,
 UG,Uganda,Western Region,Kasese,,UG-406,,2021-01-05,,,,,-11,
+UG,Uganda,Western Region,Kasese,,UG-406,,2021-01-06,,,,,-2,
+UG,Uganda,Western Region,Kasese,,UG-406,,2021-01-07,,,,,-5,
+UG,Uganda,Western Region,Kasese,,UG-406,,2021-01-08,,,,,-7,
 UG,Uganda,Western Region,Mbarara,,UG-410,,2020-02-15,20,,,12,14,
 UG,Uganda,Western Region,Mbarara,,UG-410,,2020-02-16,14,,,7,11,
 UG,Uganda,Western Region,Mbarara,,UG-410,,2020-02-17,0,,,-6,19,
@@ -6069,3 +6132,6 @@ UG,Uganda,Western Region,Mbarara,,UG-410,,2021-01-02,-44,,,-23,-4,
 UG,Uganda,Western Region,Mbarara,,UG-410,,2021-01-03,-37,,,-7,9,
 UG,Uganda,Western Region,Mbarara,,UG-410,,2021-01-04,-39,,,-7,-4,
 UG,Uganda,Western Region,Mbarara,,UG-410,,2021-01-05,-39,,,-21,-6,
+UG,Uganda,Western Region,Mbarara,,UG-410,,2021-01-06,-34,,,-18,2,
+UG,Uganda,Western Region,Mbarara,,UG-410,,2021-01-07,-34,,,-19,-1,
+UG,Uganda,Western Region,Mbarara,,UG-410,,2021-01-08,-39,,,-24,2,

@@ -319,6 +319,9 @@ AG,Antigua and Barbuda,,,,,,2021-01-02,-5,0,66,-32,-22,4
 AG,Antigua and Barbuda,,,,,,2021-01-03,-11,-6,77,-34,-25,1
 AG,Antigua and Barbuda,,,,,,2021-01-04,-5,1,74,-25,-24,3
 AG,Antigua and Barbuda,,,,,,2021-01-05,-9,-3,65,-33,-20,3
+AG,Antigua and Barbuda,,,,,,2021-01-06,-5,-2,66,-33,-19,3
+AG,Antigua and Barbuda,,,,,,2021-01-07,-2,1,63,-32,-20,3
+AG,Antigua and Barbuda,,,,,,2021-01-08,-5,-3,61,-30,-17,0
 AG,Antigua and Barbuda,Saint George,,,AG-03,,2020-02-15,,,,4,,
 AG,Antigua and Barbuda,Saint George,,,AG-03,,2020-02-16,,,,-2,,
 AG,Antigua and Barbuda,Saint George,,,AG-03,,2020-02-17,,,,-15,,
@@ -611,6 +614,9 @@ AG,Antigua and Barbuda,Saint George,,,AG-03,,2021-01-02,,,,-33,,
 AG,Antigua and Barbuda,Saint George,,,AG-03,,2021-01-03,,,,-27,,
 AG,Antigua and Barbuda,Saint George,,,AG-03,,2021-01-04,,,,-32,,
 AG,Antigua and Barbuda,Saint George,,,AG-03,,2021-01-05,,,,-45,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,2021-01-06,,,,-37,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,2021-01-07,,,,-44,,
+AG,Antigua and Barbuda,Saint George,,,AG-03,,2021-01-08,,,,-36,,
 AG,Antigua and Barbuda,Saint John,,,AG-04,,2020-02-15,-5,0,-4,1,-1,
 AG,Antigua and Barbuda,Saint John,,,AG-04,,2020-02-16,-8,0,-3,,-2,
 AG,Antigua and Barbuda,Saint John,,,AG-04,,2020-02-17,-1,-1,-1,2,1,3
@@ -930,6 +936,9 @@ AG,Antigua and Barbuda,Saint John,,,AG-04,,2021-01-02,-3,1,80,-29,-20,4
 AG,Antigua and Barbuda,Saint John,,,AG-04,,2021-01-03,-11,-7,101,,-23,
 AG,Antigua and Barbuda,Saint John,,,AG-04,,2021-01-04,0,2,96,-26,-22,4
 AG,Antigua and Barbuda,Saint John,,,AG-04,,2021-01-05,-6,-4,93,-31,-20,5
+AG,Antigua and Barbuda,Saint John,,,AG-04,,2021-01-06,-1,-2,86,-29,-18,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,2021-01-07,1,0,87,-27,-19,4
+AG,Antigua and Barbuda,Saint John,,,AG-04,,2021-01-08,-3,-1,78,-26,-16,1
 AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2020-03-16,,,,,-14,
 AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2020-03-18,,,,,-19,
 AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2020-03-20,,,,,-17,
@@ -1119,6 +1128,8 @@ AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2020-12-31,,,,,-38,
 AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2021-01-01,,,,,-73,
 AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2021-01-04,,,,,-24,
 AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2021-01-05,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2021-01-06,,,,,-24,
+AG,Antigua and Barbuda,Saint Mary,,,AG-05,,2021-01-07,,,,,-18,
 AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2020-02-21,,,,,-12,
 AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2020-02-27,,,,,-2,
 AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2020-03-16,,,,,-16,
@@ -1312,3 +1323,6 @@ AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2020-12-31,,,,,-42,
 AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2021-01-01,,,,,-77,
 AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2021-01-04,,,,,-25,
 AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2021-01-05,,,,,-26,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2021-01-06,,,,,-24,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2021-01-07,,,,,-23,
+AG,Antigua and Barbuda,Saint Paul,,,AG-06,,2021-01-08,,,,,-24,

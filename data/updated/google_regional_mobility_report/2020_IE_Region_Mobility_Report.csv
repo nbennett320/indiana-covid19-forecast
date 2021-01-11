@@ -325,6 +325,9 @@ IE,Ireland,,,,,,2021-01-02,-68,-16,-15,-66,-42,17
 IE,Ireland,,,,,,2021-01-03,-66,-22,-19,-65,-31,14
 IE,Ireland,,,,,,2021-01-04,-53,-11,-17,-64,-54,22
 IE,Ireland,,,,,,2021-01-05,-52,-9,-3,-64,-54,21
+IE,Ireland,,,,,,2021-01-06,-55,-13,-10,-66,-53,23
+IE,Ireland,,,,,,2021-01-07,-60,-17,-23,-68,-54,25
+IE,Ireland,,,,,,2021-01-08,-61,-14,-15,-67,-52,25
 IE,Ireland,County Carlow,,,IE-CW,,2020-02-15,-6,-9,-20,,-1,
 IE,Ireland,County Carlow,,,IE-CW,,2020-02-16,-3,-4,-12,,2,
 IE,Ireland,County Carlow,,,IE-CW,,2020-02-17,6,0,,,-9,2
@@ -636,6 +639,9 @@ IE,Ireland,County Carlow,,,IE-CW,,2021-01-02,-63,-24,-15,,-42,
 IE,Ireland,County Carlow,,,IE-CW,,2021-01-03,-64,-24,-4,,-31,
 IE,Ireland,County Carlow,,,IE-CW,,2021-01-04,-48,-14,,,-50,18
 IE,Ireland,County Carlow,,,IE-CW,,2021-01-05,-46,-12,,-74,-47,19
+IE,Ireland,County Carlow,,,IE-CW,,2021-01-06,-47,-17,,,-46,19
+IE,Ireland,County Carlow,,,IE-CW,,2021-01-07,-55,-23,,-74,-49,21
+IE,Ireland,County Carlow,,,IE-CW,,2021-01-08,-56,-20,-24,-75,-45,21
 IE,Ireland,County Cavan,,,IE-CN,,2020-02-15,-1,-2,-32,,-2,
 IE,Ireland,County Cavan,,,IE-CN,,2020-02-16,2,-10,,,-1,
 IE,Ireland,County Cavan,,,IE-CN,,2020-02-17,7,-4,,,-6,1
@@ -956,6 +962,9 @@ IE,Ireland,County Cavan,,,IE-CN,,2021-01-02,-56,-13,,,-41,14
 IE,Ireland,County Cavan,,,IE-CN,,2021-01-03,-56,-17,,,-29,
 IE,Ireland,County Cavan,,,IE-CN,,2021-01-04,-44,0,,,-42,15
 IE,Ireland,County Cavan,,,IE-CN,,2021-01-05,-38,-1,,,-41,14
+IE,Ireland,County Cavan,,,IE-CN,,2021-01-06,-45,-7,,,-41,16
+IE,Ireland,County Cavan,,,IE-CN,,2021-01-07,-54,-16,,,-42,18
+IE,Ireland,County Cavan,,,IE-CN,,2021-01-08,-51,-11,,,-40,19
 IE,Ireland,County Clare,,,IE-CE,,2020-02-15,-5,-2,-21,10,-1,
 IE,Ireland,County Clare,,,IE-CE,,2020-02-16,-9,-10,-30,7,-3,
 IE,Ireland,County Clare,,,IE-CE,,2020-02-17,6,1,,12,-9,2
@@ -1276,6 +1285,9 @@ IE,Ireland,County Clare,,,IE-CE,,2021-01-02,-62,-13,-27,-62,-43,17
 IE,Ireland,County Clare,,,IE-CE,,2021-01-03,-59,-19,-15,-66,-33,13
 IE,Ireland,County Clare,,,IE-CE,,2021-01-04,-45,-5,-8,-55,-51,20
 IE,Ireland,County Clare,,,IE-CE,,2021-01-05,-45,-6,-7,-52,-52,20
+IE,Ireland,County Clare,,,IE-CE,,2021-01-06,-48,-10,-16,-58,-51,20
+IE,Ireland,County Clare,,,IE-CE,,2021-01-07,-52,-13,-26,-60,-52,23
+IE,Ireland,County Clare,,,IE-CE,,2021-01-08,-55,-9,-29,-63,-50,24
 IE,Ireland,County Cork,,,IE-CO,,2020-02-15,-17,-9,-43,-22,-4,4
 IE,Ireland,County Cork,,,IE-CO,,2020-02-16,-9,-7,-40,-6,-2,2
 IE,Ireland,County Cork,,,IE-CO,,2020-02-17,9,1,9,3,-7,1
@@ -1602,6 +1614,9 @@ IE,Ireland,County Cork,,,IE-CO,,2021-01-02,-66,-17,-4,-64,-42,18
 IE,Ireland,County Cork,,,IE-CO,,2021-01-03,-62,-21,-6,-58,-31,14
 IE,Ireland,County Cork,,,IE-CO,,2021-01-04,-49,-13,-2,-60,-52,21
 IE,Ireland,County Cork,,,IE-CO,,2021-01-05,-49,-14,11,-61,-53,21
+IE,Ireland,County Cork,,,IE-CO,,2021-01-06,-49,-16,7,-60,-50,22
+IE,Ireland,County Cork,,,IE-CO,,2021-01-07,-58,-22,-9,-64,-53,25
+IE,Ireland,County Cork,,,IE-CO,,2021-01-08,-57,-16,-8,-62,-51,25
 IE,Ireland,County Donegal,,,IE-DL,,2020-02-15,-1,-2,-24,-4,0,1
 IE,Ireland,County Donegal,,,IE-DL,,2020-02-16,-1,0,-22,-9,1,
 IE,Ireland,County Donegal,,,IE-DL,,2020-02-17,14,8,11,8,-11,1
@@ -1925,6 +1940,9 @@ IE,Ireland,County Donegal,,,IE-DL,,2021-01-02,-66,-11,-10,-34,-43,15
 IE,Ireland,County Donegal,,,IE-DL,,2021-01-03,-62,-10,9,-33,-34,12
 IE,Ireland,County Donegal,,,IE-DL,,2021-01-04,-47,3,-6,-38,-49,16
 IE,Ireland,County Donegal,,,IE-DL,,2021-01-05,-48,1,0,-40,-47,15
+IE,Ireland,County Donegal,,,IE-DL,,2021-01-06,-49,-3,-14,-47,-47,18
+IE,Ireland,County Donegal,,,IE-DL,,2021-01-07,-56,-9,-29,-49,-46,20
+IE,Ireland,County Donegal,,,IE-DL,,2021-01-08,-58,-7,-33,-49,-46,19
 IE,Ireland,County Dublin,,,IE-D,,2020-02-15,-10,-8,-40,-9,-4,2
 IE,Ireland,County Dublin,,,IE-D,,2020-02-16,-4,-5,-34,-5,-1,2
 IE,Ireland,County Dublin,,,IE-D,,2020-02-17,5,-2,4,1,-7,2
@@ -2251,6 +2269,9 @@ IE,Ireland,County Dublin,,,IE-D,,2021-01-02,-71,-20,-12,-71,-41,19
 IE,Ireland,County Dublin,,,IE-D,,2021-01-03,-70,-25,-32,-69,-30,17
 IE,Ireland,County Dublin,,,IE-D,,2021-01-04,-60,-20,-31,-70,-62,27
 IE,Ireland,County Dublin,,,IE-D,,2021-01-05,-59,-13,-8,-70,-62,27
+IE,Ireland,County Dublin,,,IE-D,,2021-01-06,-61,-18,-19,-73,-62,28
+IE,Ireland,County Dublin,,,IE-D,,2021-01-07,-65,-20,-24,-74,-62,30
+IE,Ireland,County Dublin,,,IE-D,,2021-01-08,-66,-16,-8,-72,-60,30
 IE,Ireland,County Galway,,,IE-G,,2020-02-15,-10,-3,-25,-20,-3,4
 IE,Ireland,County Galway,,,IE-G,,2020-02-16,-11,-7,-24,-28,-2,3
 IE,Ireland,County Galway,,,IE-G,,2020-02-17,7,2,23,-10,-8,1
@@ -2577,6 +2598,9 @@ IE,Ireland,County Galway,,,IE-G,,2021-01-02,-70,-16,-41,-55,-45,17
 IE,Ireland,County Galway,,,IE-G,,2021-01-03,-68,-19,-29,-55,-34,14
 IE,Ireland,County Galway,,,IE-G,,2021-01-04,-55,-8,-21,-54,-51,20
 IE,Ireland,County Galway,,,IE-G,,2021-01-05,-56,-8,-14,-53,-52,20
+IE,Ireland,County Galway,,,IE-G,,2021-01-06,-59,-14,-28,-55,-50,22
+IE,Ireland,County Galway,,,IE-G,,2021-01-07,-62,-17,-34,-54,-51,23
+IE,Ireland,County Galway,,,IE-G,,2021-01-08,-62,-16,-35,-55,-49,23
 IE,Ireland,County Kerry,,,IE-KY,,2020-02-15,-10,-2,-32,-12,2,3
 IE,Ireland,County Kerry,,,IE-KY,,2020-02-16,-8,-8,-34,-8,1,
 IE,Ireland,County Kerry,,,IE-KY,,2020-02-17,11,3,11,-2,-9,1
@@ -2900,6 +2924,9 @@ IE,Ireland,County Kerry,,,IE-KY,,2021-01-02,-70,-8,-28,-58,-47,16
 IE,Ireland,County Kerry,,,IE-KY,,2021-01-03,-63,-15,1,-65,-37,11
 IE,Ireland,County Kerry,,,IE-KY,,2021-01-04,-48,0,3,-56,-48,16
 IE,Ireland,County Kerry,,,IE-KY,,2021-01-05,-44,0,29,-55,-48,15
+IE,Ireland,County Kerry,,,IE-KY,,2021-01-06,-46,-3,8,-55,-47,16
+IE,Ireland,County Kerry,,,IE-KY,,2021-01-07,-56,-14,-8,-60,-47,20
+IE,Ireland,County Kerry,,,IE-KY,,2021-01-08,-57,-7,-1,-64,-45,20
 IE,Ireland,County Kildare,,,IE-KE,,2020-02-15,-10,-5,-33,-23,-5,3
 IE,Ireland,County Kildare,,,IE-KE,,2020-02-16,-5,-6,-37,-22,-5,1
 IE,Ireland,County Kildare,,,IE-KE,,2020-02-17,9,1,11,-7,-8,2
@@ -3226,6 +3253,9 @@ IE,Ireland,County Kildare,,,IE-KE,,2021-01-02,-64,-17,-9,,-41,18
 IE,Ireland,County Kildare,,,IE-KE,,2021-01-03,-64,-19,-22,,-33,15
 IE,Ireland,County Kildare,,,IE-KE,,2021-01-04,-51,-11,-30,,-54,24
 IE,Ireland,County Kildare,,,IE-KE,,2021-01-05,-49,-3,-20,,-54,23
+IE,Ireland,County Kildare,,,IE-KE,,2021-01-06,-51,-8,-20,,-53,24
+IE,Ireland,County Kildare,,,IE-KE,,2021-01-07,-59,-13,-24,,-54,27
+IE,Ireland,County Kildare,,,IE-KE,,2021-01-08,-59,-11,-16,,-51,26
 IE,Ireland,County Kilkenny,,,IE-KK,,2020-02-15,-7,-8,-22,-22,-1,
 IE,Ireland,County Kilkenny,,,IE-KK,,2020-02-16,-5,-10,-11,,7,
 IE,Ireland,County Kilkenny,,,IE-KK,,2020-02-17,13,-1,21,,-11,2
@@ -3546,6 +3576,9 @@ IE,Ireland,County Kilkenny,,,IE-KK,,2021-01-02,-65,-9,-30,-71,-41,17
 IE,Ireland,County Kilkenny,,,IE-KK,,2021-01-03,-67,-19,-23,-67,-30,
 IE,Ireland,County Kilkenny,,,IE-KK,,2021-01-04,-46,-7,-17,-64,-48,18
 IE,Ireland,County Kilkenny,,,IE-KK,,2021-01-05,-45,-4,-10,-58,-48,19
+IE,Ireland,County Kilkenny,,,IE-KK,,2021-01-06,-47,-10,-15,-53,-47,20
+IE,Ireland,County Kilkenny,,,IE-KK,,2021-01-07,-57,-18,-28,-68,-48,23
+IE,Ireland,County Kilkenny,,,IE-KK,,2021-01-08,-56,-12,-25,-67,-46,22
 IE,Ireland,County Laois,,,IE-LS,,2020-02-15,-13,-6,,-4,-3,
 IE,Ireland,County Laois,,,IE-LS,,2020-02-16,1,-8,,-11,0,
 IE,Ireland,County Laois,,,IE-LS,,2020-02-17,10,2,,-7,-10,1
@@ -3866,6 +3899,9 @@ IE,Ireland,County Laois,,,IE-LS,,2021-01-02,-63,-17,,-51,-37,16
 IE,Ireland,County Laois,,,IE-LS,,2021-01-03,-60,-23,,-44,-24,
 IE,Ireland,County Laois,,,IE-LS,,2021-01-04,-45,-9,,-55,-45,18
 IE,Ireland,County Laois,,,IE-LS,,2021-01-05,-43,-9,,-56,-46,17
+IE,Ireland,County Laois,,,IE-LS,,2021-01-06,-44,-9,,-51,-45,18
+IE,Ireland,County Laois,,,IE-LS,,2021-01-07,-54,-17,,-53,-47,21
+IE,Ireland,County Laois,,,IE-LS,,2021-01-08,-53,-14,,-56,-44,21
 IE,Ireland,County Leitrim,,,IE-LM,,2020-02-15,-1,2,,,0,
 IE,Ireland,County Leitrim,,,IE-LM,,2020-02-16,-2,-10,,,,
 IE,Ireland,County Leitrim,,,IE-LM,,2020-02-17,2,8,,,-7,
@@ -4158,6 +4194,9 @@ IE,Ireland,County Leitrim,,,IE-LM,,2021-01-02,-72,-3,,,-43,
 IE,Ireland,County Leitrim,,,IE-LM,,2021-01-03,-71,,,,-38,
 IE,Ireland,County Leitrim,,,IE-LM,,2021-01-04,,,,,-47,
 IE,Ireland,County Leitrim,,,IE-LM,,2021-01-05,,,,,-50,
+IE,Ireland,County Leitrim,,,IE-LM,,2021-01-06,,-2,,,-48,
+IE,Ireland,County Leitrim,,,IE-LM,,2021-01-07,,-11,,,-47,
+IE,Ireland,County Leitrim,,,IE-LM,,2021-01-08,-69,-7,,,-46,
 IE,Ireland,County Limerick,,,IE-LK,,2020-02-15,-6,-4,-18,-4,-3,3
 IE,Ireland,County Limerick,,,IE-LK,,2020-02-16,-11,-2,-31,-7,-1,3
 IE,Ireland,County Limerick,,,IE-LK,,2020-02-17,4,2,9,8,-5,2
@@ -4484,6 +4523,9 @@ IE,Ireland,County Limerick,,,IE-LK,,2021-01-02,-65,-29,-29,-68,-40,17
 IE,Ireland,County Limerick,,,IE-LK,,2021-01-03,-63,-29,-17,-64,-28,14
 IE,Ireland,County Limerick,,,IE-LK,,2021-01-04,-50,-17,-34,-63,-51,21
 IE,Ireland,County Limerick,,,IE-LK,,2021-01-05,-48,-13,-25,-61,-50,19
+IE,Ireland,County Limerick,,,IE-LK,,2021-01-06,-51,-18,-37,-64,-51,21
+IE,Ireland,County Limerick,,,IE-LK,,2021-01-07,-58,-25,-37,-67,-51,23
+IE,Ireland,County Limerick,,,IE-LK,,2021-01-08,-59,-23,-45,-68,-50,25
 IE,Ireland,County Longford,,,IE-LD,,2020-02-15,-10,-13,,,0,
 IE,Ireland,County Longford,,,IE-LD,,2020-02-16,-13,-6,,,-7,
 IE,Ireland,County Longford,,,IE-LD,,2020-02-17,0,-1,,,-5,
@@ -4785,6 +4827,9 @@ IE,Ireland,County Longford,,,IE-LD,,2021-01-02,-60,-27,,,-45,
 IE,Ireland,County Longford,,,IE-LD,,2021-01-03,-59,-21,,,-36,
 IE,Ireland,County Longford,,,IE-LD,,2021-01-04,-43,-13,,,-44,15
 IE,Ireland,County Longford,,,IE-LD,,2021-01-05,-44,-7,,,-43,14
+IE,Ireland,County Longford,,,IE-LD,,2021-01-06,-46,-14,,,-43,16
+IE,Ireland,County Longford,,,IE-LD,,2021-01-07,-51,-16,,,-45,17
+IE,Ireland,County Longford,,,IE-LD,,2021-01-08,-52,-15,,,-44,18
 IE,Ireland,County Louth,,,IE-LH,,2020-02-15,-5,-9,-30,1,-3,2
 IE,Ireland,County Louth,,,IE-LH,,2020-02-16,-4,-10,-42,3,0,
 IE,Ireland,County Louth,,,IE-LH,,2020-02-17,10,-4,,12,-6,2
@@ -5108,6 +5153,9 @@ IE,Ireland,County Louth,,,IE-LH,,2021-01-02,-63,-22,-12,-66,-44,17
 IE,Ireland,County Louth,,,IE-LH,,2021-01-03,-64,-26,-32,-67,-36,13
 IE,Ireland,County Louth,,,IE-LH,,2021-01-04,-46,-13,,-59,-49,20
 IE,Ireland,County Louth,,,IE-LH,,2021-01-05,-46,-9,,-53,-50,20
+IE,Ireland,County Louth,,,IE-LH,,2021-01-06,-49,-12,,-59,-50,21
+IE,Ireland,County Louth,,,IE-LH,,2021-01-07,-57,-19,,-61,-51,24
+IE,Ireland,County Louth,,,IE-LH,,2021-01-08,-56,-12,-25,-61,-49,23
 IE,Ireland,County Mayo,,,IE-MO,,2020-02-15,-4,-6,-25,5,-5,3
 IE,Ireland,County Mayo,,,IE-MO,,2020-02-16,-6,-8,-15,3,-2,
 IE,Ireland,County Mayo,,,IE-MO,,2020-02-17,14,4,,10,-11,2
@@ -5431,6 +5479,9 @@ IE,Ireland,County Mayo,,,IE-MO,,2021-01-02,-70,-15,-6,-57,-44,16
 IE,Ireland,County Mayo,,,IE-MO,,2021-01-03,-69,-21,30,-65,-38,11
 IE,Ireland,County Mayo,,,IE-MO,,2021-01-04,-48,-5,,-55,-46,15
 IE,Ireland,County Mayo,,,IE-MO,,2021-01-05,-50,-7,,-49,-46,15
+IE,Ireland,County Mayo,,,IE-MO,,2021-01-06,-53,-13,-17,-52,-46,17
+IE,Ireland,County Mayo,,,IE-MO,,2021-01-07,-56,-16,-21,-56,-46,20
+IE,Ireland,County Mayo,,,IE-MO,,2021-01-08,-61,-16,-16,-69,-43,21
 IE,Ireland,County Meath,,,IE-MH,,2020-02-15,-4,-7,-23,-6,-2,2
 IE,Ireland,County Meath,,,IE-MH,,2020-02-16,-2,-12,-17,1,2,1
 IE,Ireland,County Meath,,,IE-MH,,2020-02-17,5,-2,11,-1,-7,2
@@ -5757,6 +5808,9 @@ IE,Ireland,County Meath,,,IE-MH,,2021-01-02,-61,-12,13,-51,-42,17
 IE,Ireland,County Meath,,,IE-MH,,2021-01-03,-60,-15,9,-40,-29,15
 IE,Ireland,County Meath,,,IE-MH,,2021-01-04,-41,-4,-9,-51,-48,22
 IE,Ireland,County Meath,,,IE-MH,,2021-01-05,-42,-2,6,-53,-48,22
+IE,Ireland,County Meath,,,IE-MH,,2021-01-06,-44,-5,6,-50,-47,23
+IE,Ireland,County Meath,,,IE-MH,,2021-01-07,-53,-12,-13,-48,-49,25
+IE,Ireland,County Meath,,,IE-MH,,2021-01-08,-54,-7,-9,-49,-47,24
 IE,Ireland,County Monaghan,,,IE-MN,,2020-02-15,-5,-4,,,-1,
 IE,Ireland,County Monaghan,,,IE-MN,,2020-02-16,-4,-4,,,-3,
 IE,Ireland,County Monaghan,,,IE-MN,,2020-02-17,1,2,,,-8,2
@@ -6077,6 +6131,9 @@ IE,Ireland,County Monaghan,,,IE-MN,,2021-01-02,-57,-18,,-79,-38,
 IE,Ireland,County Monaghan,,,IE-MN,,2021-01-03,-52,-24,,,-30,
 IE,Ireland,County Monaghan,,,IE-MN,,2021-01-04,-37,-4,,-63,-42,15
 IE,Ireland,County Monaghan,,,IE-MN,,2021-01-05,-38,-2,,-64,-43,16
+IE,Ireland,County Monaghan,,,IE-MN,,2021-01-06,-42,-10,,-71,-39,16
+IE,Ireland,County Monaghan,,,IE-MN,,2021-01-07,-51,-18,,-68,-43,20
+IE,Ireland,County Monaghan,,,IE-MN,,2021-01-08,-50,-16,,-72,-41,20
 IE,Ireland,County Offaly,,,IE-OY,,2020-02-15,-7,-5,-22,,-3,
 IE,Ireland,County Offaly,,,IE-OY,,2020-02-16,-10,-4,-15,,-2,
 IE,Ireland,County Offaly,,,IE-OY,,2020-02-17,1,2,22,,-10,2
@@ -6397,6 +6454,9 @@ IE,Ireland,County Offaly,,,IE-OY,,2021-01-02,-56,-11,-36,-59,-38,15
 IE,Ireland,County Offaly,,,IE-OY,,2021-01-03,-59,-14,-29,-63,-26,
 IE,Ireland,County Offaly,,,IE-OY,,2021-01-04,-35,4,-29,-54,-43,16
 IE,Ireland,County Offaly,,,IE-OY,,2021-01-05,-35,3,-29,-57,-43,16
+IE,Ireland,County Offaly,,,IE-OY,,2021-01-06,-35,-5,-31,-55,-41,17
+IE,Ireland,County Offaly,,,IE-OY,,2021-01-07,-47,-10,-34,-61,-43,19
+IE,Ireland,County Offaly,,,IE-OY,,2021-01-08,-47,-6,-31,-58,-40,19
 IE,Ireland,County Roscommon,,,IE-RN,,2020-02-15,-5,-7,,,-7,
 IE,Ireland,County Roscommon,,,IE-RN,,2020-02-16,-1,-2,,,-5,
 IE,Ireland,County Roscommon,,,IE-RN,,2020-02-17,6,6,,,-10,1
@@ -6717,6 +6777,9 @@ IE,Ireland,County Roscommon,,,IE-RN,,2021-01-02,-68,-13,,,-44,
 IE,Ireland,County Roscommon,,,IE-RN,,2021-01-03,-67,-19,,,-31,
 IE,Ireland,County Roscommon,,,IE-RN,,2021-01-04,,-5,,,-48,14
 IE,Ireland,County Roscommon,,,IE-RN,,2021-01-05,-46,-3,,,-46,14
+IE,Ireland,County Roscommon,,,IE-RN,,2021-01-06,-45,-9,,,-46,17
+IE,Ireland,County Roscommon,,,IE-RN,,2021-01-07,-51,-16,,,-46,18
+IE,Ireland,County Roscommon,,,IE-RN,,2021-01-08,-54,-13,,,-45,18
 IE,Ireland,County Sligo,,,IE-SO,,2020-02-15,-8,-4,-20,-10,-1,
 IE,Ireland,County Sligo,,,IE-SO,,2020-02-16,-3,-4,-18,2,1,
 IE,Ireland,County Sligo,,,IE-SO,,2020-02-17,17,3,,8,-9,1
@@ -7037,6 +7100,9 @@ IE,Ireland,County Sligo,,,IE-SO,,2021-01-02,-70,-20,-16,-42,-41,
 IE,Ireland,County Sligo,,,IE-SO,,2021-01-03,-64,-24,3,-42,-30,
 IE,Ireland,County Sligo,,,IE-SO,,2021-01-04,-53,-15,,-42,-48,17
 IE,Ireland,County Sligo,,,IE-SO,,2021-01-05,-51,-10,,-45,-45,17
+IE,Ireland,County Sligo,,,IE-SO,,2021-01-06,-55,-17,,-48,-46,20
+IE,Ireland,County Sligo,,,IE-SO,,2021-01-07,-64,-20,,-55,-47,22
+IE,Ireland,County Sligo,,,IE-SO,,2021-01-08,-63,-17,-28,,-44,23
 IE,Ireland,County Tipperary,,,IE-TA,,2020-02-15,-8,-4,-31,-15,-2,3
 IE,Ireland,County Tipperary,,,IE-TA,,2020-02-16,-2,-5,-23,-7,1,
 IE,Ireland,County Tipperary,,,IE-TA,,2020-02-17,2,3,16,-7,-9,2
@@ -7360,6 +7426,9 @@ IE,Ireland,County Tipperary,,,IE-TA,,2021-01-02,-60,-11,-45,-62,-45,15
 IE,Ireland,County Tipperary,,,IE-TA,,2021-01-03,-59,-18,-27,-60,-34,11
 IE,Ireland,County Tipperary,,,IE-TA,,2021-01-04,-41,-5,-38,-59,-45,15
 IE,Ireland,County Tipperary,,,IE-TA,,2021-01-05,-40,-3,-39,-52,-46,15
+IE,Ireland,County Tipperary,,,IE-TA,,2021-01-06,-41,-6,-39,-59,-45,16
+IE,Ireland,County Tipperary,,,IE-TA,,2021-01-07,-49,-14,-51,-57,-45,18
+IE,Ireland,County Tipperary,,,IE-TA,,2021-01-08,-49,-11,-50,-60,-44,19
 IE,Ireland,County Waterford,,,IE-WD,,2020-02-15,-14,-7,-47,-19,-5,3
 IE,Ireland,County Waterford,,,IE-WD,,2020-02-16,-3,-7,-30,-13,2,
 IE,Ireland,County Waterford,,,IE-WD,,2020-02-17,11,-1,20,-12,-12,2
@@ -7683,6 +7752,9 @@ IE,Ireland,County Waterford,,,IE-WD,,2021-01-02,-65,-12,-30,-56,-41,16
 IE,Ireland,County Waterford,,,IE-WD,,2021-01-03,-64,-14,-23,-56,-31,13
 IE,Ireland,County Waterford,,,IE-WD,,2021-01-04,-50,-7,-25,-48,-44,18
 IE,Ireland,County Waterford,,,IE-WD,,2021-01-05,-51,-5,-22,-53,-45,17
+IE,Ireland,County Waterford,,,IE-WD,,2021-01-06,-51,-12,-18,-47,-44,19
+IE,Ireland,County Waterford,,,IE-WD,,2021-01-07,-57,-14,-33,-52,-46,21
+IE,Ireland,County Waterford,,,IE-WD,,2021-01-08,-59,-13,-38,-58,-43,21
 IE,Ireland,County Westmeath,,,IE-WH,,2020-02-15,-7,-3,-37,-11,-4,
 IE,Ireland,County Westmeath,,,IE-WH,,2020-02-16,-7,-9,-39,-5,-6,
 IE,Ireland,County Westmeath,,,IE-WH,,2020-02-17,12,5,,2,-9,1
@@ -8003,6 +8075,9 @@ IE,Ireland,County Westmeath,,,IE-WH,,2021-01-02,-66,-19,,-59,-41,16
 IE,Ireland,County Westmeath,,,IE-WH,,2021-01-03,-66,-25,,-62,-33,
 IE,Ireland,County Westmeath,,,IE-WH,,2021-01-04,-47,-6,,-47,-46,17
 IE,Ireland,County Westmeath,,,IE-WH,,2021-01-05,-47,-4,,-52,-48,18
+IE,Ireland,County Westmeath,,,IE-WH,,2021-01-06,-48,-11,,-55,-46,19
+IE,Ireland,County Westmeath,,,IE-WH,,2021-01-07,-55,-16,,-60,-47,21
+IE,Ireland,County Westmeath,,,IE-WH,,2021-01-08,-59,-13,,-60,-45,22
 IE,Ireland,County Wexford,,,IE-WX,,2020-02-15,-15,-9,-36,-29,-6,4
 IE,Ireland,County Wexford,,,IE-WX,,2020-02-16,7,-4,-29,-18,2,
 IE,Ireland,County Wexford,,,IE-WX,,2020-02-17,5,2,2,-11,-12,2
@@ -8326,6 +8401,9 @@ IE,Ireland,County Wexford,,,IE-WX,,2021-01-02,-65,-14,-4,-55,-39,17
 IE,Ireland,County Wexford,,,IE-WX,,2021-01-03,-64,-19,-12,-55,-31,14
 IE,Ireland,County Wexford,,,IE-WX,,2021-01-04,-47,-7,-12,-47,-44,18
 IE,Ireland,County Wexford,,,IE-WX,,2021-01-05,-45,-5,-19,-48,-44,17
+IE,Ireland,County Wexford,,,IE-WX,,2021-01-06,-47,-7,-2,-44,-45,19
+IE,Ireland,County Wexford,,,IE-WX,,2021-01-07,-53,-15,-12,-48,-46,20
+IE,Ireland,County Wexford,,,IE-WX,,2021-01-08,-56,-13,-7,-53,-45,22
 IE,Ireland,County Wicklow,,,IE-WW,,2020-02-15,-15,-5,-61,-36,-4,3
 IE,Ireland,County Wicklow,,,IE-WW,,2020-02-16,-8,-6,-27,-22,-2,
 IE,Ireland,County Wicklow,,,IE-WW,,2020-02-17,6,2,24,-2,-11,2
@@ -8649,3 +8727,6 @@ IE,Ireland,County Wicklow,,,IE-WW,,2021-01-02,-62,-9,-31,-60,-41,18
 IE,Ireland,County Wicklow,,,IE-WW,,2021-01-03,-70,-20,-50,-66,-30,16
 IE,Ireland,County Wicklow,,,IE-WW,,2021-01-04,-51,-7,-20,-58,-54,24
 IE,Ireland,County Wicklow,,,IE-WW,,2021-01-05,-48,-5,-3,-56,-55,23
+IE,Ireland,County Wicklow,,,IE-WW,,2021-01-06,-48,-10,1,-59,-53,24
+IE,Ireland,County Wicklow,,,IE-WW,,2021-01-07,-52,-12,-10,-59,-55,25
+IE,Ireland,County Wicklow,,,IE-WW,,2021-01-08,-60,-12,-20,-61,-53,26
