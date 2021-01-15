@@ -328,6 +328,8 @@ MX,Mexico,,,,,,2021-01-05,-21,11,-27,-30,-32,12
 MX,Mexico,,,,,,2021-01-06,-28,3,-36,-40,-30,13
 MX,Mexico,,,,,,2021-01-07,-33,-4,-40,-41,-32,15
 MX,Mexico,,,,,,2021-01-08,-36,-6,-42,-42,-27,16
+MX,Mexico,,,,,,2021-01-09,-37,-5,-45,-35,-5,11
+MX,Mexico,,,,,,2021-01-10,-41,-12,-43,-34,-1,9
 MX,Mexico,Aguascalientes,,,MX-AGU,,2020-02-15,7,6,6,-14,4,-2
 MX,Mexico,Aguascalientes,,,MX-AGU,,2020-02-16,9,7,5,1,1,-1
 MX,Mexico,Aguascalientes,,,MX-AGU,,2020-02-17,1,2,0,-5,12,-2
@@ -657,6 +659,8 @@ MX,Mexico,Aguascalientes,,,MX-AGU,,2021-01-05,-19,3,-32,-27,-25,11
 MX,Mexico,Aguascalientes,,,MX-AGU,,2021-01-06,-22,0,-36,-30,-23,11
 MX,Mexico,Aguascalientes,,,MX-AGU,,2021-01-07,-26,-3,-37,-35,-25,13
 MX,Mexico,Aguascalientes,,,MX-AGU,,2021-01-08,-27,-2,-38,-42,-21,13
+MX,Mexico,Aguascalientes,,,MX-AGU,,2021-01-09,-29,-3,-39,-41,2,8
+MX,Mexico,Aguascalientes,,,MX-AGU,,2021-01-10,-27,-2,-34,-41,14,5
 MX,Mexico,Baja California,,,MX-BCN,,2020-02-15,7,4,8,8,3,-1
 MX,Mexico,Baja California,,,MX-BCN,,2020-02-16,11,5,10,5,1,-1
 MX,Mexico,Baja California,,,MX-BCN,,2020-02-17,7,5,7,3,9,-2
@@ -986,6 +990,8 @@ MX,Mexico,Baja California,,,MX-BCN,,2021-01-05,-26,4,-36,-15,-24,12
 MX,Mexico,Baja California,,,MX-BCN,,2021-01-06,-27,3,-36,-21,-22,11
 MX,Mexico,Baja California,,,MX-BCN,,2021-01-07,-29,-2,-38,-21,-24,12
 MX,Mexico,Baja California,,,MX-BCN,,2021-01-08,-31,0,-37,-27,-21,13
+MX,Mexico,Baja California,,,MX-BCN,,2021-01-09,-30,1,-41,-17,-5,9
+MX,Mexico,Baja California,,,MX-BCN,,2021-01-10,-30,-3,-40,-15,-2,8
 MX,Mexico,Baja California Sur,,,MX-BCS,,2020-02-15,11,10,2,2,3,-1
 MX,Mexico,Baja California Sur,,,MX-BCS,,2020-02-16,8,9,0,2,1,-1
 MX,Mexico,Baja California Sur,,,MX-BCS,,2020-02-17,4,5,-3,3,12,-2
@@ -1315,6 +1321,8 @@ MX,Mexico,Baja California Sur,,,MX-BCS,,2021-01-05,-22,-1,-26,-11,-29,10
 MX,Mexico,Baja California Sur,,,MX-BCS,,2021-01-06,-26,-3,-24,-19,-24,9
 MX,Mexico,Baja California Sur,,,MX-BCS,,2021-01-07,-29,-9,-29,-23,-28,11
 MX,Mexico,Baja California Sur,,,MX-BCS,,2021-01-08,-28,-9,-30,-24,-22,11
+MX,Mexico,Baja California Sur,,,MX-BCS,,2021-01-09,-28,-9,-30,-24,-10,8
+MX,Mexico,Baja California Sur,,,MX-BCS,,2021-01-10,-32,-12,-33,-23,-8,7
 MX,Mexico,Campeche,,,MX-CAM,,2020-02-15,9,5,12,-1,5,-2
 MX,Mexico,Campeche,,,MX-CAM,,2020-02-16,11,8,3,4,1,-1
 MX,Mexico,Campeche,,,MX-CAM,,2020-02-17,6,5,6,0,16,-4
@@ -1644,6 +1652,8 @@ MX,Mexico,Campeche,,,MX-CAM,,2021-01-05,-19,7,-25,-14,-30,10
 MX,Mexico,Campeche,,,MX-CAM,,2021-01-06,-24,0,-33,-19,-26,10
 MX,Mexico,Campeche,,,MX-CAM,,2021-01-07,-29,-7,-42,-26,-28,13
 MX,Mexico,Campeche,,,MX-CAM,,2021-01-08,-33,-7,-45,-30,-23,13
+MX,Mexico,Campeche,,,MX-CAM,,2021-01-09,-34,-7,-41,-17,-1,9
+MX,Mexico,Campeche,,,MX-CAM,,2021-01-10,-33,-6,-42,-13,7,7
 MX,Mexico,Chiapas,,,MX-CHP,,2020-02-15,5,2,2,-1,2,-1
 MX,Mexico,Chiapas,,,MX-CHP,,2020-02-16,5,3,-3,8,2,0
 MX,Mexico,Chiapas,,,MX-CHP,,2020-02-17,0,2,0,0,13,-3
@@ -1973,6 +1983,8 @@ MX,Mexico,Chiapas,,,MX-CHP,,2021-01-05,-15,9,-29,-15,-25,10
 MX,Mexico,Chiapas,,,MX-CHP,,2021-01-06,-16,8,-33,-20,-21,9
 MX,Mexico,Chiapas,,,MX-CHP,,2021-01-07,-20,2,-35,-23,-23,11
 MX,Mexico,Chiapas,,,MX-CHP,,2021-01-08,-25,-1,-39,-29,-21,12
+MX,Mexico,Chiapas,,,MX-CHP,,2021-01-09,-24,0,-36,-27,1,8
+MX,Mexico,Chiapas,,,MX-CHP,,2021-01-10,-27,-6,-38,-28,7,7
 MX,Mexico,Chihuahua,,,MX-CHH,,2020-02-15,6,4,10,2,3,-1
 MX,Mexico,Chihuahua,,,MX-CHH,,2020-02-16,8,3,12,5,2,-1
 MX,Mexico,Chihuahua,,,MX-CHH,,2020-02-17,6,2,8,8,12,-2
@@ -2302,6 +2314,8 @@ MX,Mexico,Chihuahua,,,MX-CHH,,2021-01-05,-21,2,-30,-35,-22,11
 MX,Mexico,Chihuahua,,,MX-CHH,,2021-01-06,-25,4,-34,-37,-17,10
 MX,Mexico,Chihuahua,,,MX-CHH,,2021-01-07,-28,-4,-35,-39,-20,11
 MX,Mexico,Chihuahua,,,MX-CHH,,2021-01-08,-31,-2,-37,-41,-17,12
+MX,Mexico,Chihuahua,,,MX-CHH,,2021-01-09,-33,-3,-39,-39,2,8
+MX,Mexico,Chihuahua,,,MX-CHH,,2021-01-10,-36,-11,-45,-45,5,8
 MX,Mexico,Coahuila,,,MX-COA,,2020-02-15,10,6,11,2,2,-1
 MX,Mexico,Coahuila,,,MX-COA,,2020-02-16,11,5,14,6,3,-1
 MX,Mexico,Coahuila,,,MX-COA,,2020-02-17,4,4,9,4,10,-2
@@ -2631,6 +2645,8 @@ MX,Mexico,Coahuila,,,MX-COA,,2021-01-05,-20,1,-33,-19,-25,11
 MX,Mexico,Coahuila,,,MX-COA,,2021-01-06,-21,4,-38,-24,-20,10
 MX,Mexico,Coahuila,,,MX-COA,,2021-01-07,-26,-3,-39,-30,-23,12
 MX,Mexico,Coahuila,,,MX-COA,,2021-01-08,-28,-3,-40,-30,-19,13
+MX,Mexico,Coahuila,,,MX-COA,,2021-01-09,-29,-3,-44,-22,0,8
+MX,Mexico,Coahuila,,,MX-COA,,2021-01-10,-32,-6,-46,-28,10,8
 MX,Mexico,Colima,,,MX-COL,,2020-02-15,6,5,4,-4,2,-1
 MX,Mexico,Colima,,,MX-COL,,2020-02-16,7,5,1,-2,-1,0
 MX,Mexico,Colima,,,MX-COL,,2020-02-17,1,5,-1,-9,11,-2
@@ -2960,6 +2976,8 @@ MX,Mexico,Colima,,,MX-COL,,2021-01-05,-17,2,-20,-14,-24,8
 MX,Mexico,Colima,,,MX-COL,,2021-01-06,-20,2,-22,-16,-18,7
 MX,Mexico,Colima,,,MX-COL,,2021-01-07,-23,-5,-26,-24,-21,10
 MX,Mexico,Colima,,,MX-COL,,2021-01-08,-27,-8,-30,-29,-17,10
+MX,Mexico,Colima,,,MX-COL,,2021-01-09,-28,-6,-27,-21,-2,7
+MX,Mexico,Colima,,,MX-COL,,2021-01-10,-29,-7,-33,-23,6,6
 MX,Mexico,Durango,,,MX-DUR,,2020-02-15,4,4,6,-10,4,-1
 MX,Mexico,Durango,,,MX-DUR,,2020-02-16,2,6,6,11,2,-1
 MX,Mexico,Durango,,,MX-DUR,,2020-02-17,-3,2,2,-4,15,-2
@@ -3289,6 +3307,8 @@ MX,Mexico,Durango,,,MX-DUR,,2021-01-05,-18,4,-28,8,-27,11
 MX,Mexico,Durango,,,MX-DUR,,2021-01-06,-19,8,-29,-6,-20,10
 MX,Mexico,Durango,,,MX-DUR,,2021-01-07,-22,-2,-37,0,-24,11
 MX,Mexico,Durango,,,MX-DUR,,2021-01-08,-28,-2,-32,-20,-20,12
+MX,Mexico,Durango,,,MX-DUR,,2021-01-09,-28,-3,-32,-13,3,7
+MX,Mexico,Durango,,,MX-DUR,,2021-01-10,-31,-5,-35,-6,9,6
 MX,Mexico,Guanajuato,,,MX-GUA,,2020-02-15,0,6,6,-3,4,0
 MX,Mexico,Guanajuato,,,MX-GUA,,2020-02-16,0,6,4,-2,2,0
 MX,Mexico,Guanajuato,,,MX-GUA,,2020-02-17,-4,2,1,5,16,-3
@@ -3618,6 +3638,8 @@ MX,Mexico,Guanajuato,,,MX-GUA,,2021-01-05,-11,25,-13,-10,-25,8
 MX,Mexico,Guanajuato,,,MX-GUA,,2021-01-06,-26,5,-34,-21,-23,10
 MX,Mexico,Guanajuato,,,MX-GUA,,2021-01-07,-29,-1,-39,-25,-25,12
 MX,Mexico,Guanajuato,,,MX-GUA,,2021-01-08,-32,-2,-43,-28,-21,13
+MX,Mexico,Guanajuato,,,MX-GUA,,2021-01-09,-34,-2,-45,-26,-2,10
+MX,Mexico,Guanajuato,,,MX-GUA,,2021-01-10,-34,-3,-38,-29,6,7
 MX,Mexico,Guerrero,,,MX-GRO,,2020-02-15,4,2,3,-3,3,0
 MX,Mexico,Guerrero,,,MX-GRO,,2020-02-16,4,3,0,2,1,1
 MX,Mexico,Guerrero,,,MX-GRO,,2020-02-17,-2,-2,-6,-3,11,-2
@@ -3947,6 +3969,8 @@ MX,Mexico,Guerrero,,,MX-GRO,,2021-01-05,-6,12,-5,-9,-29,9
 MX,Mexico,Guerrero,,,MX-GRO,,2021-01-06,-17,7,-18,-14,-27,9
 MX,Mexico,Guerrero,,,MX-GRO,,2021-01-07,-23,-4,-26,-22,-29,12
 MX,Mexico,Guerrero,,,MX-GRO,,2021-01-08,-28,-8,-33,-36,-25,13
+MX,Mexico,Guerrero,,,MX-GRO,,2021-01-09,-29,-9,-38,-29,-1,8
+MX,Mexico,Guerrero,,,MX-GRO,,2021-01-10,-27,-11,-33,-28,-2,7
 MX,Mexico,Hidalgo,,,MX-HID,,2020-02-15,5,4,12,-8,5,-1
 MX,Mexico,Hidalgo,,,MX-HID,,2020-02-16,8,5,10,-2,3,-1
 MX,Mexico,Hidalgo,,,MX-HID,,2020-02-17,1,1,3,-5,17,-3
@@ -4276,6 +4300,8 @@ MX,Mexico,Hidalgo,,,MX-HID,,2021-01-05,-11,28,-22,-37,-34,12
 MX,Mexico,Hidalgo,,,MX-HID,,2021-01-06,-24,11,-40,-45,-34,15
 MX,Mexico,Hidalgo,,,MX-HID,,2021-01-07,-31,2,-48,-48,-36,17
 MX,Mexico,Hidalgo,,,MX-HID,,2021-01-08,-36,-2,-49,-51,-28,18
+MX,Mexico,Hidalgo,,,MX-HID,,2021-01-09,-38,-1,-51,-50,1,13
+MX,Mexico,Hidalgo,,,MX-HID,,2021-01-10,-40,-5,-49,-47,5,11
 MX,Mexico,Jalisco,,,MX-JAL,,2020-02-15,9,7,18,12,4,-2
 MX,Mexico,Jalisco,,,MX-JAL,,2020-02-16,6,5,10,5,2,-1
 MX,Mexico,Jalisco,,,MX-JAL,,2020-02-17,1,1,5,6,13,-2
@@ -4605,6 +4631,8 @@ MX,Mexico,Jalisco,,,MX-JAL,,2021-01-05,-24,3,-31,-15,-29,10
 MX,Mexico,Jalisco,,,MX-JAL,,2021-01-06,-25,1,-34,-16,-26,10
 MX,Mexico,Jalisco,,,MX-JAL,,2021-01-07,-28,-2,-34,-20,-27,12
 MX,Mexico,Jalisco,,,MX-JAL,,2021-01-08,-30,1,-35,-21,-23,12
+MX,Mexico,Jalisco,,,MX-JAL,,2021-01-09,-38,-2,-39,-20,-8,9
+MX,Mexico,Jalisco,,,MX-JAL,,2021-01-10,-40,-8,-35,-22,-3,8
 MX,Mexico,Mexico City,,,MX-CMX,,2020-02-15,6,4,5,4,3,-1
 MX,Mexico,Mexico City,,,MX-CMX,,2020-02-16,9,6,7,7,2,-1
 MX,Mexico,Mexico City,,,MX-CMX,,2020-02-17,2,2,2,4,9,-2
@@ -4934,6 +4962,8 @@ MX,Mexico,Mexico City,,,MX-CMX,,2021-01-05,-35,13,-34,-38,-47,17
 MX,Mexico,Mexico City,,,MX-CMX,,2021-01-06,-47,-7,-52,-50,-47,20
 MX,Mexico,Mexico City,,,MX-CMX,,2021-01-07,-51,-13,-52,-50,-48,22
 MX,Mexico,Mexico City,,,MX-CMX,,2021-01-08,-54,-13,-54,-49,-44,23
+MX,Mexico,Mexico City,,,MX-CMX,,2021-01-09,-53,-13,-54,-41,-12,15
+MX,Mexico,Mexico City,,,MX-CMX,,2021-01-10,-53,-16,-54,-39,-7,11
 MX,Mexico,Michoacán,,,MX-MIC,,2020-02-15,2,2,3,-1,2,-1
 MX,Mexico,Michoacán,,,MX-MIC,,2020-02-16,5,3,1,4,1,-1
 MX,Mexico,Michoacán,,,MX-MIC,,2020-02-17,0,0,3,1,11,-2
@@ -5263,6 +5293,8 @@ MX,Mexico,Michoacán,,,MX-MIC,,2021-01-05,-4,27,8,1,-24,6
 MX,Mexico,Michoacán,,,MX-MIC,,2021-01-06,-16,10,-16,-11,-22,7
 MX,Mexico,Michoacán,,,MX-MIC,,2021-01-07,-24,3,-22,-18,-25,9
 MX,Mexico,Michoacán,,,MX-MIC,,2021-01-08,-30,-1,-29,-26,-22,10
+MX,Mexico,Michoacán,,,MX-MIC,,2021-01-09,-31,3,-32,-21,-1,8
+MX,Mexico,Michoacán,,,MX-MIC,,2021-01-10,-57,-29,-42,-29,-16,10
 MX,Mexico,Morelos,,,MX-MOR,,2020-02-15,3,4,3,1,3,-1
 MX,Mexico,Morelos,,,MX-MOR,,2020-02-16,3,4,6,9,2,0
 MX,Mexico,Morelos,,,MX-MOR,,2020-02-17,-1,2,-2,3,10,-2
@@ -5592,6 +5624,8 @@ MX,Mexico,Morelos,,,MX-MOR,,2021-01-05,-13,18,-10,-30,-27,11
 MX,Mexico,Morelos,,,MX-MOR,,2021-01-06,-24,5,-31,-34,-25,12
 MX,Mexico,Morelos,,,MX-MOR,,2021-01-07,-28,-1,-35,-39,-28,14
 MX,Mexico,Morelos,,,MX-MOR,,2021-01-08,-34,-4,-38,-48,-23,15
+MX,Mexico,Morelos,,,MX-MOR,,2021-01-09,-35,-5,-44,-47,0,11
+MX,Mexico,Morelos,,,MX-MOR,,2021-01-10,-37,-9,-40,-45,2,9
 MX,Mexico,Nayarit,,,MX-NAY,,2020-02-15,1,0,-1,6,3,0
 MX,Mexico,Nayarit,,,MX-NAY,,2020-02-16,3,2,-1,6,1,-1
 MX,Mexico,Nayarit,,,MX-NAY,,2020-02-17,1,1,-5,-1,13,-1
@@ -5921,6 +5955,8 @@ MX,Mexico,Nayarit,,,MX-NAY,,2021-01-05,-21,0,-25,-7,-30,9
 MX,Mexico,Nayarit,,,MX-NAY,,2021-01-06,-21,4,-27,-10,-24,8
 MX,Mexico,Nayarit,,,MX-NAY,,2021-01-07,-25,-4,-32,-16,-28,10
 MX,Mexico,Nayarit,,,MX-NAY,,2021-01-08,-28,-6,-37,-21,-20,11
+MX,Mexico,Nayarit,,,MX-NAY,,2021-01-09,-31,-8,-33,-18,-2,8
+MX,Mexico,Nayarit,,,MX-NAY,,2021-01-10,-31,-7,-34,-16,2,5
 MX,Mexico,Nuevo Leon,,,MX-NLE,,2020-02-15,10,8,10,7,6,-2
 MX,Mexico,Nuevo Leon,,,MX-NLE,,2020-02-16,10,7,9,6,4,-1
 MX,Mexico,Nuevo Leon,,,MX-NLE,,2020-02-17,4,5,3,15,10,-2
@@ -6250,6 +6286,8 @@ MX,Mexico,Nuevo Leon,,,MX-NLE,,2021-01-05,-27,3,-43,-40,-31,14
 MX,Mexico,Nuevo Leon,,,MX-NLE,,2021-01-06,-29,0,-43,-44,-28,13
 MX,Mexico,Nuevo Leon,,,MX-NLE,,2021-01-07,-34,-6,-44,-45,-31,16
 MX,Mexico,Nuevo Leon,,,MX-NLE,,2021-01-08,-35,-1,-48,-41,-26,15
+MX,Mexico,Nuevo Leon,,,MX-NLE,,2021-01-09,-42,1,-64,-40,-11,13
+MX,Mexico,Nuevo Leon,,,MX-NLE,,2021-01-10,-73,-61,-69,-46,-21,14
 MX,Mexico,Oaxaca,,,MX-OAX,,2020-02-15,1,0,4,-3,2,-1
 MX,Mexico,Oaxaca,,,MX-OAX,,2020-02-16,3,2,3,0,1,0
 MX,Mexico,Oaxaca,,,MX-OAX,,2020-02-17,-1,0,1,1,11,-2
@@ -6579,6 +6617,8 @@ MX,Mexico,Oaxaca,,,MX-OAX,,2021-01-05,-14,5,-31,-7,-28,12
 MX,Mexico,Oaxaca,,,MX-OAX,,2021-01-06,-19,-2,-36,-13,-23,11
 MX,Mexico,Oaxaca,,,MX-OAX,,2021-01-07,-24,-8,-38,-18,-27,13
 MX,Mexico,Oaxaca,,,MX-OAX,,2021-01-08,-29,-12,-44,-25,-23,15
+MX,Mexico,Oaxaca,,,MX-OAX,,2021-01-09,-29,-11,-42,-23,1,10
+MX,Mexico,Oaxaca,,,MX-OAX,,2021-01-10,-32,-15,-43,-24,4,8
 MX,Mexico,Puebla,,,MX-PUE,,2020-02-15,6,5,1,6,4,-1
 MX,Mexico,Puebla,,,MX-PUE,,2020-02-16,7,6,1,6,1,-1
 MX,Mexico,Puebla,,,MX-PUE,,2020-02-17,2,3,-5,4,8,-2
@@ -6908,6 +6948,8 @@ MX,Mexico,Puebla,,,MX-PUE,,2021-01-05,-28,16,-27,-12,-35,14
 MX,Mexico,Puebla,,,MX-PUE,,2021-01-06,-37,1,-39,-23,-34,15
 MX,Mexico,Puebla,,,MX-PUE,,2021-01-07,-43,-5,-47,-28,-37,18
 MX,Mexico,Puebla,,,MX-PUE,,2021-01-08,-47,-7,-49,-33,-33,19
+MX,Mexico,Puebla,,,MX-PUE,,2021-01-09,-46,-4,-49,-27,-5,13
+MX,Mexico,Puebla,,,MX-PUE,,2021-01-10,-49,-10,-52,-27,-1,11
 MX,Mexico,Querétaro,,,MX-QUE,,2020-02-15,5,6,6,10,4,-2
 MX,Mexico,Querétaro,,,MX-QUE,,2020-02-16,7,7,5,11,2,-2
 MX,Mexico,Querétaro,,,MX-QUE,,2020-02-17,1,4,5,11,9,-2
@@ -7237,6 +7279,8 @@ MX,Mexico,Querétaro,,,MX-QUE,,2021-01-05,-17,13,-26,10,-29,11
 MX,Mexico,Querétaro,,,MX-QUE,,2021-01-06,-28,-2,-39,0,-28,13
 MX,Mexico,Querétaro,,,MX-QUE,,2021-01-07,-32,-10,-42,1,-29,15
 MX,Mexico,Querétaro,,,MX-QUE,,2021-01-08,-35,-8,-46,-13,-26,17
+MX,Mexico,Querétaro,,,MX-QUE,,2021-01-09,-34,-10,-49,-6,-1,10
+MX,Mexico,Querétaro,,,MX-QUE,,2021-01-10,-40,-11,-43,-5,4,8
 MX,Mexico,Quintana Roo,,,MX-ROO,,2020-02-15,8,8,10,3,4,-2
 MX,Mexico,Quintana Roo,,,MX-ROO,,2020-02-16,5,5,8,4,2,-1
 MX,Mexico,Quintana Roo,,,MX-ROO,,2020-02-17,3,3,3,3,10,-1
@@ -7566,6 +7610,8 @@ MX,Mexico,Quintana Roo,,,MX-ROO,,2021-01-05,-23,-1,-38,-33,-30,10
 MX,Mexico,Quintana Roo,,,MX-ROO,,2021-01-06,-25,-3,-36,-32,-26,10
 MX,Mexico,Quintana Roo,,,MX-ROO,,2021-01-07,-29,-9,-44,-34,-29,13
 MX,Mexico,Quintana Roo,,,MX-ROO,,2021-01-08,-30,-8,-39,-38,-24,12
+MX,Mexico,Quintana Roo,,,MX-ROO,,2021-01-09,-29,-7,-39,-35,-10,9
+MX,Mexico,Quintana Roo,,,MX-ROO,,2021-01-10,-31,-12,-40,-34,-5,8
 MX,Mexico,San Luis Potosi,,,MX-SLP,,2020-02-15,4,4,7,4,3,-2
 MX,Mexico,San Luis Potosi,,,MX-SLP,,2020-02-16,8,5,12,6,2,-2
 MX,Mexico,San Luis Potosi,,,MX-SLP,,2020-02-17,-1,3,3,8,12,-2
@@ -7895,6 +7941,8 @@ MX,Mexico,San Luis Potosi,,,MX-SLP,,2021-01-05,-18,7,-23,-22,-29,11
 MX,Mexico,San Luis Potosi,,,MX-SLP,,2021-01-06,-20,4,-26,-25,-25,10
 MX,Mexico,San Luis Potosi,,,MX-SLP,,2021-01-07,-26,-1,-31,-31,-27,13
 MX,Mexico,San Luis Potosi,,,MX-SLP,,2021-01-08,-31,-3,-32,,-21,14
+MX,Mexico,San Luis Potosi,,,MX-SLP,,2021-01-09,-31,-4,-43,,-2,8
+MX,Mexico,San Luis Potosi,,,MX-SLP,,2021-01-10,-25,-3,-30,,7,5
 MX,Mexico,Sinaloa,,,MX-SIN,,2020-02-15,3,3,4,-6,3,-1
 MX,Mexico,Sinaloa,,,MX-SIN,,2020-02-16,4,6,4,-1,2,0
 MX,Mexico,Sinaloa,,,MX-SIN,,2020-02-17,0,3,2,0,10,-2
@@ -8224,6 +8272,8 @@ MX,Mexico,Sinaloa,,,MX-SIN,,2021-01-05,-16,4,-18,-11,-29,12
 MX,Mexico,Sinaloa,,,MX-SIN,,2021-01-06,-20,2,-23,-18,-23,10
 MX,Mexico,Sinaloa,,,MX-SIN,,2021-01-07,-22,-3,-22,-21,-27,12
 MX,Mexico,Sinaloa,,,MX-SIN,,2021-01-08,-27,-4,-26,-28,-22,13
+MX,Mexico,Sinaloa,,,MX-SIN,,2021-01-09,-27,-4,-27,-25,-1,8
+MX,Mexico,Sinaloa,,,MX-SIN,,2021-01-10,-26,-4,-19,-24,10,6
 MX,Mexico,Sonora,,,MX-SON,,2020-02-15,7,6,0,-7,3,-1
 MX,Mexico,Sonora,,,MX-SON,,2020-02-16,6,6,-1,-3,2,0
 MX,Mexico,Sonora,,,MX-SON,,2020-02-17,4,4,2,3,9,-1
@@ -8553,6 +8603,8 @@ MX,Mexico,Sonora,,,MX-SON,,2021-01-05,-24,-4,-33,-9,-32,13
 MX,Mexico,Sonora,,,MX-SON,,2021-01-06,-27,-4,-38,-17,-29,12
 MX,Mexico,Sonora,,,MX-SON,,2021-01-07,-30,-8,-37,-25,-31,13
 MX,Mexico,Sonora,,,MX-SON,,2021-01-08,-33,-10,-39,-32,-26,14
+MX,Mexico,Sonora,,,MX-SON,,2021-01-09,-32,-7,-43,-27,-4,9
+MX,Mexico,Sonora,,,MX-SON,,2021-01-10,-34,-10,-46,-31,2,8
 MX,Mexico,State of Mexico,,,MX-MEX,,2020-02-15,6,6,6,6,4,-1
 MX,Mexico,State of Mexico,,,MX-MEX,,2020-02-16,7,6,4,6,2,-1
 MX,Mexico,State of Mexico,,,MX-MEX,,2020-02-17,1,1,1,8,11,-3
@@ -8882,6 +8934,8 @@ MX,Mexico,State of Mexico,,,MX-MEX,,2021-01-05,-14,31,-19,-30,-35,13
 MX,Mexico,State of Mexico,,,MX-MEX,,2021-01-06,-26,9,-36,-43,-35,16
 MX,Mexico,State of Mexico,,,MX-MEX,,2021-01-07,-32,-1,-41,-43,-37,18
 MX,Mexico,State of Mexico,,,MX-MEX,,2021-01-08,-37,-3,-42,-42,-32,19
+MX,Mexico,State of Mexico,,,MX-MEX,,2021-01-09,-38,-2,-43,-38,-5,13
+MX,Mexico,State of Mexico,,,MX-MEX,,2021-01-10,-38,-5,-43,-36,1,9
 MX,Mexico,Tabasco,,,MX-TAB,,2020-02-15,9,7,12,9,5,-2
 MX,Mexico,Tabasco,,,MX-TAB,,2020-02-16,9,9,11,12,3,-1
 MX,Mexico,Tabasco,,,MX-TAB,,2020-02-17,7,6,10,16,20,-4
@@ -9211,6 +9265,8 @@ MX,Mexico,Tabasco,,,MX-TAB,,2021-01-05,-17,10,-19,4,-26,10
 MX,Mexico,Tabasco,,,MX-TAB,,2021-01-06,-24,-1,-24,-6,-20,9
 MX,Mexico,Tabasco,,,MX-TAB,,2021-01-07,-29,-7,-33,-13,-25,12
 MX,Mexico,Tabasco,,,MX-TAB,,2021-01-08,-30,-4,-30,-10,-20,12
+MX,Mexico,Tabasco,,,MX-TAB,,2021-01-09,-35,-1,-25,-8,-2,8
+MX,Mexico,Tabasco,,,MX-TAB,,2021-01-10,-42,-5,-34,-11,2,7
 MX,Mexico,Tamaulipas,,,MX-TAM,,2020-02-15,7,6,8,0,4,-1
 MX,Mexico,Tamaulipas,,,MX-TAM,,2020-02-16,8,5,10,7,3,-1
 MX,Mexico,Tamaulipas,,,MX-TAM,,2020-02-17,3,3,5,3,9,-2
@@ -9540,6 +9596,8 @@ MX,Mexico,Tamaulipas,,,MX-TAM,,2021-01-05,-21,1,-32,-21,-28,11
 MX,Mexico,Tamaulipas,,,MX-TAM,,2021-01-06,-22,2,-37,-26,-22,10
 MX,Mexico,Tamaulipas,,,MX-TAM,,2021-01-07,-26,-4,-38,-27,-25,12
 MX,Mexico,Tamaulipas,,,MX-TAM,,2021-01-08,-27,-4,-37,-35,-20,12
+MX,Mexico,Tamaulipas,,,MX-TAM,,2021-01-09,-31,-7,-52,-30,-3,9
+MX,Mexico,Tamaulipas,,,MX-TAM,,2021-01-10,-35,-11,-55,-28,0,8
 MX,Mexico,Tlaxcala,,,MX-TLA,,2020-02-15,9,3,11,4,5,-2
 MX,Mexico,Tlaxcala,,,MX-TLA,,2020-02-16,6,3,1,1,3,0
 MX,Mexico,Tlaxcala,,,MX-TLA,,2020-02-17,1,2,1,7,11,-2
@@ -9869,6 +9927,8 @@ MX,Mexico,Tlaxcala,,,MX-TLA,,2021-01-05,-7,32,-3,-14,-29,12
 MX,Mexico,Tlaxcala,,,MX-TLA,,2021-01-06,-19,13,-21,-26,-27,13
 MX,Mexico,Tlaxcala,,,MX-TLA,,2021-01-07,-25,4,-30,-32,-29,16
 MX,Mexico,Tlaxcala,,,MX-TLA,,2021-01-08,-29,2,-32,-33,-24,17
+MX,Mexico,Tlaxcala,,,MX-TLA,,2021-01-09,-25,6,-27,-29,8,11
+MX,Mexico,Tlaxcala,,,MX-TLA,,2021-01-10,-30,3,-37,-34,10,10
 MX,Mexico,Veracruz,,,MX-VER,,2020-02-15,5,6,11,5,4,-1
 MX,Mexico,Veracruz,,,MX-VER,,2020-02-16,8,6,7,13,2,-1
 MX,Mexico,Veracruz,,,MX-VER,,2020-02-17,1,3,1,8,18,-3
@@ -10198,6 +10258,8 @@ MX,Mexico,Veracruz,,,MX-VER,,2021-01-05,-7,18,-20,-19,-27,9
 MX,Mexico,Veracruz,,,MX-VER,,2021-01-06,-15,9,-24,-27,-21,8
 MX,Mexico,Veracruz,,,MX-VER,,2021-01-07,-24,-1,-37,-33,-25,12
 MX,Mexico,Veracruz,,,MX-VER,,2021-01-08,-27,0,-39,-39,-22,12
+MX,Mexico,Veracruz,,,MX-VER,,2021-01-09,-28,0,-40,-38,0,9
+MX,Mexico,Veracruz,,,MX-VER,,2021-01-10,-27,-1,-37,-35,3,7
 MX,Mexico,Yucatan,,,MX-YUC,,2020-02-15,5,7,5,-2,5,-2
 MX,Mexico,Yucatan,,,MX-YUC,,2020-02-16,2,4,-1,-2,1,-1
 MX,Mexico,Yucatan,,,MX-YUC,,2020-02-17,2,6,2,8,10,-3
@@ -10527,6 +10589,8 @@ MX,Mexico,Yucatan,,,MX-YUC,,2021-01-05,-29,-6,-37,-53,-26,14
 MX,Mexico,Yucatan,,,MX-YUC,,2021-01-06,-28,-7,-37,-54,-20,12
 MX,Mexico,Yucatan,,,MX-YUC,,2021-01-07,-33,-14,-45,-55,-26,15
 MX,Mexico,Yucatan,,,MX-YUC,,2021-01-08,-36,-11,-42,-55,-22,15
+MX,Mexico,Yucatan,,,MX-YUC,,2021-01-09,-39,-12,-47,-55,-2,10
+MX,Mexico,Yucatan,,,MX-YUC,,2021-01-10,-44,-19,-52,-51,8,10
 MX,Mexico,Zacatecas,,,MX-ZAC,,2020-02-15,1,-1,2,1,2,-1
 MX,Mexico,Zacatecas,,,MX-ZAC,,2020-02-16,4,2,12,3,2,-1
 MX,Mexico,Zacatecas,,,MX-ZAC,,2020-02-17,-3,-2,-2,-1,18,-2
@@ -10856,3 +10920,5 @@ MX,Mexico,Zacatecas,,,MX-ZAC,,2021-01-05,-26,7,-32,-18,-30,9
 MX,Mexico,Zacatecas,,,MX-ZAC,,2021-01-06,-26,7,-37,-25,-24,8
 MX,Mexico,Zacatecas,,,MX-ZAC,,2021-01-07,-30,-1,-40,-30,-28,10
 MX,Mexico,Zacatecas,,,MX-ZAC,,2021-01-08,-34,-3,-43,-30,-23,10
+MX,Mexico,Zacatecas,,,MX-ZAC,,2021-01-09,-34,-3,-40,-32,3,6
+MX,Mexico,Zacatecas,,,MX-ZAC,,2021-01-10,-31,-4,-36,-29,5,5

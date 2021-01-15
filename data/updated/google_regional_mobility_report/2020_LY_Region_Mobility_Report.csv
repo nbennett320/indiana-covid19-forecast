@@ -328,6 +328,8 @@ LY,Libya,,,,,,2021-01-05,35,58,73,-6,3,-1
 LY,Libya,,,,,,2021-01-06,33,56,63,0,5,-1
 LY,Libya,,,,,,2021-01-07,37,63,61,4,4,0
 LY,Libya,,,,,,2021-01-08,27,50,56,6,-7,-1
+LY,Libya,,,,,,2021-01-09,36,61,52,1,11,-2
+LY,Libya,,,,,,2021-01-10,43,69,57,0,9,-1
 LY,Libya,Al Wahat District,,,LY-WA,,2020-02-15,,,,,4,
 LY,Libya,Al Wahat District,,,LY-WA,,2020-02-16,,,,,-3,
 LY,Libya,Al Wahat District,,,LY-WA,,2020-02-17,,,,,-10,
@@ -628,6 +630,8 @@ LY,Libya,Al Wahat District,,,LY-WA,,2021-01-05,,,,,-9,
 LY,Libya,Al Wahat District,,,LY-WA,,2021-01-06,,,,,-7,
 LY,Libya,Al Wahat District,,,LY-WA,,2021-01-07,,,,,-6,
 LY,Libya,Al Wahat District,,,LY-WA,,2021-01-08,,,,,-7,
+LY,Libya,Al Wahat District,,,LY-WA,,2021-01-09,,,,,-1,
+LY,Libya,Al Wahat District,,,LY-WA,,2021-01-10,,,,,0,
 LY,Libya,Benghazi district,,,LY-BA,,2020-02-15,7,7,14,,7,-1
 LY,Libya,Benghazi district,,,LY-BA,,2020-02-16,7,12,6,,-8,3
 LY,Libya,Benghazi district,,,LY-BA,,2020-02-17,2,0,2,,-18,4
@@ -954,6 +958,8 @@ LY,Libya,Benghazi district,,,LY-BA,,2021-01-05,42,54,76,,3,-1
 LY,Libya,Benghazi district,,,LY-BA,,2021-01-06,31,45,55,,5,0
 LY,Libya,Benghazi district,,,LY-BA,,2021-01-07,37,52,52,,5,1
 LY,Libya,Benghazi district,,,LY-BA,,2021-01-08,40,42,57,,-2,0
+LY,Libya,Benghazi district,,,LY-BA,,2021-01-09,37,50,48,,15,-3
+LY,Libya,Benghazi district,,,LY-BA,,2021-01-10,42,58,46,,8,-1
 LY,Libya,Butnan District,,,LY-BU,,2020-02-16,,,,,-2,
 LY,Libya,Butnan District,,,LY-BU,,2020-02-17,,,,,-21,
 LY,Libya,Butnan District,,,LY-BU,,2020-02-18,,,,,6,
@@ -1142,6 +1148,7 @@ LY,Libya,Butnan District,,,LY-BU,,2021-01-04,,,,,-14,
 LY,Libya,Butnan District,,,LY-BU,,2021-01-05,,,,,-4,
 LY,Libya,Butnan District,,,LY-BU,,2021-01-06,,,,,4,
 LY,Libya,Butnan District,,,LY-BU,,2021-01-07,,,,,-5,
+LY,Libya,Butnan District,,,LY-BU,,2021-01-10,,,,,1,
 LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-15,,,,,4,
 LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-16,,,,,-6,
 LY,Libya,Jabal al Akhdar District,,,LY-JA,,2020-02-17,,,,,-14,
@@ -1402,6 +1409,8 @@ LY,Libya,Jabal al Akhdar District,,,LY-JA,,2021-01-04,,,,,6,
 LY,Libya,Jabal al Akhdar District,,,LY-JA,,2021-01-05,,,,,7,
 LY,Libya,Jabal al Akhdar District,,,LY-JA,,2021-01-06,,,,,7,
 LY,Libya,Jabal al Akhdar District,,,LY-JA,,2021-01-07,,,,,9,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,2021-01-09,,,,,11,
+LY,Libya,Jabal al Akhdar District,,,LY-JA,,2021-01-10,,,,,12,
 LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-16,,,,,-4,
 LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-17,,,,,-7,
 LY,Libya,Jabal al Gharbi District,,,LY-JG,,2020-02-20,,,,,-2,
@@ -1561,6 +1570,7 @@ LY,Libya,Jabal al Gharbi District,,,LY-JG,,2021-01-03,,,,,3,
 LY,Libya,Jabal al Gharbi District,,,LY-JG,,2021-01-04,,,,,8,
 LY,Libya,Jabal al Gharbi District,,,LY-JG,,2021-01-05,,,,,-5,
 LY,Libya,Jabal al Gharbi District,,,LY-JG,,2021-01-07,,,,,-5,
+LY,Libya,Jabal al Gharbi District,,,LY-JG,,2021-01-10,,,,,-5,
 LY,Libya,Misrata District,,,LY-MI,,2020-02-15,1,,,,4,
 LY,Libya,Misrata District,,,LY-MI,,2020-02-16,6,,,,-6,
 LY,Libya,Misrata District,,,LY-MI,,2020-02-17,11,,,,-20,
@@ -1865,6 +1875,8 @@ LY,Libya,Misrata District,,,LY-MI,,2021-01-05,27,,,,11,-5
 LY,Libya,Misrata District,,,LY-MI,,2021-01-06,26,,,,13,-5
 LY,Libya,Misrata District,,,LY-MI,,2021-01-07,28,,,,15,-4
 LY,Libya,Misrata District,,,LY-MI,,2021-01-08,17,,,,-5,
+LY,Libya,Misrata District,,,LY-MI,,2021-01-09,28,,,,24,
+LY,Libya,Misrata District,,,LY-MI,,2021-01-10,31,,,,19,-6
 LY,Libya,Murqub District,,,LY-MB,,2020-02-15,,,,,5,
 LY,Libya,Murqub District,,,LY-MB,,2020-02-16,,,,,-13,
 LY,Libya,Murqub District,,,LY-MB,,2020-02-17,,,,,-17,
@@ -2169,6 +2181,8 @@ LY,Libya,Murqub District,,,LY-MB,,2021-01-05,,,,,-6,
 LY,Libya,Murqub District,,,LY-MB,,2021-01-06,,,,,-1,
 LY,Libya,Murqub District,,,LY-MB,,2021-01-07,,,,,-9,
 LY,Libya,Murqub District,,,LY-MB,,2021-01-08,,,,,-7,
+LY,Libya,Murqub District,,,LY-MB,,2021-01-09,,,,,2,
+LY,Libya,Murqub District,,,LY-MB,,2021-01-10,,,,,1,
 LY,Libya,Nuqat al Khams District,,,LY-NQ,,2020-03-25,,,,,-57,
 LY,Libya,Nuqat al Khams District,,,LY-NQ,,2020-03-30,,,,,-43,
 LY,Libya,Nuqat al Khams District,,,LY-NQ,,2020-03-31,,,,,-39,
@@ -2395,6 +2409,7 @@ LY,Libya,Sabha District,,,LY-SB,,2021-01-04,,,,,-7,
 LY,Libya,Sabha District,,,LY-SB,,2021-01-05,,,,,-3,
 LY,Libya,Sabha District,,,LY-SB,,2021-01-06,,,,,-10,
 LY,Libya,Sabha District,,,LY-SB,,2021-01-07,,,,,-8,
+LY,Libya,Sabha District,,,LY-SB,,2021-01-10,,,,,0,
 LY,Libya,Tripoli District,,,LY-TB,,2020-02-15,2,3,11,,3,0
 LY,Libya,Tripoli District,,,LY-TB,,2020-02-16,5,8,9,,-23,3
 LY,Libya,Tripoli District,,,LY-TB,,2020-02-17,-4,-8,48,,-34,6
@@ -2724,6 +2739,8 @@ LY,Libya,Tripoli District,,,LY-TB,,2021-01-05,29,68,119,-11,4,3
 LY,Libya,Tripoli District,,,LY-TB,,2021-01-06,27,61,108,,5,2
 LY,Libya,Tripoli District,,,LY-TB,,2021-01-07,29,71,111,,5,2
 LY,Libya,Tripoli District,,,LY-TB,,2021-01-08,15,48,96,,-6,0
+LY,Libya,Tripoli District,,,LY-TB,,2021-01-09,29,63,90,,13,1
+LY,Libya,Tripoli District,,,LY-TB,,2021-01-10,31,72,93,,9,2
 LY,Libya,Zawiya District,,,LY-ZA,,2020-02-15,,,,,2,
 LY,Libya,Zawiya District,,,LY-ZA,,2020-02-16,,,,,-14,
 LY,Libya,Zawiya District,,,LY-ZA,,2020-02-17,,,,,-21,
@@ -3028,3 +3045,5 @@ LY,Libya,Zawiya District,,,LY-ZA,,2021-01-05,,,,,-7,
 LY,Libya,Zawiya District,,,LY-ZA,,2021-01-06,,,,,1,
 LY,Libya,Zawiya District,,,LY-ZA,,2021-01-07,,,,,-8,
 LY,Libya,Zawiya District,,,LY-ZA,,2021-01-08,,,,,-11,
+LY,Libya,Zawiya District,,,LY-ZA,,2021-01-09,,,,,7,
+LY,Libya,Zawiya District,,,LY-ZA,,2021-01-10,,,,,1,

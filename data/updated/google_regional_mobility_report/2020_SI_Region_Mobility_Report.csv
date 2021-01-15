@@ -328,6 +328,8 @@ SI,Slovenia,,,,,,2021-01-05,-59,-23,-16,-48,-36,18
 SI,Slovenia,,,,,,2021-01-06,-62,-27,-34,-52,-36,19
 SI,Slovenia,,,,,,2021-01-07,-61,-27,-23,-50,-35,18
 SI,Slovenia,,,,,,2021-01-08,-62,-25,-31,-51,-33,20
+SI,Slovenia,,,,,,2021-01-09,-62,-20,-12,-36,-20,11
+SI,Slovenia,,,,,,2021-01-10,-82,-90,-37,-48,-26,11
 SI,Slovenia,Administrative unit Maribor,,,,,2020-02-15,11,1,-2,27,9,-2
 SI,Slovenia,Administrative unit Maribor,,,,,2020-02-16,5,8,30,8,4,
 SI,Slovenia,Administrative unit Maribor,,,,,2020-02-17,-2,-1,20,1,2,0
@@ -654,6 +656,8 @@ SI,Slovenia,Administrative unit Maribor,,,,,2021-01-05,-57,-32,-23,-53,-35,17
 SI,Slovenia,Administrative unit Maribor,,,,,2021-01-06,-58,-33,-39,-57,-36,18
 SI,Slovenia,Administrative unit Maribor,,,,,2021-01-07,-61,-35,-56,-56,-35,17
 SI,Slovenia,Administrative unit Maribor,,,,,2021-01-08,-61,-36,-50,-62,-32,18
+SI,Slovenia,Administrative unit Maribor,,,,,2021-01-09,-61,-28,-46,-45,-20,11
+SI,Slovenia,Administrative unit Maribor,,,,,2021-01-10,-80,-90,,-57,-24,11
 SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2020-02-15,12,2,-1,32,11,-2
 SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2020-02-16,4,2,31,6,7,-2
 SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2020-02-17,-3,-2,15,0,2,-1
@@ -983,6 +987,8 @@ SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2021-01-05,-57,-33,-23,
 SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2021-01-06,-57,-33,-40,-59,-39,17
 SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2021-01-07,-60,-36,-57,-59,-37,17
 SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2021-01-08,-60,-35,-52,-64,-34,18
+SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2021-01-09,-59,-27,-49,-47,-24,11
+SI,Slovenia,Administrative unit Maribor,Maribor,,SI-070,,2021-01-10,-80,-91,-45,-60,-27,10
 SI,Slovenia,Administrative unit Maribor,Municipality of Duplek,,SI-026,,2020-03-17,,,,,-55,
 SI,Slovenia,Administrative unit Maribor,Municipality of Duplek,,SI-026,,2020-03-18,,,,,-53,
 SI,Slovenia,Administrative unit Maribor,Municipality of Duplek,,SI-026,,2020-03-19,,,,,-60,
@@ -2318,6 +2324,7 @@ SI,Slovenia,Ajdovščina,Municipality of Ajdovščina,,SI-001,,2021-01-05,,,,-41
 SI,Slovenia,Ajdovščina,Municipality of Ajdovščina,,SI-001,,2021-01-06,,,,-62,-35,
 SI,Slovenia,Ajdovščina,Municipality of Ajdovščina,,SI-001,,2021-01-07,,,,-57,-34,
 SI,Slovenia,Ajdovščina,Municipality of Ajdovščina,,SI-001,,2021-01-08,,,,-56,-36,
+SI,Slovenia,Ajdovščina,Municipality of Ajdovščina,,SI-001,,2021-01-09,,,,,-29,
 SI,Slovenia,Ajdovščina,Municipality of Vipava,,SI-136,,2020-06-08,,,,,-10,
 SI,Slovenia,Ajdovščina,Municipality of Vipava,,SI-136,,2020-06-09,,,,,-1,
 SI,Slovenia,Ajdovščina,Municipality of Vipava,,SI-136,,2020-06-10,,,,,-10,
@@ -3008,6 +3015,8 @@ SI,Slovenia,Celje,,,,,2021-01-05,-62,-14,,-37,-33,15
 SI,Slovenia,Celje,,,,,2021-01-06,-65,,,-44,-33,17
 SI,Slovenia,Celje,,,,,2021-01-07,-65,-21,,-45,-35,17
 SI,Slovenia,Celje,,,,,2021-01-08,-67,-15,,-49,-32,18
+SI,Slovenia,Celje,,,,,2021-01-09,-71,-13,-57,,-20,
+SI,Slovenia,Celje,,,,,2021-01-10,-84,-89,,,-27,
 SI,Slovenia,Celje,Celje,,SI-011,,2020-02-15,6,52,22,,4,
 SI,Slovenia,Celje,Celje,,SI-011,,2020-02-16,11,,34,,1,
 SI,Slovenia,Celje,Celje,,SI-011,,2020-02-17,3,32,,21,0,0
@@ -3334,6 +3343,8 @@ SI,Slovenia,Celje,Celje,,SI-011,,2021-01-05,-61,-4,,-38,-31,16
 SI,Slovenia,Celje,Celje,,SI-011,,2021-01-06,-63,-7,,-46,-32,17
 SI,Slovenia,Celje,Celje,,SI-011,,2021-01-07,-63,-11,,-40,-34,18
 SI,Slovenia,Celje,Celje,,SI-011,,2021-01-08,-66,-5,,-48,-33,19
+SI,Slovenia,Celje,Celje,,SI-011,,2021-01-09,-70,1,-61,-41,-22,11
+SI,Slovenia,Celje,Celje,,SI-011,,2021-01-10,-83,-88,-65,-47,-26,
 SI,Slovenia,Celje,Municipality of Vojnik,,SI-139,,2020-02-20,,,,,-4,
 SI,Slovenia,Celje,Municipality of Vojnik,,SI-139,,2020-02-24,,,,,-17,
 SI,Slovenia,Celje,Municipality of Vojnik,,SI-139,,2020-02-25,,,,,-19,
@@ -4739,6 +4750,8 @@ SI,Slovenia,Domžale,,,,,2021-01-05,-58,-16,,-44,-35,19
 SI,Slovenia,Domžale,,,,,2021-01-06,-62,-30,,-53,-36,22
 SI,Slovenia,Domžale,,,,,2021-01-07,-60,-19,,-50,-36,19
 SI,Slovenia,Domžale,,,,,2021-01-08,-60,-14,,-54,-34,20
+SI,Slovenia,Domžale,,,,,2021-01-09,-62,-12,,-40,-19,
+SI,Slovenia,Domžale,,,,,2021-01-10,-81,,,,-15,
 SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2020-02-15,7,1,,,6,
 SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2020-02-16,15,,,,,
 SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2020-02-17,7,-2,,-32,-18,2
@@ -5057,6 +5070,8 @@ SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2021-01-05,-53,-25,,-47,-
 SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2021-01-06,-59,-38,,-58,-37,22
 SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2021-01-07,-56,-26,,-54,-36,19
 SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2021-01-08,-55,-26,,-61,-36,22
+SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2021-01-09,-57,-20,,,-16,
+SI,Slovenia,Domžale,Municipality of Domžale,,SI-023,,2021-01-10,,,,,-9,
 SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2020-02-20,,,,27,,
 SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2020-02-21,,,,32,,
 SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2020-02-26,,,,14,,
@@ -5291,6 +5306,8 @@ SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2021-01-05,,,,-41,-35,
 SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2021-01-06,,,,-55,-38,
 SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2021-01-07,,,,-57,-36,
 SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2021-01-08,,,,-52,-36,
+SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2021-01-09,,,,-48,,
+SI,Slovenia,Domžale,Municipality of Lukovica,,SI-068,,2021-01-10,,,,-62,,
 SI,Slovenia,Domžale,Municipality of Mengeš,,SI-072,,2020-02-17,,,,,-21,
 SI,Slovenia,Domžale,Municipality of Mengeš,,SI-072,,2020-02-18,,,,,-16,
 SI,Slovenia,Domžale,Municipality of Mengeš,,SI-072,,2020-02-19,,,,,-16,
@@ -6764,6 +6781,7 @@ SI,Slovenia,Grosuplje,,,,,2021-01-05,,,,,-35,21
 SI,Slovenia,Grosuplje,,,,,2021-01-06,,,,,-35,22
 SI,Slovenia,Grosuplje,,,,,2021-01-07,,,,,-36,21
 SI,Slovenia,Grosuplje,,,,,2021-01-08,,,,,-35,24
+SI,Slovenia,Grosuplje,,,,,2021-01-09,,,,,-8,
 SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2020-02-17,-4,,,,-20,
 SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2020-02-18,-1,,,,-20,
 SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2020-02-19,,,,,-21,
@@ -7007,6 +7025,7 @@ SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2021-01-05,,,,,-39,21
 SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2021-01-06,,,,,-40,23
 SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2021-01-07,,,,,-38,22
 SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2021-01-08,,,,,-38,24
+SI,Slovenia,Grosuplje,Municipality of Grosuplje,,SI-032,,2021-01-09,,,,,-13,
 SI,Slovenia,Grosuplje,Municipality of Ivančna Gorica,,SI-039,,2020-02-17,,,,,-20,
 SI,Slovenia,Grosuplje,Municipality of Ivančna Gorica,,SI-039,,2020-02-18,,,,,-21,
 SI,Slovenia,Grosuplje,Municipality of Ivančna Gorica,,SI-039,,2020-02-19,,,,,-18,
@@ -8359,6 +8378,7 @@ SI,Slovenia,Izola,Municipality of Izola,,SI-040,,2021-01-05,,,,,-36,
 SI,Slovenia,Izola,Municipality of Izola,,SI-040,,2021-01-06,,,,,-39,
 SI,Slovenia,Izola,Municipality of Izola,,SI-040,,2021-01-07,,,,,-39,
 SI,Slovenia,Izola,Municipality of Izola,,SI-040,,2021-01-08,,,,,-38,
+SI,Slovenia,Izola,Municipality of Izola,,SI-040,,2021-01-09,,,,,-24,
 SI,Slovenia,Jesenice,,,,,2020-02-15,4,12,,,3,
 SI,Slovenia,Jesenice,,,,,2020-02-16,22,,,,2,
 SI,Slovenia,Jesenice,,,,,2020-02-17,14,18,,,-16,
@@ -8663,6 +8683,8 @@ SI,Slovenia,Jesenice,,,,,2021-01-05,,,,-50,-33,
 SI,Slovenia,Jesenice,,,,,2021-01-06,,,,,-35,
 SI,Slovenia,Jesenice,,,,,2021-01-07,-62,-31,,,-32,
 SI,Slovenia,Jesenice,,,,,2021-01-08,-61,-34,,-36,-30,
+SI,Slovenia,Jesenice,,,,,2021-01-09,-60,,,,-26,
+SI,Slovenia,Jesenice,,,,,2021-01-10,,,-41,,-29,
 SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2020-02-17,,-7,,-22,-17,
 SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2020-02-18,,,,-11,-15,
 SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2020-02-19,,-3,,-2,-17,
@@ -8949,6 +8971,8 @@ SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2021-01-05,,,,-35,-30,14
 SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2021-01-06,,,,-29,-34,17
 SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2021-01-07,,-27,,-30,-33,14
 SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2021-01-08,,-25,,-24,-28,16
+SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2021-01-09,-51,,,-29,-22,
+SI,Slovenia,Jesenice,Municipality of Jesenice,,SI-041,,2021-01-10,,,,,-22,
 SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2020-02-15,11,,,,,
 SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2020-02-22,-7,,,,,
 SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2020-02-23,-8,,35,,,
@@ -9145,6 +9169,8 @@ SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2021-01-05,,,,,-40,
 SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2021-01-06,,,,,-40,
 SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2021-01-07,,,,,-32,
 SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2021-01-08,,,,,-36,
+SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2021-01-09,,,-5,,,
+SI,Slovenia,Jesenice,Municipality of Kranjska Gora,,SI-053,,2021-01-10,,,-45,,,
 SI,Slovenia,Jesenice,Municipality of Žirovnica,,SI-192,,2020-06-08,,,,,-12,
 SI,Slovenia,Jesenice,Municipality of Žirovnica,,SI-192,,2020-06-09,,,,,-13,
 SI,Slovenia,Jesenice,Municipality of Žirovnica,,SI-192,,2020-06-10,,,,,-11,
@@ -9546,6 +9572,7 @@ SI,Slovenia,Kamnik,,,,,2021-01-05,-46,,,,-34,20
 SI,Slovenia,Kamnik,,,,,2021-01-06,-54,,,,-34,21
 SI,Slovenia,Kamnik,,,,,2021-01-07,-48,,,,-33,20
 SI,Slovenia,Kamnik,,,,,2021-01-08,-45,-11,,,-31,22
+SI,Slovenia,Kamnik,,,,,2021-01-09,-38,,,,-10,
 SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2020-02-15,7,4,,,,
 SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2020-02-16,12,,,,,
 SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2020-02-17,-5,4,,-32,-19,3
@@ -9856,6 +9883,8 @@ SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2021-01-05,-38,-18,,-39,-35,1
 SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2021-01-06,-49,-34,,-41,-34,22
 SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2021-01-07,-37,-21,,-43,-32,20
 SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2021-01-08,-44,-21,,-38,-32,22
+SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2021-01-09,-31,-26,,,-14,
+SI,Slovenia,Kamnik,Municipality of Kamnik,,SI-043,,2021-01-10,,,,,-13,
 SI,Slovenia,Kamnik,Municipality of Komenda,,SI-164,,2020-02-17,,,,,-22,
 SI,Slovenia,Kamnik,Municipality of Komenda,,SI-164,,2020-02-18,,,,,-25,
 SI,Slovenia,Kamnik,Municipality of Komenda,,SI-164,,2020-02-20,,,,,-22,
@@ -10506,6 +10535,7 @@ SI,Slovenia,Kočevje,Municipality of Kočevje,,SI-048,,2021-01-05,,,,,-26,
 SI,Slovenia,Kočevje,Municipality of Kočevje,,SI-048,,2021-01-06,,,,,-26,
 SI,Slovenia,Kočevje,Municipality of Kočevje,,SI-048,,2021-01-07,,,,,-22,
 SI,Slovenia,Kočevje,Municipality of Kočevje,,SI-048,,2021-01-08,,,,,-21,
+SI,Slovenia,Kočevje,Municipality of Kočevje,,SI-048,,2021-01-09,,,,,-10,
 SI,Slovenia,Koper,,,,,2020-02-15,11,8,,,6,
 SI,Slovenia,Koper,,,,,2020-02-16,14,10,31,,0,
 SI,Slovenia,Koper,,,,,2020-02-17,-1,-2,,-9,-18,3
@@ -10829,6 +10859,8 @@ SI,Slovenia,Koper,,,,,2021-01-05,-56,-34,,-25,-34,18
 SI,Slovenia,Koper,,,,,2021-01-06,-57,-35,,-39,-37,20
 SI,Slovenia,Koper,,,,,2021-01-07,-56,-36,,-35,-37,18
 SI,Slovenia,Koper,,,,,2021-01-08,-58,-32,-31,-29,-33,18
+SI,Slovenia,Koper,,,,,2021-01-09,-64,-30,,,-27,
+SI,Slovenia,Koper,,,,,2021-01-10,-86,-84,-64,-45,-29,
 SI,Slovenia,Koper,Koper,,SI-050,,2020-02-15,9,7,,22,8,
 SI,Slovenia,Koper,Koper,,SI-050,,2020-02-16,13,7,17,15,-4,
 SI,Slovenia,Koper,Koper,,SI-050,,2020-02-17,0,-5,2,-1,-17,2
@@ -11152,6 +11184,8 @@ SI,Slovenia,Koper,Koper,,SI-050,,2021-01-05,-53,-33,-20,-32,-33,18
 SI,Slovenia,Koper,Koper,,SI-050,,2021-01-06,-54,-33,-37,-39,-36,20
 SI,Slovenia,Koper,Koper,,SI-050,,2021-01-07,-54,-36,-12,-34,-36,19
 SI,Slovenia,Koper,Koper,,SI-050,,2021-01-08,-56,-34,-30,-28,-33,19
+SI,Slovenia,Koper,Koper,,SI-050,,2021-01-09,-62,-30,6,-22,-24,12
+SI,Slovenia,Koper,Koper,,SI-050,,2021-01-10,-85,-84,-60,-47,-30,
 SI,Slovenia,Kranj,,,,,2020-02-15,7,6,,23,8,
 SI,Slovenia,Kranj,,,,,2020-02-16,5,3,,-6,0,
 SI,Slovenia,Kranj,,,,,2020-02-17,5,-2,,-5,-17,1
@@ -11475,6 +11509,8 @@ SI,Slovenia,Kranj,,,,,2021-01-05,-58,-26,,-55,-35,19
 SI,Slovenia,Kranj,,,,,2021-01-06,-63,-29,,-53,-35,20
 SI,Slovenia,Kranj,,,,,2021-01-07,-59,-25,,-60,-36,19
 SI,Slovenia,Kranj,,,,,2021-01-08,-60,-26,,-56,-34,20
+SI,Slovenia,Kranj,,,,,2021-01-09,-61,-18,,-42,-16,
+SI,Slovenia,Kranj,,,,,2021-01-10,-83,-92,,-67,-24,
 SI,Slovenia,Kranj,Kranj,,SI-052,,2020-02-15,3,6,,23,3,
 SI,Slovenia,Kranj,Kranj,,SI-052,,2020-02-16,5,,,-5,2,
 SI,Slovenia,Kranj,Kranj,,SI-052,,2020-02-17,6,4,,-33,-16,2
@@ -11798,6 +11834,8 @@ SI,Slovenia,Kranj,Kranj,,SI-052,,2021-01-05,-55,-26,,-62,-35,18
 SI,Slovenia,Kranj,Kranj,,SI-052,,2021-01-06,-62,-31,,-56,-35,20
 SI,Slovenia,Kranj,Kranj,,SI-052,,2021-01-07,-58,-29,,-58,-36,19
 SI,Slovenia,Kranj,Kranj,,SI-052,,2021-01-08,-59,-28,,-51,-34,20
+SI,Slovenia,Kranj,Kranj,,SI-052,,2021-01-09,-63,-27,,0,-18,9
+SI,Slovenia,Kranj,Kranj,,SI-052,,2021-01-10,-85,-92,,-41,-20,
 SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2020-02-15,,,,21,,
 SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2020-02-16,,,,-14,,
 SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2020-02-17,,,,9,-24,
@@ -12097,6 +12135,8 @@ SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2021-01-05,,,,-
 SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2021-01-06,,,,-56,-38,
 SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2021-01-07,,,,-67,-37,
 SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2021-01-08,,,,-61,-33,
+SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2021-01-09,,,,-68,,
+SI,Slovenia,Kranj,Municipality of Cerklje na Gorenjskem,,SI-012,,2021-01-10,,,,-84,,
 SI,Slovenia,Kranj,Municipality of Naklo,,SI-082,,2020-03-18,,,,,-60,
 SI,Slovenia,Kranj,Municipality of Naklo,,SI-082,,2020-03-23,,,,,-62,
 SI,Slovenia,Kranj,Municipality of Naklo,,SI-082,,2020-03-25,,,,,-68,
@@ -12710,6 +12750,7 @@ SI,Slovenia,Krško,,,,,2021-01-05,,,,,-36,
 SI,Slovenia,Krško,,,,,2021-01-06,,,,,-36,
 SI,Slovenia,Krško,,,,,2021-01-07,,,,,-36,
 SI,Slovenia,Krško,,,,,2021-01-08,,,,,-37,
+SI,Slovenia,Krško,,,,,2021-01-09,,,,,-28,
 SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2020-02-15,,20,,,,
 SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2020-02-17,,16,,,2,1
 SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2020-02-18,9,10,,,1,0
@@ -13003,6 +13044,8 @@ SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2021-01-05,-57,,,,-38,18
 SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2021-01-06,-56,,,,-37,18
 SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2021-01-07,-58,,,,-39,20
 SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2021-01-08,-55,,,,-38,21
+SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2021-01-09,-54,,,,-26,
+SI,Slovenia,Krško,Municipality of Krško,,SI-054,,2021-01-10,,,,,-28,
 SI,Slovenia,Laško,,,,,2020-02-17,,,,,-3,
 SI,Slovenia,Laško,,,,,2020-02-18,,,,,1,
 SI,Slovenia,Laško,,,,,2020-02-19,,,,,1,
@@ -14734,6 +14777,7 @@ SI,Slovenia,Litija,Municipality of Litija,,SI-060,,2021-01-05,,,,,-34,
 SI,Slovenia,Litija,Municipality of Litija,,SI-060,,2021-01-06,,,,,-35,
 SI,Slovenia,Litija,Municipality of Litija,,SI-060,,2021-01-07,,,,,-32,
 SI,Slovenia,Litija,Municipality of Litija,,SI-060,,2021-01-08,,,,,-33,
+SI,Slovenia,Litija,Municipality of Litija,,SI-060,,2021-01-09,,,,,-18,
 SI,Slovenia,Litija,Municipality of Šmartno pri Litiji,,SI-194,,2020-06-08,,,,,-18,
 SI,Slovenia,Litija,Municipality of Šmartno pri Litiji,,SI-194,,2020-06-09,,,,,-10,
 SI,Slovenia,Litija,Municipality of Šmartno pri Litiji,,SI-194,,2020-06-10,,,,,-14,
@@ -15196,6 +15240,8 @@ SI,Slovenia,Ljubljana,,,,,2021-01-05,-61,-21,-40,-58,-40,19
 SI,Slovenia,Ljubljana,,,,,2021-01-06,-65,-26,-58,-63,-39,21
 SI,Slovenia,Ljubljana,,,,,2021-01-07,-63,-28,-41,-60,-41,20
 SI,Slovenia,Ljubljana,,,,,2021-01-08,-63,-26,-51,-62,-39,21
+SI,Slovenia,Ljubljana,,,,,2021-01-09,-62,-17,-16,-53,-22,11
+SI,Slovenia,Ljubljana,,,,,2021-01-10,-82,-90,-44,-60,-25,13
 SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2020-02-15,4,0,29,16,7,-5
 SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2020-02-16,-1,0,18,5,1,-4
 SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2020-02-17,-1,-4,-5,-13,-16,2
@@ -15525,6 +15571,8 @@ SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2021-01-05,-61,-25,-43,-59,-40,20
 SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2021-01-06,-65,-30,-61,-63,-40,21
 SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2021-01-07,-64,-30,-46,-61,-42,20
 SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2021-01-08,-63,-26,-56,-63,-38,21
+SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2021-01-09,-63,-19,-31,-58,-22,10
+SI,Slovenia,Ljubljana,Ljubljana,,SI-061,,2021-01-10,-83,-90,-49,-63,-25,13
 SI,Slovenia,Ljubljana,Municipality of Brezovica,,SI-008,,2020-02-17,,,,,-24,
 SI,Slovenia,Ljubljana,Municipality of Brezovica,,SI-008,,2020-02-18,,,,,-26,
 SI,Slovenia,Ljubljana,Municipality of Brezovica,,SI-008,,2020-02-19,,,,,-22,
@@ -16538,6 +16586,7 @@ SI,Slovenia,Ljubljana,Municipality of Medvode,,SI-071,,2021-01-05,,,,,-39,
 SI,Slovenia,Ljubljana,Municipality of Medvode,,SI-071,,2021-01-06,,,,,-37,20
 SI,Slovenia,Ljubljana,Municipality of Medvode,,SI-071,,2021-01-07,,,,,-41,
 SI,Slovenia,Ljubljana,Municipality of Medvode,,SI-071,,2021-01-08,,,,,-36,
+SI,Slovenia,Ljubljana,Municipality of Medvode,,SI-071,,2021-01-09,,,,,-23,
 SI,Slovenia,Ljubljana,Municipality of Škofljica,,SI-123,,2020-02-17,,,,,-28,
 SI,Slovenia,Ljubljana,Municipality of Škofljica,,SI-123,,2020-02-18,,,,,-29,
 SI,Slovenia,Ljubljana,Municipality of Škofljica,,SI-123,,2020-02-19,,,,,-31,
@@ -17718,6 +17767,7 @@ SI,Slovenia,Logatec,,,,,2021-01-05,,,,,-35,
 SI,Slovenia,Logatec,,,,,2021-01-06,,,,,-37,
 SI,Slovenia,Logatec,,,,,2021-01-07,,,,,-33,
 SI,Slovenia,Logatec,,,,,2021-01-08,,,,-57,-30,
+SI,Slovenia,Logatec,,,,,2021-01-09,,,,-60,,
 SI,Slovenia,Metlika,,,,,2020-03-25,,,,,-58,
 SI,Slovenia,Metlika,,,,,2020-03-26,,,,,-58,
 SI,Slovenia,Metlika,,,,,2020-04-01,,,,,-55,
@@ -18632,6 +18682,8 @@ SI,Slovenia,Murska Sobota,,,,,2021-01-05,-56,-24,,-34,-40,16
 SI,Slovenia,Murska Sobota,,,,,2021-01-06,-56,-28,,-32,-43,19
 SI,Slovenia,Murska Sobota,,,,,2021-01-07,-64,-33,,-47,-38,18
 SI,Slovenia,Murska Sobota,,,,,2021-01-08,-64,-33,,-42,-36,20
+SI,Slovenia,Murska Sobota,,,,,2021-01-09,-68,-28,,,-28,
+SI,Slovenia,Murska Sobota,,,,,2021-01-10,-84,,,,-33,
 SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2020-02-15,5,2,,,,
 SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2020-02-16,14,,,,,
 SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2020-02-17,-2,2,,5,0,
@@ -18926,6 +18978,8 @@ SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2021-01-05
 SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2021-01-06,-53,-35,,-34,-40,
 SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2021-01-07,-61,-44,,-51,-40,
 SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2021-01-08,-62,-39,,-46,-35,
+SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2021-01-09,-66,-44,,,-27,
+SI,Slovenia,Murska Sobota,City Municipality of Murska Sobota,,SI-080,,2021-01-10,-81,,,,,
 SI,Slovenia,Murska Sobota,Municipality of Beltinci,,SI-002,,2020-03-16,,,,,-43,
 SI,Slovenia,Murska Sobota,Municipality of Beltinci,,SI-002,,2020-03-17,,,,,-50,
 SI,Slovenia,Murska Sobota,Municipality of Beltinci,,SI-002,,2020-03-18,,,,,-51,
@@ -19534,6 +19588,8 @@ SI,Slovenia,Nova Gorica,,,,,2021-01-05,-59,-32,,-45,-32,17
 SI,Slovenia,Nova Gorica,,,,,2021-01-06,-66,-32,,-49,-34,21
 SI,Slovenia,Nova Gorica,,,,,2021-01-07,-63,-33,,-38,-30,18
 SI,Slovenia,Nova Gorica,,,,,2021-01-08,-65,-33,,-51,-30,21
+SI,Slovenia,Nova Gorica,,,,,2021-01-09,-74,-46,,,-26,
+SI,Slovenia,Nova Gorica,,,,,2021-01-10,-88,,,,-35,
 SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2020-02-15,7,2,,,,
 SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2020-02-16,6,,,,,
 SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2020-02-17,-6,-9,,-32,-16,3
@@ -19855,6 +19911,8 @@ SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2021-01-05,-60,-33,
 SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2021-01-06,-65,-40,,-53,-36,20
 SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2021-01-07,-63,-34,,-42,-34,18
 SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2021-01-08,-64,-36,,-45,-33,20
+SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2021-01-09,-76,-48,,,-23,
+SI,Slovenia,Nova Gorica,Municipality of Nova Gorica,,SI-084,,2021-01-10,-90,,,,-32,
 SI,Slovenia,Nova Gorica,Municipality of Šempeter–Vrtojba,,SI-183,,2020-04-02,,,,,-63,
 SI,Slovenia,Nova Gorica,Municipality of Šempeter–Vrtojba,,SI-183,,2020-04-27,,,,,-77,
 SI,Slovenia,Nova Gorica,Municipality of Šempeter–Vrtojba,,SI-183,,2020-06-08,,,,,-17,
@@ -20314,6 +20372,8 @@ SI,Slovenia,Novo Mesto,,,,,2021-01-05,-64,-26,,-45,-37,18
 SI,Slovenia,Novo Mesto,,,,,2021-01-06,-66,-32,,-43,-34,18
 SI,Slovenia,Novo Mesto,,,,,2021-01-07,-62,-29,,-40,-35,18
 SI,Slovenia,Novo Mesto,,,,,2021-01-08,-65,-30,,-54,-35,20
+SI,Slovenia,Novo Mesto,,,,,2021-01-09,-68,,,-57,-26,
+SI,Slovenia,Novo Mesto,,,,,2021-01-10,-86,-95,,,-27,
 SI,Slovenia,Novo Mesto,Municipality of Šentjernej,,SI-119,,2020-03-16,,,,,-30,
 SI,Slovenia,Novo Mesto,Municipality of Šentjernej,,SI-119,,2020-03-17,,,,,-42,
 SI,Slovenia,Novo Mesto,Municipality of Šentjernej,,SI-119,,2020-03-18,,,,,-56,
@@ -20802,6 +20862,8 @@ SI,Slovenia,Novo Mesto,Novo Mesto,,SI-085,,2021-01-05,-64,-32,,-45,-38,18
 SI,Slovenia,Novo Mesto,Novo Mesto,,SI-085,,2021-01-06,-67,-38,,-46,-36,19
 SI,Slovenia,Novo Mesto,Novo Mesto,,SI-085,,2021-01-07,-64,-30,,-43,-36,19
 SI,Slovenia,Novo Mesto,Novo Mesto,,SI-085,,2021-01-08,-64,-35,,-53,-37,21
+SI,Slovenia,Novo Mesto,Novo Mesto,,SI-085,,2021-01-09,-68,-40,,-60,-25,
+SI,Slovenia,Novo Mesto,Novo Mesto,,SI-085,,2021-01-10,-89,,,-55,-20,
 SI,Slovenia,Ormož,,,,,2020-02-17,,,,,7,
 SI,Slovenia,Ormož,,,,,2020-02-18,,,,,0,
 SI,Slovenia,Ormož,,,,,2020-02-19,,,,,3,
@@ -22092,6 +22154,7 @@ SI,Slovenia,Piran,,,,,2021-01-05,,,,,-35,
 SI,Slovenia,Piran,,,,,2021-01-06,,,,,-38,
 SI,Slovenia,Piran,,,,,2021-01-07,,,,,-36,
 SI,Slovenia,Piran,,,,,2021-01-08,,,,,-39,
+SI,Slovenia,Piran,,,,,2021-01-10,,,-61,,,
 SI,Slovenia,Postojna,,,,,2020-02-15,-2,7,,,,
 SI,Slovenia,Postojna,,,,,2020-02-16,5,,,,,
 SI,Slovenia,Postojna,,,,,2020-02-17,-2,-2,,,-20,
@@ -22719,6 +22782,7 @@ SI,Slovenia,Postojna,Municipality of Postojna,,SI-094,,2021-01-05,,,,-41,-34,
 SI,Slovenia,Postojna,Municipality of Postojna,,SI-094,,2021-01-06,,,,-45,-34,
 SI,Slovenia,Postojna,Municipality of Postojna,,SI-094,,2021-01-07,,,,-40,-32,
 SI,Slovenia,Postojna,Municipality of Postojna,,SI-094,,2021-01-08,-66,,,-37,-34,
+SI,Slovenia,Postojna,Municipality of Postojna,,SI-094,,2021-01-09,,,,-36,-26,
 SI,Slovenia,Ptuj,,,,,2020-02-15,33,18,,,8,
 SI,Slovenia,Ptuj,,,,,2020-02-16,17,11,,,6,
 SI,Slovenia,Ptuj,,,,,2020-02-17,5,6,,-7,1,0
@@ -23042,6 +23106,8 @@ SI,Slovenia,Ptuj,,,,,2021-01-05,-56,-26,,-18,-36,17
 SI,Slovenia,Ptuj,,,,,2021-01-06,-60,-31,,-20,-36,18
 SI,Slovenia,Ptuj,,,,,2021-01-07,-62,-32,,-18,-33,16
 SI,Slovenia,Ptuj,,,,,2021-01-08,-62,-32,,-22,-32,19
+SI,Slovenia,Ptuj,,,,,2021-01-09,-66,-29,,,-23,
+SI,Slovenia,Ptuj,,,,,2021-01-10,-86,-92,,,-25,
 SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2020-02-15,52,20,,,,
 SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2020-02-17,6,6,,-5,1,
 SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2020-02-18,18,11,,,-4,
@@ -23333,6 +23399,8 @@ SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2021-01-05,-56,-30,,-70,-36,
 SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2021-01-06,-59,-34,,,-39,20
 SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2021-01-07,-60,-34,,,-35,19
 SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2021-01-08,-61,-35,,-67,-30,20
+SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2021-01-09,-63,-33,,,-26,
+SI,Slovenia,Ptuj,City Municipality of Ptuj,,SI-096,,2021-01-10,,,,,-23,
 SI,Slovenia,Ptuj,Municipality of Kidričevo,,SI-045,,2020-04-27,,,,,-77,
 SI,Slovenia,Ptuj,Municipality of Kidričevo,,SI-045,,2020-06-08,,,,,-6,
 SI,Slovenia,Ptuj,Municipality of Kidričevo,,SI-045,,2020-06-09,,,,,-11,
@@ -24259,6 +24327,8 @@ SI,Slovenia,Radovljica,,,,,2021-01-05,-61,-21,-45,,-37,
 SI,Slovenia,Radovljica,,,,,2021-01-06,-65,,-70,-71,-40,
 SI,Slovenia,Radovljica,,,,,2021-01-07,-62,-26,,-56,-35,
 SI,Slovenia,Radovljica,,,,,2021-01-08,-63,-26,-62,-61,-36,
+SI,Slovenia,Radovljica,,,,,2021-01-09,-65,-26,-45,-58,-23,
+SI,Slovenia,Radovljica,,,,,2021-01-10,-82,,-64,-68,-35,
 SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2020-02-15,,,24,,,
 SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2020-02-16,,,49,,,
 SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2020-02-19,,,-6,,,
@@ -24541,6 +24611,8 @@ SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2021-01-05,,,-63,,-39,
 SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2021-01-06,,,,,-37,
 SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2021-01-07,,,-63,,-36,
 SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2021-01-08,,,,,-31,
+SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2021-01-09,,,-76,,,
+SI,Slovenia,Radovljica,Municipality of Bled,,SI-003,,2021-01-10,,,-81,,,
 SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2020-02-15,5,,,12,,
 SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2020-02-16,8,,,,,
 SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2020-02-17,8,2,,4,-15,
@@ -24837,6 +24909,8 @@ SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2021-01-05,-59,,,-61,
 SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2021-01-06,-64,,,-71,-38,20
 SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2021-01-07,-61,,,-58,-36,18
 SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2021-01-08,-59,,,-65,-36,20
+SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2021-01-09,-66,,,-59,-16,
+SI,Slovenia,Radovljica,Municipality of Radovljica,,SI-102,,2021-01-10,,,,,-34,
 SI,Slovenia,Ravne na Koroškem,,,,,2020-02-15,14,2,,,,
 SI,Slovenia,Ravne na Koroškem,,,,,2020-02-16,7,0,,,,
 SI,Slovenia,Ravne na Koroškem,,,,,2020-02-17,11,4,,,0,
@@ -25099,6 +25173,7 @@ SI,Slovenia,Ravne na Koroškem,,,,,2021-01-05,,,,,-30,
 SI,Slovenia,Ravne na Koroškem,,,,,2021-01-06,,,,,-34,
 SI,Slovenia,Ravne na Koroškem,,,,,2021-01-07,,,,,-31,
 SI,Slovenia,Ravne na Koroškem,,,,,2021-01-08,,,,,-28,
+SI,Slovenia,Ravne na Koroškem,,,,,2021-01-09,,,,,-18,
 SI,Slovenia,Ravne na Koroškem,Municipality of Prevalje,,SI-175,,2020-03-16,,,,,-28,
 SI,Slovenia,Ravne na Koroškem,Municipality of Prevalje,,SI-175,,2020-03-17,,,,,-38,
 SI,Slovenia,Ravne na Koroškem,Municipality of Prevalje,,SI-175,,2020-03-18,,,,,-37,
@@ -26765,6 +26840,7 @@ SI,Slovenia,Šentjur,Municipality of Šentjur,,SI-120,,2021-01-05,,,,,-36,16
 SI,Slovenia,Šentjur,Municipality of Šentjur,,SI-120,,2021-01-06,,,,,-34,17
 SI,Slovenia,Šentjur,Municipality of Šentjur,,SI-120,,2021-01-07,,,,,-34,
 SI,Slovenia,Šentjur,Municipality of Šentjur,,SI-120,,2021-01-08,,,,,-33,
+SI,Slovenia,Šentjur,Municipality of Šentjur,,SI-120,,2021-01-09,,,,,-16,
 SI,Slovenia,Sevnica,,,,,2020-02-15,8,,,,,
 SI,Slovenia,Sevnica,,,,,2020-02-17,3,,,,-5,
 SI,Slovenia,Sevnica,,,,,2020-02-18,16,,,,0,
@@ -27233,6 +27309,7 @@ SI,Slovenia,Sevnica,Municipality of Sevnica,,SI-110,,2021-01-05,,,,,-38,
 SI,Slovenia,Sevnica,Municipality of Sevnica,,SI-110,,2021-01-06,,,,,-38,
 SI,Slovenia,Sevnica,Municipality of Sevnica,,SI-110,,2021-01-07,,,,,-34,
 SI,Slovenia,Sevnica,Municipality of Sevnica,,SI-110,,2021-01-08,,,,,-34,
+SI,Slovenia,Sevnica,Municipality of Sevnica,,SI-110,,2021-01-09,,,,,-25,
 SI,Slovenia,Sežana,,,,,2020-02-15,11,4,,,,
 SI,Slovenia,Sežana,,,,,2020-02-16,12,,,,,
 SI,Slovenia,Sežana,,,,,2020-02-17,-5,-1,,,-18,
@@ -27492,6 +27569,7 @@ SI,Slovenia,Sežana,,,,,2021-01-05,,,,,-40,
 SI,Slovenia,Sežana,,,,,2021-01-06,,,,,-40,
 SI,Slovenia,Sežana,,,,,2021-01-07,,,,,-38,
 SI,Slovenia,Sežana,,,,,2021-01-08,-72,,,,-36,
+SI,Slovenia,Sežana,,,,,2021-01-09,-81,,,,-28,
 SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2020-02-17,-7,,,,-22,
 SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2020-02-18,-10,,,,-20,
 SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2020-02-19,-7,,,,-23,
@@ -27727,6 +27805,7 @@ SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2021-01-05,,,,,-38,
 SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2021-01-06,,,,,-41,
 SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2021-01-07,,,,,-41,
 SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2021-01-08,,,,,-39,
+SI,Slovenia,Sežana,Municipality of Sežana,,SI-111,,2021-01-09,,,,,-25,
 SI,Slovenia,Škofja Loka,,,,,2020-02-15,8,9,,,4,
 SI,Slovenia,Škofja Loka,,,,,2020-02-16,12,,,,,
 SI,Slovenia,Škofja Loka,,,,,2020-02-17,1,-2,,,-18,
@@ -27996,6 +28075,7 @@ SI,Slovenia,Škofja Loka,,,,,2021-01-05,,,,,-33,18
 SI,Slovenia,Škofja Loka,,,,,2021-01-06,,,,,-33,20
 SI,Slovenia,Škofja Loka,,,,,2021-01-07,,,,,-33,19
 SI,Slovenia,Škofja Loka,,,,,2021-01-08,-59,,,-62,-31,20
+SI,Slovenia,Škofja Loka,,,,,2021-01-09,,,,,-15,
 SI,Slovenia,Škofja Loka,Municipality of Gorenja Vas-Poljane,,SI-027,,2020-02-17,,,,,-20,
 SI,Slovenia,Škofja Loka,Municipality of Gorenja Vas-Poljane,,SI-027,,2020-02-18,,,,,-26,
 SI,Slovenia,Škofja Loka,Municipality of Gorenja Vas-Poljane,,SI-027,,2020-02-19,,,,,-25,
@@ -28440,6 +28520,7 @@ SI,Slovenia,Škofja Loka,Municipality of Škofja Loka,,SI-122,,2021-01-05,,,,-59
 SI,Slovenia,Škofja Loka,Municipality of Škofja Loka,,SI-122,,2021-01-06,,,,-60,-34,20
 SI,Slovenia,Škofja Loka,Municipality of Škofja Loka,,SI-122,,2021-01-07,,,,-56,-34,19
 SI,Slovenia,Škofja Loka,Municipality of Škofja Loka,,SI-122,,2021-01-08,-66,,,-65,-29,20
+SI,Slovenia,Škofja Loka,Municipality of Škofja Loka,,SI-122,,2021-01-09,,,,,-13,
 SI,Slovenia,Škofja Loka,Municipality of Železniki,,SI-146,,2020-03-18,,,,,-45,
 SI,Slovenia,Škofja Loka,Municipality of Železniki,,SI-146,,2020-03-19,,,,,-50,
 SI,Slovenia,Škofja Loka,Municipality of Železniki,,SI-146,,2020-03-20,,,,,-50,
@@ -29207,6 +29288,7 @@ SI,Slovenia,Slovenj Gradec,Municipality of Slovenj Gradec,,SI-112,,2021-01-05,,,
 SI,Slovenia,Slovenj Gradec,Municipality of Slovenj Gradec,,SI-112,,2021-01-06,,,,,-31,18
 SI,Slovenia,Slovenj Gradec,Municipality of Slovenj Gradec,,SI-112,,2021-01-07,,,,,-30,
 SI,Slovenia,Slovenj Gradec,Municipality of Slovenj Gradec,,SI-112,,2021-01-08,,,,,-30,
+SI,Slovenia,Slovenj Gradec,Municipality of Slovenj Gradec,,SI-112,,2021-01-09,,,,,-26,
 SI,Slovenia,Slovenska Bistrica,,,,,2020-02-15,3,6,,,4,
 SI,Slovenia,Slovenska Bistrica,,,,,2020-02-16,15,15,,,,
 SI,Slovenia,Slovenska Bistrica,,,,,2020-02-17,0,4,,,-2,
@@ -29475,6 +29557,7 @@ SI,Slovenia,Slovenska Bistrica,,,,,2021-01-05,,,,,-33,
 SI,Slovenia,Slovenska Bistrica,,,,,2021-01-06,,,,,-32,
 SI,Slovenia,Slovenska Bistrica,,,,,2021-01-07,,,,,-32,
 SI,Slovenia,Slovenska Bistrica,,,,,2021-01-08,-69,,,,-30,
+SI,Slovenia,Slovenska Bistrica,,,,,2021-01-09,-73,,,,-12,
 SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2020-02-17,,,,,-1,0
 SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2020-02-18,,,,,4,0
 SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2020-02-19,,,,,1,-1
@@ -29766,6 +29849,8 @@ SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2021-
 SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2021-01-06,,,,-48,-30,18
 SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2021-01-07,,,,,-31,17
 SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2021-01-08,-69,-27,,-41,-28,19
+SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2021-01-09,-72,,,,-17,
+SI,Slovenia,Slovenska Bistrica,Municipality of Slovenska Bistrica,,SI-113,,2021-01-10,,,,,-16,
 SI,Slovenia,Slovenske Konjice,,,,,2020-02-15,8,8,,,,
 SI,Slovenia,Slovenske Konjice,,,,,2020-02-16,22,,,,,
 SI,Slovenia,Slovenske Konjice,,,,,2020-02-17,-1,1,,,0,
@@ -30234,6 +30319,7 @@ SI,Slovenia,Slovenske Konjice,Municipality of Slovenske Konjice,,SI-114,,2021-01
 SI,Slovenia,Slovenske Konjice,Municipality of Slovenske Konjice,,SI-114,,2021-01-06,,,,,-26,
 SI,Slovenia,Slovenske Konjice,Municipality of Slovenske Konjice,,SI-114,,2021-01-07,,,,,-29,
 SI,Slovenia,Slovenske Konjice,Municipality of Slovenske Konjice,,SI-114,,2021-01-08,,,,,-23,
+SI,Slovenia,Slovenske Konjice,Municipality of Slovenske Konjice,,SI-114,,2021-01-09,,,,,-10,
 SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2020-02-16,,,44,,,
 SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2020-02-22,,,25,,,
 SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2020-02-23,,,-23,,,
@@ -30412,6 +30498,8 @@ SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2021-01-05,,,,,-33
 SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2021-01-06,,,,,-31,
 SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2021-01-07,,,,,-34,
 SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2021-01-08,,,,,-32,
+SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2021-01-09,,,10,,,
+SI,Slovenia,Slovenske Konjice,Municipality of Zreče,,SI-144,,2021-01-10,,,-63,,,
 SI,Slovenia,Šmarje pri Jelšah,,,,,2020-02-15,33,13,21,,8,
 SI,Slovenia,Šmarje pri Jelšah,,,,,2020-02-16,37,,18,,,
 SI,Slovenia,Šmarje pri Jelšah,,,,,2020-02-17,14,5,,,-2,
@@ -30698,6 +30786,8 @@ SI,Slovenia,Šmarje pri Jelšah,,,,,2021-01-05,,,,,-34,
 SI,Slovenia,Šmarje pri Jelšah,,,,,2021-01-06,,,,,-34,
 SI,Slovenia,Šmarje pri Jelšah,,,,,2021-01-07,,-25,,,-34,
 SI,Slovenia,Šmarje pri Jelšah,,,,,2021-01-08,,,,,-34,
+SI,Slovenia,Šmarje pri Jelšah,,,,,2021-01-09,,,26,,-22,
+SI,Slovenia,Šmarje pri Jelšah,,,,,2021-01-10,,,12,,,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2020-02-15,,,17,,,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2020-02-16,,,12,,,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2020-02-17,,,18,,,
@@ -30935,6 +31025,8 @@ SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2021-01-03,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2021-01-06,,,63,,,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2021-01-07,,,45,,,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2021-01-08,,,17,,,
+SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2021-01-09,,,30,,,
+SI,Slovenia,Šmarje pri Jelšah,Municipality of Podčetrtek,,SI-092,,2021-01-10,,,11,,,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Rogaška Slatina,,SI-106,,2020-02-17,,0,,,-8,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Rogaška Slatina,,SI-106,,2020-02-18,,,,,-5,
 SI,Slovenia,Šmarje pri Jelšah,Municipality of Rogaška Slatina,,SI-106,,2020-02-19,,,,,-1,
@@ -32979,6 +33071,8 @@ SI,Slovenia,Velenje,,,,,2021-01-05,-49,-33,,-43,-34,14
 SI,Slovenia,Velenje,,,,,2021-01-06,-55,-24,,-48,-34,15
 SI,Slovenia,Velenje,,,,,2021-01-07,-54,-25,,-36,-33,15
 SI,Slovenia,Velenje,,,,,2021-01-08,-58,-25,,-46,-31,17
+SI,Slovenia,Velenje,,,,,2021-01-09,-54,-19,,,-18,
+SI,Slovenia,Velenje,,,,,2021-01-10,-80,,,,-21,
 SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2020-02-15,3,1,,,10,
 SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2020-02-16,18,,,,,
 SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2020-02-17,4,1,,-2,1,1
@@ -33302,6 +33396,8 @@ SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2021-01-05,-47,-31,,-4
 SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2021-01-06,-54,-27,,-54,-34,16
 SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2021-01-07,-52,-28,,-47,-34,15
 SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2021-01-08,-55,-25,,-56,-30,18
+SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2021-01-09,-53,-22,-28,,-13,
+SI,Slovenia,Velenje,City Municipality of Velenje,,SI-133,,2021-01-10,-80,,-37,,-18,
 SI,Slovenia,Velenje,Municipality of Šoštanj,,SI-126,,2020-03-16,,,,,-42,
 SI,Slovenia,Velenje,Municipality of Šoštanj,,SI-126,,2020-03-17,,,,,-45,
 SI,Slovenia,Velenje,Municipality of Šoštanj,,SI-126,,2020-03-18,,,,,-50,
@@ -34071,6 +34167,7 @@ SI,Slovenia,Vrhnika,Municipality of Vrhnika,,SI-140,,2021-01-05,,,,,-38,19
 SI,Slovenia,Vrhnika,Municipality of Vrhnika,,SI-140,,2021-01-06,,,,,-41,22
 SI,Slovenia,Vrhnika,Municipality of Vrhnika,,SI-140,,2021-01-07,,,,,-40,21
 SI,Slovenia,Vrhnika,Municipality of Vrhnika,,SI-140,,2021-01-08,,,,,-37,
+SI,Slovenia,Vrhnika,Municipality of Vrhnika,,SI-140,,2021-01-09,,,,,-16,
 SI,Slovenia,Zagorje ob Savi,,,,,2020-02-15,-8,,,,,
 SI,Slovenia,Zagorje ob Savi,,,,,2020-02-17,-16,,,,-22,
 SI,Slovenia,Zagorje ob Savi,,,,,2020-02-18,,,,,-19,
@@ -34569,6 +34666,7 @@ SI,Slovenia,Žalec,,,,,2021-01-05,,,,,-34,17
 SI,Slovenia,Žalec,,,,,2021-01-06,-74,-35,,,-31,19
 SI,Slovenia,Žalec,,,,,2021-01-07,-71,-33,,,-34,17
 SI,Slovenia,Žalec,,,,,2021-01-08,-70,-28,,,-30,20
+SI,Slovenia,Žalec,,,,,2021-01-09,,,,,-17,
 SI,Slovenia,Žalec,Municipality of Braslovče,,SI-151,,2020-03-23,,,,,-64,
 SI,Slovenia,Žalec,Municipality of Braslovče,,SI-151,,2020-06-08,,,,,-16,
 SI,Slovenia,Žalec,Municipality of Braslovče,,SI-151,,2020-06-09,,,,,-11,
@@ -35220,3 +35318,5 @@ SI,Slovenia,Žalec,Municipality of Žalec,,SI-190,,2021-01-05,,,,,-36,15
 SI,Slovenia,Žalec,Municipality of Žalec,,SI-190,,2021-01-06,,,,,-34,19
 SI,Slovenia,Žalec,Municipality of Žalec,,SI-190,,2021-01-07,,,,,-36,17
 SI,Slovenia,Žalec,Municipality of Žalec,,SI-190,,2021-01-08,-67,-28,,,-33,19
+SI,Slovenia,Žalec,Municipality of Žalec,,SI-190,,2021-01-09,,,,,-22,
+SI,Slovenia,Žalec,Municipality of Žalec,,SI-190,,2021-01-10,,,,,-33,

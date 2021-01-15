@@ -328,6 +328,8 @@ NE,Niger,,,,,,2021-01-05,24,-7,25,29,-12,-2
 NE,Niger,,,,,,2021-01-06,20,-6,17,29,-8,0
 NE,Niger,,,,,,2021-01-07,24,50,21,23,-7,1
 NE,Niger,,,,,,2021-01-08,21,40,15,18,-8,0
+NE,Niger,,,,,,2021-01-09,20,34,6,19,-9,-2
+NE,Niger,,,,,,2021-01-10,23,-17,12,28,-10,-1
 NE,Niger,,,Naimey Metropolitan Area,,,2020-02-15,2,4,-11,0,8,0
 NE,Niger,,,Naimey Metropolitan Area,,,2020-02-16,1,5,-4,-3,7,0
 NE,Niger,,,Naimey Metropolitan Area,,,2020-02-17,-1,1,0,2,-5,3
@@ -657,6 +659,8 @@ NE,Niger,,,Naimey Metropolitan Area,,,2021-01-05,10,55,30,32,-12,1
 NE,Niger,,,Naimey Metropolitan Area,,,2021-01-06,7,60,22,39,-5,3
 NE,Niger,,,Naimey Metropolitan Area,,,2021-01-07,12,59,37,31,-5,3
 NE,Niger,,,Naimey Metropolitan Area,,,2021-01-08,10,48,27,18,-2,2
+NE,Niger,,,Naimey Metropolitan Area,,,2021-01-09,8,41,9,24,-7,0
+NE,Niger,,,Naimey Metropolitan Area,,,2021-01-10,9,30,31,26,-9,0
 NE,Niger,Agadez Region,,,NE-1,,2020-02-17,,,,,8,
 NE,Niger,Agadez Region,,,NE-1,,2020-02-18,,,,,17,
 NE,Niger,Agadez Region,,,NE-1,,2020-02-20,,,,,15,
@@ -875,6 +879,7 @@ NE,Niger,Agadez Region,,,NE-1,,2021-01-05,,,,,-18,
 NE,Niger,Agadez Region,,,NE-1,,2021-01-06,,,,,-10,
 NE,Niger,Agadez Region,,,NE-1,,2021-01-07,,,,,-15,
 NE,Niger,Agadez Region,,,NE-1,,2021-01-08,,,,,-17,
+NE,Niger,Agadez Region,,,NE-1,,2021-01-09,,,,,-13,
 NE,Niger,Maradi Region,,,NE-4,,2020-02-15,,,,,8,
 NE,Niger,Maradi Region,,,NE-4,,2020-02-16,,,,,2,
 NE,Niger,Maradi Region,,,NE-4,,2020-02-17,,,,,4,
@@ -1179,6 +1184,8 @@ NE,Niger,Maradi Region,,,NE-4,,2021-01-05,,,,,-19,
 NE,Niger,Maradi Region,,,NE-4,,2021-01-06,,,,,-20,
 NE,Niger,Maradi Region,,,NE-4,,2021-01-07,,,,,-21,
 NE,Niger,Maradi Region,,,NE-4,,2021-01-08,,,,,-22,
+NE,Niger,Maradi Region,,,NE-4,,2021-01-09,,,,,-19,
+NE,Niger,Maradi Region,,,NE-4,,2021-01-10,,,,,-19,
 NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-15,2,4,-9,-1,8,0
 NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-16,1,5,-9,-3,6,0
 NE,Niger,Niamey Urban Community,,,NE-8,,2020-02-17,-1,2,-1,4,-5,3
@@ -1508,6 +1515,8 @@ NE,Niger,Niamey Urban Community,,,NE-8,,2021-01-05,21,-8,,34,-11,0
 NE,Niger,Niamey Urban Community,,,NE-8,,2021-01-06,16,-6,20,38,-7,2
 NE,Niger,Niamey Urban Community,,,NE-8,,2021-01-07,22,-7,,30,-7,1
 NE,Niger,Niamey Urban Community,,,NE-8,,2021-01-08,21,49,26,17,-7,0
+NE,Niger,Niamey Urban Community,,,NE-8,,2021-01-09,17,42,8,22,-8,-1
+NE,Niger,Niamey Urban Community,,,NE-8,,2021-01-10,19,-19,,23,-9,-1
 NE,Niger,Tahoua Region,,,NE-5,,2020-02-17,,,,,0,
 NE,Niger,Tahoua Region,,,NE-5,,2020-02-18,,,,,2,
 NE,Niger,Tahoua Region,,,NE-5,,2020-02-19,,,,,-2,
@@ -2013,3 +2022,4 @@ NE,Niger,Zinder Region,,,NE-7,,2021-01-05,,,,,-9,
 NE,Niger,Zinder Region,,,NE-7,,2021-01-06,,,,,-4,
 NE,Niger,Zinder Region,,,NE-7,,2021-01-07,,,,,-3,
 NE,Niger,Zinder Region,,,NE-7,,2021-01-08,,,,,-10,
+NE,Niger,Zinder Region,,,NE-7,,2021-01-09,,,,,-10,
