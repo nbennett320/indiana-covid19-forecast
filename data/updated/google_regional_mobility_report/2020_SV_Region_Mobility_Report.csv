@@ -339,6 +339,13 @@ SV,El Salvador,,,,,,2021-01-16,-17,-7,-32,-11,-15,2
 SV,El Salvador,,,,,,2021-01-17,-20,-11,-27,-15,-14,1
 SV,El Salvador,,,,,,2021-01-18,-19,-5,-34,-13,-28,7
 SV,El Salvador,,,,,,2021-01-19,-19,-6,-34,-16,-28,7
+SV,El Salvador,,,,,,2021-01-20,-20,-7,-27,-12,-27,7
+SV,El Salvador,,,,,,2021-01-21,-20,-8,-32,-13,-28,8
+SV,El Salvador,,,,,,2021-01-22,-20,-5,-32,-13,-23,7
+SV,El Salvador,,,,,,2021-01-23,-18,-7,-31,-13,-13,4
+SV,El Salvador,,,,,,2021-01-24,-21,-13,-26,-15,-12,2
+SV,El Salvador,,,,,,2021-01-25,-19,-5,-33,-13,-26,7
+SV,El Salvador,,,,,,2021-01-26,-18,-5,-32,-14,-27,7
 SV,El Salvador,Ahuachapán Department,,,SV-AH,,2020-02-15,9,10,25,,6,
 SV,El Salvador,Ahuachapán Department,,,SV-AH,,2020-02-16,6,,9,,2,
 SV,El Salvador,Ahuachapán Department,,,SV-AH,,2020-02-17,0,,-1,,7,-1
@@ -654,6 +661,13 @@ SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-16,-3,-10,-24,,-17,1
 SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-17,-13,,-21,,-22,
 SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-18,5,,-23,,-27,6
 SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-19,-3,,-24,,-27,5
+SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-20,-1,,-20,,-25,5
+SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-21,0,,-22,,-26,6
+SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-22,0,,-23,,-20,5
+SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-23,-2,-13,-23,,-14,3
+SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-24,-13,,-20,,-16,
+SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-25,4,,-21,,-25,5
+SV,El Salvador,Ahuachapán Department,,,SV-AH,,2021-01-26,7,,-7,,-26,4
 SV,El Salvador,Cabañas Department,,,SV-CA,,2020-02-15,,,-5,,3,
 SV,El Salvador,Cabañas Department,,,SV-CA,,2020-02-16,,,-2,,10,
 SV,El Salvador,Cabañas Department,,,SV-CA,,2020-02-17,,,-2,,5,
@@ -969,6 +983,13 @@ SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-16,,,-44,,-28,
 SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-17,,,-39,,-26,
 SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-18,,,-42,,-35,
 SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-19,,,-40,,-36,
+SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-20,,,-39,,-36,
+SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-21,,,-40,,-37,
+SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-22,,,-38,,-29,
+SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-23,,,-43,,-24,
+SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-24,,,-38,,-24,
+SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-25,,,-43,,-36,
+SV,El Salvador,Cabañas Department,,,SV-CA,,2021-01-26,,,-38,,-31,
 SV,El Salvador,Chalatenango Department,,,SV-CH,,2020-02-15,1,,-2,,6,
 SV,El Salvador,Chalatenango Department,,,SV-CH,,2020-02-16,-3,,1,,-5,
 SV,El Salvador,Chalatenango Department,,,SV-CH,,2020-02-17,3,,-7,,5,
@@ -1284,6 +1305,13 @@ SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-16,-15,,-32,,-22,
 SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-17,-19,,-26,,-28,
 SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-18,-15,,-28,,-33,
 SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-19,-15,,-20,,-34,
+SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-20,-12,,-22,,-32,
+SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-21,-11,,-24,,-30,
+SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-22,-9,,-27,,-27,
+SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-23,-14,,-31,,-22,
+SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-24,-16,,-26,,-34,
+SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-25,-10,,-18,,-29,
+SV,El Salvador,Chalatenango Department,,,SV-CH,,2021-01-26,-11,,-24,,-31,
 SV,El Salvador,Cuscatlán Department,,,SV-CU,,2020-02-15,,,-4,-10,0,
 SV,El Salvador,Cuscatlán Department,,,SV-CU,,2020-02-16,-1,,-8,-2,1,
 SV,El Salvador,Cuscatlán Department,,,SV-CU,,2020-02-17,,,-9,,7,-1
@@ -1599,6 +1627,13 @@ SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-16,,,-37,-16,-18,4
 SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-17,3,,-37,-10,-12,
 SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-18,,,-41,-7,-27,7
 SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-19,,,-42,,-29,8
+SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-20,,,-38,,-28,8
+SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-21,,,-42,-6,-29,8
+SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-22,,,-38,,-22,8
+SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-23,,,-37,-17,-16,4
+SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-24,-4,,-38,-7,-8,
+SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-25,,,-39,,-23,7
+SV,El Salvador,Cuscatlán Department,,,SV-CU,,2021-01-26,,,-37,,-26,7
 SV,El Salvador,La Libertad Department,,,SV-LI,,2020-02-15,6,5,5,1,3,-1
 SV,El Salvador,La Libertad Department,,,SV-LI,,2020-02-16,5,7,0,-3,0,-1
 SV,El Salvador,La Libertad Department,,,SV-LI,,2020-02-17,-1,2,1,4,3,0
@@ -1939,6 +1974,13 @@ SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-16,-22,-9,-28,-10,-16,4
 SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-17,-25,-18,-28,-17,-11,2
 SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-18,-26,-9,-30,-10,-30,11
 SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-19,-26,-7,-32,-13,-31,11
+SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-20,-27,-7,-29,-11,-29,11
+SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-21,-29,-7,-30,-15,-31,12
+SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-22,-28,-6,-27,-13,-25,11
+SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-23,-23,-10,-23,-12,-14,5
+SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-24,-28,-19,-27,-22,-10,3
+SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-25,-26,-9,-32,-14,-29,11
+SV,El Salvador,La Libertad Department,,,SV-LI,,2021-01-26,-26,-8,-31,-12,-29,11
 SV,El Salvador,La Paz Department,,,SV-PA,,2020-02-15,-2,3,2,-17,0,
 SV,El Salvador,La Paz Department,,,SV-PA,,2020-02-16,-3,5,-3,-11,-4,
 SV,El Salvador,La Paz Department,,,SV-PA,,2020-02-17,-10,-3,3,-10,10,-1
@@ -2264,6 +2306,13 @@ SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-16,-5,-1,-21,-90,-17,2
 SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-17,-11,0,-19,-91,-21,-2
 SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-18,-8,7,-22,-90,-26,3
 SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-19,-10,6,-17,-89,-28,3
+SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-20,-8,-2,-21,-82,-27,3
+SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-21,-9,2,-20,-83,-31,5
+SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-22,-9,2,-12,-82,-23,2
+SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-23,-5,2,-14,-82,-15,2
+SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-24,-13,0,-17,-84,-18,0
+SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-25,-3,9,-14,-83,-24,3
+SV,El Salvador,La Paz Department,,,SV-PA,,2021-01-26,-8,9,-13,-83,-28,3
 SV,El Salvador,La Unión Department,,,SV-UN,,2020-02-15,0,,-15,,2,
 SV,El Salvador,La Unión Department,,,SV-UN,,2020-02-16,-3,,-8,,0,
 SV,El Salvador,La Unión Department,,,SV-UN,,2020-02-17,-1,-2,-14,,9,
@@ -2579,6 +2628,13 @@ SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-16,-9,,-48,,-28,
 SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-17,-13,,-41,,-30,
 SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-18,-5,,-45,,-33,1
 SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-19,-8,,-41,,-37,1
+SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-20,-3,,-40,,-34,2
+SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-21,-5,,-42,,-32,1
+SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-22,-8,,-48,,-30,1
+SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-23,-5,,-49,,-25,
+SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-24,-16,,-46,,-32,
+SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-25,-4,-5,-46,,-31,1
+SV,El Salvador,La Unión Department,,,SV-UN,,2021-01-26,-3,,-42,,-32,-1
 SV,El Salvador,Morazán Department,,,SV-MO,,2020-02-15,,,-11,,8,
 SV,El Salvador,Morazán Department,,,SV-MO,,2020-02-16,,,-10,,2,
 SV,El Salvador,Morazán Department,,,SV-MO,,2020-02-17,,,-2,,9,
@@ -2894,6 +2950,13 @@ SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-16,,,-51,,-22,
 SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-17,,,-52,,-33,
 SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-18,,,-47,,-35,
 SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-19,,,-47,,-34,
+SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-20,,,-32,,-37,
+SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-21,,,-41,,-39,
+SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-22,,,-37,,-29,
+SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-23,,,-48,,-24,
+SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-24,,,-47,,-26,
+SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-25,,,-33,,-36,
+SV,El Salvador,Morazán Department,,,SV-MO,,2021-01-26,,,-39,,-32,
 SV,El Salvador,San Miguel Department,,,SV-SM,,2020-02-15,3,-2,3,9,5,0
 SV,El Salvador,San Miguel Department,,,SV-SM,,2020-02-16,1,2,-1,-2,2,0
 SV,El Salvador,San Miguel Department,,,SV-SM,,2020-02-17,-1,2,-3,4,6,0
@@ -3231,6 +3294,13 @@ SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-16,-22,-21,-29,-40,-16,1
 SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-17,-28,-29,-24,-47,-20,1
 SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-18,-20,-16,-28,-36,-29,3
 SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-19,-21,-19,-27,-43,-30,3
+SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-20,-21,-18,-24,-38,-29,3
+SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-21,-18,-16,-24,-19,-30,3
+SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-22,-19,-19,-22,-19,-21,3
+SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-23,-19,-19,-26,-35,-15,2
+SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-24,-21,-26,-17,-27,-18,1
+SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-25,-16,-14,-23,-29,-27,3
+SV,El Salvador,San Miguel Department,,,SV-SM,,2021-01-26,-18,-15,-25,-34,-28,3
 SV,El Salvador,San Salvador Department,,,SV-SS,,2020-02-15,5,8,2,-1,3,-1
 SV,El Salvador,San Salvador Department,,,SV-SS,,2020-02-16,6,8,0,2,0,-1
 SV,El Salvador,San Salvador Department,,,SV-SS,,2020-02-17,1,6,-1,-1,4,-1
@@ -3571,6 +3641,13 @@ SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-16,-12,-5,-30,15,-15,2
 SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-17,-13,-12,-29,19,-10,1
 SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-18,-16,-5,-40,4,-27,8
 SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-19,-16,-8,-39,1,-28,8
+SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-20,-16,-7,-35,1,-28,8
+SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-21,-17,-8,-39,1,-28,9
+SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-22,-18,-5,-41,2,-24,8
+SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-23,-14,-6,-34,9,-13,4
+SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-24,-16,-14,-30,12,-9,2
+SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-25,-16,-6,-38,2,-26,9
+SV,El Salvador,San Salvador Department,,,SV-SS,,2021-01-26,-15,-7,-38,1,-26,9
 SV,El Salvador,San Vicente Department,,,SV-SV,,2020-02-15,,,-8,,4,
 SV,El Salvador,San Vicente Department,,,SV-SV,,2020-02-16,,,-1,,-1,
 SV,El Salvador,San Vicente Department,,,SV-SV,,2020-02-17,,,-14,,10,
@@ -3886,6 +3963,13 @@ SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-16,,,-23,,-20,
 SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-17,,,-21,,-12,
 SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-18,,,-27,,-32,
 SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-19,,,-29,,-28,
+SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-20,,,-22,,-31,
+SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-21,,,-27,,-33,
+SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-22,,,-18,,-25,
+SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-23,,,-27,,-14,
+SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-24,,,-18,,-17,
+SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-25,,,-25,,-27,
+SV,El Salvador,San Vicente Department,,,SV-SV,,2021-01-26,,,-25,,-27,
 SV,El Salvador,Santa Ana Department,,,SV-SA,,2020-02-15,3,5,0,-9,4,-1
 SV,El Salvador,Santa Ana Department,,,SV-SA,,2020-02-16,4,8,-4,-3,2,0
 SV,El Salvador,Santa Ana Department,,,SV-SA,,2020-02-17,0,6,-4,-4,2,0
@@ -4226,6 +4310,13 @@ SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-16,-20,3,-38,-24,-15,2
 SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-17,-19,7,-30,-21,-15,1
 SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-18,-15,7,-34,-14,-25,5
 SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-19,-17,7,-34,-14,-26,4
+SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-20,-17,5,-29,-12,-24,6
+SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-21,-18,3,-33,-17,-25,6
+SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-22,-15,9,-34,-12,-19,4
+SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-23,-20,6,-37,-23,-13,2
+SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-24,-19,1,-31,-25,-12,1
+SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-25,-14,7,-35,-17,-23,5
+SV,El Salvador,Santa Ana Department,,,SV-SA,,2021-01-26,-15,11,-34,-9,-24,5
 SV,El Salvador,Sonsonate Department,,,SV-SO,,2020-02-15,0,0,-2,1,7,-1
 SV,El Salvador,Sonsonate Department,,,SV-SO,,2020-02-16,-3,4,-2,2,1,
 SV,El Salvador,Sonsonate Department,,,SV-SO,,2020-02-17,-5,0,-1,5,9,-1
@@ -4563,6 +4654,13 @@ SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-16,-11,2,-17,-9,-9,1
 SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-17,-16,-4,-20,-7,-15,1
 SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-18,-9,6,-7,-6,-24,6
 SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-19,-6,4,-12,-8,-24,4
+SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-20,-8,1,-5,-2,-23,5
+SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-21,-9,-3,-6,-8,-25,6
+SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-22,-11,4,-9,-4,-15,5
+SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-23,-12,-3,-19,-8,-6,3
+SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-24,-16,-5,-22,-6,-9,2
+SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-25,-9,12,-4,-8,-22,5
+SV,El Salvador,Sonsonate Department,,,SV-SO,,2021-01-26,-4,6,-9,-6,-22,4
 SV,El Salvador,Usulután Department,,,SV-US,,2020-02-15,-7,3,9,,6,
 SV,El Salvador,Usulután Department,,,SV-US,,2020-02-16,-11,-2,23,,1,
 SV,El Salvador,Usulután Department,,,SV-US,,2020-02-17,-7,2,0,,4,0
@@ -4880,3 +4978,10 @@ SV,El Salvador,Usulután Department,,,SV-US,,2021-01-16,-14,-5,-21,,-20,1
 SV,El Salvador,Usulután Department,,,SV-US,,2021-01-17,-22,-13,-7,,-28,0
 SV,El Salvador,Usulután Department,,,SV-US,,2021-01-18,-8,-5,-22,,-34,2
 SV,El Salvador,Usulután Department,,,SV-US,,2021-01-19,-9,-6,-21,,-36,1
+SV,El Salvador,Usulután Department,,,SV-US,,2021-01-20,-12,-8,-15,,-34,2
+SV,El Salvador,Usulután Department,,,SV-US,,2021-01-21,-10,-8,-16,,-34,3
+SV,El Salvador,Usulután Department,,,SV-US,,2021-01-22,-5,-8,-21,,-23,2
+SV,El Salvador,Usulután Department,,,SV-US,,2021-01-23,-12,-8,-18,,-18,1
+SV,El Salvador,Usulután Department,,,SV-US,,2021-01-24,-23,-13,-8,,-25,1
+SV,El Salvador,Usulután Department,,,SV-US,,2021-01-25,-6,1,-20,,-32,0
+SV,El Salvador,Usulután Department,,,SV-US,,2021-01-26,-7,-6,-14,,-32,1
