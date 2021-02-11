@@ -351,6 +351,11 @@ BB,Barbados,,,,,,2021-01-28,-27,-14,2,-48,-38,9
 BB,Barbados,,,,,,2021-01-29,-28,-19,3,-48,-35,8
 BB,Barbados,,,,,,2021-01-30,-25,-17,19,-48,-22,1
 BB,Barbados,,,,,,2021-01-31,-32,-16,10,-58,-28,2
+BB,Barbados,,,,,,2021-02-01,-27,-18,15,-48,-39,6
+BB,Barbados,,,,,,2021-02-02,-13,-2,23,-44,-38,4
+BB,Barbados,,,,,,2021-02-03,-84,-64,-50,-79,-72,27
+BB,Barbados,,,,,,2021-02-04,-80,-54,-45,-76,-72,29
+BB,Barbados,,,,,,2021-02-05,-79,-46,-42,-77,-70,30
 BB,Barbados,Christ Church,,,BB-01,,2020-02-15,-5,-1,,-4,-1,
 BB,Barbados,Christ Church,,,BB-01,,2020-02-16,1,3,,-1,3,
 BB,Barbados,Christ Church,,,BB-01,,2020-02-17,-4,-3,,5,1,2
@@ -697,6 +702,11 @@ BB,Barbados,Christ Church,,,BB-01,,2021-01-28,-32,-12,,-54,-40,10
 BB,Barbados,Christ Church,,,BB-01,,2021-01-29,-36,-23,,-62,-37,9
 BB,Barbados,Christ Church,,,BB-01,,2021-01-30,-34,-16,,-60,-24,2
 BB,Barbados,Christ Church,,,BB-01,,2021-01-31,-39,-21,,-56,-28,
+BB,Barbados,Christ Church,,,BB-01,,2021-02-01,-28,-17,,-61,-40,6
+BB,Barbados,Christ Church,,,BB-01,,2021-02-02,-15,1,,-52,-40,5
+BB,Barbados,Christ Church,,,BB-01,,2021-02-03,-90,-67,,-77,-72,29
+BB,Barbados,Christ Church,,,BB-01,,2021-02-04,-88,-62,,-68,-74,31
+BB,Barbados,Christ Church,,,BB-01,,2021-02-05,-88,-52,-47,-73,-71,32
 BB,Barbados,Saint George,,,BB-03,,2020-02-15,,,0,,,
 BB,Barbados,Saint George,,,BB-03,,2020-02-16,,,0,,,
 BB,Barbados,Saint George,,,BB-03,,2020-02-17,,,-9,,1,
@@ -1024,6 +1034,11 @@ BB,Barbados,Saint George,,,BB-03,,2021-01-28,,,70,,-36,
 BB,Barbados,Saint George,,,BB-03,,2021-01-29,,,70,,-35,
 BB,Barbados,Saint George,,,BB-03,,2021-01-30,,,69,,,
 BB,Barbados,Saint George,,,BB-03,,2021-01-31,,,57,,,
+BB,Barbados,Saint George,,,BB-03,,2021-02-01,,,81,,-34,
+BB,Barbados,Saint George,,,BB-03,,2021-02-02,,,104,,-36,
+BB,Barbados,Saint George,,,BB-03,,2021-02-03,,,8,,-73,
+BB,Barbados,Saint George,,,BB-03,,2021-02-04,,,13,,-71,
+BB,Barbados,Saint George,,,BB-03,,2021-02-05,,,10,,-69,
 BB,Barbados,Saint James,,,BB-04,,2020-02-15,-5,0,,,0,
 BB,Barbados,Saint James,,,BB-04,,2020-02-16,0,18,,,,
 BB,Barbados,Saint James,,,BB-04,,2020-02-17,0,-8,,,2,
@@ -1316,6 +1331,11 @@ BB,Barbados,Saint James,,,BB-04,,2021-01-27,,,,,-42,
 BB,Barbados,Saint James,,,BB-04,,2021-01-28,,,,,-42,
 BB,Barbados,Saint James,,,BB-04,,2021-01-29,-34,,,,-39,
 BB,Barbados,Saint James,,,BB-04,,2021-01-30,-26,,,,-20,
+BB,Barbados,Saint James,,,BB-04,,2021-02-01,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,2021-02-02,,,,,-40,
+BB,Barbados,Saint James,,,BB-04,,2021-02-03,,,,,-76,
+BB,Barbados,Saint James,,,BB-04,,2021-02-04,,,,,-74,
+BB,Barbados,Saint James,,,BB-04,,2021-02-05,-82,,,,-71,
 BB,Barbados,Saint John,,,BB-05,,2020-03-25,,,,,-32,
 BB,Barbados,Saint John,,,BB-05,,2020-03-26,,,,,-36,
 BB,Barbados,Saint John,,,BB-05,,2020-03-30,,,,,-63,
@@ -1412,6 +1432,11 @@ BB,Barbados,Saint John,,,BB-05,,2021-01-26,,,,,-34,
 BB,Barbados,Saint John,,,BB-05,,2021-01-27,,,,,-36,
 BB,Barbados,Saint John,,,BB-05,,2021-01-28,,,,,-32,
 BB,Barbados,Saint John,,,BB-05,,2021-01-29,,,,,-35,
+BB,Barbados,Saint John,,,BB-05,,2021-02-01,,,,,-35,
+BB,Barbados,Saint John,,,BB-05,,2021-02-02,,,,,-34,
+BB,Barbados,Saint John,,,BB-05,,2021-02-03,,,,,-71,
+BB,Barbados,Saint John,,,BB-05,,2021-02-04,,,,,-74,
+BB,Barbados,Saint John,,,BB-05,,2021-02-05,,,,,-66,
 BB,Barbados,Saint Lucy,,,BB-07,,2020-03-30,,,,,-63,
 BB,Barbados,Saint Lucy,,,BB-07,,2020-03-31,,,,,-59,
 BB,Barbados,Saint Lucy,,,BB-07,,2020-04-01,,,,,-62,
@@ -1453,6 +1478,9 @@ BB,Barbados,Saint Lucy,,,BB-07,,2021-01-04,,,,,-69,
 BB,Barbados,Saint Lucy,,,BB-07,,2021-01-05,,,,,-71,
 BB,Barbados,Saint Lucy,,,BB-07,,2021-01-07,,,,,-45,
 BB,Barbados,Saint Lucy,,,BB-07,,2021-01-21,,,,,-74,
+BB,Barbados,Saint Lucy,,,BB-07,,2021-02-03,,,,,-71,
+BB,Barbados,Saint Lucy,,,BB-07,,2021-02-04,,,,,-73,
+BB,Barbados,Saint Lucy,,,BB-07,,2021-02-05,,,,,-66,
 BB,Barbados,Saint Michael,,,BB-08,,2020-02-15,4,-4,7,-1,-1,
 BB,Barbados,Saint Michael,,,BB-08,,2020-02-16,6,1,22,8,-2,
 BB,Barbados,Saint Michael,,,BB-08,,2020-02-17,-5,-6,6,2,1,1
@@ -1799,6 +1827,11 @@ BB,Barbados,Saint Michael,,,BB-08,,2021-01-28,-29,-18,-37,-44,-38,11
 BB,Barbados,Saint Michael,,,BB-08,,2021-01-29,-29,-20,-36,-38,-35,9
 BB,Barbados,Saint Michael,,,BB-08,,2021-01-30,-22,-20,-15,-36,-24,3
 BB,Barbados,Saint Michael,,,BB-08,,2021-01-31,-30,-9,-30,-58,-33,4
+BB,Barbados,Saint Michael,,,BB-08,,2021-02-01,-27,-17,-27,-39,-39,7
+BB,Barbados,Saint Michael,,,BB-08,,2021-02-02,-11,-5,-29,-42,-39,5
+BB,Barbados,Saint Michael,,,BB-08,,2021-02-03,-86,-65,-82,-84,-71,27
+BB,Barbados,Saint Michael,,,BB-08,,2021-02-04,-82,-57,-82,-84,-71,28
+BB,Barbados,Saint Michael,,,BB-08,,2021-02-05,-82,-51,-79,-85,-70,29
 BB,Barbados,Saint Peter,,,BB-09,,2020-02-15,30,43,,,,
 BB,Barbados,Saint Peter,,,BB-09,,2020-02-17,,-4,,,0,
 BB,Barbados,Saint Peter,,,BB-09,,2020-02-18,,,,,4,
@@ -2045,6 +2078,11 @@ BB,Barbados,Saint Peter,,,BB-09,,2021-01-26,,,,,-33,
 BB,Barbados,Saint Peter,,,BB-09,,2021-01-27,,,,,-37,
 BB,Barbados,Saint Peter,,,BB-09,,2021-01-28,,,,,-35,
 BB,Barbados,Saint Peter,,,BB-09,,2021-01-29,,,,,-34,
+BB,Barbados,Saint Peter,,,BB-09,,2021-02-01,,,,,-36,
+BB,Barbados,Saint Peter,,,BB-09,,2021-02-02,,,,,-34,
+BB,Barbados,Saint Peter,,,BB-09,,2021-02-03,,,,,-70,
+BB,Barbados,Saint Peter,,,BB-09,,2021-02-04,,,,,-71,
+BB,Barbados,Saint Peter,,,BB-09,,2021-02-05,,,,,-68,
 BB,Barbados,Saint Philip,,,BB-10,,2020-02-15,-4,-4,,,1,
 BB,Barbados,Saint Philip,,,BB-10,,2020-02-16,20,-3,,,4,
 BB,Barbados,Saint Philip,,,BB-10,,2020-02-17,-26,-1,,,4,
@@ -2372,6 +2410,11 @@ BB,Barbados,Saint Philip,,,BB-10,,2021-01-28,,,,,-39,
 BB,Barbados,Saint Philip,,,BB-10,,2021-01-29,,,,,-34,
 BB,Barbados,Saint Philip,,,BB-10,,2021-01-30,,,,,-22,
 BB,Barbados,Saint Philip,,,BB-10,,2021-01-31,,,,,-30,
+BB,Barbados,Saint Philip,,,BB-10,,2021-02-01,,,,,-38,
+BB,Barbados,Saint Philip,,,BB-10,,2021-02-02,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,2021-02-03,,,,,-73,
+BB,Barbados,Saint Philip,,,BB-10,,2021-02-04,,,,,-72,
+BB,Barbados,Saint Philip,,,BB-10,,2021-02-05,,,,,-68,
 BB,Barbados,Saint Thomas,,,BB-11,,2020-02-17,-21,,,,-3,
 BB,Barbados,Saint Thomas,,,BB-11,,2020-02-18,,,,,3,
 BB,Barbados,Saint Thomas,,,BB-11,,2020-02-19,,,,,-4,
@@ -2603,3 +2646,8 @@ BB,Barbados,Saint Thomas,,,BB-11,,2021-01-26,,,,,-31,
 BB,Barbados,Saint Thomas,,,BB-11,,2021-01-27,,,,,-35,
 BB,Barbados,Saint Thomas,,,BB-11,,2021-01-28,,,,,-36,
 BB,Barbados,Saint Thomas,,,BB-11,,2021-01-29,,,,,-32,
+BB,Barbados,Saint Thomas,,,BB-11,,2021-02-01,,,,,-39,
+BB,Barbados,Saint Thomas,,,BB-11,,2021-02-02,,,,,-34,
+BB,Barbados,Saint Thomas,,,BB-11,,2021-02-03,,,,,-71,
+BB,Barbados,Saint Thomas,,,BB-11,,2021-02-04,,,,,-72,
+BB,Barbados,Saint Thomas,,,BB-11,,2021-02-05,,,,,-70,
