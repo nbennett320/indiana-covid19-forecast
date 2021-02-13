@@ -359,6 +359,7 @@ NZ,New Zealand,,,,,,2021-02-05,1,0,-1,-31,-2,2
 NZ,New Zealand,,,,,,2021-02-06,1,0,23,-33,-11,2
 NZ,New Zealand,,,,,,2021-02-07,6,-4,24,-37,-9,0
 NZ,New Zealand,,,,,,2021-02-08,-1,2,40,-51,-70,12
+NZ,New Zealand,,,,,,2021-02-09,-6,-3,-9,-29,-1,2
 NZ,New Zealand,Auckland,,,NZ-AUK,,2020-02-15,14,6,-4,9,7,1
 NZ,New Zealand,Auckland,,,NZ-AUK,,2020-02-16,11,5,-15,8,0,2
 NZ,New Zealand,Auckland,,,NZ-AUK,,2020-02-17,1,0,-9,12,19,-1
@@ -719,6 +720,7 @@ NZ,New Zealand,Auckland,,,NZ-AUK,,2021-02-05,-1,1,-3,-41,-8,3
 NZ,New Zealand,Auckland,,,NZ-AUK,,2021-02-06,-2,-2,-5,-47,-11,2
 NZ,New Zealand,Auckland,,,NZ-AUK,,2021-02-07,1,-10,-6,-52,-8,1
 NZ,New Zealand,Auckland,,,NZ-AUK,,2021-02-08,2,7,28,-62,-77,16
+NZ,New Zealand,Auckland,,,NZ-AUK,,2021-02-09,-4,-6,-9,-38,-8,3
 NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2020-02-15,-3,0,-13,-13,1,2
 NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2020-02-16,-4,0,-17,2,0,1
 NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2020-02-17,-6,-6,-16,12,17,-1
@@ -1079,6 +1081,7 @@ NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2021-02-05,7,0,-11,-15,3,0
 NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2021-02-06,16,5,8,-19,-11,2
 NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2021-02-07,24,4,28,-9,-5,1
 NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2021-02-08,9,2,14,-24,-69,12
+NZ,New Zealand,Bay of Plenty,,,NZ-BOP,,2021-02-09,-2,-2,-26,-18,3,3
 NZ,New Zealand,Canterbury,,,NZ-CAN,,2020-02-15,7,5,12,-3,1,1
 NZ,New Zealand,Canterbury,,,NZ-CAN,,2020-02-16,4,4,-2,4,2,2
 NZ,New Zealand,Canterbury,,,NZ-CAN,,2020-02-17,0,3,15,8,15,-2
@@ -1439,6 +1442,7 @@ NZ,New Zealand,Canterbury,,,NZ-CAN,,2021-02-05,3,-2,14,-25,0,1
 NZ,New Zealand,Canterbury,,,NZ-CAN,,2021-02-06,1,-2,54,-33,-13,1
 NZ,New Zealand,Canterbury,,,NZ-CAN,,2021-02-07,5,-10,29,-34,-10,1
 NZ,New Zealand,Canterbury,,,NZ-CAN,,2021-02-08,2,8,82,-39,-73,13
+NZ,New Zealand,Canterbury,,,NZ-CAN,,2021-02-09,-3,1,7,-22,-1,1
 NZ,New Zealand,Gisborne,,,NZ-GIS,,2020-02-15,-6,-5,-14,,14,
 NZ,New Zealand,Gisborne,,,NZ-GIS,,2020-02-16,-15,-6,-22,,,
 NZ,New Zealand,Gisborne,,,NZ-GIS,,2020-02-17,-12,-6,,,30,
@@ -1774,6 +1778,7 @@ NZ,New Zealand,Gisborne,,,NZ-GIS,,2021-02-05,4,-3,,,12,-1
 NZ,New Zealand,Gisborne,,,NZ-GIS,,2021-02-06,10,,16,,-4,
 NZ,New Zealand,Gisborne,,,NZ-GIS,,2021-02-07,8,,32,,2,
 NZ,New Zealand,Gisborne,,,NZ-GIS,,2021-02-08,-9,,,,-65,
+NZ,New Zealand,Gisborne,,,NZ-GIS,,2021-02-09,-7,-6,,,10,-1
 NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2020-02-15,29,15,-18,24,0,0
 NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2020-02-16,9,7,-2,4,2,
 NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2020-02-17,-2,-2,-3,18,15,-2
@@ -2131,6 +2136,7 @@ NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2021-02-05,1,-2,19,-45,7,-1
 NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2021-02-06,11,0,47,-57,-12,3
 NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2021-02-07,12,-4,72,-62,-3,0
 NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2021-02-08,0,3,96,-54,-70,11
+NZ,New Zealand,Hawke's Bay,,,NZ-HKB,,2021-02-09,-6,-6,43,,6,0
 NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2020-02-15,2,5,0,-4,3,0
 NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2020-02-16,0,2,23,,1,-1
 NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2020-02-17,-1,-2,9,,22,-3
@@ -2491,6 +2497,7 @@ NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2021-02-05,13,14,39,-1,18,0
 NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2021-02-06,23,12,84,-6,-2,1
 NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2021-02-07,27,10,81,-7,3,0
 NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2021-02-08,10,6,118,-27,-65,10
+NZ,New Zealand,Manawatu-Wanganui,,,NZ-MWT,,2021-02-09,0,7,34,-6,14,0
 NZ,New Zealand,Marlborough,,,NZ-MBH,,2020-02-15,1,8,-6,-2,3,
 NZ,New Zealand,Marlborough,,,NZ-MBH,,2020-02-16,1,2,-18,20,4,
 NZ,New Zealand,Marlborough,,,NZ-MBH,,2020-02-17,-2,4,-6,14,13,
@@ -2826,6 +2833,7 @@ NZ,New Zealand,Marlborough,,,NZ-MBH,,2021-02-05,4,-8,-9,-27,-2,0
 NZ,New Zealand,Marlborough,,,NZ-MBH,,2021-02-06,9,-7,-2,-26,-12,
 NZ,New Zealand,Marlborough,,,NZ-MBH,,2021-02-07,4,-14,14,-5,-7,
 NZ,New Zealand,Marlborough,,,NZ-MBH,,2021-02-08,-10,-9,1,,-71,10
+NZ,New Zealand,Marlborough,,,NZ-MBH,,2021-02-09,-4,-9,-25,-19,0,2
 NZ,New Zealand,Nelson,,,NZ-NSN,,2020-02-15,9,7,-7,,0,
 NZ,New Zealand,Nelson,,,NZ-NSN,,2020-02-16,1,1,-37,,-3,
 NZ,New Zealand,Nelson,,,NZ-NSN,,2020-02-17,-1,2,-20,,18,0
@@ -3180,6 +3188,7 @@ NZ,New Zealand,Nelson,,,NZ-NSN,,2021-02-05,19,3,-25,,3,0
 NZ,New Zealand,Nelson,,,NZ-NSN,,2021-02-06,13,-1,-6,,-10,
 NZ,New Zealand,Nelson,,,NZ-NSN,,2021-02-07,28,-12,-3,,-4,
 NZ,New Zealand,Nelson,,,NZ-NSN,,2021-02-08,7,-11,5,,-70,11
+NZ,New Zealand,Nelson,,,NZ-NSN,,2021-02-09,14,-5,-41,,2,2
 NZ,New Zealand,Northland,,,NZ-NTL,,2020-02-15,21,-3,-30,-27,0,1
 NZ,New Zealand,Northland,,,NZ-NTL,,2020-02-16,-4,-9,-39,-31,-6,
 NZ,New Zealand,Northland,,,NZ-NTL,,2020-02-17,-9,-7,-33,-17,18,-1
@@ -3540,6 +3549,7 @@ NZ,New Zealand,Northland,,,NZ-NTL,,2021-02-05,6,3,-1,-41,0,1
 NZ,New Zealand,Northland,,,NZ-NTL,,2021-02-06,15,7,31,-35,-15,2
 NZ,New Zealand,Northland,,,NZ-NTL,,2021-02-07,27,1,22,-41,-12,4
 NZ,New Zealand,Northland,,,NZ-NTL,,2021-02-08,-7,-10,6,-47,-67,13
+NZ,New Zealand,Northland,,,NZ-NTL,,2021-02-09,-4,-3,-28,-54,0,1
 NZ,New Zealand,Otago,,,NZ-OTA,,2020-02-15,10,9,20,8,6,0
 NZ,New Zealand,Otago,,,NZ-OTA,,2020-02-16,6,4,-7,1,2,2
 NZ,New Zealand,Otago,,,NZ-OTA,,2020-02-17,3,0,10,7,14,-2
@@ -3900,6 +3910,7 @@ NZ,New Zealand,Otago,,,NZ-OTA,,2021-02-05,-10,-12,-25,-33,-2,1
 NZ,New Zealand,Otago,,,NZ-OTA,,2021-02-06,-10,-8,-3,-33,-22,1
 NZ,New Zealand,Otago,,,NZ-OTA,,2021-02-07,-7,-17,-4,-50,-20,0
 NZ,New Zealand,Otago,,,NZ-OTA,,2021-02-08,-17,-14,-12,-43,-69,12
+NZ,New Zealand,Otago,,,NZ-OTA,,2021-02-09,-14,-14,-44,-38,-3,4
 NZ,New Zealand,Southland,,,NZ-STL,,2020-02-15,6,6,5,,7,
 NZ,New Zealand,Southland,,,NZ-STL,,2020-02-16,0,9,-23,,4,
 NZ,New Zealand,Southland,,,NZ-STL,,2020-02-17,-4,3,-4,,23,-2
@@ -4254,6 +4265,7 @@ NZ,New Zealand,Southland,,,NZ-STL,,2021-02-05,7,1,2,,7,-1
 NZ,New Zealand,Southland,,,NZ-STL,,2021-02-06,6,4,52,,-15,0
 NZ,New Zealand,Southland,,,NZ-STL,,2021-02-07,5,-5,37,,-13,
 NZ,New Zealand,Southland,,,NZ-STL,,2021-02-08,-11,1,-2,,-70,12
+NZ,New Zealand,Southland,,,NZ-STL,,2021-02-09,-5,2,-28,,6,2
 NZ,New Zealand,Taranaki,,,NZ-TKI,,2020-02-15,-9,-6,-30,,-2,
 NZ,New Zealand,Taranaki,,,NZ-TKI,,2020-02-16,-10,-1,-37,,-2,
 NZ,New Zealand,Taranaki,,,NZ-TKI,,2020-02-17,-10,-3,-34,,20,-1
@@ -4608,6 +4620,7 @@ NZ,New Zealand,Taranaki,,,NZ-TKI,,2021-02-05,-3,2,-19,,4,0
 NZ,New Zealand,Taranaki,,,NZ-TKI,,2021-02-06,-2,5,3,-65,-13,2
 NZ,New Zealand,Taranaki,,,NZ-TKI,,2021-02-07,2,-1,7,-71,-11,1
 NZ,New Zealand,Taranaki,,,NZ-TKI,,2021-02-08,-13,2,34,-70,-69,11
+NZ,New Zealand,Taranaki,,,NZ-TKI,,2021-02-09,-10,2,-29,,4,0
 NZ,New Zealand,Tasman,,,NZ-TAS,,2020-02-15,0,-3,-6,,0,
 NZ,New Zealand,Tasman,,,NZ-TAS,,2020-02-16,1,-9,-31,,-4,
 NZ,New Zealand,Tasman,,,NZ-TAS,,2020-02-17,-5,5,-28,,18,
@@ -4943,6 +4956,7 @@ NZ,New Zealand,Tasman,,,NZ-TAS,,2021-02-05,-20,,-4,,5,-1
 NZ,New Zealand,Tasman,,,NZ-TAS,,2021-02-06,-24,,21,,-16,
 NZ,New Zealand,Tasman,,,NZ-TAS,,2021-02-07,-14,,34,,-3,
 NZ,New Zealand,Tasman,,,NZ-TAS,,2021-02-08,-29,,26,,-69,9
+NZ,New Zealand,Tasman,,,NZ-TAS,,2021-02-09,-25,,-29,,5,3
 NZ,New Zealand,Waikato,,,NZ-WKO,,2020-02-15,5,0,-16,18,2,0
 NZ,New Zealand,Waikato,,,NZ-WKO,,2020-02-16,0,0,-20,14,-2,1
 NZ,New Zealand,Waikato,,,NZ-WKO,,2020-02-17,-8,-6,-16,26,21,-2
@@ -5303,6 +5317,7 @@ NZ,New Zealand,Waikato,,,NZ-WKO,,2021-02-05,9,5,-2,17,4,1
 NZ,New Zealand,Waikato,,,NZ-WKO,,2021-02-06,10,7,29,19,-7,2
 NZ,New Zealand,Waikato,,,NZ-WKO,,2021-02-07,16,3,52,13,-6,2
 NZ,New Zealand,Waikato,,,NZ-WKO,,2021-02-08,10,3,38,-16,-69,13
+NZ,New Zealand,Waikato,,,NZ-WKO,,2021-02-09,-2,1,-9,-1,5,2
 NZ,New Zealand,Wellington,,,NZ-WGN,,2020-02-15,15,10,38,22,5,-1
 NZ,New Zealand,Wellington,,,NZ-WGN,,2020-02-16,3,8,53,21,3,-1
 NZ,New Zealand,Wellington,,,NZ-WGN,,2020-02-17,0,-2,-1,21,21,-3
@@ -5663,6 +5678,7 @@ NZ,New Zealand,Wellington,,,NZ-WGN,,2021-02-05,0,-1,6,-13,-3,3
 NZ,New Zealand,Wellington,,,NZ-WGN,,2021-02-06,1,8,44,-26,-10,2
 NZ,New Zealand,Wellington,,,NZ-WGN,,2021-02-07,8,3,106,-16,-7,-3
 NZ,New Zealand,Wellington,,,NZ-WGN,,2021-02-08,-3,8,98,-45,-77,14
+NZ,New Zealand,Wellington,,,NZ-WGN,,2021-02-09,-4,3,25,-9,-4,3
 NZ,New Zealand,West Coast,,,NZ-WTC,,2020-02-15,5,0,2,,6,
 NZ,New Zealand,West Coast,,,NZ-WTC,,2020-02-16,-2,-6,-27,,,
 NZ,New Zealand,West Coast,,,NZ-WTC,,2020-02-17,5,-5,-8,,19,
@@ -5998,3 +6014,4 @@ NZ,New Zealand,West Coast,,,NZ-WTC,,2021-02-05,3,,-39,,11,
 NZ,New Zealand,West Coast,,,NZ-WTC,,2021-02-06,9,,7,,-12,
 NZ,New Zealand,West Coast,,,NZ-WTC,,2021-02-07,,,29,,,
 NZ,New Zealand,West Coast,,,NZ-WTC,,2021-02-08,-12,,-22,,-59,
+NZ,New Zealand,West Coast,,,NZ-WTC,,2021-02-09,-16,,-56,,8,

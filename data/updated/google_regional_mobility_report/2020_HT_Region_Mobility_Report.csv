@@ -359,6 +359,7 @@ HT,Haiti,,,,,,2021-02-05,-33,-23,-33,-25,-44,9
 HT,Haiti,,,,,,2021-02-06,-42,-35,-36,-42,-45,11
 HT,Haiti,,,,,,2021-02-07,-65,-73,-45,-69,-59,19
 HT,Haiti,,,,,,2021-02-08,-55,-55,-39,-59,-65,21
+HT,Haiti,,,,,,2021-02-09,-40,-38,-35,-43,-49,14
 HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-15,-7,-2,-6,-7,0,2
 HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-16,-3,1,5,-12,2,1
 HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2020-02-17,-6,-5,-8,-7,0,2
@@ -719,6 +720,7 @@ HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2021-02-05,-32,-22,-43,-30,-43,12
 HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2021-02-06,-42,-30,-50,-47,-45,14
 HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2021-02-07,-72,-80,-65,-76,-62,23
 HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2021-02-08,-62,-61,-59,-66,-69,27
+HT,Haiti,,,Port-au-Prince Metropolitan Area,,,2021-02-09,-40,-39,-52,-49,-49,18
 HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-15,,,-6,,6,
 HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-16,,,-6,,5,
 HT,Haiti,Artibonite Department,,,HT-AR,,2020-02-17,,,-11,,5,
@@ -1054,6 +1056,7 @@ HT,Haiti,Artibonite Department,,,HT-AR,,2021-02-05,,,-31,,-50,3
 HT,Haiti,Artibonite Department,,,HT-AR,,2021-02-06,,,-30,-73,-50,
 HT,Haiti,Artibonite Department,,,HT-AR,,2021-02-07,,,-36,,-63,
 HT,Haiti,Artibonite Department,,,HT-AR,,2021-02-08,,,-30,,-59,9
+HT,Haiti,Artibonite Department,,,HT-AR,,2021-02-09,,,-24,,-58,8
 HT,Haiti,Centre Department,,,HT-CE,,2020-02-15,,,-6,,0,
 HT,Haiti,Centre Department,,,HT-CE,,2020-02-16,,,1,,,
 HT,Haiti,Centre Department,,,HT-CE,,2020-02-17,,,-9,,-3,
@@ -1389,6 +1392,7 @@ HT,Haiti,Centre Department,,,HT-CE,,2021-02-05,,,-33,,-53,
 HT,Haiti,Centre Department,,,HT-CE,,2021-02-06,,,-38,,-51,
 HT,Haiti,Centre Department,,,HT-CE,,2021-02-07,,,-31,,-61,
 HT,Haiti,Centre Department,,,HT-CE,,2021-02-08,,,-30,,-53,
+HT,Haiti,Centre Department,,,HT-CE,,2021-02-09,,,-27,,-51,
 HT,Haiti,Nord Department,,,HT-ND,,2020-02-15,,,0,,3,
 HT,Haiti,Nord Department,,,HT-ND,,2020-02-16,,,-1,,7,
 HT,Haiti,Nord Department,,,HT-ND,,2020-02-17,,,-3,,4,
@@ -1724,6 +1728,7 @@ HT,Haiti,Nord Department,,,HT-ND,,2021-02-05,,,-19,,-49,
 HT,Haiti,Nord Department,,,HT-ND,,2021-02-06,,,-27,,-46,
 HT,Haiti,Nord Department,,,HT-ND,,2021-02-07,,,-34,-52,-58,
 HT,Haiti,Nord Department,,,HT-ND,,2021-02-08,,,-27,,-58,
+HT,Haiti,Nord Department,,,HT-ND,,2021-02-09,,,-21,-45,-50,
 HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-15,,,,,2,
 HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-17,,,,,3,
 HT,Haiti,Nord-Est Department,,,HT-NE,,2020-02-18,,,,,8,
@@ -2015,6 +2020,7 @@ HT,Haiti,Nord-Est Department,,,HT-NE,,2021-02-05,,,,,-44,
 HT,Haiti,Nord-Est Department,,,HT-NE,,2021-02-06,,,,,-50,
 HT,Haiti,Nord-Est Department,,,HT-NE,,2021-02-07,,,,,-55,
 HT,Haiti,Nord-Est Department,,,HT-NE,,2021-02-08,,,,,-45,
+HT,Haiti,Nord-Est Department,,,HT-NE,,2021-02-09,,,,,-47,
 HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-17,,,,,2,
 HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-19,,,,,-2,
 HT,Haiti,Nord-Ouest Department,,,HT-NO,,2020-02-20,,,,,4,
@@ -2212,6 +2218,7 @@ HT,Haiti,Nord-Ouest Department,,,HT-NO,,2021-02-03,,,,,-39,
 HT,Haiti,Nord-Ouest Department,,,HT-NO,,2021-02-04,,,,,-37,
 HT,Haiti,Nord-Ouest Department,,,HT-NO,,2021-02-05,,,,,-33,
 HT,Haiti,Nord-Ouest Department,,,HT-NO,,2021-02-08,,,,,-34,
+HT,Haiti,Nord-Ouest Department,,,HT-NO,,2021-02-09,,,,,-34,
 HT,Haiti,Ouest Department,,,HT-OU,,2020-02-15,-7,-2,-5,-7,0,2
 HT,Haiti,Ouest Department,,,HT-OU,,2020-02-16,-3,1,4,-12,2,1
 HT,Haiti,Ouest Department,,,HT-OU,,2020-02-17,-7,-5,-7,-7,0,2
@@ -2572,6 +2579,7 @@ HT,Haiti,Ouest Department,,,HT-OU,,2021-02-05,-33,-23,-37,-20,-44,11
 HT,Haiti,Ouest Department,,,HT-OU,,2021-02-06,-43,-30,-46,-40,-46,13
 HT,Haiti,Ouest Department,,,HT-OU,,2021-02-07,-71,-80,-59,-73,-61,22
 HT,Haiti,Ouest Department,,,HT-OU,,2021-02-08,-62,-61,-53,-62,-69,26
+HT,Haiti,Ouest Department,,,HT-OU,,2021-02-09,-42,-39,-47,-42,-49,16
 HT,Haiti,Sud Department,,,HT-SD,,2020-02-15,,,,,3,
 HT,Haiti,Sud Department,,,HT-SD,,2020-02-17,,,,,-2,
 HT,Haiti,Sud Department,,,HT-SD,,2020-02-18,,,,,6,
@@ -2879,6 +2887,7 @@ HT,Haiti,Sud Department,,,HT-SD,,2021-02-05,,,,,-49,
 HT,Haiti,Sud Department,,,HT-SD,,2021-02-06,,,,,-49,
 HT,Haiti,Sud Department,,,HT-SD,,2021-02-07,,,-42,,-52,
 HT,Haiti,Sud Department,,,HT-SD,,2021-02-08,,,,,-56,
+HT,Haiti,Sud Department,,,HT-SD,,2021-02-09,,,,,-43,
 HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-15,,,,,0,
 HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-17,,,,,-26,
 HT,Haiti,Sud-Est Department,,,HT-SE,,2020-02-18,,,,,-7,
@@ -3202,3 +3211,4 @@ HT,Haiti,Sud-Est Department,,,HT-SE,,2021-02-05,,,,,-42,
 HT,Haiti,Sud-Est Department,,,HT-SE,,2021-02-06,,,,,-39,
 HT,Haiti,Sud-Est Department,,,HT-SE,,2021-02-07,,,,,-48,
 HT,Haiti,Sud-Est Department,,,HT-SE,,2021-02-08,,,,,-56,
+HT,Haiti,Sud-Est Department,,,HT-SE,,2021-02-09,,,,,-39,

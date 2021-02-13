@@ -359,6 +359,7 @@ JO,Jordan,,,,,,2021-02-05,-23,9,-23,-55,-25,5
 JO,Jordan,,,,,,2021-02-06,-9,18,-6,-51,-15,1
 JO,Jordan,,,,,,2021-02-07,-11,17,-7,-40,-19,2
 JO,Jordan,,,,,,2021-02-08,-11,20,-14,-38,-21,2
+JO,Jordan,,,,,,2021-02-09,-10,20,-10,-39,-20,2
 JO,Jordan,,,Amman Metropolitan Area,,,2020-02-15,4,5,38,6,0,-2
 JO,Jordan,,,Amman Metropolitan Area,,,2020-02-16,-3,2,9,18,3,0
 JO,Jordan,,,Amman Metropolitan Area,,,2020-02-17,-4,0,11,5,3,0
@@ -719,6 +720,7 @@ JO,Jordan,,,Amman Metropolitan Area,,,2021-02-05,-23,8,-6,-22,-21,5
 JO,Jordan,,,Amman Metropolitan Area,,,2021-02-06,-9,19,15,-20,-12,1
 JO,Jordan,,,Amman Metropolitan Area,,,2021-02-07,-11,17,7,-19,-18,2
 JO,Jordan,,,Amman Metropolitan Area,,,2021-02-08,-11,20,1,-16,-20,2
+JO,Jordan,,,Amman Metropolitan Area,,,2021-02-09,-11,22,7,-13,-19,2
 JO,Jordan,Ajloun Governorate,,,JO-AJ,,2020-02-15,,,,,1,
 JO,Jordan,Ajloun Governorate,,,JO-AJ,,2020-02-16,,,,,6,
 JO,Jordan,Ajloun Governorate,,,JO-AJ,,2020-02-17,,,,,8,
@@ -1054,6 +1056,7 @@ JO,Jordan,Ajloun Governorate,,,JO-AJ,,2021-02-05,,,,,-40,
 JO,Jordan,Ajloun Governorate,,,JO-AJ,,2021-02-06,-10,,,,-30,
 JO,Jordan,Ajloun Governorate,,,JO-AJ,,2021-02-07,-8,,,,-28,
 JO,Jordan,Ajloun Governorate,,,JO-AJ,,2021-02-08,,,,,-30,
+JO,Jordan,Ajloun Governorate,,,JO-AJ,,2021-02-09,,,,,-32,
 JO,Jordan,Amman Governorate,,,JO-AM,,2020-02-15,4,6,53,6,0,-2
 JO,Jordan,Amman Governorate,,,JO-AM,,2020-02-16,-3,2,13,-6,3,0
 JO,Jordan,Amman Governorate,,,JO-AM,,2020-02-17,-4,0,18,-2,2,0
@@ -1414,6 +1417,7 @@ JO,Jordan,Amman Governorate,,,JO-AM,,2021-02-05,-24,1,-6,-57,-22,5
 JO,Jordan,Amman Governorate,,,JO-AM,,2021-02-06,-9,17,25,-51,-12,1
 JO,Jordan,Amman Governorate,,,JO-AM,,2021-02-07,-11,18,8,-39,-17,2
 JO,Jordan,Amman Governorate,,,JO-AM,,2021-02-08,-11,19,17,-40,-20,3
+JO,Jordan,Amman Governorate,,,JO-AM,,2021-02-09,-11,19,15,-39,-20,3
 JO,Jordan,Aqaba Governorate,,,JO-AQ,,2020-02-15,2,2,22,15,1,
 JO,Jordan,Aqaba Governorate,,,JO-AQ,,2020-02-16,-6,2,0,15,5,0
 JO,Jordan,Aqaba Governorate,,,JO-AQ,,2020-02-17,-5,6,0,1,7,0
@@ -1767,6 +1771,7 @@ JO,Jordan,Aqaba Governorate,,,JO-AQ,,2021-02-05,-27,-2,-57,-58,-27,4
 JO,Jordan,Aqaba Governorate,,,JO-AQ,,2021-02-06,-20,6,-52,-63,-15,1
 JO,Jordan,Aqaba Governorate,,,JO-AQ,,2021-02-07,-20,6,-53,-59,-20,1
 JO,Jordan,Aqaba Governorate,,,JO-AQ,,2021-02-08,-19,15,-48,-44,-20,0
+JO,Jordan,Aqaba Governorate,,,JO-AQ,,2021-02-09,-15,7,-47,-54,-17,1
 JO,Jordan,Balqa Governorate,,,JO-BA,,2020-02-15,5,8,24,,2,-2
 JO,Jordan,Balqa Governorate,,,JO-BA,,2020-02-16,1,2,3,,6,-1
 JO,Jordan,Balqa Governorate,,,JO-BA,,2020-02-17,-7,-1,-2,,6,-1
@@ -2125,6 +2130,7 @@ JO,Jordan,Balqa Governorate,,,JO-BA,,2021-02-05,-15,22,-15,,-27,6
 JO,Jordan,Balqa Governorate,,,JO-BA,,2021-02-06,7,47,2,,-17,0
 JO,Jordan,Balqa Governorate,,,JO-BA,,2021-02-07,3,37,-3,,-19,1
 JO,Jordan,Balqa Governorate,,,JO-BA,,2021-02-08,1,49,-21,,-21,1
+JO,Jordan,Balqa Governorate,,,JO-BA,,2021-02-09,2,43,-16,,-20,1
 JO,Jordan,Irbid Governorate,,,JO-IR,,2020-02-15,7,3,5,,-1,0
 JO,Jordan,Irbid Governorate,,,JO-IR,,2020-02-16,0,0,-1,,7,-1
 JO,Jordan,Irbid Governorate,,,JO-IR,,2020-02-17,-5,-1,2,,5,-1
@@ -2485,6 +2491,7 @@ JO,Jordan,Irbid Governorate,,,JO-IR,,2021-02-05,-21,0,-26,,-27,3
 JO,Jordan,Irbid Governorate,,,JO-IR,,2021-02-06,-5,16,-25,,-16,1
 JO,Jordan,Irbid Governorate,,,JO-IR,,2021-02-07,-8,13,-23,,-21,0
 JO,Jordan,Irbid Governorate,,,JO-IR,,2021-02-08,-8,15,-27,,-22,0
+JO,Jordan,Irbid Governorate,,,JO-IR,,2021-02-09,-6,18,-21,,-21,0
 JO,Jordan,Jerash Governorate,,,JO-JA,,2020-02-15,12,,17,,0,
 JO,Jordan,Jerash Governorate,,,JO-JA,,2020-02-16,2,,4,,6,
 JO,Jordan,Jerash Governorate,,,JO-JA,,2020-02-17,,,19,,7,
@@ -2820,6 +2827,7 @@ JO,Jordan,Jerash Governorate,,,JO-JA,,2021-02-05,-24,,-36,,-34,
 JO,Jordan,Jerash Governorate,,,JO-JA,,2021-02-06,-13,,-33,,-30,
 JO,Jordan,Jerash Governorate,,,JO-JA,,2021-02-07,-19,,-32,,-33,
 JO,Jordan,Jerash Governorate,,,JO-JA,,2021-02-08,-16,,-45,,-33,
+JO,Jordan,Jerash Governorate,,,JO-JA,,2021-02-09,-16,,-46,,-33,
 JO,Jordan,Karak Governorate,,,JO-KA,,2020-02-15,24,11,,,3,
 JO,Jordan,Karak Governorate,,,JO-KA,,2020-02-16,12,4,,,10,
 JO,Jordan,Karak Governorate,,,JO-KA,,2020-02-17,2,-8,,,12,
@@ -3155,6 +3163,7 @@ JO,Jordan,Karak Governorate,,,JO-KA,,2021-02-05,-27,,,,-40,
 JO,Jordan,Karak Governorate,,,JO-KA,,2021-02-06,-5,20,,,-30,
 JO,Jordan,Karak Governorate,,,JO-KA,,2021-02-07,-7,11,,,-31,-3
 JO,Jordan,Karak Governorate,,,JO-KA,,2021-02-08,-11,13,,,-36,-2
+JO,Jordan,Karak Governorate,,,JO-KA,,2021-02-09,-8,13,,,-32,-1
 JO,Jordan,Ma'an Governorate,,,JO-MN,,2020-02-15,,,27,,-3,
 JO,Jordan,Ma'an Governorate,,,JO-MN,,2020-02-16,,,13,,10,
 JO,Jordan,Ma'an Governorate,,,JO-MN,,2020-02-17,,,,,6,
@@ -3490,6 +3499,7 @@ JO,Jordan,Ma'an Governorate,,,JO-MN,,2021-02-05,,,-76,,-43,
 JO,Jordan,Ma'an Governorate,,,JO-MN,,2021-02-06,-28,,-71,,-29,
 JO,Jordan,Ma'an Governorate,,,JO-MN,,2021-02-07,-24,,-66,,-26,
 JO,Jordan,Ma'an Governorate,,,JO-MN,,2021-02-08,,,-75,,-36,
+JO,Jordan,Ma'an Governorate,,,JO-MN,,2021-02-09,,,-70,,-33,
 JO,Jordan,Madaba Governorate,,,JO-MD,,2020-02-15,16,-4,,,1,
 JO,Jordan,Madaba Governorate,,,JO-MD,,2020-02-16,7,-9,,,3,
 JO,Jordan,Madaba Governorate,,,JO-MD,,2020-02-17,-2,1,,,5,
@@ -3825,6 +3835,7 @@ JO,Jordan,Madaba Governorate,,,JO-MD,,2021-02-05,-20,-17,,,-33,
 JO,Jordan,Madaba Governorate,,,JO-MD,,2021-02-06,7,5,,,-26,
 JO,Jordan,Madaba Governorate,,,JO-MD,,2021-02-07,3,7,,,-26,3
 JO,Jordan,Madaba Governorate,,,JO-MD,,2021-02-08,-2,8,,,-29,3
+JO,Jordan,Madaba Governorate,,,JO-MD,,2021-02-09,,16,,,-27,4
 JO,Jordan,Mafraq Governorate,,,JO-MA,,2020-02-15,7,-2,,,4,
 JO,Jordan,Mafraq Governorate,,,JO-MA,,2020-02-16,1,-6,,,5,0
 JO,Jordan,Mafraq Governorate,,,JO-MA,,2020-02-17,0,-4,,,6,1
@@ -4178,6 +4189,7 @@ JO,Jordan,Mafraq Governorate,,,JO-MA,,2021-02-05,-16,-7,,,-39,
 JO,Jordan,Mafraq Governorate,,,JO-MA,,2021-02-06,1,13,,,-28,3
 JO,Jordan,Mafraq Governorate,,,JO-MA,,2021-02-07,-4,4,,,-29,3
 JO,Jordan,Mafraq Governorate,,,JO-MA,,2021-02-08,-5,8,,,-33,2
+JO,Jordan,Mafraq Governorate,,,JO-MA,,2021-02-09,-1,7,,,-33,3
 JO,Jordan,Tafilah Governorate,,,JO-AT,,2020-02-16,,,,,8,
 JO,Jordan,Tafilah Governorate,,,JO-AT,,2020-02-17,,,,,8,
 JO,Jordan,Tafilah Governorate,,,JO-AT,,2020-02-18,,,,,10,
@@ -4476,6 +4488,7 @@ JO,Jordan,Tafilah Governorate,,,JO-AT,,2021-02-05,,,,,-52,
 JO,Jordan,Tafilah Governorate,,,JO-AT,,2021-02-06,,,,,-41,
 JO,Jordan,Tafilah Governorate,,,JO-AT,,2021-02-07,,,,,-45,
 JO,Jordan,Tafilah Governorate,,,JO-AT,,2021-02-08,,,,,-47,
+JO,Jordan,Tafilah Governorate,,,JO-AT,,2021-02-09,,,,,-48,
 JO,Jordan,Zarqa Governorate,,,JO-AZ,,2020-02-15,2,2,4,-10,0,-1
 JO,Jordan,Zarqa Governorate,,,JO-AZ,,2020-02-16,-1,1,1,6,3,0
 JO,Jordan,Zarqa Governorate,,,JO-AZ,,2020-02-17,-2,0,3,-1,4,-1
@@ -4836,3 +4849,4 @@ JO,Jordan,Zarqa Governorate,,,JO-AZ,,2021-02-05,-19,5,-26,-68,-24,4
 JO,Jordan,Zarqa Governorate,,,JO-AZ,,2021-02-06,-5,20,-12,-73,-10,1
 JO,Jordan,Zarqa Governorate,,,JO-AZ,,2021-02-07,-9,15,-13,-82,-14,0
 JO,Jordan,Zarqa Governorate,,,JO-AZ,,2021-02-08,-8,22,-14,-74,-13,0
+JO,Jordan,Zarqa Governorate,,,JO-AZ,,2021-02-09,-5,22,-17,-76,-13,0
