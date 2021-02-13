@@ -356,6 +356,9 @@ RW,Rwanda,,,,,,2021-02-02,-49,-53,-19,-67,-53,36
 RW,Rwanda,,,,,,2021-02-03,-52,-56,-17,-65,-53,37
 RW,Rwanda,,,,,,2021-02-04,-55,-59,-16,-69,-56,41
 RW,Rwanda,,,,,,2021-02-05,-57,-60,-15,-68,-55,43
+RW,Rwanda,,,,,,2021-02-06,-56,-56,-17,-69,-43,35
+RW,Rwanda,,,,,,2021-02-07,-60,-60,-19,-73,-41,36
+RW,Rwanda,,,,,,2021-02-08,-22,-33,0,-48,-36,27
 RW,Rwanda,Eastern Province,,,RW-02,,2020-02-15,,,,,10,
 RW,Rwanda,Eastern Province,,,RW-02,,2020-02-16,,,,,8,
 RW,Rwanda,Eastern Province,,,RW-02,,2020-02-17,,,,,7,
@@ -688,6 +691,9 @@ RW,Rwanda,Eastern Province,,,RW-02,,2021-02-02,,,,,-37,
 RW,Rwanda,Eastern Province,,,RW-02,,2021-02-03,,,,,-38,
 RW,Rwanda,Eastern Province,,,RW-02,,2021-02-04,,,,,-43,
 RW,Rwanda,Eastern Province,,,RW-02,,2021-02-05,,,,,-35,
+RW,Rwanda,Eastern Province,,,RW-02,,2021-02-06,,,,,-23,
+RW,Rwanda,Eastern Province,,,RW-02,,2021-02-07,,,,,-28,
+RW,Rwanda,Eastern Province,,,RW-02,,2021-02-08,,,,,-30,
 RW,Rwanda,Eastern Province,Bugesera,,,,2020-06-08,,,,,-18,
 RW,Rwanda,Eastern Province,Bugesera,,,,2020-06-09,,,,,-16,
 RW,Rwanda,Eastern Province,Bugesera,,,,2020-06-10,,,,,-12,
@@ -844,6 +850,7 @@ RW,Rwanda,Eastern Province,Bugesera,,,,2021-02-02,,,,,-45,
 RW,Rwanda,Eastern Province,Bugesera,,,,2021-02-03,,,,,-47,
 RW,Rwanda,Eastern Province,Bugesera,,,,2021-02-04,,,,,-56,
 RW,Rwanda,Eastern Province,Bugesera,,,,2021-02-05,,,,,-48,
+RW,Rwanda,Eastern Province,Bugesera,,,,2021-02-08,,,,,-40,
 RW,Rwanda,Kigali City,,,RW-01,,2020-02-15,7,7,12,12,4,-2
 RW,Rwanda,Kigali City,,,RW-01,,2020-02-16,0,2,-1,2,6,-2
 RW,Rwanda,Kigali City,,,RW-01,,2020-02-17,-2,-1,18,4,6,0
@@ -1201,6 +1208,9 @@ RW,Rwanda,Kigali City,,,RW-01,,2021-02-02,-55,-62,-25,-70,-63,45
 RW,Rwanda,Kigali City,,,RW-01,,2021-02-03,-59,-65,-27,-69,-64,48
 RW,Rwanda,Kigali City,,,RW-01,,2021-02-04,-60,-67,-27,-73,-65,52
 RW,Rwanda,Kigali City,,,RW-01,,2021-02-05,-63,-68,-22,-72,-64,52
+RW,Rwanda,Kigali City,,,RW-01,,2021-02-06,-61,-65,-28,-75,-52,40
+RW,Rwanda,Kigali City,,,RW-01,,2021-02-07,-64,-70,-32,-77,-48,40
+RW,Rwanda,Kigali City,,,RW-01,,2021-02-08,-22,-35,-1,-46,-41,32
 RW,Rwanda,Kigali City,Gasabo,,,,2020-02-15,7,15,8,21,11,-1
 RW,Rwanda,Kigali City,Gasabo,,,,2020-02-16,-5,2,-5,1,5,0
 RW,Rwanda,Kigali City,Gasabo,,,,2020-02-17,-1,1,4,-3,6,2
@@ -1556,6 +1566,9 @@ RW,Rwanda,Kigali City,Gasabo,,,,2021-02-02,-64,-61,19,-73,-65,48
 RW,Rwanda,Kigali City,Gasabo,,,,2021-02-03,-68,-65,20,-74,-65,51
 RW,Rwanda,Kigali City,Gasabo,,,,2021-02-04,-69,-64,17,-79,-66,53
 RW,Rwanda,Kigali City,Gasabo,,,,2021-02-05,-70,-67,32,-78,-67,53
+RW,Rwanda,Kigali City,Gasabo,,,,2021-02-06,-68,-63,19,-79,-50,43
+RW,Rwanda,Kigali City,Gasabo,,,,2021-02-07,-71,-67,15,-83,-49,41
+RW,Rwanda,Kigali City,Gasabo,,,,2021-02-08,-40,-35,47,-29,-43,33
 RW,Rwanda,Kigali City,Kicukiro,,,,2020-02-15,15,0,13,2,-1,-2
 RW,Rwanda,Kigali City,Kicukiro,,,,2020-02-16,4,-2,3,-3,9,
 RW,Rwanda,Kigali City,Kicukiro,,,,2020-02-17,1,-2,17,-2,7,-1
@@ -1908,6 +1921,9 @@ RW,Rwanda,Kigali City,Kicukiro,,,,2021-02-02,-35,-45,-73,-56,-60,52
 RW,Rwanda,Kigali City,Kicukiro,,,,2021-02-03,-38,-47,-71,-49,-61,55
 RW,Rwanda,Kigali City,Kicukiro,,,,2021-02-04,-40,-48,-67,-54,-61,59
 RW,Rwanda,Kigali City,Kicukiro,,,,2021-02-05,-42,-53,-73,-51,-60,59
+RW,Rwanda,Kigali City,Kicukiro,,,,2021-02-06,-44,-52,-78,-59,-47,47
+RW,Rwanda,Kigali City,Kicukiro,,,,2021-02-07,-58,-61,-81,-58,-39,
+RW,Rwanda,Kigali City,Kicukiro,,,,2021-02-08,-21,-29,-57,-41,-37,36
 RW,Rwanda,Kigali City,Nyarugenge,,,,2020-02-15,1,3,,14,5,
 RW,Rwanda,Kigali City,Nyarugenge,,,,2020-02-16,4,1,,7,7,
 RW,Rwanda,Kigali City,Nyarugenge,,,,2020-02-17,-3,-3,,6,6,1
@@ -2261,6 +2277,9 @@ RW,Rwanda,Kigali City,Nyarugenge,,,,2021-02-02,-49,-76,,-80,-66,40
 RW,Rwanda,Kigali City,Nyarugenge,,,,2021-02-03,-52,-79,,-82,-65,39
 RW,Rwanda,Kigali City,Nyarugenge,,,,2021-02-04,-56,-80,,-82,-68,46
 RW,Rwanda,Kigali City,Nyarugenge,,,,2021-02-05,-59,-80,,-84,-67,49
+RW,Rwanda,Kigali City,Nyarugenge,,,,2021-02-06,-59,-80,,-86,-62,
+RW,Rwanda,Kigali City,Nyarugenge,,,,2021-02-07,-60,-81,,-91,-55,
+RW,Rwanda,Kigali City,Nyarugenge,,,,2021-02-08,14,-40,,-59,-41,26
 RW,Rwanda,Northern Province,,,RW-03,,2020-02-17,,,,,12,
 RW,Rwanda,Northern Province,,,RW-03,,2020-02-18,,,,,9,
 RW,Rwanda,Northern Province,,,RW-03,,2020-02-19,,,,,8,
@@ -2498,6 +2517,7 @@ RW,Rwanda,Northern Province,,,RW-03,,2021-02-02,,,,,-19,
 RW,Rwanda,Northern Province,,,RW-03,,2021-02-03,,,,,-16,
 RW,Rwanda,Northern Province,,,RW-03,,2021-02-04,,,,,-21,
 RW,Rwanda,Northern Province,,,RW-03,,2021-02-05,,,,,-21,
+RW,Rwanda,Northern Province,,,RW-03,,2021-02-08,,,,,-18,
 RW,Rwanda,Northern Province,Musanze,,,,2020-02-17,,,,,12,
 RW,Rwanda,Northern Province,Musanze,,,,2020-02-18,,,,,6,
 RW,Rwanda,Northern Province,Musanze,,,,2020-02-19,,,,,6,
@@ -2779,6 +2799,8 @@ RW,Rwanda,Northern Province,Musanze,,,,2021-02-02,,,,,-15,
 RW,Rwanda,Northern Province,Musanze,,,,2021-02-03,,,,,-9,
 RW,Rwanda,Northern Province,Musanze,,,,2021-02-04,,,,,-14,
 RW,Rwanda,Northern Province,Musanze,,,,2021-02-05,,,,,-15,
+RW,Rwanda,Northern Province,Musanze,,,,2021-02-07,,,,,-8,
+RW,Rwanda,Northern Province,Musanze,,,,2021-02-08,,,,,-10,
 RW,Rwanda,Southern Province,,,RW-05,,2020-02-15,,,,16,7,
 RW,Rwanda,Southern Province,,,RW-05,,2020-02-16,,,,,4,
 RW,Rwanda,Southern Province,,,RW-05,,2020-02-17,,,,9,5,
@@ -3111,6 +3133,9 @@ RW,Rwanda,Southern Province,,,RW-05,,2021-02-02,,,,-55,-29,
 RW,Rwanda,Southern Province,,,RW-05,,2021-02-03,,,,-53,-30,
 RW,Rwanda,Southern Province,,,RW-05,,2021-02-04,,,,-57,-39,
 RW,Rwanda,Southern Province,,,RW-05,,2021-02-05,,,,-58,-37,
+RW,Rwanda,Southern Province,,,RW-05,,2021-02-06,,,,-56,-28,
+RW,Rwanda,Southern Province,,,RW-05,,2021-02-07,,,,-68,-46,
+RW,Rwanda,Southern Province,,,RW-05,,2021-02-08,,,,-52,-30,
 RW,Rwanda,Southern Province,Huye,,,,2020-03-23,,,,,-53,
 RW,Rwanda,Southern Province,Huye,,,,2020-03-25,,,,,-55,
 RW,Rwanda,Southern Province,Huye,,,,2020-03-30,,,,,-57,
@@ -3344,6 +3369,8 @@ RW,Rwanda,Southern Province,Huye,,,,2021-02-02,,,,,-21,
 RW,Rwanda,Southern Province,Huye,,,,2021-02-03,,,,,-23,
 RW,Rwanda,Southern Province,Huye,,,,2021-02-04,,,,,-28,
 RW,Rwanda,Southern Province,Huye,,,,2021-02-05,,,,,-33,
+RW,Rwanda,Southern Province,Huye,,,,2021-02-06,,,,,-27,
+RW,Rwanda,Southern Province,Huye,,,,2021-02-08,,,,,-28,
 RW,Rwanda,Western Province,,,RW-04,,2020-02-15,,,,,4,
 RW,Rwanda,Western Province,,,RW-04,,2020-02-17,,,,,4,
 RW,Rwanda,Western Province,,,RW-04,,2020-02-18,,,,,7,
@@ -3631,6 +3658,9 @@ RW,Rwanda,Western Province,,,RW-04,,2021-02-02,,,,-61,-24,
 RW,Rwanda,Western Province,,,RW-04,,2021-02-03,,,,,-27,
 RW,Rwanda,Western Province,,,RW-04,,2021-02-04,,,,,-29,
 RW,Rwanda,Western Province,,,RW-04,,2021-02-05,,,,-54,-26,
+RW,Rwanda,Western Province,,,RW-04,,2021-02-06,,,,,-21,
+RW,Rwanda,Western Province,,,RW-04,,2021-02-07,,,,,-30,
+RW,Rwanda,Western Province,,,RW-04,,2021-02-08,,,,,-29,
 RW,Rwanda,Western Province,Rubavu,,,,2020-02-15,,,,-1,,
 RW,Rwanda,Western Province,Rubavu,,,,2020-02-17,,,,-15,,
 RW,Rwanda,Western Province,Rubavu,,,,2020-02-18,,,,-14,,
@@ -3932,3 +3962,6 @@ RW,Rwanda,Western Province,Rubavu,,,,2021-02-02,,,,-56,-19,
 RW,Rwanda,Western Province,Rubavu,,,,2021-02-03,,,,-54,-24,
 RW,Rwanda,Western Province,Rubavu,,,,2021-02-04,,,,-41,-30,
 RW,Rwanda,Western Province,Rubavu,,,,2021-02-05,,,,-46,-22,
+RW,Rwanda,Western Province,Rubavu,,,,2021-02-06,,,,-41,-26,
+RW,Rwanda,Western Province,Rubavu,,,,2021-02-07,,,,-37,-31,
+RW,Rwanda,Western Province,Rubavu,,,,2021-02-08,,,,-50,-23,
