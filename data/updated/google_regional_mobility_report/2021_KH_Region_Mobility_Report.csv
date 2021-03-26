@@ -1,0 +1,1756 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-01,-20,-8,36,-34,-60,11
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-02,-25,-12,4,-39,-35,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-03,-20,-10,-4,-35,-12,7
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-04,-17,-6,-12,-38,-14,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-05,-17,-5,-11,-38,-15,8
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-06,-12,-4,-7,-38,-14,8
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-07,-12,-5,2,-37,-44,14
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-08,-14,-7,-7,-39,-15,9
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-09,-14,-7,-9,-37,-15,7
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-10,-11,-6,-8,-36,-8,7
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-11,-11,-4,-10,-37,-12,7
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-12,-11,-3,-10,-37,-12,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-13,-10,-5,-9,-39,-10,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-14,-11,-10,-11,-42,-13,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-15,-13,-13,-14,-42,-15,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-16,-15,-14,-14,-43,-18,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-17,-13,-15,-14,-42,-15,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-18,-15,-12,-17,-43,-15,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-19,-16,-13,-18,-41,-16,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-20,-13,-12,-15,-43,-14,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-21,-13,-12,-11,-43,-14,7
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-22,-13,-14,-11,-41,-14,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-23,-15,-15,-12,-42,-17,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-24,-12,-14,-10,-40,-13,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-25,-13,-11,-14,-43,-14,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-26,-14,-11,-13,-41,-14,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-27,-11,-11,-11,-42,-13,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-28,-10,-11,-4,-43,-13,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-29,-9,-10,-10,-42,-12,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-30,-9,-7,-10,-40,-13,4
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-01-31,-6,-6,-11,-39,-12,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-01,-10,-5,-16,-41,-12,4
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-02,-9,-4,-15,-40,-12,4
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-03,-7,-5,-13,-40,-11,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-04,-7,-4,-11,-41,-12,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-05,-8,-6,-10,-42,-12,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-06,-7,-7,-10,-40,-13,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-07,-6,-8,-6,-39,-12,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-08,-9,-5,-12,-39,-13,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-09,-7,1,-8,-36,-13,4
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-10,-1,14,-1,-30,-13,2
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-11,-20,-12,-3,-44,-36,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-12,-15,-17,6,-46,-38,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-13,-15,-14,7,-43,-38,3
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-14,-2,-8,8,-33,-25,-1
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-15,-7,-4,-13,-40,-13,3
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-16,-7,-2,-16,-38,-12,3
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-17,-5,-3,-14,-40,-10,4
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-18,-5,-4,-12,-40,-10,4
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-19,-5,-2,-13,-39,-9,4
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-20,-11,-5,-18,-41,-12,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-21,-11,-7,-19,-44,-13,5
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-22,-14,-7,-23,-43,-11,6
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-23,-17,-8,-24,-42,-17,7
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-24,-18,-11,-23,-46,-16,9
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-25,-19,-10,-24,-47,-17,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-26,-20,-10,-23,-48,-17,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-27,-23,-13,-27,-50,-17,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-02-28,-24,-14,-28,-51,-15,11
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-01,-21,-12,-28,-47,-17,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-02,-21,-12,-28,-47,-19,9
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-03,-18,-12,-26,-47,-18,11
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-04,-19,-13,-25,-47,-18,11
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-05,-20,-13,-26,-47,-18,11
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-06,-22,-13,-26,-48,-18,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-07,-23,-15,-26,-49,-18,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-08,-20,-13,-22,-47,-53,14
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-09,-27,-16,-31,-49,-22,10
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-10,-27,-17,-32,-51,-22,14
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-11,-31,-20,-32,-53,-23,16
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-12,-34,-22,-34,-55,-24,17
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-13,-38,-24,-38,-58,-23,17
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-14,-40,-28,-41,-59,-22,19
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-15,-37,-25,-39,-56,-24,18
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-16,-38,-26,-38,-55,-27,17
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-17,-36,-26,-37,-56,-25,18
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-18,-36,-27,-35,-56,-25,18
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-19,-37,-27,-36,-57,-25,19
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-20,-40,-28,-40,-59,-23,18
+KH,Cambodia,,,,,,ChIJQzfc1L-HBzERUxL0ieC_t-Q,2021-03-21,-42,-30,-41,-60,-23,20
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-01,-9,-11,-34,-50,-41,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-02,-17,-13,,-47,-28,11
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-03,-15,-20,-34,-45,-14,11
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-04,-15,-13,,-44,-19,11
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-05,-16,-18,,-45,-20,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-06,-10,-15,,-52,-19,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-07,-13,-15,,-53,-29,13
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-08,-10,-13,-39,-45,-19,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-09,-14,-14,-38,-47,-18,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-10,-11,-18,-35,-46,-14,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-11,-9,-16,,-53,-15,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-12,-9,-14,,-50,-15,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-13,-8,-19,,-54,-16,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-14,-13,-19,,-49,-17,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-15,-15,-19,-37,-51,-21,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-16,-20,-21,-38,-53,-24,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-17,-17,-26,-39,-59,-22,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-18,-18,-20,,-57,-21,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-19,-20,-26,,-58,-21,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-20,-18,-26,,-55,-19,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-21,-17,-25,,-48,-20,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-22,-17,-22,-35,-58,-20,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-23,-22,-24,,-52,-20,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-24,-18,-23,-40,-59,-18,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-25,-17,-22,,-54,-20,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-26,-17,-25,-43,-56,-21,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-27,-16,-24,,-57,-20,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-28,-14,-21,,-54,-20,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-29,-16,-19,,-56,-19,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-30,-19,-16,,-50,-19,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-01-31,-17,-17,-36,-54,-18,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-01,-12,-12,,-57,-18,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-02,-13,-16,,-52,-22,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-03,-11,-17,,-55,-21,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-04,-11,-13,,-55,-21,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-05,-14,-12,,-51,-22,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-06,-14,-15,,-50,-23,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-07,-16,-16,-26,-48,-22,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-08,-15,-13,,-51,-23,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-09,-14,-15,,-54,-23,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-10,-7,-4,,-54,-23,3
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-11,-13,-20,,-61,-35,4
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-12,-11,-20,,-64,-34,4
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-13,-16,-16,,-58,-34,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-14,-5,-10,-23,-54,-24,4
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-15,-13,-12,,-52,-21,3
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-16,-13,-14,,-56,-22,4
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-17,-11,-16,,-53,-20,4
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-18,-11,-14,,-50,-17,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-19,-10,-9,,-51,-18,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-20,-13,-8,,-53,-19,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-21,-16,-11,,-55,-20,3
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-22,-13,-12,,-53,-18,4
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-23,-18,-15,,-54,-21,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-24,-15,-18,,-55,-19,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-25,-13,-13,,-54,-17,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-26,-11,-6,,-54,-19,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-27,-16,-5,,-54,-16,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-02-28,-14,-11,,-54,-14,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-01,-9,-5,,-31,-16,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-02,-7,-7,,-51,-18,5
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-03,-13,-15,,-55,-19,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-04,-8,-11,,-53,-17,7
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-05,-9,-5,,-51,-17,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-06,-10,-4,,-52,-19,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-07,-9,-10,,-56,-18,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-08,-10,-11,,-56,-38,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-09,-15,-14,,-57,-18,6
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-10,-18,-17,,-59,-18,8
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-11,-21,-19,,-59,-17,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-12,-23,-15,,-59,-18,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-13,-28,-16,,-59,-18,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-14,-26,-18,-27,-63,-18,12
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-15,-24,-17,,-56,-17,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-16,-25,-22,,-64,-20,10
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-17,-22,-21,,-61,-17,9
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-18,-25,-21,,-46,-17,11
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-19,-26,-19,,-62,-17,11
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-20,-29,-14,,-61,-19,12
+KH,Cambodia,Banteay Meanchey Province,,,KH-1,,ChIJecSdYH_lGjERe-N0CfMNLUM,2021-03-21,-30,-20,-27,-64,-20,13
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-01,-13,-11,14,-30,-51,11
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-02,-17,-10,5,-31,-33,12
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-03,-21,-13,0,-24,-14,11
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-04,-19,-12,-4,-28,-23,12
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-05,-16,-11,0,-30,-23,10
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-06,-13,-13,4,-28,-23,10
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-07,-14,-16,2,-34,-43,13
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-08,-12,-12,8,-26,-24,9
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-09,-17,-15,1,-28,-24,9
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-10,-15,-16,1,-25,-10,10
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-11,-13,-13,4,-32,-19,9
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-12,-6,-9,10,-34,-19,5
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-13,-6,-10,10,-27,-19,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-14,-9,-20,5,-33,-20,8
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-15,-10,-19,2,-32,-22,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-16,-15,-23,-8,-35,-25,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-17,-15,-24,-6,-32,-19,9
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-18,-15,-23,-2,-39,-21,8
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-19,-13,-23,2,-35,-24,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-20,-9,-19,0,-30,-22,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-21,-11,-21,2,-35,-20,8
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-22,-12,-22,5,-38,-21,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-23,-13,-23,1,-38,-23,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-24,-14,-26,-1,-34,-19,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-25,-11,-20,-3,-37,-20,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-26,-10,-19,3,-38,-22,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-27,-8,-20,2,-38,-19,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-28,-9,-19,7,-30,-18,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-29,-6,-17,5,-35,-18,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-30,-11,-14,-5,-33,-18,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-01-31,-13,-14,-5,-34,-15,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-01,-12,-16,-2,-36,-17,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-02,-8,-10,-3,-34,-19,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-03,-6,-11,-6,-24,-17,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-04,-7,-14,2,-26,-17,5
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-05,-6,-12,4,-29,-16,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-06,-9,-14,-1,-28,-19,5
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-07,-11,-14,-2,-26,-19,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-08,-9,-11,-5,-28,-18,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-09,-8,-9,1,-26,-19,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-10,-3,1,6,-16,-18,1
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-11,-14,-18,4,-34,-31,5
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-12,-5,-20,7,-50,-32,2
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-13,-10,-15,3,-46,-34,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-14,-2,-13,4,-27,-26,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-15,-9,-10,-5,-28,-19,2
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-16,-9,-11,-5,-21,-19,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-17,-4,-11,2,-27,-19,2
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-18,-5,-10,0,-30,-18,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-19,-2,-7,4,-28,-16,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-20,-3,-9,-2,-24,-21,5
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-21,-2,-10,1,-31,-17,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-22,-8,-11,-9,-33,-14,2
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-23,-8,-11,-9,-34,-15,2
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-24,-7,-12,-8,-32,-15,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-25,-7,-12,-6,-34,-14,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-26,-3,-9,-4,-36,-13,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-27,-6,-11,-13,-35,-16,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-02-28,-8,-11,-7,-36,-15,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-01,-10,-14,-17,-37,-14,5
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-02,-7,-10,-10,-38,-15,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-03,-3,-9,-8,-25,-15,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-04,-4,-12,-3,-27,-13,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-05,-3,-9,-8,-28,-12,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-06,-6,-9,-6,-25,-17,4
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-07,-7,-13,-7,-30,-18,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-08,-5,-12,-11,-22,-52,8
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-09,-9,-11,-5,-25,-18,3
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-10,-12,-12,-15,-25,-15,6
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-11,-17,-18,-17,-35,-15,9
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-12,-18,-15,-13,-31,-16,8
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-13,-25,-18,-21,-37,-17,11
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-14,-27,-22,-25,-41,-17,12
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-15,-22,-18,-22,-33,-13,9
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-16,-19,-16,-18,-39,-18,8
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-17,-19,-18,-23,-35,-16,7
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-18,-19,-20,-17,-30,-13,10
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-19,-17,-19,-20,-34,-14,9
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-20,-25,-20,-22,-35,-16,11
+KH,Cambodia,Battambang Province,,,KH-2,,ChIJDTYr8bY5BTERZOM1bitTUsI,2021-03-21,-26,-21,-27,-38,-20,11
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-01,13,30,,-17,-56,12
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-02,-9,2,-20,-44,-42,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-03,-10,4,-15,-38,-12,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-04,-14,7,-16,-32,-23,11
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-05,-14,3,,-31,-27,10
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-06,-9,8,,-30,-25,9
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-07,-2,13,,-26,-47,16
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-08,-5,9,-15,-28,-24,10
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-09,-8,4,-22,-42,-31,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-10,-3,7,-16,-27,-12,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-11,0,15,,-22,-20,8
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-12,-4,13,,-32,-22,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-13,-1,8,,-35,-21,4
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-14,-3,9,-19,-37,-22,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-15,-4,-2,-17,-42,-23,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-16,-7,-11,-18,-51,-31,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-17,-9,-3,-16,-37,-19,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-18,-7,-1,-24,-39,-22,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-19,-10,-4,,-46,-25,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-20,-5,-1,,-42,-23,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-21,-1,3,-22,-37,-24,9
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-22,-2,0,-11,-37,-21,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-23,-12,-15,-16,-52,-36,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-24,-4,1,-4,-39,-15,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-25,-2,3,,-43,-20,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-26,-5,0,,-38,-25,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-27,0,-4,,-43,-20,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-28,-1,4,-10,-49,-20,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-29,-4,-2,-11,-46,-19,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-30,-5,0,-19,-53,-24,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-01-31,-6,8,-16,-41,-14,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-01,-8,2,,-41,-18,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-02,-9,5,,-43,-20,5
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-03,-2,0,,-42,-20,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-04,-4,3,-16,-31,-20,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-05,-7,3,-14,-38,-18,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-06,-7,-5,-24,-50,-23,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-07,-7,0,-20,-42,-19,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-08,-5,3,,-37,-18,5
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-09,-5,3,,-32,-21,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-10,11,37,,-15,-20,3
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-11,6,26,,-21,-39,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-12,17,25,,-25,-33,5
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-13,11,13,-2,-45,-35,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-14,15,13,-5,-38,-24,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-15,1,11,-19,-36,-18,4
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-16,-3,7,,-43,-21,3
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-17,1,7,-17,-41,-21,2
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-18,-1,9,-17,-33,-21,4
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-19,-1,7,-19,-37,-18,5
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-20,-3,-2,-19,-46,-23,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-21,-6,4,-18,-41,-21,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-22,-1,9,-20,-38,-19,5
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-23,-7,0,,-35,-21,5
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-24,-1,6,-14,-42,-22,3
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-25,-2,11,-21,-40,-20,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-26,1,9,-22,-42,-16,6
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-27,-12,-1,-34,-50,-25,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-02-28,-17,-3,-32,-53,-20,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-01,-12,4,-19,-50,-18,8
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-02,-12,1,,-47,-21,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-03,-8,0,-25,-52,-17,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-04,-7,8,-29,-45,-20,9
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-05,-7,3,-27,-54,-15,7
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-06,-11,-2,-32,-57,-26,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-07,-11,1,-22,-47,-23,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-08,-1,12,,-41,-58,11
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-09,-13,0,,-45,-21,5
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-10,-17,-1,-25,-51,-22,10
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-11,-19,1,-38,-46,-20,10
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-12,-23,-6,-33,-64,-17,11
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-13,-32,-18,-46,-64,-26,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-14,-38,-16,-44,-62,-25,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-15,-28,-9,-38,-60,-19,12
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-16,-30,-11,,-60,-22,13
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-17,-28,-11,-34,-62,-21,11
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-18,-22,-8,-38,-58,-22,14
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-19,-24,-12,-32,-56,-19,15
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-20,-32,-19,-47,-68,-25,
+KH,Cambodia,Kampong Cham Province,,,KH-3,,ChIJx--8QIw0DDERXma_tFd3_70,2021-03-21,-36,-16,-43,-64,-24,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-01,-25,,42,,-55,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-02,-29,,18,,-39,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-03,-22,-4,19,,-10,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-04,-33,,11,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-05,-35,,15,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-06,-25,,11,,-16,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-07,-25,,17,,-43,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-08,-29,,27,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-09,-30,,15,,-15,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-10,-18,-1,9,,-6,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-11,-23,,20,,-16,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-12,-20,,31,,-13,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-13,-21,,22,,-11,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-14,-21,,18,,-15,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-15,-21,,9,,-18,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-16,-24,,13,,-28,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-17,-26,-16,12,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-18,-26,,8,,-22,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-19,-24,,16,,-22,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-20,-27,,14,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-21,-24,,16,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-22,-28,,18,,-18,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-23,-28,,19,,-24,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-24,-21,-11,16,,-11,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-25,-24,,13,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-26,-24,,14,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-27,-25,,13,,-17,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-28,-21,,13,,-18,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-29,-23,,23,,-18,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-30,-25,,13,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-01-31,-20,-6,6,,-9,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-01,-24,,3,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-02,-24,,10,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-03,-19,,3,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-04,-23,,7,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-05,-22,,14,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-06,-21,,16,,-22,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-07,-27,-17,12,,-16,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-08,-30,,3,,-25,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-09,-24,,13,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-10,-7,,24,,-24,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-11,-23,,19,,-43,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-12,-24,,13,,-44,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-13,-21,,4,,-42,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-14,-11,0,7,,-27,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-15,-22,,-8,,-27,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-16,-21,,-4,,-24,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-17,-18,,-4,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-18,-14,,1,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-19,-17,,-1,,-23,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-20,-16,,-2,,-24,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-21,-18,-2,-2,,-20,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-22,-17,,-7,,-23,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-23,-16,,-3,,-20,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-24,-21,,-1,,-23,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-25,-16,,-8,,-20,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-26,-18,,-3,,-23,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-27,-20,,-3,,-25,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-02-28,-23,-2,-8,,-22,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-01,-20,,-6,,-23,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-02,-23,,-11,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-03,-20,,-7,,-20,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-04,-17,,-9,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-05,-24,,-9,,-20,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-06,-21,,-7,,-23,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-07,-18,,-12,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-08,-23,,1,,-55,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-09,-25,,-11,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-10,-21,,-15,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-11,-24,,-18,,-20,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-12,-29,,-15,,-18,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-13,-33,,-17,,-15,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-14,-36,-16,-24,,-15,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-15,-33,,-22,,-25,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-16,-35,,-18,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-17,-31,,-21,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-18,-30,,-24,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-19,-35,,-16,,-19,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-20,-38,,-17,,-21,
+KH,Cambodia,Kampong Chhnang Province,,,KH-4,,ChIJqci8TDCTDjER9uCa5nO1G1g,2021-03-21,-41,-23,-21,,-13,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-01,,,61,,-67,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-02,12,24,18,,-46,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-03,1,16,24,,-12,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-04,-12,,18,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-05,-9,,27,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-06,-2,,18,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-07,,,35,,-48,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-08,2,,23,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-09,6,12,9,,-12,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-10,6,,16,,-10,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-11,-1,,23,,-13,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-12,-4,,31,,-15,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-13,3,,21,,-12,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-14,-1,,19,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-15,2,,12,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-16,-5,3,5,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-17,-7,-3,5,,-11,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-18,-8,,10,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-19,-5,,12,,-23,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-20,-4,,12,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-21,-3,,17,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-22,,,18,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-23,1,3,5,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-24,-4,1,8,,-8,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-25,0,,11,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-26,-4,,21,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-27,2,,16,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-28,0,,22,,-22,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-29,,,13,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-30,11,6,3,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-01-31,4,9,-1,,-14,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-01,-2,,-3,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-02,0,,8,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-03,1,,9,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-04,-4,,12,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-05,3,,18,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-06,5,1,9,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-07,-6,3,12,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-08,0,,7,,-22,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-09,0,,16,,-24,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-10,,,15,,-22,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-11,-10,,9,,-48,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-12,,,4,,-34,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-13,29,24,-8,,-34,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-14,32,25,-5,,-23,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-15,8,,-17,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-16,2,,-16,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-17,4,,-15,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-18,5,,-7,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-19,,,-15,,-15,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-20,5,11,-17,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-21,1,12,-12,,-15,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-22,1,,-16,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-23,,,-10,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-24,2,,-12,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-25,,,-7,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-26,,,-7,,-15,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-27,2,6,-17,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-02-28,-2,10,-13,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-01,-1,,-15,,-15,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-02,-4,,-11,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-03,1,,-14,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-04,0,,-13,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-05,,,-7,,-16,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-06,-4,11,-15,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-07,1,21,-4,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-08,2,,-3,,-66,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-09,-10,,-9,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-10,-7,,-12,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-11,-14,,-6,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-12,-12,,-14,,-17,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-13,-23,-8,-20,,-15,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-14,-30,-7,-22,,-21,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-15,-28,,-20,,-19,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-16,-28,,-18,,-25,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-17,-28,,-20,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-18,-24,,-15,,-23,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-19,-22,-11,-18,,-20,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-20,-29,-15,-24,,-18,
+KH,Cambodia,Kampong Speu Province,,,KH-5,,ChIJqUS-biUoCTERhdeSIBIVg0Y,2021-03-21,-31,-13,-16,,-20,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-01,-8,,-10,,-51,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-02,-7,,-14,,-38,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-03,4,,-10,,-17,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-04,-16,,-13,,-17,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-05,-14,,-10,,-20,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-06,-12,,-24,,-18,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-07,0,,-19,,-42,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-08,-5,,-23,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-09,-8,,-21,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-10,-5,,-24,,-10,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-11,-12,,-15,,-16,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-12,-9,,-17,,-17,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-13,-6,,-19,,-11,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-14,-9,,-20,,-14,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-15,-4,,-23,,-20,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-16,-12,,-24,,-26,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-17,-3,,-24,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-18,-15,,-25,,-14,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-19,-11,,-22,,-17,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-20,-8,,-22,,-17,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-21,-13,,-22,,-17,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-22,-4,,-24,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-23,,,-23,,-29,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-24,0,,-20,,-24,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-25,-10,,-25,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-26,-4,,-19,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-27,-3,,-23,,-14,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-28,-7,,-18,,-21,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-29,-5,,-26,,-18,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-30,-10,,-26,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-01-31,-10,,-24,,-16,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-01,-14,,-31,,-16,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-02,-12,,-26,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-03,-11,,-30,,-15,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-04,-12,,-22,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-05,-6,,-19,,-20,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-06,-6,,-22,,-27,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-07,-6,,-21,,-22,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-08,-15,,-23,,-18,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-09,-9,,-19,,-22,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-10,9,,-12,,-20,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-11,-6,,-11,,-39,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-12,9,,-15,,-31,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-13,5,,-24,,-36,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-14,16,,-19,,-29,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-15,4,,-24,,-18,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-16,-1,,-27,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-17,-4,,-28,,-16,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-18,-5,,-27,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-19,1,,-29,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-20,-4,,-28,,-24,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-21,-3,,-24,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-22,-10,,-27,,-21,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-23,-5,,-24,,-25,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-24,-5,,-20,,-21,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-25,-6,,-22,,-21,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-26,-2,,-29,,-21,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-27,-11,-38,-27,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-02-28,-8,-36,-27,,-30,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-01,-14,,-30,,-16,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-02,-13,,-24,,-20,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-03,-10,,-23,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-04,-10,,-21,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-05,-10,,-26,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-06,-9,,-21,,-27,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-07,-6,-33,-18,,-30,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-08,-9,,-9,,-54,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-09,-14,,-20,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-10,-13,,-28,,-22,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-11,-23,,-28,,-23,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-12,-26,,-34,,-24,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-13,-33,-45,-31,,-31,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-14,-33,-47,-34,,-28,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-15,-31,,-32,,-18,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-16,-31,,-34,,-25,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-17,-29,,-33,,-19,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-18,-31,,-30,,-24,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-19,-30,,-40,,-25,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-20,-33,-44,-34,,-27,
+KH,Cambodia,Kampong Thom Province,,,KH-6,,ChIJq8PS4x_iDTERfDTZzlT_vGQ,2021-03-21,-37,-50,-36,,-31,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-01,67,,160,,-51,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-02,23,,81,,-30,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-03,4,20,33,,-12,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-04,-12,6,4,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-05,-15,4,-6,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-06,-9,3,-1,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-07,-9,3,13,,-37,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-08,-2,11,10,,-20,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-09,-7,10,3,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-10,-5,6,-3,,-9,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-11,-12,5,1,,-13,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-12,-10,0,-2,,-16,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-13,-9,0,-4,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-14,-11,-3,-2,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-15,-9,-7,0,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-16,-17,-8,-11,,-24,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-17,-15,-7,-13,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-18,-14,-7,-14,,-21,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-19,-15,-11,-20,,-22,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-20,-12,-12,-16,,-21,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-21,-11,-8,-14,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-22,-8,-5,-14,,-20,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-23,-8,0,-9,,-23,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-24,3,0,-3,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-25,-17,-8,-12,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-26,-12,-6,-9,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-27,-12,-7,-11,,-22,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-28,-8,-3,-6,,-16,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-29,-4,0,-8,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-30,-5,0,-2,,-21,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-01-31,-3,2,-5,,-14,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-01,-14,-6,-14,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-02,-13,-2,-16,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-03,-12,-8,-10,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-04,-10,-8,-4,,-16,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-05,-11,0,-5,,-15,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-06,-15,-7,-3,,-20,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-07,-17,-10,-1,,-20,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-08,-16,-4,-2,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-09,-10,-1,-4,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-10,-11,10,-8,,-21,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-11,-17,-3,-6,,-38,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-12,20,17,35,,-36,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-13,32,34,62,,-37,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-14,25,28,40,,-21,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-15,-4,7,-5,,-17,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-16,-6,3,-15,,-17,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-17,-5,5,-14,,-16,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-18,-7,2,-12,,-14,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-19,-4,10,-9,,-14,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-20,-5,4,-12,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-21,-5,5,-15,,-21,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-22,-11,2,-15,,-16,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-23,-6,3,-15,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-24,-8,2,-19,,-17,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-25,-9,3,-13,,-14,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-26,-1,6,-14,,-13,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-27,-14,-3,-21,,-22,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-02-28,-14,-2,-24,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-01,-16,-1,-23,,-16,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-02,-14,-3,-25,,-17,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-03,-9,1,-21,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-04,-11,-2,-11,,-15,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-05,-6,6,-19,,-17,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-06,-19,-3,-27,,-22,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-07,-10,3,-18,,-15,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-08,-11,1,-11,,-51,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-09,-17,-5,-28,,-19,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-10,-17,-8,-26,,-20,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-11,-15,-7,-23,,-14,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-12,-20,-7,-28,,-17,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-13,-29,-17,-42,,-20,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-14,-30,-23,-37,,-22,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-15,-30,-16,-32,,-18,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-16,-26,-18,-36,,-23,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-17,-27,-22,-32,,-23,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-18,-27,-22,-28,,-20,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-19,-26,-18,-30,,-17,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-20,-37,-29,-46,,-24,
+KH,Cambodia,Kampot Province,,,KH-7,,ChIJM4Jvga0FCTERATOdv6qX8_w,2021-03-21,-38,-26,-41,,-25,
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-01,30,20,64,45,-57,14
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-02,6,8,27,22,-33,13
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-03,16,7,19,35,-7,12
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-04,13,6,11,17,-7,12
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-05,14,12,1,17,-8,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-06,21,20,15,18,-7,11
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-07,33,22,28,41,-38,15
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-08,23,13,17,18,-9,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-09,19,20,9,30,-9,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-10,25,14,13,32,-2,8
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-11,29,13,10,30,-5,8
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-12,28,14,-2,23,-4,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-13,26,17,9,22,-5,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-14,23,6,6,28,-7,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-15,21,0,7,20,-9,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-16,16,3,1,22,-13,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-17,20,0,0,31,-10,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-18,20,0,-1,23,-9,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-19,20,3,-12,22,-10,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-20,19,4,1,14,-9,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-21,24,0,2,27,-8,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-22,23,1,12,27,-8,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-23,22,8,6,32,-11,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-24,21,1,8,48,-10,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-25,29,8,3,27,-6,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-26,25,7,-7,26,-8,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-27,23,3,7,29,-6,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-28,26,5,16,35,-7,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-29,26,2,8,25,-5,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-30,22,8,5,33,-6,5
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-01-31,24,11,7,42,-9,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-01,23,7,6,15,-5,5
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-02,27,9,-6,30,-5,3
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-03,28,9,7,27,-4,5
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-04,24,9,9,31,-6,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-05,25,9,15,25,-5,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-06,22,7,14,33,-7,5
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-07,17,3,27,30,-11,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-08,24,7,32,28,-5,5
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-09,29,14,29,32,-8,4
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-10,45,48,59,43,-5,2
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-11,31,25,77,72,-33,6
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-12,36,13,88,56,-30,5
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-13,31,15,63,61,-30,4
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-14,37,14,49,87,-21,2
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-15,32,13,27,30,-6,3
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-16,29,15,4,33,-5,1
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-17,32,16,7,34,-3,3
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-18,27,11,5,43,-5,2
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-19,36,18,4,35,-2,3
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-20,36,17,-2,36,-4,3
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-21,31,12,-3,28,-11,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-22,29,14,-9,27,-3,5
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-23,30,15,-20,31,-13,7
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-24,26,15,-8,28,-15,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-25,23,13,-10,25,-14,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-26,21,11,-6,13,-13,10
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-27,15,9,-14,14,-15,10
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-02-28,12,6,-14,12,-14,11
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-01,21,7,-16,11,-14,11
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-02,22,5,-24,22,-16,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-03,26,9,-15,18,-17,12
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-04,19,8,-16,17,-14,11
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-05,22,7,-12,12,-17,11
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-06,17,11,-17,23,-16,10
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-07,17,5,-14,27,-16,12
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-08,33,13,-4,44,-51,16
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-09,19,4,-26,12,-18,9
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-10,14,7,-19,4,-20,14
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-11,5,1,-19,1,-21,15
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-12,1,-5,-17,-4,-23,17
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-13,-11,-12,-22,-9,-24,19
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-14,-16,-18,-27,-14,-26,20
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-15,-4,-8,-24,-4,-25,19
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-16,-4,-8,-30,1,-27,17
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-17,-4,-9,-22,-1,-26,18
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-18,-4,-12,-22,-6,-26,18
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-19,-5,-15,-18,-5,-24,19
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-20,-11,-19,-22,-7,-24,19
+KH,Cambodia,Kandal Province,,,KH-8,,ChIJQ3kPEOtYCTER5ntZyCAd-ws,2021-03-21,-14,-20,-25,-7,-23,21
+KH,Cambodia,Kep Province,,,KH-23,,ChIJnziLGoU2CDERrmjSK8JCah0,2021-03-13,,,-71,,,
+KH,Cambodia,Kep Province,,,KH-23,,ChIJnziLGoU2CDERrmjSK8JCah0,2021-03-14,,,-68,,,
+KH,Cambodia,Kep Province,,,KH-23,,ChIJnziLGoU2CDERrmjSK8JCah0,2021-03-20,,,-73,,,
+KH,Cambodia,Kep Province,,,KH-23,,ChIJnziLGoU2CDERrmjSK8JCah0,2021-03-21,,,-71,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-01,,,,,-50,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-02,,,,,-21,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-04,,,,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-05,,,,,-15,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-06,,,,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-07,,,,,-45,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-08,,,,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-09,,,8,,-15,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-10,,,-4,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-11,,,,,-15,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-12,,,,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-13,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-14,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-15,,,,,-13,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-16,,,-11,,-18,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-17,,,-13,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-18,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-19,,,,,-14,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-20,,,,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-21,,,,,-13,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-22,,,-18,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-23,,,-22,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-24,,,-22,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-25,,,,,-17,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-26,,,,,-14,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-27,,,,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-28,,,,,-17,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-29,,,-18,,-7,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-30,,,-9,,-6,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-01-31,,,-11,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-01,,,,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-02,,,,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-03,,,,,-16,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-04,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-05,,,-11,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-06,,,-9,,-6,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-07,,,-16,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-08,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-09,,,,,-9,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-10,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-11,,,,,-34,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-12,,,,,-35,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-13,,,,,-33,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-15,,,,,-13,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-16,,,,,-13,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-17,,,,,-13,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-18,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-19,,,-24,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-20,,,-22,,-9,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-21,,,-26,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-22,,,,,-7,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-23,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-24,,,,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-25,,,-31,,-9,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-26,,,-21,,-8,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-27,,,-23,,-9,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-02-28,,,-27,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-01,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-02,,,,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-03,,,,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-04,,,,,-15,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-05,,,-29,,-10,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-06,,,-30,,-11,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-07,,,-26,,,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-08,,,,,-47,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-09,,,,,-15,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-10,,,-33,,-16,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-11,,,-36,,-12,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-12,,,-37,,-14,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-13,,,-44,,-16,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-14,,,-44,,-30,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-15,,,-36,,-22,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-16,,,-42,,-30,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-17,,,-40,,-23,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-18,,,-34,,-25,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-19,,,-42,,-18,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-20,,,-43,,-20,
+KH,Cambodia,Koh Kong Province,,,KH-9,,ChIJ84KSozPwBTERcyhKskRT6Tc,2021-03-21,,,-43,,,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-01,,,,,-58,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-02,,,,,-39,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-03,,,,,-25,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-04,,,,,-28,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-05,,,,,-34,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-06,,,,,-28,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-07,,,,,-51,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-08,,,,,-37,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-09,,,,,-29,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-10,,,,,-23,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-11,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-12,,,,,-22,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-13,,,,,-19,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-14,,,,,-22,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-15,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-16,,,,,-28,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-17,,,,,-31,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-18,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-19,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-20,,,,,-29,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-21,,,,,-26,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-22,,,,,-25,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-23,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-25,,,,,-23,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-26,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-27,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-28,,,,,-26,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-29,,,,,-22,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-30,,,,,-25,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-01-31,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-01,,,,,-20,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-02,,,,,-25,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-03,,,,,-25,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-04,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-05,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-06,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-07,,,,,-26,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-08,,,,,-30,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-09,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-10,,,,,-30,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-11,,,,,-37,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-12,,,,,-35,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-13,,,,,-37,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-14,,,,,-38,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-15,,,,,-28,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-16,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-17,,,,,-26,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-18,,,,,-26,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-19,,,,,-22,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-20,,,,,-30,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-21,,,,,-32,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-22,,,,,-20,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-23,,,,,-28,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-24,,,,,-19,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-25,,,,,-22,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-26,,,,,-19,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-27,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-02-28,,,,,-31,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-01,,,,,-20,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-02,,,,,-23,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-03,,,,,-23,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-04,,,,,-23,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-05,,,,,-19,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-06,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-07,,,,,-34,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-08,,,,,-61,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-09,,,,,-21,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-10,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-11,,,,,-26,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-12,,,,,-23,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-13,,,,,-23,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-14,,,,,-34,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-15,,,,,-24,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-16,,,,,-33,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-17,,,,,-32,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-18,,,,,-27,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-19,,,,,-30,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-20,,,,,-35,
+KH,Cambodia,Kratié Province,,,KH-10,,ChIJe8oZP1oaDTERFpH97VxHkr8,2021-03-21,,,,,-31,
+KH,Cambodia,Mondulkiri Province,,,KH-11,,ChIJzYvGWI9kbTERKv-zCA0SuYk,2021-03-13,,,-68,,,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-01,,,,,-54,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-02,,,,,-42,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-04,,,,,-28,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-05,,,,,-31,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-06,,,,,-36,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-07,,,,,-49,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-08,,,,,-34,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-09,,,,,-39,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-11,,,,,-30,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-12,,,,,-24,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-13,,,,,-29,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-14,,,,,-32,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-15,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-16,,,,,-36,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-18,,,,,-31,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-19,,,,,-29,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-20,,,,,-29,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-21,,,,,-37,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-22,,,,,-32,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-23,,,,,-44,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-25,,,,,-30,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-26,,,,,-29,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-27,,,,,-31,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-28,,,,,-38,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-29,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-01-30,,,,,-37,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-01,,,,,-34,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-02,,,,,-32,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-03,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-04,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-05,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-06,,,,,-41,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-08,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-09,,,,,-34,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-10,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-11,,,,,-41,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-12,,,,,-42,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-13,,,,,-46,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-15,,,,,-39,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-16,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-17,,,,,-38,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-18,,,,,-34,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-19,,,,,-36,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-20,,,,,-43,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-22,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-23,,,,,-36,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-24,,,,,-38,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-25,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-26,,,,,-32,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-02-27,,,,,-41,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-01,,,,,-39,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-02,,,,,-30,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-03,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-04,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-05,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-06,,,,,-41,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-08,,,,,-59,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-09,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-10,,,,,-34,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-11,,,,,-34,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-12,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-13,,,,,-38,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-15,,,,,-41,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-16,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-17,,,,,-35,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-18,,,,,-30,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-19,,,,,-33,
+KH,Cambodia,Oddar Meanchey Province,,,KH-22,,ChIJ4YyMnbeZEDERD_MgQfzuHDk,2021-03-20,,,,,-45,
+KH,Cambodia,Pailin Province,,,KH-24,,ChIJV8BRRxfQBDER3jzy6ONuL0g,2021-01-01,,,,,-42,
+KH,Cambodia,Pailin Province,,,KH-24,,ChIJV8BRRxfQBDER3jzy6ONuL0g,2021-01-07,,,,,-38,
+KH,Cambodia,Pailin Province,,,KH-24,,ChIJV8BRRxfQBDER3jzy6ONuL0g,2021-03-08,,,,,-39,
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-01,-29,-18,9,-50,-66,10
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-02,-32,-22,-31,-57,-36,7
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-03,-24,-13,-23,-48,-10,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-04,-14,-6,-10,-47,-12,7
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-05,-14,-2,-8,-47,-11,6
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-06,-10,-3,-6,-45,-11,6
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-07,-11,-5,-1,-46,-47,13
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-08,-13,-6,-12,-47,-13,7
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-09,-13,-8,-11,-47,-11,5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-10,-12,-7,-5,-45,-5,5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-11,-9,-7,-2,-46,-10,6
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-12,-10,-2,-8,-43,-10,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-13,-9,-5,-10,-47,-8,5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-14,-10,-10,-13,-50,-12,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-15,-10,-8,-15,-47,-13,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-16,-13,-12,-12,-50,-14,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-17,-12,-13,-11,-49,-11,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-18,-12,-12,-8,-49,-14,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-19,-13,-11,-14,-47,-13,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-20,-11,-11,-10,-49,-12,5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-21,-10,-11,-8,-48,-12,5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-22,-11,-11,-9,-44,-12,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-23,-14,-14,-11,-50,-13,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-24,-12,-14,-8,-49,-10,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-25,-11,-13,-2,-50,-12,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-26,-12,-10,-5,-47,-12,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-27,-9,-10,-3,-48,-11,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-28,-8,-11,0,-49,-11,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-29,-5,-5,-2,-46,-9,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-30,-5,-4,-4,-48,-9,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-01-31,-3,-3,-7,-47,-7,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-01,-4,-4,-2,-46,-10,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-02,-4,0,-2,-46,-9,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-03,-2,-2,-6,-45,-8,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-04,-3,-1,-10,-46,-9,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-05,-2,0,-10,-45,-8,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-06,-2,-3,-12,-48,-9,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-07,-2,-4,-5,-46,-6,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-08,-3,-3,-9,-45,-10,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-09,-1,7,-5,-41,-10,1
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-10,4,17,-2,-35,-10,0
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-11,-21,-17,-23,-54,-37,5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-12,-19,-24,-20,-58,-42,6
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-13,-21,-27,-25,-61,-42,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-14,-5,-17,0,-50,-26,-5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-15,-3,-6,-6,-49,-11,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-16,-3,1,-7,-45,-9,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-17,-1,-1,-5,-47,-6,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-18,-1,-3,-8,-49,-7,2
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-19,0,2,-5,-45,-5,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-20,-10,-4,-21,-52,-7,3
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-21,-12,-8,-24,-54,-8,4
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-22,-13,-9,-20,-52,-9,5
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-23,-18,-10,-24,-52,-16,8
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-24,-20,-15,-27,-55,-16,10
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-25,-22,-15,-31,-57,-17,11
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-26,-23,-12,-30,-56,-17,12
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-27,-27,-16,-34,-60,-15,10
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-02-28,-29,-18,-38,-60,-10,11
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-01,-22,-17,-23,-56,-18,11
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-02,-24,-16,-25,-56,-19,10
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-03,-20,-16,-23,-55,-18,11
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-04,-22,-17,-29,-55,-19,11
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-05,-21,-13,-27,-53,-18,12
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-06,-25,-15,-29,-57,-17,9
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-07,-28,-21,-35,-58,-14,9
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-08,-23,-20,-22,-57,-55,15
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-09,-30,-20,-33,-58,-23,11
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-10,-30,-22,-36,-60,-24,15
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-11,-35,-26,-41,-61,-26,17
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-12,-38,-25,-42,-62,-26,19
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-13,-41,-28,-46,-66,-23,18
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-14,-45,-32,-50,-67,-19,20
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-15,-40,-32,-41,-65,-28,20
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-16,-42,-31,-39,-63,-29,18
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-17,-41,-32,-41,-64,-28,20
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-18,-40,-33,-43,-66,-28,20
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-19,-41,-31,-44,-64,-27,21
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-20,-43,-32,-47,-67,-24,19
+KH,Cambodia,Phnom Penh,,,KH-12,,ChIJ42tqxz1RCTERx8C0yzzBvk8,2021-03-21,-46,-33,-50,-68,-20,20
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-01,,,,,-47,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-05,,,,,-26,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-06,,,,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-07,,,,,-45,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-08,,,-70,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-09,,,-66,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-10,,,-69,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-11,,,-71,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-12,,,-72,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-13,,,-79,,-18,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-14,,,-71,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-15,,,-73,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-16,,,-69,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-17,,,-65,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-18,,,-77,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-19,,,-81,,-26,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-20,,,-80,,-24,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-21,,,-77,,-24,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-22,,,-75,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-23,,,-78,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-24,,,-65,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-25,,,-79,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-26,,,-74,,-24,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-27,,,-79,,-26,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-28,,,-72,,-23,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-29,,,-72,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-30,,,-62,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-01-31,,,-60,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-01,,,-80,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-02,,,-74,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-03,,,-78,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-04,,,-69,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-05,,,-81,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-06,,,-73,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-07,,,-72,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-08,,,,,-26,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-09,,,-81,,-20,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-10,,,-79,,-23,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-11,,,-77,,-33,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-12,,,-66,,-30,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-13,,,-57,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-14,,,-58,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-15,,,-78,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-16,,,,,-22,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-17,,,-70,,-24,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-18,,,-74,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-19,,,-79,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-20,,,-74,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-21,,,-67,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-22,,,-77,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-23,,,-72,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-24,,,,,-36,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-25,,,-77,,-28,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-26,,,-66,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-27,,,-48,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-02-28,,,-69,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-01,,,-67,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-02,,,-76,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-03,,,-73,,-26,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-04,,,-67,,-21,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-05,,,-74,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-06,,,-67,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-07,,,-78,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-08,,,-73,,-51,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-09,,,-74,,-24,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-10,,,-76,,-25,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-11,,,-73,,-26,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-12,,,-75,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-13,,,-79,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-14,,,-72,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-16,,,-74,,-21,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-17,,,-79,,-32,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-18,,,,,-22,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-19,,,-76,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-20,,,-78,,,
+KH,Cambodia,Preah Vihear Province,,,KH-13,,ChIJQefYuxiAETERB2Sm29h3L74,2021-03-21,,,-72,,,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-01,,,,,-53,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-02,,,25,,-43,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-03,,,30,,-20,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-04,,,,,-28,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-05,,,,,-30,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-06,,,,,-30,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-07,,,,,-48,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-08,,,,,-29,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-09,,,17,,-32,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-10,,,24,,-19,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-11,,,,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-12,,,,,-28,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-13,,,,,-24,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-14,,,,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-15,,,,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-16,,,2,,-33,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-17,,,6,,-17,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-18,,,,,-22,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-19,,,,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-20,,,,,-22,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-21,,,,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-22,,,,,-21,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-23,,,16,,-26,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-24,,,22,,-17,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-25,,,,,-21,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-26,,,,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-27,,,,,-21,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-28,,,,,-20,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-29,,,,,-17,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-30,,,12,,-24,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-01-31,,,19,,-22,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-01,,,,,-19,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-02,,,,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-03,,,,,-20,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-04,,,,,-26,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-05,,,,,-22,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-06,,,28,,-27,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-07,,,32,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-08,,,,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-09,,,,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-10,,,,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-11,,,,,-40,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-12,,,,,-35,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-13,,,,,-39,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-14,,,41,,-31,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-15,,,,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-16,,,,,-27,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-17,,,,,-20,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-18,,,,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-19,,,,,-21,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-20,,,27,,-30,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-21,,,20,,-22,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-22,,,,,-16,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-23,,,,,-27,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-24,,,,,-24,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-25,,,,,-28,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-26,,,6,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-27,,,1,,-30,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-02-28,-23,,-1,,-21,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-01,,,,,-25,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-02,,,,,-27,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-03,,,,,-26,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-04,,,,,-26,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-05,,,5,,-23,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-06,,,9,,-28,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-07,,,-2,,-30,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-08,,,,,-58,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-09,,,,,-29,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-10,,,,,-29,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-11,,,-6,,-39,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-12,,,-13,,-44,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-13,-42,,-22,,-52,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-14,-48,,-33,,-38,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-15,,,,,-44,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-16,,,,,-48,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-17,,,-20,,-47,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-18,,,-21,,-44,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-19,,,-25,,-44,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-20,-47,,-31,,-50,
+KH,Cambodia,Prey Veng Province,,,KH-14,,ChIJZbATsGyTCzERm0LRzRSkBTo,2021-03-21,-45,,-31,,-39,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-01,,,-10,,-48,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-02,,,-23,,-26,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-03,,,-25,,-9,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-04,,,-33,,-22,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-05,,,-31,,-22,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-06,,,-34,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-07,,,-31,,-37,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-08,,,-27,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-09,,,-29,,-16,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-10,,,-32,,-8,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-11,,,-31,,-18,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-12,,,-28,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-13,,,-27,,-10,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-14,,,-23,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-15,,,-28,,-20,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-16,,,-33,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-17,,,-31,,-11,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-18,,,-33,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-19,,,-34,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-20,,,-35,,-11,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-21,,,-27,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-22,,,-27,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-23,,,-36,,-12,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-24,,,-33,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-25,,,-36,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-26,,,-29,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-27,,,-36,,-10,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-28,,,-28,,-20,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-29,,,-35,,-12,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-30,,,-40,,-19,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-01-31,,,-34,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-01,,,-44,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-02,,,-42,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-03,,,-42,,-10,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-04,,,-37,,-19,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-05,,,-36,,-18,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-06,,,-40,,-13,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-07,,,-40,,-20,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-08,,,-46,,-18,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-09,,,-47,,-20,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-10,,,-39,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-11,,,-22,,-41,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-12,,,-28,,-30,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-13,,,-33,,-29,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-14,,,-39,,-18,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-15,,,-46,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-16,,,-48,,-21,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-17,,,-48,,-10,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-18,,,-43,,-19,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-19,,,-41,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-20,,,-42,,-16,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-21,,,-41,,-20,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-22,,,-47,,-11,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-23,,,-46,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-24,,,-43,,-10,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-25,,,-46,,-13,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-26,,,-42,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-27,,,-46,,-12,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-02-28,,,-41,,-20,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-01,,,-48,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-02,,,-45,,-19,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-03,,,-43,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-04,,,-40,,-16,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-05,,,-35,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-06,,,-41,,-13,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-07,,,-40,,-19,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-08,,,-34,,-54,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-09,,,-42,,-18,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-10,,,-39,,-13,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-11,,,-42,,-17,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-12,,,-33,,-14,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-13,,,-45,,-6,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-14,,,-43,,-19,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-15,,,-47,,-14,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-16,,,-47,,-18,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-17,,,-46,,-14,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-18,,,-47,,-15,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-19,,,-41,,-9,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-20,,,-49,,-5,
+KH,Cambodia,Pursat Province,,,KH-15,,ChIJ88W6ZMt-DzERzUNazWM6YTM,2021-03-21,,,-51,,-15,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-01,,,,,-49,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-02,,,,,-28,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-03,,,-20,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-04,,,,,-10,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-05,,,,,-16,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-06,,,,,-16,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-07,,,,,-41,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-08,,,-16,,-18,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-09,,,-10,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-10,,,-12,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-11,,,,,-5,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-12,,,,,-11,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-13,,,,,-7,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-14,,,,,-10,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-15,,,-36,,-11,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-16,,,-31,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-17,,,-28,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-18,,,-35,,-12,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-19,,,-36,,-15,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-20,,,,,-13,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-21,,,,,-16,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-22,,,-21,,-21,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-23,,,-28,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-24,,,-39,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-25,,,-32,,-11,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-26,,,-35,,-21,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-27,,,-35,,-14,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-28,,,-30,,-16,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-29,,,-43,,-14,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-30,,,-30,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-01-31,,,-39,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-01,,,-32,,-10,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-02,,,-31,,-16,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-03,,,-36,,-14,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-04,,,-30,,-15,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-05,,,-33,,-10,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-06,,,-33,,-20,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-07,,,-28,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-08,,,-34,,-11,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-09,,,-39,,-15,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-10,,,-41,,-14,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-11,,,-32,,-26,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-12,,,-30,,-25,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-13,,,-14,,-29,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-14,,,-16,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-15,,,-30,,-18,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-16,,,-44,,-19,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-17,,,-44,,-13,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-18,,,-34,,-11,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-19,,,-41,,-9,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-20,,,-36,,-22,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-21,,,-36,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-22,,,-37,,-12,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-23,,,-35,,-14,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-24,,,-32,,-14,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-25,,,-30,,-12,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-26,,,-37,,-13,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-27,,,-36,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-02-28,,,-31,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-01,,,-35,,-9,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-02,,,-35,,-14,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-03,,,-43,,-15,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-04,,,-42,,-9,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-05,,,-38,,-12,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-06,,,-35,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-07,,,-43,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-08,,,-37,,-47,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-09,,,-52,,-20,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-10,,,-47,,-15,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-11,,,-36,,-13,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-12,,,-42,,-16,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-13,,,-41,,-25,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-14,,,-44,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-15,,,-41,,-13,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-16,,,-46,,-17,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-17,,,-46,,-12,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-18,,,-41,,-13,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-19,,,-50,,-11,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-20,,,-48,,,
+KH,Cambodia,Ratanakiri Province,,,KH-16,,ChIJFRFLLx3lbDER3ZcuTo3XbpQ,2021-03-21,,,-45,,,
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-01,-26,-18,-11,-50,-54,14
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-02,-36,-21,-36,-50,-34,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-03,-43,-26,-47,-52,-25,12
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-04,-44,-27,-58,-53,-26,14
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-05,-44,-27,-55,-50,-28,12
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-06,-41,-26,-50,-56,-27,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-07,-40,-27,-47,-57,-46,17
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-08,-41,-26,-51,-57,-27,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-09,-42,-26,-55,-53,-28,12
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-10,-41,-28,-53,-60,-22,11
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-11,-40,-26,-59,-58,-25,12
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-12,-41,-24,-56,-51,-24,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-13,-38,-26,-49,-56,-24,10
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-14,-39,-30,-54,-59,-26,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-15,-42,-31,-58,-63,-29,11
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-16,-44,-31,-57,-59,-33,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-17,-44,-34,-52,-62,-30,10
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-18,-43,-31,-60,-61,-28,10
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-19,-44,-32,-57,-60,-28,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-20,-41,-32,-56,-64,-26,10
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-21,-39,-30,-51,-64,-27,10
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-22,-40,-31,-53,-63,-28,11
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-23,-39,-30,-49,-57,-29,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-24,-40,-31,-47,-63,-29,10
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-25,-39,-28,-57,-61,-25,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-26,-40,-28,-55,-61,-28,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-27,-38,-28,-54,-62,-25,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-28,-37,-27,-42,-62,-27,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-29,-39,-26,-57,-63,-26,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-30,-41,-27,-56,-59,-28,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-01-31,-40,-27,-55,-64,-29,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-01,-43,-26,-60,-62,-24,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-02,-42,-26,-56,-63,-25,6
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-03,-39,-27,-58,-62,-24,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-04,-39,-26,-54,-62,-25,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-05,-40,-24,-52,-63,-25,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-06,-40,-28,-58,-59,-27,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-07,-42,-27,-54,-66,-28,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-08,-41,-26,-61,-62,-25,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-09,-44,-27,-63,-60,-27,9
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-10,-38,-15,-55,-55,-26,5
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-11,-45,-32,-55,-66,-37,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-12,-34,-25,-38,-63,-35,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-13,-27,-21,-32,-63,-35,5
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-14,-25,-17,-31,-57,-32,4
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-15,-35,-20,-52,-59,-23,5
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-16,-36,-20,-54,-59,-25,5
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-17,-36,-23,-55,-61,-23,6
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-18,-36,-24,-54,-61,-23,6
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-19,-38,-22,-56,-61,-22,6
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-20,-39,-22,-58,-59,-25,5
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-21,-38,-24,-54,-64,-31,6
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-22,-39,-24,-58,-61,-23,6
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-23,-40,-24,-58,-58,-25,6
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-24,-37,-26,-54,-61,-23,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-25,-36,-25,-52,-64,-22,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-26,-38,-20,-52,-63,-22,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-27,-40,-24,-58,-65,-24,5
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-02-28,-40,-25,-52,-66,-28,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-01,-39,-22,-60,-62,-21,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-02,-38,-22,-59,-62,-23,5
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-03,-36,-23,-55,-63,-22,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-04,-37,-22,-55,-62,-21,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-05,-40,-22,-57,-64,-21,8
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-06,-39,-22,-53,-62,-24,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-07,-37,-24,-49,-65,-30,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-08,-35,-24,-51,-62,-50,10
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-09,-44,-26,-60,-62,-24,7
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-10,-45,-28,-61,-66,-24,11
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-11,-46,-30,-61,-67,-25,12
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-12,-49,-30,-65,-67,-25,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-13,-52,-31,-64,-69,-27,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-14,-53,-34,-64,-73,-33,15
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-15,-49,-31,-65,-70,-23,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-16,-50,-31,-63,-67,-26,12
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-17,-47,-31,-63,-68,-23,12
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-18,-46,-32,-60,-69,-23,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-19,-48,-30,-62,-70,-22,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-20,-52,-33,-66,-69,-25,13
+KH,Cambodia,Siem Reap Province,,,KH-17,,ChIJ9aDUBwsXEDERuaxzznDT210,2021-03-21,-63,-42,-69,-78,-40,21
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-01,21,10,68,16,-39,7
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-02,10,15,23,6,-25,8
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-03,-7,-5,-5,-22,-12,8
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-04,-12,-11,-21,-31,-18,9
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-05,-12,-12,-18,-30,-19,7
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-06,-4,-11,-22,-35,-17,7
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-07,5,-13,-5,-25,-30,10
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-08,-5,-12,-20,-26,-15,7
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-09,-4,-5,-22,-28,-16,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-10,-2,-7,-18,-36,-12,6
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-11,2,-7,-23,-33,-17,6
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-12,-1,-10,-23,-33,-17,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-13,1,-14,-23,-38,-15,6
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-14,9,-18,-22,-38,-18,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-15,-5,-23,-28,-33,-16,4
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-16,-6,-18,-28,-36,-21,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-17,-8,-20,-24,-41,-17,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-18,-5,-16,-30,-44,-20,6
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-19,-4,-20,-29,-38,-21,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-20,-1,-18,-30,-43,-17,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-21,4,-20,-24,-43,-17,6
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-22,-8,-25,-34,-37,-15,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-23,-6,-19,-28,-42,-18,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-24,-5,-21,-28,-42,-15,6
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-25,-3,-17,-31,-46,-18,6
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-26,-2,-17,-28,-43,-20,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-27,1,-20,-29,-43,-17,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-28,10,-20,-25,-42,-16,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-29,-5,-19,-30,-40,-13,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-30,-1,-12,-22,-36,-14,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-01-31,-2,-12,-20,-40,-11,4
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-01,-2,-11,-30,-41,-15,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-02,0,-12,-28,-41,-18,2
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-03,5,-13,-27,-40,-14,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-04,14,-15,-22,-42,-15,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-05,-1,-18,-30,-44,-12,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-06,1,-11,-25,-36,-15,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-07,2,-15,-21,-42,-9,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-08,2,-11,-27,-41,-18,2
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-09,4,-9,-25,-41,-17,1
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-10,4,1,-27,-42,-17,1
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-11,5,-17,-17,-36,-30,5
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-12,11,-21,8,-25,-32,4
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-13,29,7,38,-8,-30,1
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-14,28,1,18,-12,-20,2
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-15,5,-10,-25,-31,-18,1
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-16,1,-12,-27,-33,-18,1
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-17,4,-11,-28,-38,-16,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-18,17,-13,-19,-32,-15,2
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-19,4,-14,-25,-34,-11,2
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-20,2,-7,-22,-37,-14,2
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-21,-1,-12,-23,-44,-11,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-22,0,-9,-30,-42,-16,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-23,-4,-14,-31,-40,-17,3
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-24,-8,-16,-36,-47,-19,7
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-25,-5,-22,-37,-50,-25,10
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-26,-21,-27,-45,-54,-22,10
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-27,-27,-24,-46,-56,-28,12
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-02-28,-29,-26,-45,-61,-28,13
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-01,-25,-29,-50,-61,-34,14
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-02,-28,-29,-48,-56,-35,13
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-03,-26,-30,-50,-59,-34,14
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-04,-25,-33,-49,-58,-33,16
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-05,-39,-39,-57,-62,-31,16
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-06,-38,-35,-57,-63,-35,16
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-07,-39,-39,-57,-68,-32,18
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-08,-35,-36,-54,-63,-50,20
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-09,-37,-40,-56,-64,-37,16
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-10,-35,-36,-57,-63,-35,18
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-11,-31,-37,-54,-58,-34,19
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-12,-40,-39,-58,-62,-32,19
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-13,-40,-33,-56,-60,-33,18
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-14,-39,-38,-53,-66,-34,19
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-15,-36,-36,-55,-61,-35,20
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-16,-39,-37,-56,-60,-36,18
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-17,-35,-36,-55,-63,-33,19
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-18,-27,-37,-49,-62,-33,18
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-19,-38,-39,-53,-59,-29,18
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-20,-38,-33,-53,-62,-31,17
+KH,Cambodia,Sihanoukville,,,KH-18,,ChIJgVIpXRHhBzERWV-LJqT_nmk,2021-03-21,-39,-36,-50,-69,-29,17
+KH,Cambodia,Steung Treng Province,,,KH-19,,ChIJGSVkFZAfEzERi7gIzpAz4Y0,2021-01-01,,,,,-57,
+KH,Cambodia,Steung Treng Province,,,KH-19,,ChIJGSVkFZAfEzERi7gIzpAz4Y0,2021-01-07,,,,,-45,
+KH,Cambodia,Steung Treng Province,,,KH-19,,ChIJGSVkFZAfEzERi7gIzpAz4Y0,2021-02-10,,,,,-26,
+KH,Cambodia,Steung Treng Province,,,KH-19,,ChIJGSVkFZAfEzERi7gIzpAz4Y0,2021-02-11,,,,,-34,
+KH,Cambodia,Steung Treng Province,,,KH-19,,ChIJGSVkFZAfEzERi7gIzpAz4Y0,2021-02-16,,,,,-26,
+KH,Cambodia,Steung Treng Province,,,KH-19,,ChIJGSVkFZAfEzERi7gIzpAz4Y0,2021-03-08,,,,,-49,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-01,,,,-78,-67,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-02,-20,,,,-52,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-03,-25,,,,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-04,,,,-71,-31,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-05,,,,-74,-33,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-06,,,,,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-07,,,,,-59,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-08,,,,-79,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-09,-12,,,-74,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-10,-6,,,-76,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-11,,,,-68,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-12,,,,-73,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-13,,,,-68,-23,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-14,,,,,-25,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-15,,,,,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-16,-19,,,-80,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-17,-17,,,,-34,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-18,,,,,-29,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-19,,,,-68,-33,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-20,,,,-76,-30,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-21,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-22,,,,-76,-25,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-23,-15,,,,-33,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-24,-15,,,,-27,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-25,,,,,-27,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-26,,,,-76,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-27,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-28,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-29,,,,-77,-25,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-30,-11,,,-81,-33,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-01-31,-8,,,,-30,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-01,,,,-71,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-02,,,,-76,-27,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-03,,,,-77,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-04,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-05,,,,,-25,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-06,-14,,,,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-07,-16,,,,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-08,,,,,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-09,,,,,-29,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-10,,,,,-27,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-11,,,,,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-12,,,,,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-13,-19,,,,-41,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-14,-10,,,,-34,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-15,,,,,-31,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-16,,,,,-31,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-17,,,,,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-18,,,,,-30,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-19,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-20,-10,,,,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-21,-9,,,,-34,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-22,,,,-76,-25,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-23,,,,-73,-30,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-24,,,,,-27,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-25,,,,,-27,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-26,,,,-80,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-27,-17,,,,-31,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-02-28,-17,,,,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-01,,,,,-27,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-02,,,,-77,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-03,,,,,-29,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-04,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-05,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-06,-19,,,,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-07,-20,,,,-38,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-08,,,,,-69,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-09,,,,,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-10,,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-11,,,,,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-12,,,,,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-13,-31,,,,-33,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-14,-34,,,,-33,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-15,,,,,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-16,,,,,-32,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-17,,,,-75,-31,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-18,,,,,-28,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-19,-21,,,,-26,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-20,-30,,,,-35,
+KH,Cambodia,Svay Rieng Province,,,KH-20,,ChIJQytqbusHCzERyPBbtvrtI-o,2021-03-21,-30,,,,-37,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-01,18,25,,,-64,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-02,7,12,9,,-43,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-03,-2,0,1,,-16,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-04,-8,-3,,,-27,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-05,-7,-1,,,-26,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-06,,0,,,-24,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-07,1,-1,-5,,-48,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-08,5,1,-5,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-09,2,2,-13,,-26,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-10,4,1,-13,,-17,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-11,,-1,,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-12,4,0,-10,,-19,7
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-13,,-2,-16,,-18,5
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-14,3,-9,-14,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-15,-1,-13,-15,,-24,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-16,-2,-15,-14,,-27,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-17,-3,-12,-16,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-18,2,-11,,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-19,4,-11,-15,,-25,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-20,,-9,-24,,-23,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-21,3,-11,-20,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-22,4,-11,-13,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-23,9,-8,-20,,-24,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-24,4,-3,-21,,-16,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-25,4,-7,,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-26,5,-5,-14,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-27,,-8,-8,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-28,5,-13,-13,,-20,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-29,4,-11,-24,,-20,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-30,-5,-5,-18,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-01-31,2,-5,-16,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-01,-2,-10,,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-02,-1,-8,-19,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-03,,-7,-16,,-20,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-04,-1,-4,-13,,-24,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-05,-6,-11,-14,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-06,-7,-6,-5,,-25,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-07,-5,-3,-6,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-08,-6,-12,,,-25,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-09,0,-4,,,-23,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-10,,26,,,-22,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-11,7,11,,,-43,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-12,18,16,,,-33,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-13,31,31,,,-34,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-14,33,14,19,,-29,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-15,2,-5,,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-16,0,-3,,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-17,,-4,-13,,-18,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-18,5,-5,-20,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-19,1,-2,-16,,-18,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-20,8,8,-11,,-23,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-21,6,7,-20,,-29,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-22,7,-5,,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-23,3,-5,-14,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-24,,-1,-13,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-25,5,1,-9,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-26,8,0,-12,,-18,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-27,1,-1,-17,,-25,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-02-28,-3,-3,-18,,-24,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-01,4,-3,,,-18,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-02,5,-4,-11,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-03,,-3,-15,,-18,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-04,2,-6,-12,,-18,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-05,3,-6,-21,,-16,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-06,-2,1,-11,,-20,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-07,1,2,-8,,-31,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-08,,10,,,-65,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-09,3,-4,-16,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-10,,0,-21,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-11,-2,-7,-16,,-21,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-12,-3,-11,-19,,-19,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-13,-19,-21,-20,,-23,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-14,-22,-22,-36,,-28,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-15,-16,-18,-29,,-20,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-16,-19,-21,-32,,-30,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-17,,-24,-27,,-28,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-18,-22,-25,-26,,-28,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-19,-19,-25,-28,,-28,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-20,-30,-27,-31,,-30,
+KH,Cambodia,Takéo Province,,,KH-21,,ChIJRcTzCqd-CTERasMnKE6p43M,2021-03-21,-33,-33,-41,,-33,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-01,,,,,-53,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-02,,,,,-38,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-03,,,,,-20,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-04,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-05,,,,,-33,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-06,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-07,,,,,-44,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-08,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-09,,,,,-29,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-10,,,,,-19,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-11,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-12,,,,,-23,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-13,,,,,-24,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-14,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-15,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-16,,,,,-31,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-17,,,,,-22,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-18,,,,,-28,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-19,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-20,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-21,,,,,-24,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-22,,,,,-23,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-23,,,,,-28,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-24,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-25,,,,,-23,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-26,,,,,-23,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-27,,,,,-22,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-28,,,,,-24,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-29,,,,,-23,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-30,,,,,-27,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-01-31,,,,,-28,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-01,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-02,,,,,-23,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-03,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-04,,,,,-24,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-05,,,,,-27,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-06,,,,,-32,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-07,,,,,-28,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-08,,,,,-29,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-09,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-10,,,,,-27,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-11,,,,,-42,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-12,,,,,-41,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-13,,,,,-41,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-14,,,,,-33,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-15,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-16,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-17,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-18,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-19,,,,,-24,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-20,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-21,,,,,-29,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-22,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-23,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-24,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-25,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-26,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-27,,,,,-27,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-02-28,,,,,-34,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-01,,,,,-27,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-02,,,,,-27,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-03,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-04,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-05,,,,,-23,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-06,,,,,-27,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-07,,,,,-32,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-08,,,,,-56,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-09,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-10,,,,,-25,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-11,,,,,-22,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-12,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-13,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-14,,,,,-35,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-15,,,,,-26,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-16,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-17,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-18,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-19,,,,,-29,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-20,,,,,-30,
+KH,Cambodia,Tbong Khmum Province,,,KH-25,,ChIJrbOuNopyDDERn7aS8lsbQCI,2021-03-21,,,,,-34,

@@ -1,0 +1,674 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-01,-69,-80,-1,-77,-79,30
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-02,-40,-22,-6,-45,-26,13
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-03,-47,-28,-10,-53,-31,11
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-04,-71,-57,-19,-71,-73,30
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-05,-65,-55,-8,-74,-73,28
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-06,-42,-32,-28,-50,-43,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-07,-33,-21,-14,-49,-44,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-08,-35,-21,-5,-48,-40,17
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-09,-32,-19,-2,-42,-24,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-10,-39,-32,-3,-54,-30,8
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-11,-34,-31,1,-47,-38,14
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-12,-33,-29,4,-45,-38,12
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-13,-33,-28,5,-49,-39,10
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-14,-34,-28,-4,-48,-40,11
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-15,-37,-30,-11,-50,-39,12
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-16,-33,-27,3,-48,-26,6
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-17,-39,-28,-5,-57,-33,6
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-18,-39,-33,-7,-52,-39,12
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-19,-35,-26,1,-48,-37,10
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-20,-33,-18,-3,-49,-38,10
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-21,-60,-74,9,-72,-77,24
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-22,-33,-23,-7,-47,-36,12
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-23,-29,-19,2,-47,-23,6
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-24,-38,-20,-2,-58,-30,6
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-25,-36,-27,-1,-51,-38,12
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-26,-31,-17,1,-50,-38,11
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-27,-27,-14,1,-49,-38,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-28,-27,-14,2,-48,-38,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-29,-28,-19,3,-48,-35,8
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-30,-25,-17,19,-48,-22,1
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-01-31,-32,-16,10,-58,-28,2
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-01,-27,-18,15,-48,-39,6
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-02,-13,-2,23,-44,-38,4
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-03,-84,-64,-50,-79,-72,27
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-04,-80,-54,-45,-76,-72,29
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-05,-79,-46,-42,-77,-70,30
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-06,-86,-88,-47,-80,-69,24
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-07,-76,-84,-41,-74,-60,15
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-08,-76,-45,-33,-78,-70,26
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-09,-75,-43,-32,-74,-69,26
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-10,-76,-43,-30,-77,-70,25
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-11,-74,-42,-32,-77,-69,23
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-12,-73,-41,-34,-77,-68,20
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-13,-81,-86,-33,-80,-67,17
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-14,-71,-81,-32,-78,-59,10
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-15,-72,-42,-33,-78,-68,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-16,-72,-40,-31,-74,-68,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-17,-71,-37,-32,-74,-68,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-18,-68,-32,-33,-73,-67,17
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-19,-69,-34,-29,-74,-67,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-20,-97,-98,-84,-87,-81,31
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-21,-95,-97,-87,-83,-75,22
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-22,-73,-41,-39,-76,-67,20
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-23,-72,-38,-35,-75,-67,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-24,-72,-36,-38,-75,-67,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-25,-69,-34,-34,-72,-67,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-26,-70,-34,-33,-72,-65,18
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-27,-83,-87,-48,-80,-65,19
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-02-28,-74,-84,-44,-76,-57,12
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-01,-39,-28,-12,-63,-50,8
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-02,-42,-27,-11,-60,-51,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-03,-46,-27,-10,-63,-51,8
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-04,-48,-28,-17,-64,-52,10
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-05,-50,-29,-13,-62,-49,10
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-06,-53,-30,-6,-65,-42,4
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-07,-72,-82,-20,-73,-53,8
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-08,-48,-34,-7,-62,-49,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-09,-48,-32,-6,-60,-49,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-10,-47,-32,-7,-61,-48,8
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-11,-46,-29,-9,-63,-49,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-12,-48,-32,-9,-61,-45,9
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-13,-48,-28,-2,-63,-36,3
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-14,-68,-80,-21,-75,-48,7
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-15,-27,-19,-4,-55,-39,4
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-16,-28,-19,5,-52,-39,4
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-17,-29,-19,6,-53,-39,3
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-18,-30,-20,-4,-55,-40,4
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-19,-33,-19,0,-55,-36,4
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-20,-28,-15,15,-55,-25,-2
+BB,Barbados,,,,,,ChIJoxoyrvvxQ4wRKzb0jLNR7A4,2021-03-21,-57,-76,3,-66,-40,4
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-01,-72,-73,,-71,-79,31
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-02,-46,-18,,-55,-25,14
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-03,-53,-26,,-55,-26,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-04,-76,-47,,-64,-73,31
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-05,-71,-46,,-66,-71,29
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-06,-44,-29,,-49,-44,20
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-07,-33,-22,,-53,-45,20
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-08,-39,-19,,-58,-41,19
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-09,-39,-17,,-52,-24,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-10,-45,-34,,-53,-28,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-11,-34,-26,,-55,-39,16
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-12,-35,-26,,-47,-38,14
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-13,-34,-23,,-59,-39,12
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-14,-37,-26,,-53,-41,13
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-15,-42,-32,,-59,-39,14
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-16,-38,-25,,-57,-28,7
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-17,-44,-32,,-59,-28,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-18,-41,-29,,-62,-39,14
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-19,-37,-23,,-48,-37,12
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-20,-33,-10,,-59,-39,11
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-21,-61,-67,,-64,-76,25
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-22,-39,-21,,-57,-35,13
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-23,-34,-15,,-60,-26,7
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-24,-48,-25,,-59,-32,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-25,-40,-22,,-60,-40,13
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-26,-37,-13,,-52,-38,12
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-27,-32,-6,,-58,-38,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-28,-32,-12,,-54,-40,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-29,-36,-23,,-62,-37,9
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-30,-34,-16,,-60,-24,2
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-01-31,-39,-21,,-56,-28,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-01,-28,-17,,-61,-40,6
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-02,-15,1,,-52,-40,5
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-03,-90,-67,,-77,-72,29
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-04,-88,-62,,-68,-74,31
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-05,-88,-52,-47,-73,-71,32
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-06,-92,-90,,-74,-68,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-07,-87,-89,,-71,-59,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-08,-86,-49,,-74,-70,28
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-09,-85,-48,,-66,-70,27
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-10,-86,-44,,-74,-71,25
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-11,-84,-47,,-71,-70,25
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-12,-85,-51,,-74,-69,23
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-13,-90,-87,,-74,-66,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-14,-82,-86,,-77,-58,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-15,-86,-46,,-76,-68,21
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-16,-83,-46,,-66,-69,19
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-17,-84,-42,,-70,-68,19
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-18,-77,-33,,-69,-68,18
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-19,-80,-41,,-72,-67,19
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-20,-100,-100,,-81,-83,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-21,-100,,,-79,-74,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-22,-82,-39,,-74,-67,21
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-23,-81,-37,,-71,-67,20
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-24,-80,-35,,-73,-67,20
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-25,-80,-35,,-67,-67,20
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-26,-79,-35,,-70,-65,20
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-27,-89,-89,,-74,-61,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-02-28,-86,-89,,-74,-54,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-01,-44,-22,,-66,-51,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-02,-47,-25,,-60,-50,9
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-03,-49,-24,,-65,-52,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-04,-51,-30,,-65,-52,12
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-05,-56,-31,,-66,-49,11
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-06,-59,-34,,-69,-41,5
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-07,-84,-87,,-72,-53,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-08,-52,-32,,-68,-48,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-09,-53,-30,,-60,-49,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-10,-50,-29,,-60,-47,10
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-11,-52,-31,,-65,-51,11
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-12,-55,-37,,-66,-45,11
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-13,-56,-31,,-69,-36,5
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-14,-78,-86,,-75,-46,
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-15,-31,-18,,-65,-40,5
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-16,-33,-21,,-56,-39,4
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-17,-30,-17,,-60,-41,4
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-18,-35,-22,,-60,-40,5
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-19,-39,-23,,-64,-37,5
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-20,-34,-15,,-67,-25,-1
+BB,Barbados,Christ Church,,,BB-01,,ChIJ2cyW6Qz1Q4wR-uU29mLap2U,2021-03-21,-66,-82,,-68,-41,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-01,,,75,,-80,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-02,,,31,,-30,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-03,,,34,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-04,,,42,,-76,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-05,,,56,,-77,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-06,,,24,,-45,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-07,,,46,,-44,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-08,,,54,,-41,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-09,,,29,,-25,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-10,,,37,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-11,,,58,,-42,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-12,,,75,,-39,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-13,,,70,,-42,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-14,,,66,,-38,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-15,,,43,,-38,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-16,,,36,,-26,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-17,,,36,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-18,,,46,,-40,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-19,,,68,,-39,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-20,,,63,,-42,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-21,,,88,,-79,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-22,,,49,,-37,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-23,,,32,,-21,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-24,,,36,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-25,,,54,,-35,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-26,,,61,,-37,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-27,,,70,,-40,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-28,,,70,,-36,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-29,,,70,,-35,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-30,,,69,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-01-31,,,57,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-01,,,81,,-34,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-02,,,104,,-36,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-03,,,8,,-73,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-04,,,13,,-71,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-05,,,10,,-69,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-06,,,-18,,-65,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-07,,,-11,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-08,,,18,,-71,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-09,,,30,,-66,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-10,,,36,,-71,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-11,,,31,,-68,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-12,,,22,,-66,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-13,,,4,,-66,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-14,,,7,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-15,,,7,,-66,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-16,,,23,,-66,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-17,,,25,,-69,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-18,,,28,,-65,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-19,,,27,,-68,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-20,,,-70,,-81,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-21,,,-74,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-22,,,2,,-65,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-23,,,14,,-67,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-24,,,18,,-69,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-25,,,27,,-67,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-26,,,24,,-65,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-27,,,-14,,-64,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-02-28,,,-10,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-01,,,36,,-50,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-02,,,52,,-51,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-03,,,53,,-53,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-04,,,51,,-52,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-05,,,47,,-49,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-06,,,36,,-43,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-07,,,16,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-08,,,47,,-49,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-09,,,58,,-47,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-10,,,62,,-53,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-11,,,62,,-47,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-12,,,57,,-42,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-13,,,43,,-37,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-14,,,22,,,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-15,,,47,,-39,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-16,,,72,,-41,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-17,,,76,,-40,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-18,,,69,,-40,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-19,,,64,,-35,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-20,,,61,,-24,
+BB,Barbados,Saint George,,,BB-03,,ChIJr4g6f8HzQ4wRdXFEYOrwlDY,2021-03-21,,,54,,,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-01,-65,,,,-79,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-02,-41,,,,-18,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-04,,,,,-74,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-05,,,,,-74,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-06,,,,,-46,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-07,,,,,-48,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-08,-44,,,,-44,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-09,-36,,,,-22,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-11,,,,,-41,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-12,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-13,,,,,-46,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-14,,,,,-44,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-15,-43,,,,-44,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-16,-31,,,,-27,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-18,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-19,,,,,-40,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-20,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-21,,,,,-78,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-22,-40,,,,-38,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-23,-30,,,,-22,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-25,,,,,-43,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-26,,,,,-41,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-27,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-28,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-29,-34,,,,-39,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-01-30,-26,,,,-20,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-01,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-02,,,,,-40,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-03,,,,,-76,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-04,,,,,-74,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-05,-82,,,,-71,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-06,-85,,,,-70,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-07,,,,,-60,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-08,,,,,-72,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-09,,,,,-73,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-10,,,,,-73,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-11,,,,,-71,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-12,-72,,,,-71,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-13,-84,,,,-70,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-14,,,,,-63,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-15,,,,,-72,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-16,,,,,-70,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-17,,,,,-72,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-18,,,,,-70,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-19,-68,,,,-71,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-20,,,,,-85,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-21,,,,,-77,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-22,,,,,-71,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-23,,,,,-69,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-24,,,,,-73,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-25,,,,,-70,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-26,-70,,,,-68,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-27,-82,,,,-66,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-02-28,,,,,-64,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-01,,,,,-52,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-02,-50,,,,-53,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-03,,,,,-55,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-04,-50,,,,-54,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-05,-54,,,,-52,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-06,-51,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-07,,,,,-52,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-08,,,,,-50,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-09,,,,,-52,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-10,,,,,-53,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-11,,,,,-49,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-12,-51,,,,-48,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-13,-45,,,,-38,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-15,,,,,-41,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-16,,,,,-43,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-17,,,,,-41,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-18,,,,,-42,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-19,-44,,,,-40,
+BB,Barbados,Saint James,,,BB-04,,ChIJ1WdXeDnwQ4wRyEkl3wq7hq0,2021-03-20,-35,,,,-27,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-01,,,,,-83,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-04,,,,,-75,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-05,,,,,-76,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-06,,,,,-42,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-07,,,,,-44,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-08,,,,,-34,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-11,,,,,-34,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-12,,,,,-35,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-13,,,,,-35,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-14,,,,,-39,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-18,,,,,-35,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-19,,,,,-37,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-20,,,,,-36,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-21,,,,,-77,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-25,,,,,-34,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-26,,,,,-34,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-27,,,,,-36,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-28,,,,,-32,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-01-29,,,,,-35,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-01,,,,,-35,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-02,,,,,-34,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-03,,,,,-71,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-04,,,,,-74,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-05,,,,,-66,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-08,,,,,-66,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-09,,,,,-71,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-10,,,,,-66,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-11,,,,,-66,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-12,,,,,-62,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-15,,,,,-64,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-16,,,,,-67,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-17,,,,,-64,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-18,,,,,-65,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-19,,,,,-64,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-22,,,,,-64,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-23,,,,,-63,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-24,,,,,-59,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-25,,,,,-66,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-02-26,,,,,-58,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-01,,,,,-48,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-02,,,,,-47,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-03,,,,,-45,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-04,,,,,-50,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-05,,,,,-42,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-08,,,,,-45,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-09,,,,,-44,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-10,,,,,-51,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-11,,,,,-41,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-12,,,,,-39,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-15,,,,,-37,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-16,,,,,-34,
+BB,Barbados,Saint John,,,BB-05,,ChIJ1arzx5PyQ4wRLGuIEAVTOME,2021-03-18,,,,,-36,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-01-01,,,,,-76,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-01-04,,,,,-69,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-01-05,,,,,-71,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-01-07,,,,,-45,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-01-21,,,,,-74,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-03,,,,,-71,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-04,,,,,-73,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-05,,,,,-66,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-08,,,,,-71,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-09,,,,,-67,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-10,,,,,-71,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-11,,,,,-70,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-12,,,,,-68,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-15,,,,,-66,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-16,,,,,-66,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-17,,,,,-67,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-18,,,,,-69,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-19,,,,,-67,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-22,,,,,-69,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-23,,,,,-68,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-24,,,,,-67,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-25,,,,,-63,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-02-26,,,,,-66,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-03-01,,,,,-45,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-03-03,,,,,-49,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-03-04,,,,,-47,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-03-08,,,,,-48,
+BB,Barbados,Saint Lucy,,,BB-07,,ChIJixBvftzoQ4wRJ7hcgAz1WpU,2021-03-11,,,,,-49,
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-01,-78,-88,-69,-84,-78,28
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-02,-40,-28,-34,-34,-27,15
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-03,-47,-30,-53,-54,-34,13
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-04,-77,-66,-70,-81,-72,30
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-05,-71,-64,-65,-83,-74,27
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-06,-41,-33,-52,-48,-41,19
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-07,-35,-24,-52,-47,-42,17
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-08,-36,-24,-41,-43,-38,17
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-09,-31,-22,-26,-34,-23,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-10,-38,-32,-43,-56,-31,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-11,-36,-34,-31,-42,-37,14
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-12,-33,-31,-42,-45,-37,12
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-13,-34,-30,-29,-43,-38,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-14,-36,-33,-47,-46,-40,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-15,-39,-32,-45,-46,-37,12
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-16,-32,-29,-28,-39,-27,7
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-17,-39,-25,-49,-61,-38,8
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-18,-42,-36,-43,-43,-38,12
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-19,-36,-29,-41,-48,-38,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-20,-33,-20,-35,-43,-36,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-21,-72,-83,-63,-82,-77,23
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-22,-35,-25,-44,-42,-36,13
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-23,-28,-25,-23,-36,-23,7
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-24,-36,-19,-39,-60,-30,8
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-25,-36,-30,-34,-46,-38,12
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-26,-29,-21,-39,-48,-38,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-27,-27,-16,-33,-42,-36,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-28,-29,-18,-37,-44,-38,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-29,-29,-20,-36,-38,-35,9
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-30,-22,-20,-15,-36,-24,3
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-01-31,-30,-9,-30,-58,-33,4
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-01,-27,-17,-27,-39,-39,7
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-02,-11,-5,-29,-42,-39,5
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-03,-86,-65,-82,-84,-71,27
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-04,-82,-57,-82,-84,-71,28
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-05,-82,-51,-79,-85,-70,29
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-06,-88,-91,-78,-91,-70,25
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-07,-76,-88,-69,-82,-61,
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-08,-77,-49,-74,-84,-68,25
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-09,-77,-46,-78,-81,-69,25
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-10,-78,-45,-70,-82,-68,24
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-11,-75,-45,-77,-84,-68,22
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-12,-76,-46,-74,-82,-67,21
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-13,-84,-89,-72,-88,-68,19
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-14,-69,-84,-71,-80,-60,
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-15,-74,-45,-72,-81,-67,18
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-16,-73,-46,-75,-81,-68,19
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-17,-73,-41,-69,-80,-67,19
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-18,-70,-39,-76,-79,-66,18
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-19,-72,-40,-70,-79,-66,19
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-20,-98,-99,-100,-100,-82,32
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-21,-95,-97,,,-76,
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-22,-74,-44,-72,-79,-66,20
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-23,-73,-41,-74,-80,-67,20
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-24,-73,-39,-75,-79,-66,19
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-25,-70,-39,-76,-78,-66,18
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-26,-71,-40,-76,-77,-64,19
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-27,-86,-90,-85,-89,-67,20
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-02-28,-73,-87,-76,-82,-58,
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-01,-40,-32,-54,-59,-50,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-02,-44,-31,-56,-60,-52,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-03,-50,-27,-48,-60,-51,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-04,-52,-31,-58,-64,-52,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-05,-54,-32,-51,-61,-49,12
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-06,-56,-34,-36,-63,-44,7
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-07,-73,-81,-55,-77,-55,12
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-08,-51,-36,-47,-60,-50,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-09,-51,-35,-55,-62,-50,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-10,-48,-32,-51,-63,-46,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-11,-48,-31,-49,-62,-50,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-12,-51,-33,-51,-58,-45,11
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-13,-50,-30,-38,-57,-37,6
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-14,-68,-82,-58,-76,-49,10
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-15,-27,-20,-43,-43,-40,5
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-16,-28,-20,-41,-46,-39,5
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-17,-30,-17,-32,-46,-37,5
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-18,-32,-21,-50,-50,-39,6
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-19,-35,-22,-39,-48,-36,6
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-20,-26,-18,-20,-43,-25,1
+BB,Barbados,Saint Michael,,,BB-08,,ChIJ-b7LpwL3Q4wRkoPpRyia_pY,2021-03-21,-58,-77,-44,-67,-43,7
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-01,,,,,-74,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-04,,,,,-71,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-05,,,,,-73,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-06,,,,,-44,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-07,,,,,-44,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-08,,,,,-35,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-11,,,,,-38,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-12,,,,,-38,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-13,,,,,-40,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-14,,,,,-36,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-15,,,,,-37,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-18,,,,,-37,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-19,,,,,-32,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-20,,,,,-36,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-21,,,,,-74,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-22,,,,,-33,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-25,,,,,-37,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-26,,,,,-33,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-27,,,,,-37,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-28,,,,,-35,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-01-29,,,,,-34,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-01,,,,,-36,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-02,,,,,-34,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-03,,,,,-70,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-04,,,,,-71,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-05,,,,,-68,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-06,,,,,-65,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-08,,,,,-70,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-09,,,,,-68,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-10,,,,,-69,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-11,,,,,-66,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-12,,,,,-66,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-13,,,,,-64,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-15,,,,,-67,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-16,,,,,-67,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-17,,,,,-66,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-18,,,,,-70,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-19,,,,,-70,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-20,,,,,-76,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-22,,,,,-69,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-23,,,,,-67,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-24,,,,,-69,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-25,,,,,-64,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-26,,,,,-64,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-02-27,,,,,-64,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-01,,,,,-52,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-02,,,,,-52,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-03,,,,,-53,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-04,,,,,-52,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-05,,,,,-48,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-08,,,,,-50,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-09,,,,,-51,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-10,,,,,-51,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-11,,,,,-50,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-12,,,,,-47,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-15,,,,,-39,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-16,,,,,-42,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-17,,,,,-41,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-18,,,,,-39,
+BB,Barbados,Saint Peter,,,BB-09,,ChIJfRSVWJDvQ4wRvh06q3XxpTc,2021-03-19,,,,,-36,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-01,,,,,-80,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-02,,,,,-25,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-03,,,,,-34,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-04,,,,,-75,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-05,,,,,-76,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-06,,,,,-46,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-07,,,,,-46,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-08,,,,,-42,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-09,,,,,-19,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-10,,,,,-28,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-11,,,,,-38,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-12,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-13,,,,,-41,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-14,,,,,-41,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-15,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-16,,,,,-27,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-17,,,,,-30,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-18,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-19,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-20,,,,,-42,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-21,,,,,-78,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-22,,,,,-35,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-23,,,,,-17,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-24,,,,,-30,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-25,,,,,-39,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-26,,,,,-38,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-27,,,,,-39,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-28,,,,,-39,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-29,,,,,-34,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-30,,,,,-22,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-01-31,,,,,-30,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-01,,,,,-38,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-02,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-03,,,,,-73,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-04,,,,,-72,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-05,,,,,-68,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-06,,,,,-66,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-07,,,,,-55,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-08,,,,,-69,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-09,,,,,-70,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-10,,,,,-71,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-11,,,,,-68,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-12,,,,,-66,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-13,,,,,-64,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-14,,,,,-55,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-15,,,,,-66,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-16,,,,,-68,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-17,,,,,-69,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-18,,,,,-67,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-19,,,,,-67,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-20,,,,,-80,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-21,,,,,-75,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-22,,,,,-66,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-23,,,,,-67,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-24,,,,,-67,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-25,,,,,-68,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-26,,,,,-62,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-27,,,,,-63,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-02-28,,,,,-54,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-01,,,,,-49,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-02,,,,,-51,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-03,,,,,-52,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-04,,,,,-52,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-05,,,,,-47,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-06,,,,,-38,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-07,,,,,-46,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-08,,,,,-46,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-09,,,,,-49,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-10,,,,,-47,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-11,,,,,-49,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-12,,,,,-47,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-13,,,,,-32,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-14,,,,,-43,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-15,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-16,,,,,-40,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-17,,,,,-40,1
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-18,,,,,-44,2
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-19,,,,,-37,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-20,,,,,-20,
+BB,Barbados,Saint Philip,,,BB-10,,ChIJHZnLvc6MQ4wR3Q9u_mIQt6o,2021-03-21,,,,,-31,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-01,,,,,-82,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-04,,,,,-77,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-05,,,,,-76,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-06,,,,,-45,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-07,,,,,-44,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-08,,,,,-42,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-11,,,,,-37,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-12,,,,,-36,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-13,,,,,-36,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-14,,,,,-40,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-15,,,,,-37,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-18,,,,,-38,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-19,,,,,-33,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-20,,,,,-38,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-21,,,,,-77,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-22,,,,,-33,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-25,,,,,-39,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-26,,,,,-31,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-27,,,,,-35,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-28,,,,,-36,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-01-29,,,,,-32,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-01,,,,,-39,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-02,,,,,-34,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-03,,,,,-71,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-04,,,,,-72,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-05,,,,,-70,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-06,,,,,-63,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-08,,,,,-69,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-09,,,,,-69,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-10,,,,,-71,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-11,,,,,-71,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-12,,,,,-65,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-13,,,,,-71,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-15,,,,,-67,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-16,,,,,-67,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-17,,,,,-69,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-18,,,,,-66,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-19,,,,,-66,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-20,,,,,-77,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-22,,,,,-68,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-23,,,,,-67,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-24,,,,,-69,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-25,,,,,-67,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-26,,,,,-62,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-02-27,,,,,-65,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-01,,,,,-48,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-02,,,,,-48,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-03,,,,,-48,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-04,,,,,-49,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-05,,,,,-48,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-08,,,,,-53,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-09,,,,,-47,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-10,,,,,-48,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-11,,,,,-48,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-12,,,,,-42,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-15,,,,,-39,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-16,,,,,-33,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-17,,,,,-36,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-18,,,,,-39,
+BB,Barbados,Saint Thomas,,,BB-11,,ChIJ8c8BRr7xQ4wRpQEY7KnHj88,2021-03-19,,,,,-34,

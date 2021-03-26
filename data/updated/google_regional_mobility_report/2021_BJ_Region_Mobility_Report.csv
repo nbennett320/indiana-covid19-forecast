@@ -1,0 +1,448 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-01,-23,19,27,-36,-68,17
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-02,-19,36,25,-24,-35,11
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-03,-9,53,32,-11,-16,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-04,-9,49,35,-6,-11,7
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-05,-8,50,27,-7,-8,6
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-06,-5,54,20,-4,-4,7
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-07,-7,55,18,1,-5,6
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-08,-7,55,28,0,-3,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-09,-7,55,21,-10,-6,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-10,-4,49,25,-8,-10,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-11,-1,55,33,4,-3,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-12,-2,50,20,-4,-3,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-13,-5,46,18,-5,-4,2
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-14,-11,37,8,-10,-11,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-15,-16,35,12,-11,-13,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-16,-17,35,3,-19,-16,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-17,-14,31,6,-19,-20,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-18,-13,33,13,-7,-14,6
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-19,-12,30,9,-16,-13,5
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-20,-10,35,20,-12,-10,5
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-21,-11,37,21,-13,-12,5
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-22,-11,39,27,-10,-10,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-23,-13,44,28,-9,-12,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-24,-9,38,19,-6,-18,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-25,-9,44,33,-5,-11,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-26,-9,40,21,-15,-10,4
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-27,-10,43,27,-12,-8,5
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-28,-11,44,21,-12,-10,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-29,-12,47,16,-7,-11,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-30,-13,54,14,-6,-15,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-01-31,-13,53,8,-7,-22,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-01,-12,51,5,-6,-13,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-02,-11,52,8,-9,-10,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-03,-12,51,10,-13,-12,2
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-04,-13,52,4,-12,-15,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-05,-16,56,12,-11,-14,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-06,-16,53,13,-14,-19,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-07,-19,49,11,-16,-26,2
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-08,-14,57,15,-6,-17,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-09,-12,55,8,-18,-14,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-10,-10,57,14,-9,-12,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-11,-12,50,6,-11,-14,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-12,-16,47,2,-9,-13,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-13,-13,46,2,-13,-19,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-14,-8,44,-1,-8,-26,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-15,-14,45,-2,-5,-15,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-16,-14,44,-3,-16,-14,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-17,-12,44,1,-11,-12,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-18,-13,45,-2,-12,-13,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-19,-15,49,4,-9,-13,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-20,-13,52,8,-8,-19,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-21,-12,44,1,-4,-26,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-22,-10,55,-1,0,-17,2
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-23,-8,50,-1,-7,-15,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-24,-10,50,5,-7,-14,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-25,-11,50,4,-2,-18,3
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-26,-12,53,2,-2,-15,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-27,-10,53,11,-7,-16,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-02-28,-10,51,5,-4,-25,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-01,-9,56,7,4,-11,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-02,-9,50,-3,-9,-10,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-03,-10,50,8,-8,-10,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-04,-11,51,5,-8,-11,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-05,-12,51,11,-3,-10,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-06,-11,53,11,-10,-15,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-07,-11,48,3,-8,-24,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-08,-9,53,7,0,-11,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-09,-9,50,1,-6,-9,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-10,-7,51,3,-9,-8,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-11,-13,45,-2,-11,-11,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-12,-12,52,6,-4,-9,-2
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-13,-11,52,13,-12,-14,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-14,-13,43,0,-15,-25,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-15,-9,55,4,0,-9,0
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-16,-8,51,1,-6,-7,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-17,-10,51,1,-4,-7,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-18,-12,53,1,-4,-7,1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-19,-11,56,9,-2,-7,-1
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-20,-7,58,14,-3,-10,-2
+BJ,Benin,,,,,,ChIJlVZ6BCtUIxAR9S5iy_h3suw,2021-03-21,-8,52,9,-2,-21,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-01,2,72,,,-73,19
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-02,-10,59,,,-41,12
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-03,-6,79,,,-18,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-04,-12,76,,,-12,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-05,-10,76,,,-9,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-06,-11,71,,,-5,8
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-07,-7,77,,,-5,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-08,-5,67,,,-5,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-09,2,73,,,-10,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-10,2,63,,,-13,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-11,-2,69,,,-2,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-12,-4,61,,,-3,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-13,-8,59,,,-5,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-14,-14,49,,,-11,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-15,-14,47,,,-15,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-16,-13,56,,,-21,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-17,-11,51,,,-23,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-18,-16,46,,,-13,7
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-19,-14,43,,,-14,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-20,-12,46,,,-12,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-21,-10,53,,,-14,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-22,-7,49,,,-11,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-23,-7,60,,,-16,6
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-24,-8,57,,,-19,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-25,-8,63,,,-10,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-26,-11,55,,,-12,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-27,-12,55,,,-10,5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-28,-12,58,,,-11,4
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-29,-10,64,,,-14,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-30,-10,73,,,-20,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-01-31,-11,73,,,-26,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-01,-18,63,,,-13,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-02,-13,68,,,-10,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-03,-15,62,,,-11,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-04,-13,68,,,-14,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-05,-13,70,,,-15,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-06,-9,75,,,-19,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-07,-14,65,,,-27,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-08,-14,76,,,-15,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-09,-13,64,,,-13,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-10,-10,73,,,-13,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-11,-11,66,,,-14,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-12,-11,62,,,-14,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-13,-6,64,,,-21,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-14,-5,69,,,-29,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-15,-14,64,,,-13,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-16,-16,59,,,-13,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-17,-14,55,,,-11,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-18,-10,62,,,-10,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-19,-10,61,,,-12,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-20,-8,73,,,-21,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-21,-8,63,,,-28,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-22,-13,75,,,-14,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-23,-10,68,,,-13,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-24,-13,64,,,-13,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-25,-11,65,,,-17,3
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-26,-8,69,,,-14,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-27,-5,70,,,-20,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-02-28,-6,72,,,-27,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-01,-12,66,,,-8,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-02,-12,68,,,-8,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-03,-11,65,,,-8,1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-04,-9,67,,,-9,2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-05,-10,69,,,-10,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-06,-3,75,,,-16,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-07,-8,67,,,-27,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-08,-12,65,,,-8,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-09,-8,55,,,-7,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-10,-7,57,,,-7,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-11,-16,39,,,-11,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-12,-8,53,,,-8,-5
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-13,-4,63,,,-16,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-14,-10,50,,,-25,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-15,-11,60,,,-6,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-16,-8,64,,,-6,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-17,-12,56,,,-6,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-18,-11,57,,,-5,0
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-19,-7,60,,,-5,-1
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-20,1,68,,,-12,-2
+BJ,Benin,Atlantique Department,,,BJ-AQ,,ChIJZ_efgUG5JBARlPEzU2Gr30M,2021-03-21,-4,67,,,-22,-1
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-01,,,,,-60,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-02,,,,,-31,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-03,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-04,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-05,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-06,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-07,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-08,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-09,,,,,-7,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-10,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-11,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-12,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-13,,,,,-6,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-14,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-15,,,,,-12,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-16,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-17,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-18,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-19,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-20,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-21,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-22,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-23,,,,,-8,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-24,,,,,-15,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-25,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-26,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-27,,,,,-11,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-28,,,,,-7,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-29,,,,,-13,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-30,,,,,-10,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-01-31,,,,,-22,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-01,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-02,,,,,-14,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-03,,,,,-18,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-04,,,,,-20,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-05,,,,,-25,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-06,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-07,,,,,-28,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-08,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-09,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-10,,,,,-20,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-11,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-12,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-13,,,,,-18,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-14,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-15,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-16,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-17,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-18,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-19,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-20,,,,,-26,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-21,,,,,-30,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-22,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-23,,,,,-25,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-24,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-25,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-26,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-27,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-02-28,,,,,-27,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-01,,,,,-18,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-02,,,,,-20,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-03,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-04,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-05,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-06,,,,,-24,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-07,,,,,-31,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-08,,,,,-18,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-09,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-10,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-11,,,,,-19,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-12,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-13,,,,,-21,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-14,,,,,-27,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-15,,,,,-16,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-16,,,,,-20,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-17,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-18,,,,,-18,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-19,,,,,-23,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-20,,,,,-17,
+BJ,Benin,Borgou Department,,,BJ-BO,,ChIJ3wT92PVaMhARL80sZzHHVwg,2021-03-21,,,,,-26,
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-01,-25,-9,,-43,-69,17
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-02,-14,20,,-31,-32,10
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-03,-9,32,,-18,-10,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-04,-8,36,,-12,-7,7
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-05,-6,36,,-15,-5,7
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-06,0,39,,-9,-2,7
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-07,-5,44,,-6,-1,7
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-08,0,42,,-6,0,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-09,0,40,,-17,0,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-10,-6,34,,-15,-4,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-11,2,42,,-2,0,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-12,0,41,,-12,0,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-13,-2,33,,-10,-2,3
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-14,-10,26,,-20,-10,3
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-15,-10,22,,-19,-12,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-16,-11,19,,-29,-12,3
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-17,-15,11,,-28,-17,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-18,-13,22,,-15,-12,5
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-19,-12,21,,-25,-13,5
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-20,-9,23,,-17,-10,5
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-21,-12,27,,-21,-11,6
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-22,-7,25,,-17,-9,5
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-23,-8,29,,-17,-9,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-24,-9,21,,-15,-18,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-25,-9,33,,-12,-10,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-26,-9,32,,-23,-9,5
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-27,-7,31,,-18,-7,5
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-28,-10,33,,-19,-9,4
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-29,-4,35,,-14,-7,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-30,-5,39,,-16,-7,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-01-31,-12,35,,-16,-16,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-01,-8,41,,-12,-9,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-02,-6,43,,-16,-7,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-03,-6,43,,-17,-8,2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-04,-9,43,,-19,-11,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-05,-6,45,,-15,-9,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-06,-7,43,,-19,-13,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-07,-15,39,,-20,-22,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-08,-9,48,,-11,-13,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-09,-7,51,,-24,-11,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-10,-4,47,,-12,-8,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-11,-7,44,,-16,-10,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-12,-5,37,,-15,-8,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-13,0,36,,-18,-11,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-14,-2,26,,-14,-17,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-15,-8,35,,-10,-12,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-16,-7,36,,-22,-11,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-17,-6,35,,-14,-9,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-18,-9,38,,-17,-10,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-19,-6,38,,-15,-8,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-20,-4,40,,-16,-12,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-21,-10,30,,-10,-18,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-22,-5,43,,-9,-13,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-23,-4,42,,-16,-11,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-24,-5,39,,-11,-11,2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-25,-7,43,,-11,-14,3
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-26,-2,44,,-9,-12,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-27,0,42,,-13,-8,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-02-28,-6,35,,-13,-16,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-01,-3,49,,-3,-7,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-02,-3,43,,-15,-6,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-03,-3,41,,-12,-7,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-04,-5,43,,-13,-8,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-05,-1,41,,-8,-6,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-06,0,44,,-16,-7,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-07,-7,35,,-15,-15,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-08,-2,47,,-4,-6,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-09,-3,47,,-14,-5,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-10,1,45,,-11,-4,0
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-11,-7,44,,-14,-4,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-12,-2,47,,-8,-4,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-13,-1,45,,-17,-7,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-14,-9,33,,-23,-17,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-15,-3,51,,-5,-4,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-16,-2,45,,-9,-3,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-17,-2,44,,-6,-3,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-18,-7,47,,-7,-2,1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-19,-1,47,,-4,-2,-1
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-20,3,47,,-8,-1,-2
+BJ,Benin,Littoral Department,,,BJ-LI,,ChIJyU68autVIxAReN45SVdFJiU,2021-03-21,-3,38,,-9,-12,-1
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-01,-41,54,,,-66,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-02,,51,,,-38,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-03,,69,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-04,-26,56,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-05,,68,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-06,-24,76,,,-8,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-07,-29,56,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-08,,68,,,-5,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-09,,67,,,-13,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-10,,61,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-11,,76,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-12,,68,,,-7,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-13,-20,62,,,-9,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-14,-23,49,,,-10,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-15,-24,46,,,-15,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-16,,50,,,-22,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-17,,44,,,-17,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-18,,43,,,-20,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-19,-27,45,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-20,-24,44,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-21,-24,38,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-22,,53,,,-13,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-23,,44,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-24,,53,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-25,-27,48,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-26,,47,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-27,-22,52,,,-12,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-28,-23,58,,,-11,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-29,-22,59,,,-17,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-30,,64,,,-24,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-01-31,,64,,,-26,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-01,,58,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-02,-24,57,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-03,-27,58,,,-21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-04,-31,61,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-05,-27,65,,,-20,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-06,,58,,,-26,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-07,,53,,,-26,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-08,-31,56,,,-24,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-09,-26,57,,,-21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-10,-25,67,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-11,-32,54,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-12,-29,54,,,-20,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-13,,52,,,-31,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-14,,51,,,-29,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-15,-33,53,,,-23,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-16,-27,51,,,-20,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-17,-29,51,,,-21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-18,-30,49,,,-18,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-19,-27,55,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-20,,57,,,-28,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-21,,50,,,-31,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-22,-30,60,,,-28,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-23,-26,56,,,-22,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-24,-25,57,,,-22,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-25,-26,55,,,-24,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-26,-26,52,,,-24,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-27,,55,,,-23,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-02-28,,55,,,-29,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-01,-28,56,,,-19,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-02,-28,58,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-03,-26,59,,,-21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-04,-29,56,,,-15,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-05,-28,54,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-06,,56,,,-21,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-07,,51,,,-28,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-08,-27,56,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-09,-26,50,,,-16,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-10,-22,55,,,-15,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-11,-26,49,,,-18,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-12,-27,63,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-13,,47,,,-18,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-14,,45,,,-28,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-15,-28,57,,,-17,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-16,-26,62,,,-14,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-17,-25,61,,,-17,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-18,-28,74,,,-13,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-19,,67,,,-15,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-20,,69,,,-22,
+BJ,Benin,Ouémé Department,,,BJ-OU,,ChIJo2dXruJIOxAR9ddT7MA6NVs,2021-03-21,,63,,,-26,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-01,,,,,-60,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-04,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-05,,,,,-18,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-06,,,,,-12,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-07,,,,,-11,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-11,,,,,-15,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-12,,,,,-13,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-13,,,,,-10,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-14,,,,,-17,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-15,,,,,-20,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-18,,,,,-19,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-19,,,,,-12,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-20,,,,,-13,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-21,,,,,-14,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-25,,,,,-13,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-26,,,,,-7,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-01-28,,,,,-6,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-01,,,,,-22,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-02,,,,,-18,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-03,,,,,-17,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-04,,,,,-23,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-08,,,,,-26,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-09,,,,,-19,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-10,,,,,-22,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-11,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-15,,,,,-32,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-16,,,,,-22,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-17,,,,,-22,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-18,,,,,-28,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-19,,,,,-29,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-22,,,,,-34,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-23,,,,,-28,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-24,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-25,,,,,-38,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-02-26,,,,,-30,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-01,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-02,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-03,,,,,-18,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-04,,,,,-23,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-08,,,,,-30,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-09,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-10,,,,,-25,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-11,,,,,-23,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-15,,,,,-28,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-16,,,,,-22,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-17,,,,,-20,
+BJ,Benin,Zou Department,,,BJ-ZO,,ChIJL8CMsCBsJRARm3Vu02Y0cRI,2021-03-18,,,,,-21,
